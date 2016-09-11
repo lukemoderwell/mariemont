@@ -1,0 +1,31 @@
+.header {
+  margin: ($gutter * 2) auto;
+  text-align: left;
+}
+
+.header__title {
+  font-size: em(24px);
+  font-weight: normal;
+  margin: 0;
+}
+
+.header__title__link {
+  color: $color--black;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.header__nav__link {
+  color: $color--light-gray;
+  display: inline-block;
+  font-size: em(16px);
+  padding: 10px 0;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

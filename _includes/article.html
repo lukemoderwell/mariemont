@@ -1,0 +1,15 @@
+<article class="article">
+  {% if include.article.image %}
+    <img src="{{ include.article.image }}" alt="{{ include.article.title }}" class="article__banner" />
+  {% endif %}
+
+  <!-- {{ include.article.collection }} -->
+
+  {% if include.article.layout == 'post' %}
+    <h1 class="article__title">{{ include.article.title }}</h1>
+  {% endif %}
+
+  <div class="article__content">
+    {{ include.content }}
+  </div>
+</article>
