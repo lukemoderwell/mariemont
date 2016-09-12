@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+  <h1 class="page-heading">Staff</h1>
+  <ul class="post-list">
+    {% for staff in site.staff %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ staff.url | prepend: site.baseurl }}">{{ staff.name | escape }}</a>
+        </h2>
+        <span class="post-meta">{{ staff.position | escape }}</span>
+      </li>
+    {% endfor %}
+  </ul>

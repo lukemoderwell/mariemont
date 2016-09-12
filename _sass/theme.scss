@@ -77,6 +77,8 @@ a {
 }
 
 .main {
+  display: block; 
+  padding-top: em($gutter * 2);
   line-height: 1.5;
 }
 
