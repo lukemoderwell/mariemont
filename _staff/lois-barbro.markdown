@@ -1,7 +1,7 @@
 ---
 title: Lois Barbro
 date: 2016-09-11 22:46:00 -04:00
-Name: Lois Barbro
+name: Lois Barbro
 Title: Administrator
 ---
 
