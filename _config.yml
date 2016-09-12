@@ -7,7 +7,7 @@ collections:
     output: true
   staff:
     title: Staff
-    output: false
+    output: true
   uploads:
     title: Uploads
     output: true
