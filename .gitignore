@@ -1,2 +1,6 @@
 Gemfile.lock
-README.md
+.DS_Store
+.jekyll-metadata
+.sass-cache
+Gemfile.lock
+_site/
