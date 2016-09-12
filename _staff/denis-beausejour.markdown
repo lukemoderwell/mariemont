@@ -1,7 +1,7 @@
 ---
 title: Denis Beausejour
 date: 2016-09-11 22:48:00 -04:00
-Name: Denis  Beausejour
+name: Denis  Beausejour
 Title: Lead Pastor
 ---
 
