@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  sermons:
+    title: Sermons
+    output: true
   staff:
     title: Staff
     output: true
