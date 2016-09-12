@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+  <h1 class="page-heading">Sermons</h1>
+  <ul class="post-list">
+    {% for sermon in site.sermons %}
+      <li>
+      <img src="{{ sermon.thumbnail_image }}" />
+        <h2>
+          <a class="post-link" href="{{ sermon.url | prepend: site.baseurl }}">{{ sermon.title | escape }}</a>
+        </h2>
+        <span class="post-meta">{{ sermon.series | escape }}</span> <span>Week {{ sermon.week }}</span> 
+        <audio controls preload src="{{ sermon.audio_file }}"></audio>
+      </li>
+    {% endfor %}
+  </ul>
