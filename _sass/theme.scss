@@ -2,6 +2,13 @@
 @import 'utils/vars';
 @import 'utils/functions';
 
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
   background: #fff;
   color: $color--gray;

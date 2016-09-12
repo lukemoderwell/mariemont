@@ -1,0 +1,15 @@
+ <header class="header">
+  <div class="header__inner">
+      <h1 class="header__title">
+        <a href="/" class="header__title__link">{{ site.title }}</a>
+      </h1>
+      <nav role="navigation" class="header__nav">
+        {% for menu_page in site.pages %}
+          {% if menu_page.title %}
+            <a href="{{ menu_page.url }}" class="header__nav__link">{{ menu_page.title }}</a>
+          {% endif %}
+        {% endfor %}
+        <a href="#" class="btn">Online Giving</a>
+      </nav>
+    </div>
+  </header>

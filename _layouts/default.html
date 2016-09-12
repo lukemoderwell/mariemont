@@ -10,25 +10,13 @@
   <body class="layout--{{ page.layout }}">
     <a class="skip-to-main" href="#main">Skip to main content</a>
 
-    <header class="header wrap">
-      <h1 class="header__title">
-        <a href="/" class="header__title__link">{{ site.title }}</a>
-      </h1>
-      <nav class="header__nav">
-        {% for menu_page in site.pages %}
-          {% if menu_page.title %}
-            <a href="{{ menu_page.url }}" class="header__nav__link">{{ menu_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </nav>
-    </header>
+   {% include header.html %}
 
     <main class="main wrap" id="main">
       {{ content }}
     </main>
-
-    <footer class="footer wrap">
-      <p>This is my footer. &copy; now — infinity.</p>
-    </footer>
+   
+   {% include footer.html %}
+ 
   </body>
 </html>
