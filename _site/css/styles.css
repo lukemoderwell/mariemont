@@ -73,3 +73,13 @@ a:hover { color: #0084d1; }
 .article__title { text-align: left; font-size: 2.375em; font-weight: bold; margin-bottom: 20px; text-transform: capitalize; }
 
 .footer { font-size: 0.875em; margin: 90px auto; text-align: left; }
+
+.sidebar { position: fixed; top: 0; left: 0; width: 33%; height: 100%; }
+.sidebar h1 { font-size: 22px; font-family: "Grad", Georgia, serif; color: #ffffff; margin-bottom: 20vh; }
+.sidebar .intro { font-size: 30px; font-family: "Grad", Georgia, serif; color: #ffffff; line-height: 38px; }
+.sidebar h3 { font-size: 22px; line-height: 28px; color: rgba(255, 255, 255, 0.8); font-family: "Calibre", Helvetica, sans-serif; margin: 20px 0; }
+
+.accent-bar { float: left; width: 20px; background: #9E5697; height: 100%; }
+
+.content-bar { background: #2D182B; height: 100%; padding: 32px 32px 32px 52px; }
+.content-bar ul li { width: 100%; margin: 20px 0; }
