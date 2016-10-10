@@ -15,6 +15,14 @@ body {
   font-family: $sans;
   font-size: $font-size--base;
   margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.clearfix:after {
+    content:"";
+    display:block;
+    clear:both;
 }
 
 audio, embed, img, video {
@@ -85,7 +93,7 @@ a {
 .wrap {
   margin: auto;
   max-width: 1120px;
-  width: 80%;
+  //width: 80%;
 }
 
 .skip-to-main {
@@ -99,9 +107,36 @@ a {
   }
 }
 
-.rss-subscribe {
-  margin-top: em(24px);
+.btn {
+  display: inline-block; 
+  font-size: 18px; 
+  text-align: center;
+  padding: 16px 24px;
+  border-radius: 4px;
+  max-width: 265px;  
+  text-decoration: none;
+  color: $color--white;
+  transition: all .3s ease-in-out; 
 }
+
+.primary {
+  background: $color--blue;
+  &:hover {
+    background: darken($color--blue, $color-shift)
+  }
+}
+
+.secondary {
+  background: $color--dark-gray;
+  &:hover {
+    background: lighten($color--dark-gray, $color-shift);
+  }
+}
+
+.btn:hover {
+  color: $color--white;
+}
+
 
 .badge {
   font-size: 14px; 

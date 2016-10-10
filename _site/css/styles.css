@@ -20,7 +20,9 @@ html { box-sizing: border-box; }
 
 *, *:before, *:after { box-sizing: inherit; }
 
-body { background: #fff; color: #3E4A56; font-family: "Calibre", Helvetica, sans-serif; font-size: 16px; margin: 0; }
+body { background: #fff; color: #3E4A56; font-family: "Calibre", Helvetica, sans-serif; font-size: 16px; margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+.clearfix:after { content: ""; display: block; clear: both; }
 
 audio, embed, img, video { max-width: 100%; }
 
@@ -47,12 +49,20 @@ a:hover { color: #2386c8; }
 
 .main { display: block; /* padding-top: em($gutter * 2); */ line-height: 1.5; }
 
-.wrap { margin: auto; max-width: 1120px; width: 80%; }
+.wrap { margin: auto; max-width: 1120px; }
 
 .skip-to-main { position: fixed; left: -9999px; top: -9999px; }
 .skip-to-main:focus { top: 30px; left: 30px; }
 
-.rss-subscribe { margin-top: 1.5em; }
+.btn { display: inline-block; font-size: 18px; text-align: center; padding: 16px 24px; border-radius: 4px; max-width: 265px; text-decoration: none; color: #ffffff; transition: all .3s ease-in-out; }
+
+.primary { background: #3498DB; }
+.primary:hover { background: #217dbb; }
+
+.secondary { background: #2E2F2F; }
+.secondary:hover { background: #474949; }
+
+.btn:hover { color: #ffffff; }
 
 .badge { font-size: 14px; background: #3498DB; padding: 9px 14px 6px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
 
@@ -67,7 +77,7 @@ a:hover { color: #2386c8; }
 
 .header__inner { margin: 0 auto; max-width: 1120px; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; }
 
-.header__nav { float: right; }
+.header__nav { float: right; padding-top: 12px; }
 
 .header__nav__link { color: #9098A3; display: inline-block; margin: 0 16px; font-size: 1em; text-decoration: none; }
 .header__nav__link:hover { text-decoration: underline; }
@@ -76,7 +86,31 @@ a:hover { color: #2386c8; }
 
 .article__title { text-align: left; font-size: 2.375em; font-weight: bold; margin-bottom: 20px; text-transform: capitalize; }
 
-.footer { font-size: 0.875em; margin: 90px auto; text-align: left; }
+.footer { width: 100%; color: #9098A3; min-height: 450px; font-size: 1.25em; margin: 90px auto; text-align: left; background: #1D1E1E; }
+
+.footer-top { padding: 34px 0; margin-bottom: 32px; border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
+
+.footer-top-title, .footer-main-title, .footer-top-actions, .footer-main-nav { width: 50%; max-width: 550px; }
+
+.footer-top-title, .footer-main-title { float: left; margin-right: 20px; }
+
+.footer-top-actions, .footer-main-nav { float: right; }
+
+.footer-top-actions .btn { width: 50%; max-width: 265px; float: left; margin: 10px 20px 10px 0; }
+.footer-top-actions .btn:last-child { margin-right: 0; float: none; }
+
+.footer-main-title { line-height: 30px; }
+.footer-main-title h2 { font-family: "Grad", Georgia, serif; font-size: 24px; font-weight: bold; color: #ffffff; margin-bottom: 4px; }
+.footer-main-title a { display: block; }
+
+.footer-top-title h3 { font-family: "Grad", Georgia, serif; font-size: 28px; color: #ffffff; margin-bottom: 10px; }
+
+.footer-main-nav ul { display: inline-block; width: 50%; max-width: 265px; float: left; margin-top: 4px; margin-right: 20px; }
+.footer-main-nav ul:last-child { margin-right: 0; float: none; }
+
+.footer-main-nav ul li { line-height: 30px; }
+.footer-main-nav ul li a { color: #9098A3; text-decoration: none; }
+.footer-main-nav ul li a:hover { cursor: pointer; color: #ffffff; }
 
 /* Front Page Styles */
-.hero-img { background: url("https://hd.unsplash.com/photo-1415226355641-7f90f89def6a") no-repeat; background-size: cover; width: 60%; height: 120vh; display: block; }
+.hero-img { background: url("https://hd.unsplash.com/photo-1415226355641-7f90f89def6a") no-repeat; background-size: cover; width: 60%; height: 120vh; max-height: 1200px; display: block; }

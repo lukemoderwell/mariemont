@@ -1,12 +1,15 @@
 /* Add and edit these colors */
 $color--white: #ffffff; 
 $color--black: #1D1E1E;
+$color--dark-gray: #2E2F2F;
 $color--blue: #3498DB;
 $color--dark-blue: darken($color--blue, 7%);
 $color--gray: #3E4A56;
 $color--light-gray: #9098A3;
 $color--green: #6abc2b;
 $color--purple: #9E5697;
+
+$color-shift: 10%; 
 
 $font-size--base: 16px;
 

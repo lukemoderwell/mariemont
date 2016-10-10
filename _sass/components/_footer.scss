@@ -1,5 +1,91 @@
 .footer {
-  font-size: em(14px);
+  width: 100%; 
+  color: $color--light-gray;
+  min-height: 450px;
+  font-size: em(20px);
   margin: ($gutter * 3) auto;
   text-align: left;
+  background: $color--black; 
+}
+
+.footer-top {
+	padding: 34px 0;
+	margin-bottom: 32px;
+	border-bottom: 1px solid rgba(255,255,255,.1);
+}
+
+.footer-top-title, .footer-main-title, .footer-top-actions, .footer-main-nav {
+	width: 50%;
+	max-width: 550px;
+}
+
+.footer-top-title, .footer-main-title {
+	float: left; 
+	margin-right: 20px;
+}
+
+.footer-top-actions, .footer-main-nav {
+	float: right; 
+}
+
+.footer-top-actions {
+	.btn {
+		width: 50%; 
+		max-width: 265px; 
+		float: left; 
+		margin: 10px 20px 10px 0; 
+		
+		&:last-child {
+		margin-right: 0;
+		float: none; 
+		}
+	}
+}
+
+.footer-main-title {
+	line-height: 30px; 
+
+	h2 {
+		font-family: $serif; 
+		font-size: 24px; 
+		font-weight: bold; 
+		color: $color--white;
+		margin-bottom: 4px; 
+	}
+
+	a {
+		display: block;
+	}
+}
+
+.footer-top-title h3 {
+	font-family: $serif; 
+	font-size: 28px; 
+	color: $color--white; 
+	margin-bottom: 10px;
+}
+
+.footer-main-nav ul {
+	display: inline-block;
+	width: 50%;
+	max-width: 265px;
+	float: left;  
+	margin-top: 4px;
+	margin-right: 20px; 
+	&:last-child {
+		margin-right: 0;
+		float: none; 
+		}
+}
+
+.footer-main-nav ul li {
+	line-height: 30px;
+	a {
+		color: $color--light-gray;
+		text-decoration: none; 
+		&:hover {
+			cursor: pointer; 
+			color: $color--white;
+		}
+	}
 }
