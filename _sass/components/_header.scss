@@ -1,17 +1,23 @@
 .header {
-  background: $color--white;
   position: fixed;
   width: 100%;
   z-index: 10;  
-  padding: 15px 30px; 
+  padding: 35px 30px; 
   text-align: left;
+  transition: all .3s ease-in-out; 
+}
+
+.header.scroll {
+  background: $color--white; 
 }
 
 .header__title {
-  font-size: em(18px);
+  font-size: em(22px);
   font-weight: normal;
   margin: 0;
   float: left; 
+  font-family: $serif; 
+  font-weight: bold; 
 }
 
 .header__title__link {
@@ -25,6 +31,7 @@
 
 .header__inner {
     margin: 0 auto;
+    max-width: 1120px;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;

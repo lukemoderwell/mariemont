@@ -3,13 +3,14 @@
       <h1 class="header__title">
         <a href="/" class="header__title__link">{{ site.title }}</a>
       </h1>
+      <span class="badge">Services at 9am &amp; 11am</span>
       <nav role="navigation" class="header__nav">
         {% for menu_page in site.pages %}
           {% if menu_page.title %}
             <a href="{{ menu_page.url }}" class="header__nav__link">{{ menu_page.title }}</a>
           {% endif %}
         {% endfor %}
-        <a href="#" class="btn">Online Giving</a>
+        <a href="#" class="btn">Give Online</a>
       </nav>
     </div>
   </header>

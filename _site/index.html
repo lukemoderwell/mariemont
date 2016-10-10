@@ -26,26 +26,41 @@
     <link href="/css/styles.css" rel="stylesheet" media="all" type="text/css" />
   </head>
   <body>
-    <div class="sidebar">
-	<div class="accent-bar ">
-	</div>
-	<div class="content-bar">
-		<h1><a href="#">Mariemont Community Church</a></h1>
-		<h2 class="intro">We are a growing community of families in East Cincinnati united by our commitment to follow Jesus.</h2>
-		<h3>New to MCC? Check out these helpful links for more on how to deepen your church experience.</h3>
+     <header class="header">
+  <div class="header__inner">
+      <h1 class="header__title">
+        <a href="/" class="header__title__link">Mariemont Community Church</a>
+      </h1>
+      <span class="badge">Services at 9am &amp; 11am</span>
+      <nav role="navigation" class="header__nav">
+        
+          
+            <a href="/about/" class="header__nav__link">About</a>
+          
+        
+          
+        
+          
+        
+          
+            <a href="/sermons/" class="header__nav__link">Sermons</a>
+          
+        
+          
+            <a href="/staff/" class="header__nav__link">Staff</a>
+          
+        
+          
+        
+        <a href="#" class="btn">Give Online</a>
+      </nav>
+    </div>
+  </header>
 
-		<ul>
-			<li><a class="sidebar--btn" href="#">What we believe</a></li>
-			<li><a class="sidebar--btn" href="#">Meet the staff</a></li>
-			<li><a class="sidebar--btn" href="#">Children &amp; youth programs</a></li>
-			<li><a class="sidebar--btn" href="#">Find a small group</a></li>
-			<li><a class="sidebar--btn" href="#">Become a member</a></li>
-		</ul>
-	</div>
-</div>
-
-    <main class="wrap main" id="main">
+    <main class="main" id="main">
       <div class="home">
+
+  <div class="hero-img"></div>
 
   <h1 class="page-heading">Posts</h1>
 
@@ -76,6 +91,9 @@
       <footer class="footer wrap">
       <p>This is my footer. &copy; now — infinity.</p>
    </footer>
+
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+   <script src="/scripts/main.js"></script>
  
   </body>
 </html>
