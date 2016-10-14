@@ -1,5 +1,6 @@
 .header {
   position: fixed;
+  top: 0; 
   width: 100%;
   z-index: 10;  
   padding: 35px 30px; 
@@ -17,7 +18,7 @@
   margin: 0;
   float: left; 
   font-family: $serif; 
-  font-weight: bold; 
+  font-weight: 500; 
 }
 
 .header__title__link {
@@ -43,9 +44,48 @@
     justify-content: space-between;
 }
 
+.menu {
+    background: $color--blue;
+    left: 0;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    top: 0;
+    transition: .45s all ease-out; 
+    -webkit-transform: translateY(-100%) translateZ(0);
+    -moz-transform: translateY(-100%) translateZ(0);
+    -ms-transform: translateY(-100%) translateZ(0);
+    -o-transform: translateY(-100%) translateZ(0);
+    transform: translateY(-100%) translateZ(0);
+    z-index: 20;
+
+    &.show {
+      display: block;
+      -webkit-transform: translateY(0) translateZ(0);
+      -moz-transform: translateY(0) translateZ(0);
+      -ms-transform: translateY(0) translateZ(0);
+      -o-transform: translateY(0) translateZ(0);
+      transform: translateY(0) translateZ(0);
+    }
+
+     .tele, address { 
+      font-family: $serif; 
+      font-size: 16px;
+      color: $color--white;
+      line-height: 1.6;
+      text-decoration: none;
+    }
+  }
+
 .header__nav {
-  float: right; 
-  padding-top: 12px; 
+    margin-bottom: 40px; 
+
+    a {
+      font-size: 24px; 
+      color: $color--black;
+    }
 }
 
 .header__nav__link {
@@ -58,4 +98,50 @@
   &:hover {
     text-decoration: underline;
   }
+}
+
+.open_label {
+  color: $color--blue;
+  cursor: pointer;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  &:hover {
+    color: $color--black;
+  } 
+  &:hover:after {
+    background: $color--black; 
+    right: 125px;
+  }
+}
+
+.open_label:after {
+    background: $color--blue;
+    content: '';
+    height: 2px;
+    position: absolute;
+    right: 130px;
+    top: 48%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    width: 35px;
+}
+
+
+.close_label {
+    display: block;   
+    width: 100px;
+    margin: 0 auto 20px;
+    font-size: 16px;
+    padding: 20px 0;
+    color: $color--white; 
+    cursor: pointer;  
 }

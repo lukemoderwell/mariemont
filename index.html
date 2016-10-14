@@ -3,10 +3,15 @@ layout: frontpage
 ---
 
 <div class="home">
-  <h1 class="page-heading">{{page.heading}}</h1>
-</div>
 <div class="hero-img"></div>
-
+  <section class="home-intro">
+    <div class="wrap">
+      <h1 class="page-heading">Living &amp; Loving in Jesus Christ</h1>
+      <p>{{ content }}</p>
+      <audio controls preload src="{{ page.featured_audio_file }}"></audio>
+    </div>
+  </section>
+</div>
 
 
 <!--   <ul class="post-list">

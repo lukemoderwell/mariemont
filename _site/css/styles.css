@@ -20,7 +20,7 @@ html { box-sizing: border-box; }
 
 *, *:before, *:after { box-sizing: inherit; }
 
-body { background: #fff; color: #3E4A56; font-family: "Calibre", Helvetica, sans-serif; font-size: 16px; margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { background: #fff; color: #3E4A56; font-family: "Neuzeit Grotesk", "HelveticaNeue", Helvetica, sans-serif; font-size: 16px; margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .clearfix:after { content: ""; display: block; clear: both; }
 
@@ -66,21 +66,34 @@ a:hover { color: #2386c8; }
 
 .badge { font-size: 14px; background: #3498DB; padding: 9px 14px 6px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
 
-.header { position: fixed; width: 100%; z-index: 10; padding: 35px 30px; text-align: left; transition: all .3s ease-in-out; }
+.header { position: fixed; top: 0; width: 100%; z-index: 10; padding: 35px 30px; text-align: left; transition: all .3s ease-in-out; }
 
 .header.scroll { background: #ffffff; }
 
-.header__title { font-size: 1.375em; font-weight: normal; margin: 0; float: left; font-family: "Grad", Georgia, serif; font-weight: bold; }
+.header__title { font-size: 1.375em; font-weight: normal; margin: 0; float: left; font-family: "Grad", Georgia, serif; font-weight: 500; }
 
 .header__title__link { color: #1D1E1E; text-decoration: none; }
 .header__title__link:hover { text-decoration: underline; }
 
 .header__inner { margin: 0 auto; max-width: 1120px; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; }
 
-.header__nav { float: right; padding-top: 12px; }
+.menu { background: #3498DB; left: 0; padding-bottom: 30px; padding-top: 20px; position: fixed; right: 0; text-align: center; top: 0; transition: .45s all ease-out; -webkit-transform: translateY(-100%) translateZ(0); -moz-transform: translateY(-100%) translateZ(0); -ms-transform: translateY(-100%) translateZ(0); -o-transform: translateY(-100%) translateZ(0); transform: translateY(-100%) translateZ(0); z-index: 20; }
+.menu.show { display: block; -webkit-transform: translateY(0) translateZ(0); -moz-transform: translateY(0) translateZ(0); -ms-transform: translateY(0) translateZ(0); -o-transform: translateY(0) translateZ(0); transform: translateY(0) translateZ(0); }
+.menu .tele, .menu address { font-family: "Grad", Georgia, serif; font-size: 16px; color: #ffffff; line-height: 1.6; text-decoration: none; }
+
+.header__nav { margin-bottom: 40px; }
+.header__nav a { font-size: 24px; color: #1D1E1E; }
 
 .header__nav__link { color: #9098A3; display: inline-block; margin: 0 16px; font-size: 1em; text-decoration: none; }
 .header__nav__link:hover { text-decoration: underline; }
+
+.open_label { color: #3498DB; cursor: pointer; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
+.open_label:hover { color: #1D1E1E; }
+.open_label:hover:after { background: #1D1E1E; right: 125px; }
+
+.open_label:after { background: #3498DB; content: ''; height: 2px; position: absolute; right: 130px; top: 48%; -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%); transform: translateY(-50%); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; width: 35px; }
+
+.close_label { display: block; width: 100px; margin: 0 auto 20px; font-size: 16px; padding: 20px 0; color: #ffffff; cursor: pointer; }
 
 .article__content { max-width: 600px; margin: auto; }
 
@@ -113,4 +126,8 @@ a:hover { color: #2386c8; }
 .footer-main-nav ul li a:hover { cursor: pointer; color: #ffffff; }
 
 /* Front Page Styles */
-.hero-img { background: url("https://hd.unsplash.com/photo-1415226355641-7f90f89def6a") no-repeat; background-size: cover; width: 60%; height: 120vh; max-height: 1200px; display: block; }
+.hero-img { background: url("https://hd.unsplash.com/photo-1415226355641-7f90f89def6a") no-repeat; background-size: cover; width: 60%; height: 120vh; max-height: 1200px; display: block; z-index: -1; }
+
+.home { z-index: 10; }
+
+.home-intro { width: 550px; }

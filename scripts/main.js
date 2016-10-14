@@ -1,7 +1,7 @@
 $(window).scroll(function() {    
     var scroll = $(window).scrollTop();
 
-    if (scroll >= 100) {
+    if (scroll >= 500) {
         //clearHeader, not clearheader - caps H
         $(".header").addClass("scroll");
     } else {
@@ -9,3 +9,10 @@ $(window).scroll(function() {
     }
 }); 
 
+$('.open_label').click( function() {
+    $("#menu").addClass("show");
+} );
+
+$('.close_label').click( function() {
+    $("#menu").removeClass("show");
+} );
