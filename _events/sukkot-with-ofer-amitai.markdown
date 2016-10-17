@@ -1,6 +1,7 @@
 ---
 title: Sukkot with Ofer Amitai
 date: 2016-10-10 23:05:00 -04:00
+position: 2
 start_date: 2016-10-21 00:00:00 -04:00
 end_date: 2016-10-23 00:00:00 -04:00
 ---
