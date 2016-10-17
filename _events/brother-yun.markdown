@@ -5,5 +5,6 @@ permalink: "/events/brother-yun"
 position: 0
 start_date: 2016-10-09 17:00:00 -04:00
 end_date: 2016-10-09 19:30:00 -04:00
+layout: default
 ---
 
