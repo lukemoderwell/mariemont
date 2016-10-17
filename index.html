@@ -10,13 +10,13 @@ layout: frontpage
             <h1 class="page-heading">Living &amp; Loving in Jesus Christ</h1>
             <p>{{ content }}</p>
             <div class="feat_sermon">
+             {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
               <span>Current Series</span>
-              {% if sermon.is_featured = true %}
-              <a href="#"><h3>{{ sermon.title }}</h3>
+              <a href="/sermons/{{sermon.permalink}}"><h3>{{ sermon.title }}</h3>
               <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
               <audio controls preload src="{{ sermon.audio_file }}"></audio>
-              {% endif %}
-              <a href="#" class="cta">See All Sermons</a>
+              <a href="/sermons" class="cta">See All Sermons</a>
+              {% endif %}{% endfor %}
             </div>
         </div>
       </div>
