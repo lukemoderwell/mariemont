@@ -7,12 +7,16 @@ layout: frontpage
     <div class="hero-img"></div>
       <div class="wrap">
         <div class="home-intro">
-            <h1 class="page-heading">Living &amp; Loving in Jesus Christ</h1>
+          {% for page in site.pages %}
+            {% if page.title == 'Frontpage' %}
+            <h1 class="page-heading">{{ page.heading }}</h1>
             <p>{{ content }}</p>
+            {% endif %}
+          {% endfor %}
             <div class="feat_sermon">
              {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
               <span>Current Series</span>
-              <a href="/sermons/{{sermon.permalink}}"><h3>{{ sermon.title }}</h3>
+              <a href="{{sermon.permalink}}"><h3>{{ sermon.title }}</h3>
               <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
               <audio controls preload src="{{ sermon.audio_file }}"></audio>
               <a href="/sermons" class="cta">See All Sermons</a>
