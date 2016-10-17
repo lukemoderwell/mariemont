@@ -1,6 +1,7 @@
 ---
 title: Men's Retreat
 date: 2016-10-10 23:02:00 -04:00
+position: 1
 start_date: 2016-10-14 17:00:00 -04:00
 end_date: 2016-10-15 15:00:00 -04:00
 ---
