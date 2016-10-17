@@ -7,7 +7,7 @@ feat_audio_file: "/uploads/test.mp3"
 layout: frontpage
 ---
 
-We’re a growing community of families in East Cincinnati committed to following Jesus. Visit us on Sundays at 9am and 11 am.
+We’re a growing community of families in East Cincinnati committed to following Jesus. Visit us on Sundays at 9am and 11am.
 
 Are you new to MCC?
-Learn more about our church. 
+Learn more about our church.
