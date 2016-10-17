@@ -8,3 +8,4 @@ end_date: 2016-10-09 19:30:00 -04:00
 layout: default
 ---
 
+Dinner at 5 pm. and meeting starts at 6 pm. Child care available.
