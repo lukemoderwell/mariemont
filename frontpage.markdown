@@ -3,7 +3,7 @@ title: Frontpage
 date: 2016-10-13 07:30:00 -04:00
 permalink: "/"
 heading: Living & Loving In Jesus Christ
-featured_audio_file: "/uploads/test.mp3"
+feat_audio_file: "/uploads/test.mp3"
 layout: frontpage
 ---
 
