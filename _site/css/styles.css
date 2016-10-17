@@ -49,7 +49,7 @@ a:hover { color: #2386c8; }
 
 .main { display: block; /* padding-top: em($gutter * 2); */ line-height: 1.5; }
 
-.wrap { margin: auto; max-width: 1120px; }
+.wrap { margin: auto; width: 1120px; }
 
 .skip-to-main { position: fixed; left: -9999px; top: -9999px; }
 .skip-to-main:focus { top: 30px; left: 30px; }
@@ -66,7 +66,7 @@ a:hover { color: #2386c8; }
 
 .badge { font-size: 14px; background: #3498DB; padding: 9px 14px 6px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
 
-.header { position: fixed; top: 0; width: 100%; z-index: 10; padding: 35px 30px; text-align: left; transition: all .3s ease-in-out; }
+.header { position: fixed; top: 0; width: 100%; z-index: 20; padding: 35px 30px; text-align: left; transition: all .3s ease-in-out; }
 
 .header.scroll { background: #ffffff; }
 
@@ -99,7 +99,7 @@ a:hover { color: #2386c8; }
 
 .article__title { text-align: left; font-size: 2.375em; font-weight: bold; margin-bottom: 20px; text-transform: capitalize; }
 
-.footer { width: 100%; color: #9098A3; min-height: 450px; font-size: 1.25em; margin: 90px auto; text-align: left; background: #1D1E1E; }
+.footer { width: 100%; color: #9098A3; min-height: 450px; font-size: 1.25em; margin: 90px auto 0; text-align: left; background: #1D1E1E; }
 
 .footer-top { padding: 34px 0; margin-bottom: 32px; border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
 
@@ -126,8 +126,19 @@ a:hover { color: #2386c8; }
 .footer-main-nav ul li a:hover { cursor: pointer; color: #ffffff; }
 
 /* Front Page Styles */
-.hero-img { background: url("https://hd.unsplash.com/photo-1415226355641-7f90f89def6a") no-repeat; background-size: cover; width: 60%; height: 120vh; max-height: 1200px; display: block; z-index: -1; }
+.hero { position: relative; }
 
-.home { z-index: 10; }
+.hero-img { float: left; background: url("https://hd.unsplash.com/photo-1415226355641-7f90f89def6a") no-repeat; background-size: cover; width: 60%; max-width: 1200px; height: 110vh; max-height: 1200px; display: block; z-index: -1; }
 
-.home-intro { width: 550px; }
+.home-intro { margin-left: 570px; width: 550px; float: right; z-index: 10; position: absolute; top: 162px; }
+.home-intro h1 { font-family: "Grad", Georgia, serif; font-size: 70px; line-height: 78px; }
+.home-intro p { margin-left: 190px; max-width: 360px; }
+
+.feat_sermon { margin-top: 40px; background: #3498DB; padding: 20px; }
+.feat_sermon span { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; color: rgba(0, 0, 0, 0.5); }
+.feat_sermon h4 { color: #ffffff; margin-bottom: 12px; }
+.feat_sermon audio { width: 100%; margin-bottom: 12px; }
+.feat_sermon a { color: #ffffff; }
+
+.mission { margin-top: 80px; text-align: center; max-width: 930px; }
+.mission h2 { font-size: 48px; line-height: 1.25; font-family: "Grad", Georgia, serif; margin-bottom: 40px; }

@@ -3,14 +3,29 @@ layout: frontpage
 ---
 
 <div class="home">
-<div class="hero-img"></div>
-  <section class="home-intro">
-    <div class="wrap">
-      <h1 class="page-heading">Living &amp; Loving in Jesus Christ</h1>
-      <p>{{ content }}</p>
-      <audio controls preload src="{{ page.featured_audio_file }}"></audio>
-    </div>
-  </section>
+  <section class="hero clearfix">
+    <div class="hero-img"></div>
+      <div class="wrap">
+        <div class="home-intro">
+            <h1 class="page-heading">Living &amp; Loving in Jesus Christ</h1>
+            <p>{{ content }}</p>
+            <div class="feat_sermon">
+              <span>Current Series</span>
+              {% if sermon.is_featured = true %}
+              <a href="#"><h3>{{ sermon.title }}</h3>
+              <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
+              <audio controls preload src="{{ sermon.audio_file }}"></audio>
+              {% endif %}
+              <a href="#" class="cta">See All Sermons</a>
+            </div>
+        </div>
+      </div>
+    </section>
+    <section class="mission wrap">
+      <h2>We believe in laying down our lives by serving our family, friends, and those in need.</h2>
+      <p>Want to know more about what we believe?</p>
+      <a href="#" class="cta">See Our Beliefs</a>
+    </section>
 </div>
 
 
@@ -25,4 +40,3 @@ layout: frontpage
     {% endfor %}
   </ul> -->
 
-</div>
