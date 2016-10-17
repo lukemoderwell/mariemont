@@ -1,6 +1,7 @@
 ---
 title: Loving A Broken Church
 date: 2016-09-12 12:16:00 -04:00
+permalink: messy-church-week-one
 series: Messy Church
 week: 1
 audio_file: "/uploads/test.mp3"
