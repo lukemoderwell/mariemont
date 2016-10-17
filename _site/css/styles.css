@@ -44,8 +44,8 @@ h3 { font-size: 24px; }
 
 h4 { font-size: 18px; }
 
-a { color: #3498DB; }
-a:hover { color: #2386c8; }
+a { text-decoration: underline; text-decoration-color: #3498DB; color: inherit; }
+a:hover { cursor: pointer; }
 
 .main { display: block; /* padding-top: em($gutter * 2); */ line-height: 1.5; }
 
@@ -144,4 +144,5 @@ a:hover { color: #2386c8; }
 .mission h2 { font-size: 48px; line-height: 1.25; font-family: "Grad", Georgia, serif; margin-bottom: 40px; }
 
 /* events */
-.event_card { width: 33%; display: inline-block; padding: 20px; background: #3E4A56; }
+.event_card { width: 33%; display: inline-block; padding: 20px; background-image: linear-gradient(-135deg, #F1EFEF 0%, #E0E0E0 100%); }
+.event_card a { text-decoration: none; }

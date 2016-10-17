@@ -7,8 +7,7 @@ $color--dark-blue: darken($color--blue, 7%);
 $color--gray: #3E4A56;
 $color--light-gray: #9098A3;
 $color--green: #6abc2b;
-$color--purple: #9E5697;
-
+$color--light-gray-grad: linear-gradient(-135deg, #F1EFEF 0%, #E0E0E0 100%);
 $color-shift: 10%; 
 
 $font-size--base: 16px;

@@ -77,10 +77,13 @@ h4 {
 }
 
 a {
-  color: $color--blue;
+  //color: $color--blue;
+  text-decoration: underline;
+  text-decoration-color: $color--blue; 
+  color: inherit; 
 
   &:hover {
-    color: $color--dark-blue;
+    cursor: pointer; 
   }
 }
 
