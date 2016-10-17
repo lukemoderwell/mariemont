@@ -1,4 +1,4 @@
-/* Front Page Styles */
+/* Home Page Styles */
 
 .hero {position: relative;}
 .hero-img {
@@ -34,7 +34,7 @@
 }
 
 .feat_sermon {
-	margin-top: 40px; 
+	margin-top: 20px; 
 	background: $color--blue;
 	padding: 20px; 
 
@@ -62,7 +62,7 @@
 }
 
 .mission {
-	margin-top: 80px; 
+	margin: 80px auto; 
 	text-align: center;
 	max-width: 930px;
 
@@ -72,4 +72,15 @@
 		font-family: $serif;
 		margin-bottom: 40px;
 	}
+}
+
+/* events */
+
+
+
+.event_card {
+	width: 33%;
+	display: inline-block; 
+	padding: 20px;
+	background: $color--gray;
 }

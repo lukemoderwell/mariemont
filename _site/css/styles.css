@@ -99,7 +99,7 @@ a:hover { color: #2386c8; }
 
 .article__title { text-align: left; font-size: 2.375em; font-weight: bold; margin-bottom: 20px; text-transform: capitalize; }
 
-.footer { width: 100%; color: #9098A3; min-height: 450px; font-size: 1.25em; margin: 90px auto 0; text-align: left; background: #1D1E1E; }
+.footer { width: 100%; color: #9098A3; min-height: 450px; font-size: 1.25em; margin: 90px auto 0; text-align: left; background: #1D1E1E; overflow: auto; }
 
 .footer-top { padding: 34px 0; margin-bottom: 32px; border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
 
@@ -113,7 +113,7 @@ a:hover { color: #2386c8; }
 .footer-top-actions .btn:last-child { margin-right: 0; float: none; }
 
 .footer-main-title { line-height: 30px; }
-.footer-main-title h2 { font-family: "Grad", Georgia, serif; font-size: 24px; font-weight: bold; color: #ffffff; margin-bottom: 4px; }
+.footer-main-title h2 { font-family: "Grad", Georgia, serif; font-size: 24px; font-weight: 500; color: #ffffff; margin-bottom: 4px; }
 .footer-main-title a { display: block; }
 
 .footer-top-title h3 { font-family: "Grad", Georgia, serif; font-size: 28px; color: #ffffff; margin-bottom: 10px; }
@@ -125,7 +125,7 @@ a:hover { color: #2386c8; }
 .footer-main-nav ul li a { color: #9098A3; text-decoration: none; }
 .footer-main-nav ul li a:hover { cursor: pointer; color: #ffffff; }
 
-/* Front Page Styles */
+/* Home Page Styles */
 .hero { position: relative; }
 
 .hero-img { float: left; background: url("https://hd.unsplash.com/photo-1415226355641-7f90f89def6a") no-repeat; background-size: cover; width: 60%; max-width: 1200px; height: 110vh; max-height: 1200px; display: block; z-index: -1; }
@@ -134,11 +134,14 @@ a:hover { color: #2386c8; }
 .home-intro h1 { font-family: "Grad", Georgia, serif; font-size: 70px; line-height: 78px; }
 .home-intro p { margin-left: 190px; max-width: 360px; }
 
-.feat_sermon { margin-top: 40px; background: #3498DB; padding: 20px; }
+.feat_sermon { margin-top: 20px; background: #3498DB; padding: 20px; }
 .feat_sermon span { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; color: rgba(0, 0, 0, 0.5); }
 .feat_sermon h4 { color: #ffffff; margin-bottom: 12px; }
 .feat_sermon audio { width: 100%; margin-bottom: 12px; }
 .feat_sermon a { color: #ffffff; }
 
-.mission { margin-top: 80px; text-align: center; max-width: 930px; }
+.mission { margin: 80px auto; text-align: center; max-width: 930px; }
 .mission h2 { font-size: 48px; line-height: 1.25; font-family: "Grad", Georgia, serif; margin-bottom: 40px; }
+
+/* events */
+.event_card { width: 33%; display: inline-block; padding: 20px; background: #3E4A56; }
