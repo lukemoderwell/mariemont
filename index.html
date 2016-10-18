@@ -31,13 +31,15 @@ layout: frontpage
       <a href="#" class="cta">See Our Beliefs</a>
     </section>
     <section class="events wrap">
-      {% for event in site.events %}
+      {% for event in site.events reversed limit:3 %}
         <div class="event_card">
-          <figure class="event_image"><img src="{{ event.event_image }}"</figure>
+        {% if event.event_image != empty %}
+          <figure class="event_card_hero" style="background-image: url({{ event.event_image }});"></figure>
+         {% endif %} 
           <a href="{{ event.permalink }}">
             <h3 class="event_title">{{ event.title }}</h3>
-            <span>{{ event.start_date | date: "%a, %b %d" }} — {{ event.end_date | date: "%a, %b %d"}}</span>
-            <p>{{ event.content | truncate: 120, '...' }}</p>
+            <p>{{ event.content | truncate: 120, ' ...' }}</p>
+            <span class="event_date">{{ event.start_date | date: "%a, %b %d" }} — {{ event.end_date | date: "%a, %b %d"}}</span>
           </a>
         </div>
       {% endfor %}
