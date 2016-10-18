@@ -1,9 +1,11 @@
 ---
 title: Men's Retreat
 date: 2016-10-10 23:02:00 -04:00
+permalink: "/events/mens-retreat-2016"
 position: 1
 start_date: 2016-10-14 17:00:00 -04:00
 end_date: 2016-10-15 15:00:00 -04:00
+event_image: "/uploads/thumb2.jpg"
 ---
 
 **When: **October 14th – Check in begins at 4:30pm and Check out is at 3:00pm Saturday, October 15th
