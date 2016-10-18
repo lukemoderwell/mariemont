@@ -5,3 +5,4 @@ permalink: "/events/"
 layout: events
 ---
 
+The latest and greatest going on at Mariemont Community Church. 
