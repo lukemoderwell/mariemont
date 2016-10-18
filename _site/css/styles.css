@@ -66,8 +66,8 @@ a:hover { cursor: pointer; }
 
 .badge { font-size: 14px; background: #3498DB; padding: 9px 14px 6px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
 
-.page_header { padding-top: 50vh; padding-bottom: 20vh; }
-.page_header h2 { font-family: "Grad", Georgia, serif; }
+.page_header { padding-top: 40vh; padding-bottom: 20vh; }
+.page_header h2 { font-size: 40px; font-family: "Grad", Georgia, serif; margin-right: 40%; }
 
 .header { position: fixed; top: 0; width: 100%; z-index: 20; padding: 35px 30px; text-align: left; transition: all .3s ease-in-out; }
 
@@ -143,7 +143,7 @@ a:hover { cursor: pointer; }
 .feat_sermon audio { width: 100%; margin-bottom: 12px; }
 .feat_sermon a { text-decoration: none; color: #ffffff; }
 
-.mission { margin: 100px auto; text-align: center; max-width: 930px; }
+.mission { margin: 120px auto; text-align: center; max-width: 930px; }
 .mission h2 { font-size: 48px; line-height: 1.25; font-family: "Grad", Georgia, serif; margin-bottom: 40px; }
 
 /* events */

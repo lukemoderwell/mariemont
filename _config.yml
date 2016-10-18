@@ -29,3 +29,15 @@ highlighter: rouge
 gems:
 - jekyll-seo-tag
 port: 8000
+defaults:
+  -
+    scope:
+      path: ""
+      type: "sermons"
+    values:
+      series: ""
+      week: ""
+      audio_file: ""
+      thumbnail_image: ""
+      is_featured: false
+

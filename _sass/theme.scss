@@ -151,10 +151,12 @@ a {
 }
 
 .page_header {
-  padding-top: 50vh; 
+  padding-top: 40vh; 
   padding-bottom: 20vh; 
   h2 {
+    font-size: 40px; 
     font-family: $serif; 
+    margin-right: 40%; 
   }
 }
 
