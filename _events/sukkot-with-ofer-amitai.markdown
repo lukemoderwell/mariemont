@@ -1,9 +1,11 @@
 ---
 title: Sukkot with Ofer Amitai
 date: 2016-10-10 23:05:00 -04:00
+permalink: "/events/sukkot-2016"
 position: 2
 start_date: 2016-10-21 00:00:00 -04:00
 end_date: 2016-10-23 00:00:00 -04:00
+event_image: "/uploads/thumb1.jpg"
 ---
 
 The biblical Feast of Tabernacles (or “Sukkot”) celebrates the dwelling of God with His people. The imagery of the Feast stretches back to the Lord’s dwelling in the midst of the people of Israel in the wilderness and forward to the return of Jesus the Messiah to establish the Kingdom of God over the nations with His saints. It also illustrates the amazing privilege we have as believers to have the Holy Spirit of God dwelling among us each and every day.
