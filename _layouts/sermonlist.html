@@ -1,10 +1,22 @@
 ---
 layout: default
 ---
+<div class="page_header">
+  <h2>{{ page.content }}</h2>
+</div>
 
-  <h1 class="page-heading">Sermons</h1>
-  <ul class="post-list">
-    {% for sermon in site.sermons %}
+{% for sermon in site.sermons reversed %}
+    <div class="event_card">
+         <figure class="event_card_hero" style="background-image: url({{ sermon.thumbnail_image }});"></figure>
+          <a href="{{ sermon.url | prepend: site.baseurl }}">
+            <h3 class="event_title">{{ sermon.title }}</h3>
+            <p>{{ sermon.content | truncate: 120, ' ...' }}</p>
+            <span class="event_date">Read More</span>
+          </a>
+    </div>
+{% endfor %}
+
+ <!--    {% for sermon in site.sermons %}
       <li>
       <img src="{{ sermon.thumbnail_image }}" />
         <h2>
@@ -14,4 +26,4 @@ layout: default
         <audio controls preload src="{{ sermon.audio_file }}"></audio>
       </li>
     {% endfor %}
-  </ul>
+  </ul> -->
