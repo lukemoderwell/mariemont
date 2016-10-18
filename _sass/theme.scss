@@ -150,6 +150,13 @@ a {
   max-height: 26px; 
 }
 
+.page_header {
+  padding-top: 50vh; 
+  padding-bottom: 20vh; 
+  h2 {
+    font-family: $serif; 
+  }
+}
 
 
 @import 'components/header';

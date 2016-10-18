@@ -66,6 +66,9 @@ a:hover { cursor: pointer; }
 
 .badge { font-size: 14px; background: #3498DB; padding: 9px 14px 6px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
 
+.page_header { padding-top: 50vh; padding-bottom: 20vh; }
+.page_header h2 { font-family: "Grad", Georgia, serif; }
+
 .header { position: fixed; top: 0; width: 100%; z-index: 20; padding: 35px 30px; text-align: left; transition: all .3s ease-in-out; }
 
 .header.scroll { background: #ffffff; }
