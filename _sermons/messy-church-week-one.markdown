@@ -6,7 +6,7 @@ series: Messy Church
 week: 1
 audio_file: "/uploads/test.mp3"
 thumbnail_image: "/uploads/thumb1.jpg"
-is_featured: true
+is_featured: false
 layout: default
 ---
 
