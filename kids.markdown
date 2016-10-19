@@ -1,6 +1,7 @@
 ---
 title: Kids
 date: 2016-10-18 20:18:00 -04:00
+heading: Kids at Mariemont Church
 hero_image: https://hd.unsplash.com/photo-1472162072942-cd5147eb3902
 lead_in: We’re so glad to meet your family. Every Sunday, we seek to engage young
   hearts with the love of the Father, Son and Holy Spirit. We’ll sing, dance, praise,
