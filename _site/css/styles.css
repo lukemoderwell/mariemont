@@ -47,6 +47,8 @@ h4 { font-size: 18px; }
 a { color: inherit; }
 a:hover { cursor: pointer; }
 
+.cta:before { content: '\2192'; font-size: 14px; line-height: 10px; opacity: 0; right: -15px; top: 2px; }
+
 .main { display: block; /* padding-top: em($gutter * 2); */ line-height: 1.5; }
 
 .wrap { margin: auto; width: 1120px; }
@@ -147,11 +149,13 @@ a:hover { cursor: pointer; }
 .mission h2 { font-size: 48px; line-height: 1.25; font-family: "Grad", Georgia, serif; margin-bottom: 40px; }
 
 /* events */
-.event_card { width: 30%; min-height: 400px; margin: 0 2.5% 40px 0; position: relative; display: inline-block; vertical-align: top; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.08); }
+.event_card { width: 30%; min-height: 400px; margin: 0 2.5% 40px 0; position: relative; display: inline-block; vertical-align: top; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.08); transition: .25s all ease-in-out; }
 .event_card p { margin-top: 0; }
 .event_card figure { width: 100%; height: 200px; }
 .event_card a { display: block; width: 100%; padding: 20px; text-decoration: none; height: 200px; }
 .event_card .event_title { font-family: "Grad", Georgia, serif; }
 .event_card .event_date { position: absolute; width: 296px; bottom: 12px; text-transform: uppercase; letter-spacing: 1px; font-size: 14px; padding-top: 10px; border-top: 1px solid rgba(0, 0, 0, 0.1); }
+
+.event_card:hover { box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15); transform: translateY(-20px); }
 
 .event_card:last-child { margin-right: 0; }

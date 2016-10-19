@@ -85,6 +85,15 @@ a {
   }
 }
 
+.cta:before {
+    content: '\2192';
+    font-size: 14px;
+    line-height: 10px;
+    opacity: 0;
+    right: -15px;
+    top: 2px;
+}
+
 .main {
   display: block; 
   /* padding-top: em($gutter * 2); */

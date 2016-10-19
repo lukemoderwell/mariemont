@@ -2,4 +2,9 @@
 layout: default
 ---
 
-{% include article.html article=page content=content %}
+<div class="page_header">
+  <h1>{{ page.title }}</h1>
+  <h2>{{ page.lead_in }}</h2>
+</div>
+
+<figure class="hero_image" style="background-image: url({{ page.hero_image }});"></figure>

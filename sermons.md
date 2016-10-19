@@ -4,4 +4,4 @@ permalink: "/sermons/"
 layout: sermonlist
 ---
 
-Sharing teaching from Sunday morning and special events. \
+Sharing teaching from Sunday morning and special events.
