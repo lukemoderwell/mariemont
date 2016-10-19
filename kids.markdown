@@ -2,14 +2,14 @@
 title: Kids
 date: 2016-10-18 20:18:00 -04:00
 hero_image: https://hd.unsplash.com/photo-1472162072942-cd5147eb3902
+lead_in: We’re so glad to meet your family. Every Sunday, we seek to engage young
+  hearts with the love of the Father, Son and Holy Spirit. We’ll sing, dance, praise,
+  play, pray, and grow together.
 ---
 
 ## Kids at Mariemont Church
 
 Mariemont Church is committed to raising up strong, spiritually healthy children. From our nursery program through 5th grade, we are empowering children to make a faith in Christ their own and to put that faith into action.
-
-We’re so glad to meet your family. Every Sunday, we seek to engage young hearts with the love of the Father, Son and Holy Spirit. We’ll sing, dance, praise, play, pray, and grow together.
-
 
 **CHECK IN** Please check in at the Welcome Desk on the Lower Level, fill out an information form, and walk with your child to their classroom. A friendly supervisor is on hand to help you find your way.
 **FIRST SERVICE** (Check-in begins at 8:50.)
