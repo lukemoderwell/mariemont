@@ -94,6 +94,10 @@ a {
     top: 2px;
 }
 
+strong {
+  font-weight: 600;
+}
+
 .main {
   display: block; 
   /* padding-top: em($gutter * 2); */
@@ -159,18 +163,9 @@ a {
   max-height: 26px; 
 }
 
-.page_header {
-  padding-top: 40vh; 
-  padding-bottom: 20vh; 
-  h2 {
-    font-size: 40px; 
-    font-family: $serif; 
-    margin-right: 40%; 
-  }
-}
-
 
 @import 'components/header';
 @import 'components/article';
 @import 'components/footer';
 @import 'components/frontpage';
+@import 'components/page';
