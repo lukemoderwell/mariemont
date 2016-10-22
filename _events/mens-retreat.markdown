@@ -3,7 +3,7 @@ title: Men's Retreat
 date: 2016-10-10 23:02:00 -04:00
 permalink: "/events/mens-retreat-2016"
 position: 1
-bg_color: "#1D1E1E"
+bg_color: "#E1E1E1"
 start_date: 2016-10-14 17:00:00 -04:00
 end_date: 2016-10-15 15:00:00 -04:00
 event_image: "/uploads/thumb2.jpg"
