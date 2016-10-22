@@ -27,13 +27,12 @@ defaults:
     audio_file: ''
     thumbnail_image: ''
     is_featured: false
--
-    scope:
-      path: ""
-      type: "events"
-    values:
-      layout: "page"
-      bg_color: ""
+- scope:
+    path: ''
+    type: events
+  values:
+    layout: page
+    bg_color: ''
 email: your-email@domain.com
 description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.
