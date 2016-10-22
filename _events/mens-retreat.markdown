@@ -7,6 +7,9 @@ bg_color: "#E1E1E1"
 start_date: 2016-10-14 17:00:00 -04:00
 end_date: 2016-10-15 15:00:00 -04:00
 event_image: "/uploads/thumb2.jpg"
+heading: Men's Retreat 2016
+lead_in: 'Come connect with other like-minded men seeking a deeper relationship with
+  Jesus Christ. '
 ---
 
 When: October 14th – Check in begins at 4:30pm and Check out is at 3:00pm Saturday, October 15th
