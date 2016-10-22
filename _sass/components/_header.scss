@@ -8,17 +8,36 @@
   transition: all .3s ease-in-out; 
 }
 
+
 .header.scroll {
   background: $color--white; 
 }
 
 .header__title {
-  font-size: em(22px);
+  font-size: 18px;
   font-weight: normal;
   margin: 0;
   float: left; 
+  position: relative; 
   font-family: $serif; 
   font-weight: 500; 
+
+  @media (min-width: $med) {
+    font-size: 22px; 
+  }
+}
+
+.header_badge { 
+  display: none; 
+
+  @media (min-width: $med) {
+    display: block;
+    position: absolute;
+    left: 340px; 
+  }
+  @media (min-width: $large) {
+    left: 30vw;
+  }
 }
 
 .header__title__link {
@@ -90,10 +109,16 @@
 
 .header__nav__link {
   color: $color--light-gray;
-  display: inline-block;
-  margin: 0 16px; 
-  font-size: em(16px);
+  display: block; 
+  text-align: center; 
+  margin: 20px 0; 
+  font-size: 16px;
   text-decoration: none;
+
+  @media (min-width: $med) {
+    display: inline-block;
+    margin: 0 16px;
+  }
 
   &:hover {
     text-decoration: underline;
@@ -133,7 +158,7 @@
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
-    width: 35px;
+    width: 30px;
 }
 
 

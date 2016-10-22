@@ -13,9 +13,11 @@ layout: frontpage
 </div>
 
 {% if page.hero_image %}
-	<figure class="hero_image" style="background-image: url({{ page.hero_image }});"></figure>
+	<figure class="hero_image" style="background-image: url({{ page.hero_image }});s"></figure>
 {% endif %}
 
-<div class="wrap page_content">
-	{{ content }}
-</div>
+{% if page.content %}
+	<div class="wrap page_content">
+		{{ content }}
+	</div>
+{% endif %}

@@ -86,15 +86,6 @@ a {
   }
 }
 
-.cta:before {
-    content: '\2192';
-    font-size: 14px;
-    line-height: 10px;
-    opacity: 0;
-    right: -15px;
-    top: 2px;
-}
-
 strong {
   font-weight: 600;
 }
@@ -115,17 +106,6 @@ strong {
   }
 
 
-}
-
-.skip-to-main {
-  position: fixed;
-  left: -9999px;
-  top: -9999px;
-
-  &:focus {
-    top: $gutter;
-    left: $gutter;
-  }
 }
 
 .btn {
@@ -172,7 +152,6 @@ strong {
 
 
 @import 'components/header';
-@import 'components/article';
 @import 'components/footer';
 @import 'components/frontpage';
 @import 'components/page';

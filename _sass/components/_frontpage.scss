@@ -1,7 +1,7 @@
 /* Home Page Styles */
 
-.hero {position: relative;}
-.hero-img {
+.home_hero {position: relative;}
+.home_hero_img {
 	float: left; 
 	background: url('https://hd.unsplash.com/photo-1415226355641-7f90f89def6a') no-repeat; 
 	background-size: cover;
@@ -13,7 +13,7 @@
 	z-index: -1; 
 }
 
-.home-intro {
+.home_intro {
 	margin-left: 570px; 
 	width: 550px; 
 	float: right;
@@ -74,54 +74,3 @@
 	}
 }
 
-/* events */
-
-.event_card {
-	width: 30%;
-	min-height: 400px;
-	margin: 0 2.5% 40px 0; 
-	position: relative;  
-	display: inline-block; 
-	vertical-align: top;
-	box-shadow: 0 20px 20px rgba(0,0,0,.08);
-	transition: .25s all ease-in-out; 
-	//background-image: $color--light-gray-grad; 
-
-	p { margin-top: 0; }
-
-	figure {
-		width: 100%; 
-		height: 200px; 
-	}
-
-	a {
-		display: block;
-		width: 100%; 
-		padding: 20px;
-		text-decoration: none;
-		height: 200px;
-	}
-
-	
-	.event_title {font-family: $serif;}
-
-	.event_date {
-		position: absolute; 
-		width: 88%;
-		bottom: 12px; 
-		text-transform: uppercase; 
-		letter-spacing: 1px; 
-		font-size: 14px; 
-		padding-top: 10px; 
-		border-top: 1px solid rgba(0,0,0,.1);
-	}
-}
-
-.event_card:hover {
-	box-shadow: 0 20px 30px rgba(0,0,0,.15);
-	transform: translateY(-20px);
-}
-
-.event_card:last-child {
-	margin-right: 0; 
-}

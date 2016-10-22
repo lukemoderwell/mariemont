@@ -4,6 +4,7 @@ date: 2016-10-10 23:05:00 -04:00
 permalink: "/events/sukkot-2016"
 position: 2
 bg_color: "#E1E1E1"
+event_image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/PikiWiki_Israel_14882_Western_Wall_in_Jerusalem.jpg"
 start_date: 2016-10-21 00:00:00 -04:00
 end_date: 2016-10-23 00:00:00 -04:00
 heading: Sukkot with Ofer Amatai

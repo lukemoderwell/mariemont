@@ -16,8 +16,11 @@
 }
 
 .footer-top-title, .footer-main-title, .footer-top-actions, .footer-main-nav {
-	width: 50%;
-	max-width: 550px;
+	width: 100%;
+	@media (min-width: $med) {
+		width: 50%;
+		max-width: 550px;
+	}
 }
 
 .footer-top-title, .footer-main-title {
@@ -26,7 +29,11 @@
 }
 
 .footer-top-actions, .footer-main-nav {
-	float: right; 
+	float: none; 
+
+	@media (min-width: $med) {
+		float: right; 
+	}
 }
 
 .footer-top-actions {

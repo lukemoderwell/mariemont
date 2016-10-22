@@ -6,7 +6,7 @@ position: 1
 bg_color: "#E1E1E1"
 start_date: 2016-10-14 17:00:00 -04:00
 end_date: 2016-10-15 15:00:00 -04:00
-event_image: "/uploads/thumb2.jpg"
+event_image: "https://images.unsplash.com/photo-1445283142063-f4802ea5aac3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=087bc1aa44894b1a724689a9cb69d856"
 heading: Men's Retreat 2016
 lead_in: 'Come connect with other like-minded men seeking a deeper relationship with
   Jesus Christ. '

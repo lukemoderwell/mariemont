@@ -19,23 +19,32 @@
 
 
 .page_header {
-  padding: 35vh 0 20vh 0; 
+  padding: 40vh 0 20vh 0; 
   
   .page_hero_text {
   	  
+  	  @media (min-width: $med) {
+  	  	padding: 0 40% 0 35px;
+  	  }
+
+  	  @media (min-width: $large) {
+  	  	padding-left: 0;
+  	  }
+
 
 
 	  h1 {
-	  	font-size: 20px;
+	  	font-size: 18px;
 	    font-weight: 600;
 	    text-transform: uppercase;
 	    letter-spacing: 1px;
 			}
 
 	  h2 {
-	    font-size: 28px; 
-	    line-height: 1.6;
-	    font-family: $serif;      
+	    font-size: 28px;
+    	line-height: 1.5;
+    	font-family: $serif;
+    	margin-bottom: 10px;     
 	  }
   }
 }
