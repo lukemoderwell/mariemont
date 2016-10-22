@@ -34,8 +34,8 @@ defaults:
     layout: page
     bg_color: ''
     start_date: 
-    end_date:
-    event_image:
+    end_date: 
+    event_image: 
     heading: 
     lead_in: 
 email: your-email@domain.com
