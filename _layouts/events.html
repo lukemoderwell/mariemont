@@ -7,14 +7,14 @@ layout: default
 </div>
 
 {% for event in site.events reversed %}
-    <div class="event_card">
+    <div class="card">
        {% if event.event_image != empty %}
-         <figure class="event_card_hero" style="background-image: url({{ event.event_image }});"></figure>
+         <figure class="card_hero" style="background-image: url({{ event.event_image }});"></figure>
          {% endif %} 
           <a href="{{ event.permalink }}">
-            <h3 class="event_title">{{ event.title }}</h3>
+            <h3 class="card_title">{{ event.title }}</h3>
             <p>{{ event.content | truncate: 120, ' ...' }}</p>
-            <span class="event_date">{{ event.start_date | date: "%a, %b %d" }} — {{ event.end_date | date: "%a, %b %d"}}</span>
+            <span class="card_date">{{ event.start_date | date: "%a, %b %d" }} — {{ event.end_date | date: "%a, %b %d"}}</span>
           </a>
     </div>
 {% endfor %}

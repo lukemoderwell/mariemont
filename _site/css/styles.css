@@ -153,7 +153,7 @@ strong { font-weight: 600; }
 .event_card figure { width: 100%; height: 200px; }
 .event_card a { display: block; width: 100%; padding: 20px; text-decoration: none; height: 200px; }
 .event_card .event_title { font-family: "Grad", Georgia, serif; }
-.event_card .event_date { position: absolute; width: 296px; bottom: 12px; text-transform: uppercase; letter-spacing: 1px; font-size: 14px; padding-top: 10px; border-top: 1px solid rgba(0, 0, 0, 0.1); }
+.event_card .event_date { position: absolute; width: 88%; bottom: 12px; text-transform: uppercase; letter-spacing: 1px; font-size: 14px; padding-top: 10px; border-top: 1px solid rgba(0, 0, 0, 0.1); }
 
 .event_card:hover { box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15); transform: translateY(-20px); }
 
@@ -168,3 +168,15 @@ strong { font-weight: 600; }
 .page_header h2 { font-size: 28px; line-height: 1.6; font-family: "Grad", Georgia, serif; }
 
 .hero_image { background-size: cover; width: 100%; height: 600px; }
+
+/* events */
+.card { width: 30%; min-height: 400px; margin: 0 2.5% 40px 0; position: relative; display: inline-block; vertical-align: top; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.08); transition: .25s all ease-in-out; }
+.card p { margin-top: 0; }
+.card figure { width: 100%; height: 200px; }
+.card a { display: block; width: 100%; padding: 20px; text-decoration: none; height: 200px; }
+.card .card_title { font-family: "Grad", Georgia, serif; }
+.card .card_date { position: absolute; width: 88%; bottom: 12px; text-transform: uppercase; letter-spacing: 1px; font-size: 14px; padding-top: 10px; border-top: 1px solid rgba(0, 0, 0, 0.1); }
+
+.card:hover { box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15); transform: translateY(-20px); }
+
+.card:last-child { margin-right: 0; }
