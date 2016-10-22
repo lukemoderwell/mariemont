@@ -2,6 +2,7 @@
 @import 'utils/vars';
 @import 'utils/functions';
 
+
 html {
   box-sizing: border-box;
 }
@@ -105,9 +106,15 @@ strong {
 }
 
 .wrap {
-  margin: auto;
-  width: 1120px;
+  margin: 0 35px;
   //width: 80%;
+
+  @media (min-width: $med) {
+    width: 1120px; 
+    margin: auto;
+  }
+
+
 }
 
 .skip-to-main {
@@ -170,4 +177,3 @@ strong {
 @import 'components/frontpage';
 @import 'components/page';
 @import 'components/card';
-@import 'conponents/responsive';

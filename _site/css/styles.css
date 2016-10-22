@@ -53,7 +53,8 @@ strong { font-weight: 600; }
 
 .main { display: block; /* padding-top: em($gutter * 2); */ line-height: 1.5; }
 
-.wrap { margin: auto; width: 1120px; }
+.wrap { margin: 0 35px; }
+@media (min-width: 660px) { .wrap { width: 1120px; margin: auto; } }
 
 .skip-to-main { position: fixed; left: -9999px; top: -9999px; }
 .skip-to-main:focus { top: 30px; left: 30px; }
@@ -159,13 +160,14 @@ strong { font-weight: 600; }
 
 .event_card:last-child { margin-right: 0; }
 
-.page_content { margin-top: 40px; max-width: 640px; }
+.page_content { margin-top: 40px; }
+@media (min-width: 660px) { .page_content { max-width: 640px; } }
 .page_content h2 { font-size: 24px; margin-bottom: 20px; font-family: "Grad", Georgia, serif; }
 .page_content p { font-size: 20px; line-height: 1.6; }
 
-.page_header { padding: 35vh 0 20vh 0; margin-right: 40%; }
-.page_header h1 { font-size: 20px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
-.page_header h2 { font-size: 28px; line-height: 1.6; font-family: "Grad", Georgia, serif; }
+.page_header { padding: 35vh 0 20vh 0; }
+.page_header .page_hero_text h1 { font-size: 20px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
+.page_header .page_hero_text h2 { font-size: 28px; line-height: 1.6; font-family: "Grad", Georgia, serif; }
 
 .hero_image { background-size: cover; width: 95%; height: 45vh; max-height: 600px; margin: 0 auto; }
 
