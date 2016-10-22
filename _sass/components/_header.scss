@@ -101,6 +101,7 @@
 }
 
 .open_label {
+  position: relative; 
   color: $color--blue;
   cursor: pointer;
   -webkit-transition: all 0.3s ease;
@@ -112,7 +113,7 @@
   } 
   &:hover:after {
     background: $color--black; 
-    right: 125px;
+    right: 55px;
   }
 }
 
@@ -121,8 +122,8 @@
     content: '';
     height: 2px;
     position: absolute;
-    right: 130px;
-    top: 48%;
+    right: 50px;
+    top: 44%;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
