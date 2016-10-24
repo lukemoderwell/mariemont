@@ -74,3 +74,22 @@
 	}
 }
 
+.events {
+	background: #f9f9f9;
+	padding: 40px;
+}
+
+.event_list {
+	margin-top: 20px;
+
+	.card {
+		margin: 0 2.25%; 
+		&:first-child {
+			margin-left: 0; 
+		} 
+
+		&:last-child {
+			margin-right: 0;
+		}
+	}
+} 

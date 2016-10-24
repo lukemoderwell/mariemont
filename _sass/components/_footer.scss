@@ -2,8 +2,9 @@
   width: 100%; 
   color: $color--light-gray;
   min-height: 450px;
-  font-size: em(20px);
+  font-size: 18px;
   margin: ($gutter * 3) auto 0;
+  padding-bottom: 40px; 
   text-align: left;
   background: $color--black; 
   overflow: auto;
@@ -18,14 +19,13 @@
 .footer-top-title, .footer-main-title, .footer-top-actions, .footer-main-nav {
 	width: 100%;
 	@media (min-width: $med) {
-		width: 50%;
+		width: 50%; 
 		max-width: 550px;
 	}
 }
 
 .footer-top-title, .footer-main-title {
 	float: left; 
-	margin-right: 20px;
 }
 
 .footer-top-actions, .footer-main-nav {
@@ -38,11 +38,16 @@
 
 .footer-top-actions {
 	.btn {
-		width: 50%; 
-		max-width: 265px; 
-		float: left; 
+		width: 100%; 
+		float: none; 
 		margin: 10px 20px 10px 0; 
 		
+		@media (min-width: $med) {
+			width: 48%; 
+			max-width: 265px;
+			float: left; 
+		}
+
 		&:last-child {
 		margin-right: 0;
 		float: none; 
@@ -55,10 +60,14 @@
 
 	h2 {
 		font-family: $serif; 
-		font-size: 24px; 
+		font-size: 20px; 
 		font-weight: 500; 
 		color: $color--white;
 		margin-bottom: 4px; 
+
+		@media (min-width: $med) {
+			font-size: 24px; 
+		}
 	}
 
 	a {
@@ -68,18 +77,28 @@
 
 .footer-top-title h3 {
 	font-family: $serif; 
-	font-size: 28px; 
+	font-size: 24px; 
 	color: $color--white; 
 	margin-bottom: 10px;
+
+	@media (min-width: $med) {
+		font-size: 28px; 
+	}
 }
 
 .footer-main-nav ul {
-	display: inline-block;
-	width: 50%;
+	display: block;
+	width: 100%;
 	max-width: 265px;
 	float: left;  
 	margin-top: 4px;
 	margin-right: 20px; 
+
+	@media (min-width: $med) {
+		display: inline-block;
+		width: 50%;
+	}
+
 	&:last-child {
 		margin-right: 0;
 		float: none; 

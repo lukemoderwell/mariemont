@@ -1,7 +1,7 @@
 /* events */
 
 .card {
-	width: 30%;
+	width: 100%;
 	min-height: 400px;
 	margin: 0 2.5% 40px 0; 
 	position: relative;  
@@ -10,6 +10,14 @@
 	box-shadow: 0 20px 20px rgba(0,0,0,.08);
 	transition: .25s all ease-in-out; 
 	//background-image: $color--light-gray-grad; 
+
+	@media (min-width: $med) {
+		width: 50%; 
+	}
+
+	@media (min-width: $large) {
+		width: 30%; 
+	}
 
 	p { margin-top: 0; }
 
@@ -24,6 +32,7 @@
 		padding: 20px;
 		text-decoration: none;
 		height: 200px;
+		background: $color--white; 
 	}
 
 	
@@ -43,7 +52,7 @@
 
 .card:hover {
 	box-shadow: 0 20px 30px rgba(0,0,0,.15);
-	transform: translateY(-20px);
+	transform: translateY(-10px);
 }
 
 .card:last-child {
