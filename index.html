@@ -5,11 +5,11 @@ layout: frontpage
 <div class="home">
   <section class="home_hero clearfix">
     <div class="home_hero_img"></div>
-      <div class="wrap">
+      <!-- <div class="wrap"> -->
         <div class="home_intro">
           {% for page in site.pages %}
             {% if page.title == 'Frontpage' %}
-            <h1 class="page-heading">{{ page.heading }}</h1>
+            <h1 class="page_heading">{{ page.heading }}</h1>
             <p>{{ content }}</p>
             {% endif %}
           {% endfor %}
@@ -22,7 +22,7 @@ layout: frontpage
               <a href="/sermons" class="cta">See All Sermons</a>
               {% endif %}{% endfor %}
             </div>
-        </div>
+        <!-- </div> -->
       </div>
     </section>
     <section class="mission wrap">

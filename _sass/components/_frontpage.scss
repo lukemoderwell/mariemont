@@ -2,34 +2,79 @@
 
 .home_hero {position: relative;}
 .home_hero_img {
-	float: left; 
+	float: none; 
+	width: 100%; 
+	height: 50vh; 
 	background: url('https://hd.unsplash.com/photo-1415226355641-7f90f89def6a') no-repeat; 
 	background-size: cover;
-	width: 60%; 
-	max-width: 1200px;	
-	height: 110vh; 
-	max-height: 1200px;
 	display: block; 
 	z-index: -1; 
+
+	@media (min-width: $med) {
+		width: 50%;
+		float: left; 
+		height: 110vh; 
+	}
+
+	@media (min-width: $large) { 
+		width: 60%;
+		max-width: 1200px;	
+		max-height: 1200px;
+		
+	}
 }
 
 .home_intro {
-	margin-left: 570px; 
-	width: 550px; 
-	float: right;
+	width: 100%;
+	float: none;
 	z-index: 10;
-	position: absolute; 
-	top: 140px;
+	padding: 20px; 
+
+	@media (min-width: $med) {
+	 	width: 50%; 
+		float: right;
+		padding: 30px;
+    	margin-top: 80px;
+	}
+
+	@media (min-width: $large) {
+		margin-left: 50%;
+    	width: 600px;
+    	position: absolute;
+    	top: 30px; 
+	}
 
 	h1 {
 		font-family: $serif; 
-		font-size: 70px; 
-		line-height: 78px;
+		font-size: 32px; 
+		line-height: 42px; 
+		color: $color--black; 
+
+		@media (min-width: $med) {
+			font-size: 42px; 
+			line-height: 56px; 
+		}
+		
+		@media (min-width: $large) {
+			font-size: 70px; 
+			line-height: 78px;	
+		}
 	}
 
 	p {
-		margin-left: 190px;
-		max-width: 360px; 
+
+		margin-left: 0;
+		width: 100%;
+
+		@media (min-width: $med) {
+			//margin-left: 20vw;
+    		//max-width: 330px;
+		}
+
+		@media (min-width: $large) {
+			margin-left: 140px;
+    		max-width: 400px; 
+		}
 	}
 }
 
@@ -62,22 +107,31 @@
 }
 
 .mission {
-	margin: 120px auto; 
-	text-align: center;
-	max-width: 930px;
+	margin: 40px 20px; 
+	text-align: left;
+
+	@media (min-width: $med) {
+		margin: 120px auto;
+		text-align: center;
+	}
+
+	@media (min-width: $large) { 
+		max-width: 930px;
+	}
 
 	h2 {
-		font-size: 48px; 
+		font-size: 36px;
 		line-height: 1.25; 
 		font-family: $serif;
-		margin-bottom: 40px;
+		margin-bottom: 20px;
+
+		@media (min-width: $large) {
+			font-size: 48px; 
+			margin-bottom: 40px;
+		}
 	}
 }
 
-.events {
-	background: #f9f9f9;
-	padding: 40px;
-}
 
 .event_list {
 	margin-top: 20px;

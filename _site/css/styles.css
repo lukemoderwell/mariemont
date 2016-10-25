@@ -51,7 +51,8 @@ strong { font-weight: 600; }
 
 .main { display: block; /* padding-top: em($gutter * 2); */ line-height: 1.5; }
 
-.wrap { margin: 0 35px; }
+.wrap { max-width: 100%; margin: 0 20px; overflow: hidden; }
+@media (min-width: 660px) { .wrap { width: 80%; margin: 0 35px; } }
 @media (min-width: 1200px) { .wrap { width: 1120px; margin: auto; } }
 
 .btn { display: inline-block; font-size: 18px; text-align: center; padding: 16px 24px; border-radius: 4px; text-decoration: none; color: #ffffff; transition: all .3s ease-in-out; }
@@ -66,7 +67,8 @@ strong { font-weight: 600; }
 
 .badge { font-size: 14px; background: #3498DB; padding: 9px 14px 6px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
 
-.header { position: fixed; top: 0; width: 100%; z-index: 20; padding: 35px 30px; text-align: left; transition: all .3s ease-in-out; }
+.header { position: fixed; top: 0; width: 100%; z-index: 20; padding: 28px 20px; text-align: left; transition: all .3s ease-in-out; }
+@media (min-width: 660px) { .header { padding: 35px 30px; } }
 
 .header.scroll { background: #ffffff; }
 
@@ -136,11 +138,18 @@ strong { font-weight: 600; }
 /* Home Page Styles */
 .home_hero { position: relative; }
 
-.home_hero_img { float: left; background: url("https://hd.unsplash.com/photo-1415226355641-7f90f89def6a") no-repeat; background-size: cover; width: 60%; max-width: 1200px; height: 110vh; max-height: 1200px; display: block; z-index: -1; }
+.home_hero_img { float: none; width: 100%; height: 50vh; background: url("https://hd.unsplash.com/photo-1415226355641-7f90f89def6a") no-repeat; background-size: cover; display: block; z-index: -1; }
+@media (min-width: 660px) { .home_hero_img { width: 50%; float: left; height: 110vh; } }
+@media (min-width: 1200px) { .home_hero_img { width: 60%; max-width: 1200px; max-height: 1200px; } }
 
-.home_intro { margin-left: 570px; width: 550px; float: right; z-index: 10; position: absolute; top: 140px; }
-.home_intro h1 { font-family: "Grad", Georgia, serif; font-size: 70px; line-height: 78px; }
-.home_intro p { margin-left: 190px; max-width: 360px; }
+.home_intro { width: 100%; float: none; z-index: 10; padding: 20px; }
+@media (min-width: 660px) { .home_intro { width: 50%; float: right; padding: 30px; margin-top: 80px; } }
+@media (min-width: 1200px) { .home_intro { margin-left: 50%; width: 600px; position: absolute; top: 30px; } }
+.home_intro h1 { font-family: "Grad", Georgia, serif; font-size: 32px; line-height: 42px; color: #1D1E1E; }
+@media (min-width: 660px) { .home_intro h1 { font-size: 42px; line-height: 56px; } }
+@media (min-width: 1200px) { .home_intro h1 { font-size: 70px; line-height: 78px; } }
+.home_intro p { margin-left: 0; width: 100%; }
+@media (min-width: 1200px) { .home_intro p { margin-left: 140px; max-width: 400px; } }
 
 .feat_sermon { margin-top: 20px; background: #3498DB; padding: 20px; }
 .feat_sermon span { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; color: rgba(0, 0, 0, 0.5); }
@@ -148,10 +157,11 @@ strong { font-weight: 600; }
 .feat_sermon audio { width: 100%; margin-bottom: 12px; }
 .feat_sermon a { text-decoration: none; color: #ffffff; }
 
-.mission { margin: 120px auto; text-align: center; max-width: 930px; }
-.mission h2 { font-size: 48px; line-height: 1.25; font-family: "Grad", Georgia, serif; margin-bottom: 40px; }
-
-.events { background: #f9f9f9; padding: 40px; }
+.mission { margin: 40px 20px; text-align: left; }
+@media (min-width: 660px) { .mission { margin: 120px auto; text-align: center; } }
+@media (min-width: 1200px) { .mission { max-width: 930px; } }
+.mission h2 { font-size: 36px; line-height: 1.25; font-family: "Grad", Georgia, serif; margin-bottom: 20px; }
+@media (min-width: 1200px) { .mission h2 { font-size: 48px; margin-bottom: 40px; } }
 
 .event_list { margin-top: 20px; }
 .event_list .card { margin: 0 2.25%; }

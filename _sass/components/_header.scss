@@ -3,9 +3,13 @@
   top: 0; 
   width: 100%;
   z-index: 20;  
-  padding: 35px 30px; 
+  padding: 28px 20px; 
   text-align: left;
   transition: all .3s ease-in-out; 
+  
+  @media (min-width: $med) {
+    padding: 35px 30px; 
+  }
 }
 
 
