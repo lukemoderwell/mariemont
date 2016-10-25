@@ -1,6 +1,7 @@
 @import 'utils/reset';
 @import 'utils/vars';
 @import 'utils/functions';
+@import 'utils/grid';
 
 
 html {
@@ -18,12 +19,6 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-.clearfix:after {
-    content:"";
-    display:block;
-    clear:both;
 }
 
 audio, embed, img, video {
@@ -96,23 +91,23 @@ strong {
   line-height: 1.5;
 }
 
-.wrap {
-  max-width: 100%; 
-  margin: 0 20px;
-  overflow: hidden;
+// .wrap {
+//   max-width: 100%; 
+//   margin: 0 20px;
+//   overflow: hidden;
 
-  @media (min-width: $med) {
-    width: 80%;
-    margin: 0 35px;
-  }
+//   @media (min-width: $med) {
+//     width: 80%;
+//     margin: 0 35px;
+//   }
   
-  @media (min-width: $large) {
-    width: 1120px; 
-    margin: auto;
-  }
+//   @media (min-width: $large) {
+//     width: 1120px; 
+//     margin: auto;
+//   }
 
 
-}
+// }
 
 .btn {
   display: inline-block; 
