@@ -6,25 +6,19 @@ layout: default
   <h2>{{ page.content }}</h2>
 </div>
 
-{% for sermon in site.sermons reversed %}
-    <div class="event_card">
-         <figure class="event_card_hero" style="background-image: url({{ sermon.thumbnail_image }});"></figure>
-          <a href="{{ sermon.url | prepend: site.baseurl }}">
-            <h3 class="event_title">{{ sermon.title }}</h3>
-            <p>{{ sermon.content | truncate: 120, ' ...' }}</p>
-            <span class="event_date">Read More</span>
-          </a>
-    </div>
-{% endfor %}
-
- <!--    {% for sermon in site.sermons %}
-      <li>
-      <img src="{{ sermon.thumbnail_image }}" />
-        <h2>
-          <a class="post-link" href="{{ sermon.url | prepend: site.baseurl }}">{{ sermon.title | escape }}</a>
-        </h2>
-        <span class="post-meta">{{ sermon.series | escape }}</span> <span>Week {{ sermon.week }}</span> 
-        <audio controls preload src="{{ sermon.audio_file }}"></audio>
-      </li>
+<div class="row">
+    {% for sermon in site.sermons reversed %}
+      <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="card">
+           {% if event.event_image != empty %}
+             <figure class="card_hero" style="background-image: url({{ sermon.thumbnail_image }});"></figure>
+             {% endif %} 
+              <a href="{{ sermon.permalink }}">
+                <h3 class="card_title">{{ sermon.title }}</h3>
+                <p>{{ sermon.content | truncate: 120, ' ...' }}</p>
+                <span class="card_date">Read More</span>
+              </a>
+          </div>
+        </div>
     {% endfor %}
-  </ul> -->
+  </div>

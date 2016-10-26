@@ -9,13 +9,16 @@
 }
 @media (min-width: $med) {
   .container {
-    width: 80%;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px
   }
 }
 
 @media (min-width: $large) {
   .container {
     width: 90%;
+    padding: 0; 
   }
 }
 .container-fluid {

@@ -4,7 +4,7 @@
 .home_hero_img {
 	float: none; 
 	width: 100%; 
-	height: 50vh; 
+	height: 35vh; 
 	background: url('https://hd.unsplash.com/photo-1415226355641-7f90f89def6a') no-repeat; 
 	background-size: cover;
 	display: block; 
@@ -107,7 +107,7 @@
 }
 
 .mission {
-	margin: 40px 20px; 
+	margin: 20px 0; 
 	text-align: left;
 
 	@media (min-width: $med) {
@@ -132,3 +132,9 @@
 	}
 }
 
+.events_link {
+	@media (min-width: $large) {
+    text-align: right;
+    padding-top: 14px;
+	}
+}

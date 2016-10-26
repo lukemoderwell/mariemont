@@ -1,9 +1,10 @@
 /* events */
 
 .card {
-	min-height: 400px; 
+	min-height: 400px;
+	margin: 20px 0;  
 	position: relative;  
-	display: inline-block; 
+	//display: inline-block; 
 	vertical-align: top;
 	box-shadow: 0 20px 20px rgba(0,0,0,.08);
 	transition: .25s all ease-in-out;  
@@ -20,7 +21,7 @@
 		width: 100%; 
 		padding: 20px;
 		text-decoration: none;
-		height: 200px;
+		//height: 200px;
 		background: $color--white; 
 	}
 
