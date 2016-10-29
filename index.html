@@ -12,18 +12,19 @@ layout: frontpage
             <p>{{ content }}</p>
             {% endif %}
           {% endfor %}
-            <div class="feat_sermon">
-             {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
-              <span>Current Series</span>
-              <a href="{{sermon.permalink}}"><h3>{{ sermon.title }}</h3>
-              <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
-              <audio controls preload src="{{ sermon.audio_file }}"></audio>
-              <a href="/sermons" class="cta">See All Sermons</a>
-              {% endif %}{% endfor %}
-            </div>
         <!-- </div> -->
       </div>
     </section>
+    <div class="feat_sermon">
+      <div class="feat_sermon_inner">
+         {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
+          <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
+          <a href="{{sermon.permalink}}"><h3>{{ sermon.title }}</h3>
+          <audio controls preload src="{{ sermon.audio_file }}"></audio>
+          <a href="/sermons" class="cta">See All Sermons</a>
+          {% endif %}{% endfor %}
+        </div>
+    </div>
     <div class="container">
       <section class="mission">
         <h2>We believe in laying down our lives by serving our family, friends, and those in need.</h2>
