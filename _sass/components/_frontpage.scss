@@ -5,22 +5,18 @@
 	float: none; 
 	width: 100%; 
 	height: 35vh; 
-	background: url('https://hd.unsplash.com/photo-1415226355641-7f90f89def6a') no-repeat; 
 	background-size: cover;
 	display: block; 
 	z-index: -1; 
 
 	@media (min-width: $med) {
-		width: 50%;
-		float: left; 
-		height: 110vh; 
+		height: 60vh; 
+		max-height: 600px;
 	}
 
 	@media (min-width: $large) { 
-		width: 60%;
-		max-width: 1200px;	
-		max-height: 1200px;
-		
+		height: 75vh; 
+		max-height: 800px;
 	}
 }
 
@@ -28,76 +24,81 @@
 	width: 100%;
 	float: none;
 	z-index: 10;
-	padding: 20px; 
+	position: absolute;
+	right: 0; 
+	left: 0;
+	top: 12vh; 
+    margin: auto;
 
 	@media (min-width: $med) {
-	 	width: 50%; 
-		float: right;
-		padding: 30px;
-    	margin-top: 80px;
+    	width: 80%; 
+    	max-width: 1120px; 
+    	top: 20vh; 
 	}
 
 	@media (min-width: $large) {
-		margin-left: 50%;
-    	width: 600px;
-    	position: absolute;
-    	top: 30px; 
+    	
 	}
 
 	h1 {
 		font-family: $serif; 
-		font-size: 32px; 
-		line-height: 42px; 
+		font-size: 40px; 
+		line-height: 1.65; 
 		color: $color--black; 
+		text-align: center; 
 
 		@media (min-width: $med) {
-			font-size: 42px; 
-			line-height: 56px; 
+			font-size: 48px;
 		}
 		
 		@media (min-width: $large) {
-			font-size: 70px; 
-			line-height: 78px;	
+			font-size: 64px; 
 		}
 	}
 
 	p {
 
-		margin-left: 0;
-		width: 100%;
+		font-size: 16px; 
+		text-align: center; 
+    	margin: 20px auto 40px auto;
 
 		@media (min-width: $med) {
 			//margin-left: 20vw;
-    		//max-width: 330px;
+    		max-width:640px;
+    		font-size: 20px; 
 		}
 
 		@media (min-width: $large) {
-			margin-left: 140px;
-    		max-width: 400px; 
+
 		}
 	}
 }
 
-.feat_sermon {
-	margin-top: 20px; 
+.feat_sermon { 
 	background: $color--blue;
-	padding: 20px; 
+	padding: 20px;
+	z-index: 10; 
 
-	span  {
+	.feat_sermon_inner {
+		max-width: 1120px; 
+		margin: 0 auto; 
+	}
+
+	h3 {
+		color: $color--white;
+		font-family: $serif;
+		margin-bottom: 10px;
+	}
+
+	h4 {
 		font-size: 14px; 
 		text-transform: uppercase; 
 		letter-spacing: 1px; 
 		color: rgba(0,0,0,.5); 
 	}
 
-	h4 {
-		color: $color--white; 
-		margin-bottom: 12px;
-	}
-
 	audio {
 		width: 100%; 
-		margin-bottom: 12px;
 	}
 
  	a {
@@ -111,7 +112,7 @@
 	text-align: left;
 
 	@media (min-width: $med) {
-		margin: 120px auto;
+		margin: 140px auto;
 		text-align: center;
 	}
 
