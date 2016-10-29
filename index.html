@@ -4,7 +4,7 @@ layout: frontpage
 
 <div class="home">
   <section class="home_hero clearfix">
-    <div class="home_hero_img"></div>
+    <div class="home_hero_img" style="background: url('{{ page.hero_image }}') no-repeat; "></div>
         <div class="home_intro">
           {% for page in site.pages %}
             {% if page.title == 'Frontpage' %}
