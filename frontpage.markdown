@@ -3,10 +3,8 @@ title: Frontpage
 date: 2016-10-13 07:30:00 -04:00
 permalink: "/"
 heading: Living & Loving In Jesus Christ
+hero_image: https://hd.unsplash.com/photo-1415226355641-7f90f89def6a
 layout: frontpage
 ---
 
-We’re a growing community of families in East Cincinnati committed to following Jesus. Visit us on Sundays at 9am and 11am.
-
-Are you new to MCC?
-Learn more about our church.
+We’re a growing community of families in East Cincinnati committed to following Jesus. Visit us on Sundays at 9am and 11am. Are you new to MCC? Learn more about our church.
