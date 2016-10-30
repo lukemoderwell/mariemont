@@ -10,6 +10,7 @@ layout: frontpage
       <div class="home_intro">
           <h1 class="page_heading">{{ page.heading }}</h1>
           {{ content }}
+          <a href="#" class="btn outline">Learn More</a>
       </div>
       {% endif %}
     {% endfor %}
@@ -18,8 +19,10 @@ layout: frontpage
       <div class="feat_sermon_inner">
          {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
           <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
-          <a href="{{sermon.permalink}}"><h3>{{ sermon.title }}</h3>
-          <audio controls preload src="{{ sermon.audio_file }}"></audio>
+            <div class="row"> 
+            <a href="{{sermon.permalink}}" class="col-sm-12 col-md-5"><h3>{{ sermon.title }}</h3></a> 
+            <audio controls preload src="{{ sermon.audio_file }}" class="col-sm-12 col-md-7"></audio>
+          </div>
           <a href="/sermons" class="cta">See All Sermons</a>
           {% endif %}{% endfor %}
         </div>

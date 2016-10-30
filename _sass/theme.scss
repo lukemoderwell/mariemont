@@ -136,6 +136,19 @@ strong {
   }
 }
 
+.outline.btn {
+  font-size: 14px; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+  border: 1px solid $color--blue; 
+  padding: 13px 12px 8px 12px; 
+  color: $color--black;
+}
+
+.outline.btn:hover {
+  background: $color--blue;
+}
+
 .btn:hover {
   color: $color--white;
 }

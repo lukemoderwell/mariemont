@@ -4,7 +4,7 @@
 .home_hero_img {
 	float: none; 
 	width: 100%; 
-	height: 35vh;
+	height: 65vh;
 	background-size: cover;
 	display: block; 
 	z-index: -1; 
@@ -15,7 +15,7 @@
 	}
 
 	@media (min-width: $large) { 
-		height: 75vh; 
+		height: 80vh; 
 		max-height: 800px;
 	}
 }
@@ -29,21 +29,22 @@
 	left: 0;
 	top: 12vh; 
     margin: auto;
+    padding: 0 20px; 
 
 	@media (min-width: $med) {
     	width: 80%; 
     	max-width: 1120px; 
-    	top: 22vh; 
+    	top: 20vh; 
 	}
 
 	@media (min-width: $large) {
-    	top: 25vh;
+    	top: 30vh;
 	}
 
 	h1 {
 		font-family: $serif; 
-		font-size: 40px; 
-		line-height: 1.65; 
+		font-size: 36px; 
+		line-height: 1.5; 
 		color: $color--black; 
 		text-align: center; 
 
@@ -72,12 +73,18 @@
 
 		}
 	}
+
+	.outline.btn {
+		display: block;
+		width: 120px;
+		margin: 0 auto; 
+	}
 }
 
 .feat_sermon { 
-	background: $color--blue;
+	background: $color--dark-gray;
 	padding: 20px;
-	z-index: 10; 
+	z-index: 5; 
 
 	.feat_sermon_inner {
 		max-width: 1120px; 
@@ -91,14 +98,14 @@
 	}
 
 	h4 {
+		color: rgba(255,255,255,.75);
 		font-size: 14px; 
 		text-transform: uppercase; 
 		letter-spacing: 1px; 
-		color: rgba(0,0,0,.5); 
 	}
 
 	audio {
-		width: 100%; 
+		// width: 100%; 
 	}
 
  	a {
@@ -108,23 +115,29 @@
 }
 
 .mission {
-	margin: 20px 0; 
+	margin: 40px 0; 
 	text-align: left;
 
 	@media (min-width: $med) {
-		margin: 140px auto;
+		margin: 100px auto;
 		text-align: center;
+		max-width: 700px; 
 	}
 
 	@media (min-width: $large) { 
+		margin: 140px auto;
 		max-width: 930px;
 	}
 
 	h2 {
-		font-size: 36px;
+		font-size: 32px;
 		line-height: 1.25; 
 		font-family: $serif;
 		margin-bottom: 20px;
+
+		@media (min-width: $med) {
+			font-size: 38px;
+		}
 
 		@media (min-width: $large) {
 			font-size: 48px; 

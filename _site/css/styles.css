@@ -332,6 +332,10 @@ strong { font-weight: 600; }
 .secondary { background: #2E2F2F; }
 .secondary:hover { background: #474949; }
 
+.outline.btn { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; border: 1px solid #3498DB; padding: 13px 12px 8px 12px; color: #1D1E1E; }
+
+.outline.btn:hover { background: #3498DB; }
+
 .btn:hover { color: #ffffff; }
 
 .badge { font-size: 14px; background: #3498DB; padding: 9px 14px 6px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
@@ -345,8 +349,7 @@ strong { font-weight: 600; }
 @media (min-width: 768px) { .header__title { font-size: 22px; } }
 
 .header_badge { display: none; }
-@media (min-width: 768px) { .header_badge { display: block; position: absolute; left: 340px; } }
-@media (min-width: 1200px) { .header_badge { left: 30vw; } }
+@media (min-width: 768px) { .header_badge { display: block; } }
 
 .header__title__link { color: #1D1E1E; text-decoration: none; }
 .header__title__link:hover { text-decoration: underline; }
@@ -407,30 +410,31 @@ strong { font-weight: 600; }
 /* Home Page Styles */
 .home_hero { position: relative; }
 
-.home_hero_img { float: none; width: 100%; height: 35vh; background-size: cover; display: block; z-index: -1; }
+.home_hero_img { float: none; width: 100%; height: 65vh; background-size: cover; display: block; z-index: -1; }
 @media (min-width: 768px) { .home_hero_img { height: 60vh; max-height: 600px; } }
-@media (min-width: 1200px) { .home_hero_img { height: 75vh; max-height: 800px; } }
+@media (min-width: 1200px) { .home_hero_img { height: 80vh; max-height: 800px; } }
 
-.home_intro { width: 100%; float: none; z-index: 10; position: absolute; right: 0; left: 0; top: 12vh; margin: auto; }
-@media (min-width: 768px) { .home_intro { width: 80%; max-width: 1120px; top: 22vh; } }
-@media (min-width: 1200px) { .home_intro { top: 25vh; } }
-.home_intro h1 { font-family: "Grad", Georgia, serif; font-size: 40px; line-height: 1.65; color: #1D1E1E; text-align: center; }
+.home_intro { width: 100%; float: none; z-index: 10; position: absolute; right: 0; left: 0; top: 12vh; margin: auto; padding: 0 20px; }
+@media (min-width: 768px) { .home_intro { width: 80%; max-width: 1120px; top: 20vh; } }
+@media (min-width: 1200px) { .home_intro { top: 30vh; } }
+.home_intro h1 { font-family: "Grad", Georgia, serif; font-size: 36px; line-height: 1.5; color: #1D1E1E; text-align: center; }
 @media (min-width: 768px) { .home_intro h1 { font-size: 48px; } }
 @media (min-width: 1200px) { .home_intro h1 { font-size: 64px; } }
 .home_intro p { font-size: 16px; text-align: center; margin: 20px auto 40px auto; }
 @media (min-width: 768px) { .home_intro p { max-width: 640px; font-size: 20px; } }
+.home_intro .outline.btn { display: block; width: 120px; margin: 0 auto; }
 
-.feat_sermon { background: #3498DB; padding: 20px; z-index: 10; }
+.feat_sermon { background: #2E2F2F; padding: 20px; z-index: 5; }
 .feat_sermon .feat_sermon_inner { max-width: 1120px; margin: 0 auto; }
 .feat_sermon h3 { color: #ffffff; font-family: "Grad", Georgia, serif; margin-bottom: 10px; }
-.feat_sermon h4 { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; color: rgba(0, 0, 0, 0.5); }
-.feat_sermon audio { width: 100%; }
+.feat_sermon h4 { color: rgba(255, 255, 255, 0.75); font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
 .feat_sermon a { text-decoration: none; color: #ffffff; }
 
-.mission { margin: 20px 0; text-align: left; }
-@media (min-width: 768px) { .mission { margin: 140px auto; text-align: center; } }
-@media (min-width: 1200px) { .mission { max-width: 930px; } }
-.mission h2 { font-size: 36px; line-height: 1.25; font-family: "Grad", Georgia, serif; margin-bottom: 20px; }
+.mission { margin: 40px 0; text-align: left; }
+@media (min-width: 768px) { .mission { margin: 100px auto; text-align: center; max-width: 700px; } }
+@media (min-width: 1200px) { .mission { margin: 140px auto; max-width: 930px; } }
+.mission h2 { font-size: 32px; line-height: 1.25; font-family: "Grad", Georgia, serif; margin-bottom: 20px; }
+@media (min-width: 768px) { .mission h2 { font-size: 38px; } }
 @media (min-width: 1200px) { .mission h2 { font-size: 48px; margin-bottom: 40px; } }
 
 @media (min-width: 1200px) { .events_link { text-align: right; padding-top: 14px; } }
