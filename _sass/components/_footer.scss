@@ -1,9 +1,25 @@
+.map_title {
+	margin-top: ($gutter * 3);
+	text-align: left;
+
+	@media (min-width: $med) {
+		text-align: center; 
+	}
+}
+
+.map {
+	margin-top: $gutter;
+
+	iframe {
+		width: 100%; 
+	}
+}
+
 .footer {
   width: 100%; 
   color: $color--light-gray;
   min-height: 450px;
   font-size: 18px;
-  margin: ($gutter * 3) auto 0;
   padding-bottom: 40px; 
   text-align: left;
   background: $color--black; 
@@ -16,13 +32,6 @@
 	border-bottom: 1px solid rgba(255,255,255,.1);
 }
 
-.footer-top-title, .footer-main-title, .footer-top-actions, .footer-main-nav {
-	width: 100%;
-	@media (min-width: $med) {
-		width: 50%; 
-		max-width: 550px;
-	}
-}
 
 .footer-top-title, .footer-main-title {
 	float: left; 
@@ -37,17 +46,9 @@
 }
 
 .footer-top-actions {
-	.btn {
-		width: 100%; 
-		float: none; 
-		margin: 10px 20px 10px 0; 
+	.btn { 
+		margin: 10px 20px; 
 		
-		@media (min-width: $med) {
-			width: 48%; 
-			max-width: 265px;
-			float: left; 
-		}
-
 		&:last-child {
 		margin-right: 0;
 		float: none; 
@@ -86,24 +87,6 @@
 	}
 }
 
-.footer-main-nav ul {
-	display: block;
-	width: 100%;
-	max-width: 265px;
-	float: left;  
-	margin-top: 4px;
-	margin-right: 20px; 
-
-	@media (min-width: $med) {
-		display: inline-block;
-		width: 50%;
-	}
-
-	&:last-child {
-		margin-right: 0;
-		float: none; 
-		}
-}
 
 .footer-main-nav ul li {
 	line-height: 30px;
