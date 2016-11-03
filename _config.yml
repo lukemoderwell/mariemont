@@ -38,6 +38,13 @@ defaults:
     event_image: 
     heading: 
     lead_in: 
+- scope:
+    path: ''
+    type: staff
+  values:
+    name: 
+    position: 
+    staff_image: 
 email: your-email@domain.com
 description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.
