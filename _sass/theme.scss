@@ -13,6 +13,7 @@ html {
 }
 
 body {
+  overflow-x: hidden; 
   background: #fff;
   color: $color--gray;
   font-family: $sans;
