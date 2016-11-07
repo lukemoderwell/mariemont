@@ -19,7 +19,7 @@
 
 
 .page_header {
-  padding: 40vh 0 10vh 0; 
+  padding: 30vh 0 10vh 0; 
   
   .page_hero_text {
   	  
@@ -56,3 +56,28 @@
 	margin: 0 auto;  
 }
 
+
+/* Sermon */
+
+.sermon_hero_text {
+	text-align: center; 
+
+	h1 {
+		font-family: $serif; 
+		font-size: 44px;
+		margin-bottom: $gutter / 4; 
+	}
+
+	h2 {
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 600;
+	color: $color--dark-gray; 
+	margin-bottom: $gutter / 4; 
+	}
+
+	audio {
+		width: 50vw; 
+	}
+}

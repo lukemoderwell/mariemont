@@ -22,6 +22,7 @@ defaults:
     path: ''
     type: sermons
   values:
+    layout: page-sermon
     series: ''
     week: ''
     sermon_date: ''

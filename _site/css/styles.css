@@ -447,13 +447,19 @@ strong { font-weight: 600; }
 .page_content h2 { font-size: 24px; margin-bottom: 20px; font-family: "Grad", Georgia, serif; }
 .page_content p { font-size: 20px; line-height: 1.6; }
 
-.page_header { padding: 40vh 0 10vh 0; }
+.page_header { padding: 30vh 0 10vh 0; }
 @media (min-width: 768px) { .page_header .page_hero_text { padding: 0 40% 0 35px; } }
 @media (min-width: 1200px) { .page_header .page_hero_text { padding-left: 0; } }
 .page_header .page_hero_text h1 { font-size: 18px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
 .page_header .page_hero_text h2 { font-size: 28px; line-height: 1.5; font-family: "Grad", Georgia, serif; margin-bottom: 10px; }
 
 .full_page_image { background-size: cover; width: 95%; height: 45vh; max-height: 600px; margin: 0 auto; }
+
+/* Sermon */
+.sermon_hero_text { text-align: center; }
+.sermon_hero_text h1 { font-family: "Grad", Georgia, serif; font-size: 44px; margin-bottom: 7.5px; }
+.sermon_hero_text h2 { font-size: 16px; text-transform: uppercase; letter-spacing: 1px; font-weight: 600; color: #2E2F2F; margin-bottom: 7.5px; }
+.sermon_hero_text audio { width: 50vw; }
 
 /* events */
 .card { min-height: 400px; margin: 20px 0; position: relative; vertical-align: top; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.08); transition: .25s all ease-in-out; }

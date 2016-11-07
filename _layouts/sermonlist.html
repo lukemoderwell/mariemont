@@ -16,7 +16,10 @@ layout: default
               <a href="{{ sermon.permalink }}">
                 <h3 class="card_title">{{ sermon.title }}</h3>
                 <p>{{ sermon.content | truncate: 120, ' ...' }}</p>
-                <span class="card_date">Read More</span>
+                {% if page.sermon_date %}
+                  <span class="sermon_date">{{ page.sermon_date | date: "%a, %b %d" }}</span>
+                {% endif %}
+                <!-- <span class="card_date">Read More</span> -->
               </a>
           </div>
         </div>
