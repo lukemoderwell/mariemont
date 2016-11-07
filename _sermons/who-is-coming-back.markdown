@@ -9,3 +9,4 @@ audio_file: "/uploads/test.mp3"
 thumbnail_image: "/uploads/thumb2.jpg"
 ---
 
+Some content. 
