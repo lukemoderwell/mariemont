@@ -11,3 +11,4 @@ thumbnail_image: "/uploads/thumb2.jpg"
 layout: page-sermon
 ---
 
+Some content.
