@@ -11,3 +11,5 @@ thumbnail_image: "/uploads/thumb2.jpg"
 layout: page-sermon
 ---
 
+Friends of Jesus, the church in Corinth amazed Paul with their selfishness. They were in disarray!
+They had gender role confusion, factions, and unworthy communion celebrations. It was so bad that some people were getting sick and even put to death by God’s judgment. May we have the attitude of Jesus, who did not count equality with God as something to be used to his own advantage.
