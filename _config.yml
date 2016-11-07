@@ -24,6 +24,7 @@ defaults:
   values:
     series: ''
     week: ''
+    sermon_date: ''
     speaker: ''
     audio_file: ''
     video_url: ''

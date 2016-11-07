@@ -7,15 +7,36 @@ layout: frontpage
 		<h2 class="sermon_meta">{{ page.series }} {{ page.week }}</h2>
 		<audio controls preload src="{{ page.audio_file }}"></audio>
 		<p class="speaker">{{ page.speaker }}</p>
-		{% if page.start_date and page.end_date %}
-			<span class="event_date">{{ page.start_date | date: "%a, %b %d"}} — {{ page.end_date | date: "%a, %b %d" }}</span>
+		{% if page.date %}
+			<span class="sermon_date">{{ page.sermon_date | date: "%a, %b %d" }}</span>
 		{% endif %}
 	</div>
 </div>
-
 
 {% if page.content %}
 	<div class="container page_content">
 		{{ content }}
 	</div>
 {% endif %}
+
+<div class="container suggested_sermons">
+	<h2>Related Sermons</h2>
+  	{% assign title = page.title %}
+	{% for sermon in site.sermons limit:3%}{% if sermon.title != title %}
+	<div class="row">
+		<div class="col-sm-12 col-md-6">
+			<div class="card">
+		   	{% if event.event_image != empty %}
+		    <figure class="card_hero" style="background-image: url({{ sermon.thumbnail_image }});"></figure>
+		    {% endif %} 
+		      <a href="{{ sermon.permalink }}">
+		        <h3 class="card_title">{{ sermon.title }}</h3>
+		        <p>{{ sermon.content | truncate: 120, ' ...' }}</p>
+		        <span class="card_date">{{ sermon.sermon_date | date: "%a, %b %d" }}</span>
+		      </a>
+		    </div>
+		</div>
+	 </div>
+	{% endif %}
+    {% endfor %}
+</div>
