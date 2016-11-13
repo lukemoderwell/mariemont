@@ -94,37 +94,31 @@ strong {
   line-height: 1.5;
 }
 
-// .wrap {
-//   max-width: 100%; 
-//   margin: 0 20px;
-//   overflow: hidden;
-
-//   @media (min-width: $med) {
-//     width: 80%;
-//     margin: 0 35px;
-//   }
-  
-//   @media (min-width: $large) {
-//     width: 1120px; 
-//     margin: auto;
-//   }
-
-
-// }
 
 .btn {
     display: inline-block;
+    padding: 12px 24px;
+    margin-bottom: 0;
     font-size: 18px;
-    line-height: 1;
+    line-height: 1.5;
     text-align: center;
-    padding: 20px 24px 21px;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
     border-radius: 4px;
-    text-decoration: none;
-    color: #ffffff;
     transition: all .3s ease-in-out;
 }
 
 .primary {
+  color: #ffffff; 
   background: $color--blue;
   &:hover {
     background: darken($color--blue, $color-shift)
@@ -132,9 +126,10 @@ strong {
 }
 
 .secondary {
+  color: #ffffff;
   background: $color--dark-gray;
   &:hover {
-    background: lighten($color--dark-gray, $color-shift);
+    background: darken($color--dark-gray, $color-shift);
   }
 }
 
@@ -159,14 +154,13 @@ strong {
 .badge {
   font-size: 14px; 
   background: $color--blue; 
-  padding: 9px 14px 6px; 
+  padding: 10px 14px 22px; 
   text-transform: uppercase; 
   color: $color--white; 
   letter-spacing: 1px; 
   border-radius: 100px;
   max-height: 26px; 
 }
-
 
 @import 'components/header';
 @import 'components/footer';

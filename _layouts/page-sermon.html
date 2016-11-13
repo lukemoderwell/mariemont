@@ -17,29 +17,30 @@ layout: frontpage
 {% if page.content %}
 <div class="container page_content">
 	{{ content }}
+</div>
 {% endif %}
-	<div class="suggested_sermons">
-		<h2>Related Sermons</h2>
-	  	{% assign title = page.title %}
-	  	{% assign series = page.series %}
-	  	<div class="row">
-		{% for sermon in site.sermons reversed %} {% if series == sermon.series %} {% if sermon.title != title %}
-			<div class="col-sm-12">
-				<div class="card">
-			   	{% if event.event_image != empty %}
-			    <figure class="card_hero" style="background-image: url({{ sermon.thumbnail_image }});"></figure>
-			    {% endif %} 
-			      <a href="{{ sermon.permalink }}">
-			        <h3 class="card_title">{{ sermon.title }}</h3>
-			        <p>{{ sermon.content | truncate: 120, ' ...' }}</p>
-			        <span class="card_date">{{ sermon.sermon_date | date: "%a, %b %d" }}</span>
-			      </a>
-			    </div>
-			</div>
-			{% endif %}	
-			{% endif %}
-	    {% endfor %}
-	    </div>
+
+<div class="suggested_sermons container">
+	<h2>Related Sermons</h2>
+		{% assign title = page.title %}
+		{% assign series = page.series %}
+		<div class="row">
+	{% for sermon in site.sermons reversed %} {% if series == sermon.series %} {% if sermon.title != title %}
+		<div class="col-sm-12 col-md-4">
+			<div class="card">
+		   	{% if event.event_image != empty %}
+		    <figure class="card_hero" style="background-image: url({{ sermon.thumbnail_image }});"></figure>
+		    {% endif %} 
+		      <a href="{{ sermon.permalink }}">
+		        <h3 class="card_title">{{ sermon.title }}</h3>
+		        <p>{{ sermon.content | truncate: 120, ' ...' }}</p>
+		        <span class="card_date">{{ sermon.sermon_date | date: "%a, %b %d" }}</span>
+		      </a>
+		    </div>
+		</div>
+		{% endif %}	
+		{% endif %}
+	{% endfor %}
 	</div>
 </div>
 

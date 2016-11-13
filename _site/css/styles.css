@@ -295,7 +295,7 @@ html { box-sizing: border-box; }
 
 *, *:before, *:after { box-sizing: inherit; }
 
-body { overflow-x: hidden; background: #fff; color: #3E4A56; font-family: "Neuzeit Grotesk", "HelveticaNeue", Helvetica, sans-serif; font-size: 16px; margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { overflow-x: hidden; background: #fff; color: #3E4A56; font-family: "proxima-nova", "HelveticaNeue", Helvetica, sans-serif; font-size: 16px; margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 audio, embed, img, video { max-width: 100%; }
 
@@ -324,13 +324,13 @@ strong { font-weight: 600; }
 
 .main { display: block; /* padding-top: em($gutter * 2); */ line-height: 1.5; }
 
-.btn { display: inline-block; font-size: 18px; line-height: 1; text-align: center; padding: 20px 24px 21px; border-radius: 4px; text-decoration: none; color: #ffffff; transition: all .3s ease-in-out; }
+.btn { display: inline-block; padding: 12px 24px; margin-bottom: 0; font-size: 18px; line-height: 1.5; text-align: center; white-space: nowrap; vertical-align: middle; -ms-touch-action: manipulation; touch-action: manipulation; cursor: pointer; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; background-image: none; border: 1px solid transparent; border-radius: 4px; transition: all .3s ease-in-out; }
 
-.primary { background: #3498DB; }
+.primary { color: #ffffff; background: #3498DB; }
 .primary:hover { background: #217dbb; }
 
-.secondary { background: #2E2F2F; }
-.secondary:hover { background: #474949; }
+.secondary { color: #ffffff; background: #2E2F2F; }
+.secondary:hover { background: #151515; }
 
 .outline.btn { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; border: 1px solid #3498DB; padding: 13px 12px 8px 12px; color: #1D1E1E; }
 
@@ -338,7 +338,7 @@ strong { font-weight: 600; }
 
 .btn:hover { color: #ffffff; }
 
-.badge { font-size: 14px; background: #3498DB; padding: 9px 14px 6px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
+.badge { font-size: 14px; background: #3498DB; padding: 10px 14px 22px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
 
 .header { position: fixed; top: 0; width: 100%; z-index: 20; padding: 28px 20px; text-align: left; transition: all .3s ease-in-out; }
 @media (min-width: 768px) { .header { padding: 35px 30px; } }
@@ -418,7 +418,7 @@ strong { font-weight: 600; }
 @media (min-width: 768px) { .home_intro { width: 80%; max-width: 1120px; top: 20vh; } }
 .home_intro h1 { font-family: "Grad", Georgia, serif; font-size: 36px; line-height: 1.5; color: #1D1E1E; text-align: center; }
 @media (min-width: 768px) { .home_intro h1 { font-size: 48px; } }
-@media (min-width: 1200px) { .home_intro h1 { font-size: 64px; } }
+@media (min-width: 1200px) { .home_intro h1 { font-size: 60px; } }
 .home_intro p { font-size: 16px; text-align: center; margin: 20px auto 30px auto; }
 @media (min-width: 768px) { .home_intro p { max-width: 640px; font-size: 20px; } }
 .home_intro .btn { margin-left: 30px; max-width: 246px; }
