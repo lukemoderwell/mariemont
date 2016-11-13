@@ -8,7 +8,7 @@ sermon_date: 2016-10-02 00:00:00 -04:00
 speaker: Denis Beausejour
 audio_file: "/uploads/test.mp3"
 thumbnail_image: "/uploads/thumb1.jpg"
-is_featured: false
+is_featured: true
 layout: page-sermon
 ---
 
