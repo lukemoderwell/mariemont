@@ -3,7 +3,7 @@ title: Frontpage
 date: 2016-10-13 07:30:00 -04:00
 permalink: "/"
 heading: Living & Loving In Jesus Christ
-hero_image: https://hd.unsplash.com/photo-1415226355641-7f90f89def6a
+hero_image: https://unsplash.com/?photo=eWFdaPRFjwE
 layout: frontpage
 ---
 
