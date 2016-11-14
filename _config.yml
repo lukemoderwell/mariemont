@@ -46,9 +46,9 @@ defaults:
     path: ''
     type: staff
   values:
-    name: '' 
+    name: ''
     position: ''
-    staff_image: '' 
+    staff_image: ''
 email: your-email@domain.com
 description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.
