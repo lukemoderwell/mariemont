@@ -37,18 +37,18 @@ defaults:
   values:
     layout: page
     bg_color: ''
-    start_date: 
-    end_date: 
-    event_image: 
-    heading: 
-    lead_in: 
+    start_date: ''
+    end_date: ''
+    event_image: ''
+    heading: ''
+    lead_in: ''
 - scope:
     path: ''
     type: staff
   values:
-    name: 
-    position: 
-    staff_image: 
+    name: '' 
+    position: ''
+    staff_image: '' 
 email: your-email@domain.com
 description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.

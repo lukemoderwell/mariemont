@@ -9,7 +9,11 @@
 	box-shadow: 0 20px 20px rgba(0,0,0,.08);
 	transition: .25s all ease-in-out;  
 
-	p { margin-top: 0; }
+	&.sermon_card {
+		min-height: 360px;
+	}
+
+	p { margin-top: 6px; }
 
 	figure {
 		width: 100%; 
@@ -25,8 +29,8 @@
 		background: $color--white; 
 	}
 
-	
-	.card_title {font-family: $serif;}
+
+	.card_title {font-family: $serif; font-size: 24px;}
 
 	.card_date {
 		position: absolute; 
