@@ -10,16 +10,12 @@ layout: frontpage
       <div class="home_intro">
           <h1 class="page_heading">{{ page.heading }}</h1>
           {{ content }}
-          <div class="row">
-            <div class="col-md-offset-3">
-              <div class="cta_group col-md-8">
-                <div class="row">
-                  <a href="#" class="btn secondary col-md-5">Learn More</a>
-                  <a href="#" class="btn primary col-md-5">Take The Next Steps</a>
-                </div>
-              </div>
-            </div>
+          <div class="cta_group">
+            <a href="#" class="hero_btn btn secondary">Learn More</a>
+            <a href="#" class="hero_btn btn primary">Take The Next Steps</a>
           </div>
+      </div>
+    </div>
       </div>
       {% endif %}
     {% endfor %}
