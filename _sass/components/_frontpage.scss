@@ -15,7 +15,7 @@
 	}
 
 	@media (min-width: $large) { 
-		height: 82vh; 
+		height: 100vh; 
 		max-height: 800px;
 	}
 }
@@ -68,7 +68,7 @@
 		font-family: $serif; 
 		font-size: 36px; 
 		line-height: 1.5; 
-		color: $color--black; 
+		color: $color--white; 
 		text-align: center; 
 
 		@media (min-width: $med) {
