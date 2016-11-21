@@ -340,29 +340,27 @@ strong { font-weight: 600; }
 
 .badge { font-size: 14px; background: #11338D; padding: 10px 14px 22px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
 
-.header { position: fixed; top: 0; width: 100%; z-index: 20; padding: 28px 20px; text-align: left; transition: all .3s ease-in-out; }
+.header { position: fixed; top: 0; width: 100%; z-index: 20; padding: 28px 20px; transition: all .3s ease-in-out; }
 @media (min-width: 768px) { .header { padding: 35px 30px; } }
 .header nav a { display: none; opacity: 0; }
 @media (min-width: 1200px) { .header nav a { display: inline-block; opacity: 1; padding: 0 12px; } }
 
 .header.scroll { background: #ffffff; }
 
-.header__title { font-size: 18px; font-weight: normal; margin: 0; float: left; position: relative; font-family: "Grad", Georgia, serif; font-weight: 500; }
-@media (min-width: 768px) { .header__title { font-size: 22px; } }
+.header__title { font-size: 18px; font-weight: normal; margin: 0; float: none; font-family: "grad", Georgia, serif; font-weight: 500; }
+@media (min-width: 768px) { .header__title { font-size: 20px; float: left; } }
 
+.mcc_logo { width: 60px; margin: 10px auto; float: none; }
 @media (min-width: 1200px) { .mcc_logo { width: 8%; float: left; margin-right: 12px; } }
 
 .header_badge { display: none; }
 @media (min-width: 768px) { .header_badge { display: block; } }
 
-.header__title__link { color: #1D1E1E; text-decoration: none; }
-.header__title__link:hover { text-decoration: underline; }
-
 .header__inner { margin: 0 auto; max-width: 1120px; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; }
 
 .menu { background: #11338D; left: 0; padding-bottom: 30px; padding-top: 20px; position: fixed; right: 0; text-align: center; top: 0; transition: .45s all ease-out; -webkit-transform: translateY(-100%) translateZ(0); -moz-transform: translateY(-100%) translateZ(0); -ms-transform: translateY(-100%) translateZ(0); -o-transform: translateY(-100%) translateZ(0); transform: translateY(-100%) translateZ(0); z-index: 20; }
 .menu.show { display: block; -webkit-transform: translateY(0) translateZ(0); -moz-transform: translateY(0) translateZ(0); -ms-transform: translateY(0) translateZ(0); -o-transform: translateY(0) translateZ(0); transform: translateY(0) translateZ(0); }
-.menu .tele, .menu address { font-family: "Grad", Georgia, serif; font-size: 16px; color: #ffffff; line-height: 1.6; text-decoration: none; }
+.menu .tele, .menu address { font-family: "grad", Georgia, serif; font-size: 16px; color: #ffffff; line-height: 1.6; text-decoration: none; }
 
 .header__nav { margin-bottom: 40px; }
 .header__nav a { font-size: 24px; color: #1D1E1E; }
@@ -396,11 +394,11 @@ strong { font-weight: 600; }
 .footer-top-actions .btn:last-child { margin-right: 0; float: none; }
 
 .footer-main-title { line-height: 30px; }
-.footer-main-title h2 { font-family: "Grad", Georgia, serif; font-size: 20px; font-weight: 500; color: #ffffff; margin-bottom: 4px; }
+.footer-main-title h2 { font-family: "grad", Georgia, serif; font-size: 20px; font-weight: 500; color: #ffffff; margin-bottom: 4px; }
 @media (min-width: 768px) { .footer-main-title h2 { font-size: 24px; } }
 .footer-main-title a { display: block; }
 
-.footer-top-title h3 { font-family: "Grad", Georgia, serif; font-size: 24px; color: #ffffff; margin-bottom: 10px; }
+.footer-top-title h3 { font-family: "grad", Georgia, serif; font-size: 24px; color: #ffffff; margin-bottom: 10px; }
 @media (min-width: 768px) { .footer-top-title h3 { font-size: 28px; } }
 
 .footer-main-nav ul li { line-height: 30px; }
@@ -410,30 +408,29 @@ strong { font-weight: 600; }
 /* Home Page Styles */
 .home_hero { position: relative; }
 
-.home_hero_img { float: none; width: 100%; height: 75vh; background-size: cover; display: block; z-index: -1; }
-@media (min-width: 768px) { .home_hero_img { height: 80vh; max-height: 860px; } }
-@media (min-width: 1200px) { .home_hero_img { height: 100vh; max-height: 800px; } }
+.home_hero_img { float: none; width: 100%; height: 100vh; background-size: cover; display: block; z-index: -1; }
+@media (min-width: 768px) { .home_hero_img { max-height: 860px; } }
+@media (min-width: 1200px) { .home_hero_img { max-height: 800px; } }
 
-.cta_group { width: 80%; margin: 0 auto; }
+.cta_group { width: 320px; margin: 0 auto; }
 @media (min-width: 768px) { .cta_group { width: 505px; } }
 
-.hero_btn { width: 220px; font-size: 16px; }
-@media (min-width: 768px) { .hero_btn { font-size: 18px; width: 220px; } }
+.hero_btn { width: 100%; font-size: 18px; margin-bottom: 16px; }
+@media (min-width: 768px) { .hero_btn { font-size: 20px; width: 220px; margin-bottom: 0; } }
 
-.home_intro { width: 100%; float: none; z-index: 10; position: absolute; right: 0; left: 0; top: 12vh; margin: auto; padding: 0 20px; }
+.home_intro { width: 100%; float: none; z-index: 10; position: absolute; right: 0; left: 0; top: 35vh; margin: auto; padding: 0 20px; }
 @media (min-width: 768px) { .home_intro { width: 80%; max-width: 1120px; top: 22vh; } }
-@media (min-width: 1200px) { .home_intro { top: 26vh; } }
-.home_intro h1 { font-family: "Grad", Georgia, serif; font-size: 36px; line-height: 1.5; color: #ffffff; text-align: center; }
-@media (min-width: 768px) { .home_intro h1 { font-size: 48px; } }
+@media (min-width: 1200px) { .home_intro { top: 240px; } }
+.home_intro h1 { font-family: "grad", Georgia, serif; font-size: 40px; line-height: 1.2; color: #ffffff; text-align: center; }
+@media (min-width: 768px) { .home_intro h1 { font-size: 48px; line-height: 1.5; } }
 @media (min-width: 1200px) { .home_intro h1 { font-size: 60px; } }
 .home_intro p { color: #ffffff; font-size: 16px; text-align: center; margin: 20px auto 30px auto; }
 @media (min-width: 768px) { .home_intro p { max-width: 640px; font-size: 20px; } }
-.home_intro .btn { margin-left: 30px; max-width: 246px; }
 
 .feat_sermon { background: #2E2F2F; padding: 20px; z-index: 5; max-height: 25vh; }
 @media (min-width: 768px) { .feat_sermon { max-height: 20vh; } }
 .feat_sermon .feat_sermon_inner { max-width: 1120px; margin: 0 auto; }
-.feat_sermon h3 { color: #ffffff; font-family: "Grad", Georgia, serif; margin-bottom: 10px; font-size: 20px; }
+.feat_sermon h3 { color: #ffffff; font-family: "grad", Georgia, serif; margin-bottom: 10px; font-size: 20px; }
 @media (min-width: 768px) { .feat_sermon h3 { font-size: 24px; } }
 .feat_sermon h4 { color: rgba(255, 255, 255, 0.75); font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
 .feat_sermon a { text-decoration: none; color: #ffffff; }
@@ -443,7 +440,7 @@ strong { font-weight: 600; }
 .mission { margin: 40px 0; text-align: left; }
 @media (min-width: 768px) { .mission { margin: 100px auto; text-align: center; max-width: 700px; } }
 @media (min-width: 1200px) { .mission { margin: 140px auto; max-width: 930px; } }
-.mission h2 { font-size: 32px; line-height: 1.25; font-family: "Grad", Georgia, serif; margin-bottom: 20px; }
+.mission h2 { font-size: 32px; line-height: 1.25; font-family: "grad", Georgia, serif; margin-bottom: 20px; }
 @media (min-width: 768px) { .mission h2 { font-size: 38px; } }
 @media (min-width: 1200px) { .mission h2 { font-size: 48px; margin-bottom: 40px; } }
 
@@ -451,20 +448,20 @@ strong { font-weight: 600; }
 
 .page_content { margin-top: 40px; }
 @media (min-width: 768px) { .page_content { max-width: 640px; } }
-.page_content h2 { font-size: 24px; margin-bottom: 20px; font-family: "Grad", Georgia, serif; }
+.page_content h2 { font-size: 24px; margin-bottom: 20px; font-family: "grad", Georgia, serif; }
 .page_content p { font-size: 20px; line-height: 1.6; }
 
 .page_header { padding: 30vh 0 10vh 0; }
 @media (min-width: 768px) { .page_header .page_hero_text { padding: 0 40% 0 35px; } }
 @media (min-width: 1200px) { .page_header .page_hero_text { padding-left: 0; } }
 .page_header .page_hero_text h1 { font-size: 18px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
-.page_header .page_hero_text h2 { font-size: 28px; line-height: 1.5; font-family: "Grad", Georgia, serif; margin-bottom: 10px; }
+.page_header .page_hero_text h2 { font-size: 28px; line-height: 1.5; font-family: "grad", Georgia, serif; margin-bottom: 10px; }
 
 .full_page_image { background-size: cover; width: 95%; height: 45vh; max-height: 600px; margin: 0 auto; }
 
 /* Sermon */
 .sermon_hero_text { text-align: center; }
-.sermon_hero_text h1 { font-family: "Grad", Georgia, serif; font-size: 44px; margin-bottom: 7.5px; }
+.sermon_hero_text h1 { font-family: "grad", Georgia, serif; font-size: 44px; margin-bottom: 7.5px; }
 .sermon_hero_text h2 { font-size: 16px; text-transform: uppercase; letter-spacing: 1px; font-weight: 600; color: #2E2F2F; margin-bottom: 7.5px; }
 .sermon_hero_text audio { width: 50vw; }
 
@@ -474,7 +471,7 @@ strong { font-weight: 600; }
 .card p { margin-top: 6px; }
 .card figure { width: 100%; height: 202px; }
 .card a { display: block; width: 100%; padding: 20px; text-decoration: none; background: #ffffff; }
-.card .card_title { font-family: "Grad", Georgia, serif; font-size: 24px; }
+.card .card_title { font-family: "grad", Georgia, serif; font-size: 24px; }
 .card .card_date { position: absolute; width: 88%; bottom: 12px; text-transform: uppercase; letter-spacing: 1px; font-size: 14px; padding-top: 10px; border-top: 1px solid rgba(0, 0, 0, 0.1); }
 
 .card:hover { box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15); transform: translateY(-10px); }
