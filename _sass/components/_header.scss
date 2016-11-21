@@ -1,4 +1,4 @@
-.header {
+  .header {
   position: fixed;
   top: 0; 
   width: 100%;
@@ -41,6 +41,17 @@
   }
 }
 
+.mcc_logo {
+  @media (min-width: $med) {
+
+  }
+  @media (min-width: $large) {
+    width: 8%;
+    float: left;
+    margin-right: 12px; 
+  }
+}
+
 .header_badge { 
   display: none; 
 
@@ -73,7 +84,7 @@
 }
 
 .menu {
-    background: $color--blue;
+    background: $color-mcc-blue;
     left: 0;
     padding-bottom: 30px;
     padding-top: 20px;
@@ -136,7 +147,7 @@
 
 .open_label {
   position: relative; 
-  color: $color--blue;
+  color: $color-mcc-blue;
   cursor: pointer;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -150,8 +161,6 @@
     right: 55px;
   }
 }
-
-
 
 .close_label {
     display: block;   

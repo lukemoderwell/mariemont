@@ -57,11 +57,11 @@
 	@media (min-width: $med) {
     	width: 80%; 
     	max-width: 1120px; 
-    	top: 18vh; 
+    	top: 22vh; 
 	}
 
 	@media (min-width: $large) {
-    	top: 20vh; 
+    	top: 26vh; 
 	}
 
 	h1 {
@@ -81,7 +81,7 @@
 	}
 
 	p {
-
+		color: $color--white; 
 		font-size: 16px; 
 		text-align: center; 
     	margin: 20px auto $gutter auto;
