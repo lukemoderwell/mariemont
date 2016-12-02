@@ -19,16 +19,21 @@
 }
 
 .cta_group {
-	width: 320px;
+	width: 284px;
 	margin: 0 auto;
 
 	@media (min-width: $med) {
-		width: 505px;
+		width: 445px;
+	}
+
+	@media (min-width: $large) {
+		width: 505px; 
 	}
 }
 
 .hero_btn {
 	width: 100%;
+	max-width: 284px; 
 	font-size: 18px;
 	margin-bottom: 16px; 
 
