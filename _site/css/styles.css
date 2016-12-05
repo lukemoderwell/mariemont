@@ -342,39 +342,37 @@ strong { font-weight: 600; }
 
 .header { position: fixed; top: 0; width: 100%; z-index: 20; padding: 28px 20px; transition: all .3s ease-in-out; }
 @media (min-width: 768px) { .header { padding: 35px 30px; } }
-.header nav a { display: none; opacity: 0; }
-@media (min-width: 1200px) { .header nav a { display: inline-block; opacity: 1; padding: 0 12px; } }
-.header .open_label { display: inline-block; opacity: 1; }
+.header .header_nav a { display: none; opacity: 0; }
+@media (min-width: 1200px) { .header .header_nav a { display: inline-block; opacity: 1; padding: 0 12px; } }
+
+.masthead { width: 100%; }
+@media (min-width: 1200px) { .masthead { width: 314px; } }
+
+.header__title { font-size: 20px; margin: 0; float: none; font-family: "grad", Georgia, serif; font-weight: 500; text-align: center; }
+@media (min-width: 1200px) { .header__title { float: left; text-align: left; padding-left: 10px; padding-top: 10px; } }
 
 .header.scroll { background: #ffffff; }
 
-.header__title { font-size: 20px; margin: 0; float: none; font-family: "grad", Georgia, serif; font-weight: 500; text-align: center; }
-@media (min-width: 768px) { .header__title { float: left; text-align: left; padding-left: 10px; padding-top: 10px; } }
-
 .mcc_logo { width: 60px; display: block; margin: 10px auto; float: none; }
-@media (min-width: 768px) { .mcc_logo { width: 36px; float: left; } }
+@media (min-width: 1200px) { .mcc_logo { width: 36px; float: left; } }
 
 .header_badge { display: none; }
-@media (min-width: 768px) { .header_badge { display: block; } }
+@media (min-width: 1200px) { .header_badge { display: block; } }
 
 .header__inner { margin: 0 auto; max-width: 1120px; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; }
-.header__inner a { margin: 0 auto; }
-@media (min-width: 768px) { .header__inner a { margin: 0; } }
 
-.menu { background: #11338D; left: 0; height: 100vh; padding-bottom: 30px; padding-top: 20px; position: fixed; right: 0; text-align: center; top: -100vh; transition: .45s all ease-out; opacity: 0; z-index: -5; }
+.menu { display: none; background: #1D1E1E; left: 0; height: 100vh; padding-bottom: 30px; padding-top: 20px; position: fixed; right: 0; text-align: center; transition: .5s all ease-out; opacity: 0; z-index: -5; }
 .menu.show { top: 0; display: block; opacity: 1; z-index: 1; }
 .menu .tele, .menu address { font-family: "grad", Georgia, serif; font-size: 16px; color: #ffffff; line-height: 1.6; text-decoration: none; }
 
-.header__nav { margin-bottom: 40px; }
-.header__nav a { font-size: 24px; color: #1D1E1E; }
+.menu_nav_link { color: #ffffff; display: block; text-align: left; margin: 20px 15px; font-size: 24px; font-family: "grad", Georgia, serif; text-decoration: none; }
+.menu_nav_link a { display: block; opacity: 1; }
+@media (min-width: 768px) { .menu_nav_link { display: inline-block; margin: 0 16px; } }
+.menu_nav_link:hover { text-decoration: underline; }
 
-.header__nav__link { color: #9098A3; display: block; text-align: center; margin: 20px 0; font-size: 16px; text-decoration: none; }
-@media (min-width: 768px) { .header__nav__link { display: inline-block; margin: 0 16px; } }
-.header__nav__link:hover { text-decoration: underline; }
-
-.open_label { position: relative; color: #11338D; cursor: pointer; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
+.open_label { display: block; padding-top: 14px; text-align: center; opacity: 1; color: #11338D; cursor: pointer; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
 .open_label:hover { color: #1D1E1E; }
-.open_label:hover:after { background: #1D1E1E; right: 55px; }
+@media (min-width: 1200px) { .open_label { opacity: 0; } }
 
 .close_label { display: block; width: 100px; margin: 0 auto 20px; font-size: 16px; padding: 20px 0; color: #ffffff; cursor: pointer; }
 

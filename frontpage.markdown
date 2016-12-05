@@ -3,7 +3,7 @@ title: Frontpage
 date: 2016-10-13 07:30:00 -04:00
 permalink: "/"
 heading: Living & Loving In Jesus Christ
-hero_image: "/uploads/worship-leading-e407a2.jpg"
+hero_image: "/uploads/worship-leading-alt.jpg"
 layout: frontpage
 ---
 

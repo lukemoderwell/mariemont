@@ -10,14 +10,9 @@
     padding: 35px 30px; 
   }
 
-  nav a {
+  .header_nav a {
     display: none; 
     opacity: 0; 
-
-    @media (min-width: $med) {
-      
-      
-    }
 
     @media (min-width: $large) {
       display: inline-block; 
@@ -25,15 +20,14 @@
       padding: 0 12px; 
     }
   }
-
-  .open_label {
-    display: inline-block; 
-    opacity: 1; 
-  }
 }
 
-.header.scroll {
-  background: $color--white; 
+.masthead {
+  width: 100%;
+
+  @media (min-width: $large) {
+    width: 314px;
+  }
 }
 
 .header__title {
@@ -44,7 +38,7 @@
   font-weight: 500; 
   text-align: center; 
 
-  @media (min-width: $med) {
+  @media (min-width: $large) {
     float: left;
     text-align: left;
     padding-left: 10px;
@@ -52,12 +46,16 @@
   }
 }
 
+.header.scroll {
+  background: $color--white; 
+}
+
 .mcc_logo {
   width: 60px; 
   display: block;
   margin: 10px auto; 
   float: none; 
-  @media (min-width: $med) {
+  @media (min-width: $large) {
     width: 36px;
     float: left; 
   }
@@ -66,7 +64,7 @@
 .header_badge { 
   display: none; 
 
-  @media (min-width: $med) {
+  @media (min-width: $large) {
     display: block;
   }
 }
@@ -83,18 +81,11 @@
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
     justify-content: space-between;
-
-    a {
-      margin: 0 auto;
-
-      @media (min-width: $med) {
-        margin: 0; 
-      }
-    }
 }
 
 .menu {
-    background: $color-mcc-blue;
+    display: none;
+    background: $color--black;
     left: 0;
     height: 100vh;
     padding-bottom: 30px;
@@ -102,11 +93,9 @@
     position: fixed;
     right: 0;
     text-align: center;
-    top: -100vh;
-    transition: .45s all ease-out; 
+    transition: .5s all ease-out; 
     opacity: 0; 
     z-index: -5;
-
 
     &.show {
       top: 0;
@@ -124,22 +113,19 @@
     }
   }
 
-.header__nav {
-    margin-bottom: 40px; 
-
-    a {
-      font-size: 24px; 
-      color: $color--black;
-    }
-}
-
-.header__nav__link {
-  color: $color--light-gray;
+.menu_nav_link {
+  color: $color--white;
   display: block; 
-  text-align: center; 
-  margin: 20px 0; 
-  font-size: 16px;
+  text-align: left; 
+  margin: 20px 15px; 
+  font-size: 24px;
+  font-family: $serif;
   text-decoration: none;
+
+  a {
+    display: block; 
+    opacity: 1;
+  }
 
   @media (min-width: $med) {
     display: inline-block;
@@ -152,7 +138,10 @@
 }
 
 .open_label { 
-  position: relative; 
+  display: block;
+  padding-top: 14px;
+  text-align: center;
+  opacity: 1; 
   color: $color-mcc-blue;
   cursor: pointer;
   -webkit-transition: all 0.3s ease;
@@ -162,9 +151,9 @@
   &:hover {
     color: $color--black;
   } 
-  &:hover:after {
-    background: $color--black; 
-    right: 55px;
+
+  @media (min-width: $large) {
+    opacity: 0; 
   }
 }
 

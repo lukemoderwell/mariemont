@@ -1,23 +1,25 @@
  <header class="header">
   <div class="header__inner">
-    <a href="/" alt="{{ site.title }}">
-      <img class="mcc_logo" src="/uploads/blue_mcc_logo.png" />
-      <h1 class="header__title">Mariemont Community Church</h1>
-    </a>
-      <nav>
-        <a href="/about">About</a>
-        <a href="/grow">Grow</a>
-        <a href="/sermons">Sermons</a>
-        <a href="/give">Give</a>
-        <a href="/events">Events</a>
-      </nav>
-      <a class="open_label">Menu</a>
+    <div class="masthead">
+      <a href="/" alt="{{ site.title }}">
+        <img class="mcc_logo" src="/uploads/blue_mcc_logo.png" />
+        <h1 class="header__title">Mariemont Community Church</h1>
+      </a>
+      <span class="open_label">Menu</span>
+    </div>
+    <nav class="header_nav">
+      <a href="/about">About</a>
+      <a href="/grow">Grow</a>
+      <a href="/sermons">Sermons</a>
+      <a href="/give">Give</a>
+      <a href="/events">Events</a>
+    </nav>
       <div class="menu" id="menu">
         <span class="close_label">Close Menu</span> 
-        <nav role="navigation" class="header__nav">
+        <nav role="navigation" class="menu_nav">
             {% for menu_page in site.pages %}
               {% if menu_page.title %}
-                <a href="{{ menu_page.url }}" class="header__nav__link">{{ menu_page.title }}</a>
+                <a href="{{ menu_page.url }}" class="menu_nav_link">{{ menu_page.title }}</a>
               {% endif %}
             {% endfor %}
           <a href="#">Give Online</a>

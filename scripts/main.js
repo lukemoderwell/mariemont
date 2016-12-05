@@ -1,7 +1,7 @@
 $(window).scroll(function() {    
     var scroll = $(window).scrollTop();
 
-    if (scroll >= 162) {
+    if (scroll >= 100) {
         //clearHeader, not clearheader - caps H
         $(".header").addClass("scroll");
     } else {
