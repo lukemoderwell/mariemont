@@ -372,7 +372,7 @@ strong { font-weight: 600; }
 
 .open_label { display: block; padding-top: 14px; text-align: center; opacity: 1; color: #11338D; cursor: pointer; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
 .open_label:hover { color: #1D1E1E; }
-@media (min-width: 1200px) { .open_label { opacity: 0; } }
+@media (min-width: 1200px) { .open_label { opacity: 0; display: none; } }
 
 .close_label { display: block; width: 100px; margin: 0 auto 20px; font-size: 16px; padding: 20px 0; color: #ffffff; cursor: pointer; }
 
