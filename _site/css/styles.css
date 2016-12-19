@@ -342,8 +342,10 @@ strong { font-weight: 600; }
 
 .header { background: #ffffff; position: fixed; top: 0; width: 100%; /* Rectangle: */ z-index: 10; padding: 15px 20px; transition: all .3s ease-in-out; }
 @media (min-width: 768px) { .header { padding: 24px 30px; } }
-.header .header_nav a { display: none; opacity: 0; }
-@media (min-width: 1200px) { .header .header_nav a { display: inline-block; opacity: 1; padding: 0 12px; } }
+.header .header_nav a { display: inline-block; opacity: 1; padding: 0 12px; }
+
+.header_nav { display: none; opacity: 0; margin: 0 auto; }
+@media (min-width: 1200px) { .header_nav { display: block; opacity: 1; } }
 
 .header_nav a:hover { text-decoration: underline; }
 

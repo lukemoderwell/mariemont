@@ -1,6 +1,7 @@
 ---
 title: Women's Ministry
 date: 2016-11-13 15:42:00 -05:00
+layout: page
 ---
 
 The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another. Additionally, Women’s Ministries strives to help women mature in their faith by strengthening their bonds with one another.
