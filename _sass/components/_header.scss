@@ -1,16 +1,20 @@
   .header {
+  background: $color--white;
   position: fixed;
   top: 0; 
   width: 100%;
-  z-index: 20;  
-  padding: 28px 20px; 
+  /* Rectangle: */
+  //background-image: linear-gradient(-180deg, #000000 0%, rgba(0,0,0,0.00) 100%);
+  z-index: 10;  
+  padding: 15px 20px;
   transition: all .3s ease-in-out; 
   
   @media (min-width: $med) {
-    padding: 35px 30px; 
+    padding: 24px 30px; 
   }
 
   .header_nav a {
+    //color: $color--white;
     display: none; 
     opacity: 0; 
 
@@ -22,49 +26,66 @@
   }
 }
 
-.masthead {
-  width: 100%;
+.header_nav a:hover {
+  text-decoration: underline; 
+}
 
-  @media (min-width: $large) {
-    width: 314px;
-  }
+.masthead {
+    padding: 0;
+    margin: 0 auto;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+
+    @media (min-width: $large) {
+      padding: 0 30px; 
+    }
 }
 
 .header__title {
-  font-size: 20px;
+  font-size: 17px;
   margin: 0;
-  float: none; 
   font-family: $serif; 
   font-weight: 500; 
-  text-align: center; 
-
-  @media (min-width: $large) {
-    float: left;
-    text-align: left;
-    padding-left: 10px;
-    padding-top: 10px;
+  text-align: center;
+  float: left; 
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 18px; 
+  
+  @media (min-width: $med) {
+    font-size: 20px; 
+    padding-top: 15px;
   }
+
 }
 
 .header.scroll {
   background: $color--white; 
+  padding: 15px 30px;
+
+  .header_nav a, .header__title {
+    color: $color--black;
+  }
 }
 
 .mcc_logo {
-  width: 60px; 
+  float: left;
+  width: 36px; 
   display: block;
   margin: 10px auto; 
-  float: none; 
-  @media (min-width: $large) {
-    width: 36px;
-    float: left; 
-  }
 }
 
 .header_badge { 
   display: none; 
 
-  @media (min-width: $large) {
+  @media (min-width: $med) {
     display: block;
   }
 }
@@ -83,87 +104,3 @@
     justify-content: space-between;
 }
 
-.menu {
-    display: none;
-    background: $color--black;
-    left: 0;
-    height: 100vh;
-    padding-bottom: 30px;
-    padding-top: 20px;
-    position: fixed;
-    right: 0;
-    text-align: center;
-    transition: .5s all ease-out; 
-    opacity: 0; 
-    z-index: -5;
-
-    &.show {
-      top: 0;
-      display: block;
-      opacity: 1; 
-      z-index: 1;
-    }
-
-     .tele, address { 
-      font-family: $serif; 
-      font-size: 16px;
-      color: $color--white;
-      line-height: 1.6;
-      text-decoration: none;
-    }
-  }
-
-.menu_nav_link {
-  color: $color--white;
-  display: block; 
-  text-align: left; 
-  margin: 20px 15px; 
-  font-size: 24px;
-  font-family: $serif;
-  text-decoration: none;
-
-  a {
-    display: block; 
-    opacity: 1;
-  }
-
-  @media (min-width: $med) {
-    display: inline-block;
-    margin: 0 16px;
-  }
-
-  &:hover {
-    text-decoration: underline;
-  }
-}
-
-.open_label { 
-  display: block;
-  padding-top: 14px;
-  text-align: center;
-  opacity: 1; 
-  color: $color-mcc-blue;
-  cursor: pointer;
-  -webkit-transition: all 0.3s ease;
-  -moz-transition: all 0.3s ease;
-  -o-transition: all 0.3s ease;
-  transition: all 0.3s ease;
-  &:hover {
-    color: $color--black;
-  } 
-
-  @media (min-width: $large) {
-    opacity: 0; 
-    display: none;
-  }
-}
-
-.close_label {
-    display: block;   
-    width: 100px;
-    margin: 0 auto 20px;
-    font-size: 16px;
-    padding: 20px 0;
-    color: $color--white; 
-    cursor: pointer;  
-}

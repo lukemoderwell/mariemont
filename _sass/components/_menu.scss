@@ -1,0 +1,90 @@
+.menu {
+    //top: -25vh; 
+    background: $color--black;
+    left: 0;
+    height: 100vh;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    transition: .25s all ease-in-out; 
+    opacity: 0; 
+    z-index: -5;
+
+    &.show {
+      top: 0;
+      display: block;
+      opacity: 1; 
+      z-index: 1;
+    }
+
+     .tele, address { 
+      font-family: $serif; 
+      font-size: 16px;
+      color: $color--white;
+      line-height: 1.6;
+      text-decoration: none;
+    }
+  }
+
+.menu_nav_link {
+  color: $color--white;
+  display: block; 
+  text-align: center; 
+  margin: 20px 15px; 
+  font-size: 24px;
+  font-family: $serif;
+  text-decoration: none;
+
+  a {
+    display: block; 
+    opacity: 1;
+  }
+
+  @media (min-width: $med) {
+    margin: 22px 0;
+  }
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.open_label { 
+  position: absolute; 
+  right: 30px; 
+  display: block;
+  opacity: 1; 
+  color: $color-mcc-blue;
+  cursor: pointer;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  &:hover {
+    text-decoration: underline;
+  } 
+
+  @media (min-width: $med) {
+    width: 80px;
+    margin: 0 auto; 
+    position: relative;
+    right: 0; 
+  }
+
+  @media (min-width: $large) {
+    opacity: 0; 
+    display: none;
+  }
+}
+
+.close_label {
+    display: block;   
+    width: 100px;
+    margin: 0 auto 20px;
+    font-size: 16px;
+    padding: 20px 0;
+    color: $color--white; 
+    cursor: pointer;  
+}

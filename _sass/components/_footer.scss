@@ -58,6 +58,7 @@
 
 .footer-main-title {
 	line-height: 30px; 
+	margin-bottom: 20px;
 
 	h2 {
 		font-family: $serif; 
@@ -91,7 +92,7 @@
 .footer-main-nav ul li {
 	line-height: 30px;
 	a {
-		color: $color--light-gray;
+		color: #cccccc;
 		text-decoration: none; 
 		&:hover {
 			cursor: pointer; 

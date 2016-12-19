@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-<div class="page_header" style="background: url('{{ page.event_image }}');background-size: cover; ">
+<div class="page_header" style="background: url('{{ page.hero_image }}');background-size: cover; ">
 	<div class="container page_hero_text">
 		<h1 class="page_heading">{{ page.heading }}</h1>
 		<h2 class="page_lead_in">{{ page.lead_in }}</h2>
@@ -12,9 +12,9 @@ layout: frontpage
 	</div>
 </div>
 
-{% if page.hero_image %}
-	<figure class="full_page_image" style="background-image: url({{ page.hero_image }});s"></figure>
-{% endif %}
+<!-- {% if page.hero_image %}
+	<figure class="full_page_image" style="background-image: url({{ page.hero_image }});"></figure>
+{% endif %} -->
 
 {% if page.content %}
 	<div class="container page_content">
