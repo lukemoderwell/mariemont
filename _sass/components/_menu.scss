@@ -1,12 +1,13 @@
 .menu {
     //top: -25vh; 
     background: $color--black;
+    top: -100vh; 
     left: 0;
+    right: 0;
     height: 100vh;
     padding-bottom: 30px;
     padding-top: 20px;
     position: fixed;
-    right: 0;
     text-align: center;
     transition: .25s all ease-in-out; 
     opacity: 0; 

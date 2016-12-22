@@ -355,7 +355,7 @@ strong { font-weight: 600; }
 .header__title { font-size: 17px; margin: 0; font-family: "grad", Georgia, serif; font-weight: 500; text-align: center; float: left; text-align: left; padding-left: 10px; padding-top: 18px; }
 @media (min-width: 768px) { .header__title { font-size: 20px; padding-top: 15px; } }
 
-.header.scroll { background: #ffffff; padding: 15px 30px; }
+.header.scroll { background: #ffffff; padding: 12px 30px; }
 .header.scroll .header_nav a, .header.scroll .header__title { color: #1D1E1E; }
 
 .mcc_logo { float: left; width: 36px; display: block; margin: 10px auto; }
@@ -365,7 +365,7 @@ strong { font-weight: 600; }
 
 .header__inner { margin: 0 auto; max-width: 1120px; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; }
 
-.menu { background: #1D1E1E; left: 0; height: 100vh; padding-bottom: 30px; padding-top: 20px; position: fixed; right: 0; text-align: center; transition: .25s all ease-in-out; opacity: 0; z-index: -5; }
+.menu { background: #1D1E1E; top: -100vh; left: 0; right: 0; height: 100vh; padding-bottom: 30px; padding-top: 20px; position: fixed; text-align: center; transition: .25s all ease-in-out; opacity: 0; z-index: -5; }
 .menu.show { top: 0; display: block; opacity: 1; z-index: 1; }
 .menu .tele, .menu address { font-family: "grad", Georgia, serif; font-size: 16px; color: #ffffff; line-height: 1.6; text-decoration: none; }
 
