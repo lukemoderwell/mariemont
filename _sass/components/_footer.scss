@@ -7,10 +7,12 @@
 	}
 }
 
-.map {
+.maps {
 	margin-top: $gutter;
 
 	iframe {
+		// to block random scrolling down page
+		pointer-events: none;
 		width: 100%; 
 	}
 }

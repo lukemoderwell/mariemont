@@ -384,8 +384,8 @@ strong { font-weight: 600; }
 .map_title { margin-top: 90px; text-align: left; }
 @media (min-width: 768px) { .map_title { text-align: center; } }
 
-.map { margin-top: 30px; }
-.map iframe { width: 100%; }
+.maps { margin-top: 30px; }
+.maps iframe { pointer-events: none; width: 100%; }
 
 .footer { width: 100%; color: #9098A3; min-height: 450px; font-size: 18px; padding-bottom: 40px; text-align: left; background: #1D1E1E; overflow: auto; }
 

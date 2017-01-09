@@ -55,7 +55,7 @@ layout: frontpage
                  {% endif %} 
                   <a href="{{ event.permalink }}">
                     <h3 class="card_title">{{ event.title }}</h3>
-                    <p>{{ event.content | truncate: 120, ' ...' }}</p>
+                    <p>{{ event.content | truncate: 100, ' ...' }}</p>
                     <span class="card_date">{{ event.start_date | date: "%a, %b %d" }} — {{ event.end_date | date: "%a, %b %d"}}</span>
                   </a>
                 </div>
