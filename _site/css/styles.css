@@ -453,7 +453,6 @@ strong { font-weight: 600; }
 
 @media (min-width: 1200px) { .events_link { text-align: right; padding-top: 14px; } }
 
-.page_content { margin-top: 40px; }
 @media (min-width: 768px) { .page_content { max-width: 640px; } }
 .page_content h2 { font-size: 24px; margin: 20px 0 10px; font-family: "grad", Georgia, serif; }
 .page_content p { font-size: 20px; line-height: 1.6; }
