@@ -2,16 +2,18 @@
 layout: frontpage
 ---
 
+<!-- style="background:url('{{ page.hero_image }}' -->
+
 {% if page.hero_image %}
-<div class="page_header mt5" style="background: url('{{ page.hero_image }}');background-size: cover; ">
-	<div class="container page_hero_text">
-		<h1 class="page_heading">{{ page.heading }}</h1>
-		<h2 class="page_lead_in">{{ page.lead_in }}</h2>
-		{% if page.start_date and page.end_date %}
+<div class="vh-100 dt w-100 tc bg-dark-gray white cover" style="background:url('https://scontent-ord1-1.xx.fbcdn.net/v/t31.0-8/15972430_10210930129381931_6521623705598532519_o.jpg?oh=282a0fdfcf9c58d327f0f53ba7763b2b&oe=5924C5FC') no-repeat center;">
+      <div class="dtc v-mid">
+        <h1 class="f2 f-headline-l fw1 white-90">{{ page.heading }}</h1>
+        <h2 class="page_lead_in f3 fw4">{{ page.lead_in }}</h2>
+        {% if page.start_date and page.end_date %}
 			<span class="event_date">{{ page.start_date | date: "%a, %b %d"}} — {{ page.end_date | date: "%a, %b %d" }}</span>
 		{% endif %}
-	</div>
-</div>
+      </div>
+    </div>
 {% endif %}
 
 {% if page.content %}

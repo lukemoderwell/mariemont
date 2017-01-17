@@ -6,12 +6,12 @@ layout: default
   <h2>{{ page.content }}</h2>
 </div>
 
-<div class="row">
     {% for sermon in site.sermons reversed %}
-      <div class="col-sm-12 col-md-6 col-lg-4">
-        <div class="sermon_card card">
+        <div class="sermon_card card fl w-100 w-50-m w-25-ns ma2-ns">
            {% if event.event_image != empty %}
-             <figure class="card_hero" style="background-image: url({{ sermon.thumbnail_image }});"></figure>
+             <figure class="card_hero aspect-ratio aspect-ratio--4-3">
+               <img style="background: url('{{ sermon.thumbnail_image }}');" class="db bg-center cover aspect-ratio--object" />
+             </figure>
              {% endif %} 
               <a href="{{ sermon.url }}">
                 <h3 class="card_title">{{ sermon.title }}</h3>
@@ -24,4 +24,3 @@ layout: default
           </div>
         </div>
     {% endfor %}
-  </div>

@@ -20,11 +20,10 @@ layout: frontpage
 </div>
 {% endif %}
 
-<div class="suggested_sermons container">
-	<h2>Related Sermons</h2>
+<div class="suggested_sermons cf center mv3 pv4">
+	<h2 class="tc">Related Sermons</h2>
 		{% assign title = page.title %}
 		{% assign series = page.series %}
-		<div class="row">
 	{% for sermon in site.sermons reversed %} {% if series == sermon.series %} {% if sermon.title != title %}
 		<div class="col-sm-12 col-md-4">
 			<div class="sermon_card card">
@@ -36,10 +35,12 @@ layout: frontpage
 		        <span class="card_date">{{ sermon.sermon_date | date: "%a, %b %d" }}</span>
 		      </a>
 		    </div>
-		</div>
+		 </div>
 		{% endif %}	
 		{% endif %}
 	{% endfor %}
-	</div>
 </div>
+
+
+
 

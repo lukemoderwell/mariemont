@@ -1,19 +1,57 @@
-<div class="vh-100 dt w-100 tc bg-dark-gray white cover" style="background:url(http://mrmrs.io/photos/u/009.jpg) no-repeat center;">
-    <div class="dtc v-mid">
-      <header class="white-70">
-        <h2 class="f6 fw1 ttu tracked mb2 lh-title">Issue Six</h2>
-        <h3 class="f6 fw1 lh-title">Summer MMXVI</h3>
-      </header>
-      <h1 class="f1 f-headline-l fw1 i white-60">The Chronicles</h1>
-      <blockquote class="ph0 mh0 measure f4 lh-copy center">
-        <p class="fw1 white-70">
-          It's the space you put between the notes that make the music.
-        </p>
-        <cite class="f6 ttu tracked fs-normal">Massimo Vignelli</cite>
-      </blockquote>
-    </div>
-  </div>
+<!doctype html>
+<html class="no-js" lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Living &amp; Loving in Jesus | Mariemont Community Church</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- Place favicon.ico in the root directory -->
 
-  <div class="container page_content center measure-wide f5 mt3 pv5 lh-copy ph2">
-    {{ content }}
-  </div>
+    {% seo %} 
+    <link href="/css/styles.css" rel="stylesheet" media="all" type="text/css" />
+    <!-- Tachyons -->
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css"/>
+    <!-- Fonts -->
+    <script src="https://use.typekit.net/kjm0azk.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  </head>
+
+ <body>
+    <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+    {% include header.html %}
+
+  <div class="page_hero vh-100 dt w-100 tc bg-dark-gray white cover">
+      <div class="dtc v-mid">
+        <h1 class="f3 f-headline-l fw1 white-90">Growing Together</h1>
+        <blockquote class="ph0 mh0 measure f4 lh-copy center">
+          <p class="fw1 white-70 mb3">
+            It's all about taking the next step.
+          </p>
+          <a href="#" class="fl mr3 f6 ttu tracked blue">Small Groups</a>
+          <a href="#" class="fl mr3 f6 ttu tracked blue">Men's/Women's Ministries</a>
+          <a href="#" class="fl mr3 f6 ttu tracked blue">Next Steps</a>
+          <a href="#" class="fl f6 ttu tracked blue">Youth</a>
+          
+        </blockquote>
+      </div>
+    </div>
+
+    <div class="container page_content center measure-wide f5 mt3 pv5 lh-copy ph2" id="grow_content">
+      {{ content }}
+    </div>
+
+   {% include footer.html %}
+     <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+        <script>
+            window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+            ga('create','UA-89124481-1','auto');ga('send','pageview')
+        </script>
+        <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+   <script src="/scripts/main.js"></script>
+  </body>
+</html>
