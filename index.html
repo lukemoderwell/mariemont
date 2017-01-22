@@ -14,24 +14,26 @@ layout: frontpage
             <a href="#" class="hero_btn btn secondary">Learn More</a>
             <a href="#" class="hero_btn btn primary">Take The Next Steps</a>
           </div>
-      </div>
-    </div>
-      </div>
+        </div>
       {% endif %}
     {% endfor %}
     </section>
-    <div class="feat_sermon">
-      <div class="feat_sermon_inner">
+    <section class="feat_sermon container row">
+      <div class="feat_sermon_img col-sm-12 col-md-6">
+        <img src="{{ sermon.feat_img }}" style="max-width: 800px; max-height: 600px;" />
+      </div>
+      <div class="feat_sermon_content col-sm-12 col-md-6">
          {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
           <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
-            <div class="row"> 
-            <a href="{{sermon.permalink}}"><h3 class="col-sm-12 col-md-5">{{ sermon.title }}</h3></a> 
-            <audio controls preload src="{{ sermon.audio_file }}" class="col-sm-12 col-md-7"></audio>
-          </div>
+          <a href="{{sermon.permalink}}">
+            <h3 class="sermon_title">{{ sermon.title }}</h3>
+          </a> 
+          <p class="feat_sermon_desc">Here is where a small description of the sermon series would live. It serves as a quick rundown of what's going on in the series.</p>
+          <audio controls preload src="{{ sermon.audio_file }}"></audio>
           <a href="/sermons" class="cta">See All Sermons</a>
           {% endif %}{% endfor %}
-        </div>
-    </div>
+      </div>
+    </section>
     <div class="container">
       <section class="mission">
         <h2>We believe in laying down our lives by serving our family, friends, and those in need.</h2>
