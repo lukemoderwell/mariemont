@@ -25,10 +25,10 @@ layout: frontpage
       <div class="feat_sermon_content col-sm-12 col-md-6">
          {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
           <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
-          <a href="{{sermon.permalink}}">
+          <a href="{{ sermon.permalink }}">
             <h3 class="sermon_title">{{ sermon.title }}</h3>
           </a> 
-          <p class="feat_sermon_desc">Here is where a small description of the sermon series would live. It serves as a quick rundown of what's going on in the series.</p>
+          <p class="feat_sermon_desc"> {{ sermon.content | truncate: 140, '...' }}</p>
           <audio controls preload src="{{ sermon.audio_file }}"></audio>
           <a href="/sermons" class="cta">See All Sermons</a>
           {% endif %}{% endfor %}
@@ -57,7 +57,7 @@ layout: frontpage
                  {% endif %} 
                   <a href="{{ event.permalink }}">
                     <h3 class="card_title">{{ event.title }}</h3>
-                    <p>{{ event.content | truncate: 100, ' ...' }}</p>
+                    <p>{{ event.content | truncate: 100, '...' }}</p>
                     <span class="card_date">{{ event.start_date | date: "%a, %b %d" }} — {{ event.end_date | date: "%a, %b %d"}}</span>
                   </a>
                 </div>
