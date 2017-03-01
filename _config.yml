@@ -49,13 +49,13 @@ defaults:
     name: ''
     position: ''
     staff_image: ''
-email: your-email@domain.com
+email: mark@mariemontchurch.org
 description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.
-baseurl: ''
+baseurl: 
 url: http://mariemontchurch.org
-twitter_username: changeme
-github_username: changeme
+twitter_username: 
+github_username: 
 markdown: kramdown
 highlighter: rouge
 gems:
