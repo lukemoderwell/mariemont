@@ -5,6 +5,10 @@
 	@media (min-width: $med) {
 		text-align: center; 
 	}
+
+	h2 {
+		margin-bottom: 10px;
+	}
 }
 
 .maps {
@@ -48,14 +52,7 @@
 }
 
 .footer-top-actions {
-	.btn { 
-		margin: 10px 20px; 
-		
-		&:last-child {
-		margin-right: 0;
-		float: none; 
-		}
-	}
+	display: flex; 
 }
 
 .footer-main-title {

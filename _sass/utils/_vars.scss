@@ -28,7 +28,7 @@ $color-mcc-red: #721E35;
 $color-mcc-red-mid: #8B485A;
 $color-mcc-red-light: #A57381;
 
-$font-size--base: 16px;
+$font-size--base: 18px;
 
 // Remember to maintain this list
 $system--font: -apple-system, BlinkMacSystemFont, 
@@ -36,8 +36,8 @@ $system--font: -apple-system, BlinkMacSystemFont,
     "Ubuntu", "Cantarell", "Fira Sans", 
     "Droid Sans", "Helvetica Neue", sans-serif;
 
-$serif: "Source Serif Pro", Georgia, serif;
-$sans: "Source Sans Pro", "HelveticaNeue", Helvetica, sans-serif;
+$serif: "ff-meta-serif-web-pro", Georgia, serif;
+$sans: "rooney-sans", "HelveticaNeue", Helvetica, sans-serif;
 
 $gutter: 30px;
 

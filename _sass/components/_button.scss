@@ -1,0 +1,63 @@
+.btn {
+    display: inline-block;
+    padding: 12px 24px;
+    text-align: center;
+    font-family: $sans;
+    white-space: nowrap;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    transition: all .3s ease-in-out;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.btn--primary {
+    background: $color-mcc-blue; 
+    color: $color--white;
+
+    &:hover {
+        background: darken($color-mcc-blue, 5%);
+    }
+}
+
+.btn--secondary {
+    background: $color--white; 
+
+    &:hover {
+        background: darken($color--white, 10%);
+    }
+}
+
+.footer_btn {
+    width: 100%;
+    margin-top: 20px; 
+    margin-right: 20px;
+
+    @media (min-width: $med) {
+        margin-top: 10px;
+    }
+}
+
+.btn--hero {
+    padding: 16px 48px; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    max-width: 240px; 
+    font-size: 22px; 
+    color: $color--white;
+    background: $color-mcc-blue; 
+
+    &:hover {
+        background: darken($color-mcc-blue, 5%);
+    }
+}

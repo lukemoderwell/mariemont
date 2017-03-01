@@ -10,63 +10,29 @@ layout: frontpage
       <div class="home_intro">
           <h1 class="page_heading mb1">{{ page.heading }}</h1>
           <p>We’re a growing community of families in East Cincinnati committed to following Jesus. Visit us on Sundays at 9am and 11am. Are you new to MCC? Learn more about our church.</p>
-          <div class="cta_group">
-            <a href="/about" class="hero_btn btn">Learn More</a>
-          </div>
+          <a href="/about" class="btn btn--hero">Learn More</a>
         </div>
       {% endif %}
     {% endfor %}
     </section>
-    <section class="feat_sermon container">
-      <div class="row">
-        <div class="feat_sermon_img col-sm-12 col-md-6">
-          <img src="/uploads/isaiah-art.jpg" />
-          <!-- <img src="{{ sermon.feat_image }}" style="max-width: 800px; max-height: 600px;" /> -->
-        </div>
-        <div class="feat_sermon_content col-sm-12 col-md-6">
-           {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
-            <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
-            <a href="{{ sermon.permalink }}">
-              <h3 class="sermon_title">{{ sermon.title }}</h3>
-            </a> 
-            <p class="feat_sermon_desc"> {{ sermon.content | truncate: 140, '...' }}</p>
-            <audio controls preload src="{{ sermon.audio_file }}"></audio>
-            <a href="/sermons" class="cta">See All Sermons</a>
-            {% endif %}{% endfor %}
-        </div>
-      </div>
-    </section>
     <div class="container">
-      <section class="mission">
-        <h2>We believe in laying down our lives by serving our family, friends, and those in need.</h2>
-        <p>Want to know more about what we believe?</p>
-        <a href="#" class="cta">See Our Beliefs</a>
-      </section>
-      <section class="events">
-        <div class="events_heading row">
-          <h2 class="col-md-10">Upcoming Events</h2>
-          <div class="events_link col-sm-12 col-md-2">
-            <a href="/events" class="cta">See All Events</a>
+      <section class="feat_sermon row">
+          <div class="feat_sermon_img col-sm-12 col-md-6">
+            <img src="/uploads/isaiah-art.jpg" />
+            <!-- <img src="{{ sermon.feat_image }}" style="max-width: 800px; max-height: 600px;" /> -->
           </div>
-        </div>
-        
-          <div class="event_list row">
-          {% for event in site.events reversed limit:3 %}
-              <div class="col-sm-12 col-md-6 col-lg-4">
-                <div class="card">
-                {% if event.event_image != empty %}
-                  <figure class="card_hero" style="background-image: url({{ event.event_image }}); background-size: cover;"></figure>
-                 {% endif %} 
-                  <a href="{{ event.permalink }}">
-                    <h3 class="card_title">{{ event.title }}</h3>
-                    <p>{{ event.content | truncate: 100, '...' }}</p>
-                    <span class="card_date">{{ event.start_date | date: "%a, %b %d" }} — {{ event.end_date | date: "%a, %b %d"}}</span>
-                  </a>
-                </div>
-              </div>
-            {% endfor %}
+          <div class="feat_sermon_content col-sm-12 col-md-6">
+             {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
+              <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
+              <a href="{{ sermon.permalink }}">
+                <h3 class="sermon_title">{{ sermon.title }}</h3>
+              </a> 
+              <p class="feat_sermon_desc"> {{ sermon.content | truncate: 140, '...' }}</p>
+              <audio controls preload src="{{ sermon.audio_file }}"></audio>
+              <a href="/sermons" class="cta">See All Sermons</a>
+              {% endif %}{% endfor %}
           </div>
-      </section>
+        </section>
     </div>
 </div>
 

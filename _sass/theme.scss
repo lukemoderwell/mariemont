@@ -93,63 +93,6 @@ strong {
   line-height: 1.5;
 }
 
-
-.btn {
-    display: inline-block;
-    padding: 12px 24px;
-    margin-bottom: 0;
-    font-size: 18px;
-    line-height: 1.5;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
-    -ms-touch-action: manipulation;
-    touch-action: manipulation;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    background-image: none;
-    border: 1px solid transparent;
-    border-radius: 4px;
-    transition: all .3s ease-in-out;
-}
-
-.primary {
-  color: #ffffff; 
-  background: $color-mcc-blue;
-  &:hover {
-    background: darken($color-mcc-blue, $color-shift)
-  }
-}
-
-.secondary {
-  color: #ffffff;
-  background: $color--dark-gray;
-  &:hover {
-    background: darken($color--dark-gray, $color-shift);
-  }
-}
-
-.outline.btn {
-  font-size: 14px; 
-  text-transform: uppercase; 
-  letter-spacing: 1px; 
-  border: 1px solid $color--blue; 
-  padding: 13px 12px 8px 12px; 
-  color: $color--black;
-}
-
-.outline.btn:hover {
-  background: $color--blue;
-}
-
-.btn:hover {
-  color: $color--white;
-}
-
-
 .badge {
   font-size: 14px; 
   background: $color-mcc-blue; 
@@ -163,6 +106,7 @@ strong {
 
 
 @import 'components/header';
+@import 'components/button';
 @import 'components/menu';
 @import 'components/footer';
 @import 'components/frontpage';
