@@ -298,7 +298,7 @@ html { box-sizing: border-box; }
 
 *, *:before, *:after { box-sizing: inherit; }
 
-body { overflow-x: hidden; background: #fff; color: #3E4A56; font-family: "rooney-sans", "HelveticaNeue", Helvetica, sans-serif; font-size: 18px; margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { overflow-x: hidden; background: #fff; color: #3E4A56; font-family: "franklin-gothic-urw", "HelveticaNeue", Helvetica, sans-serif; font-size: 18px; margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 audio, embed, img, video { max-width: 100%; }
 
@@ -341,7 +341,7 @@ strong { font-weight: 600; }
 .masthead { padding: 0; margin: 0 auto; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; }
 @media (min-width: 1200px) { .masthead { padding: 0 30px; } }
 
-.header__title { font-size: 17px; margin: 0; font-family: "ff-meta-serif-web-pro", Georgia, serif; font-weight: 500; text-align: center; float: left; text-align: left; padding-left: 10px; padding-top: 18px; }
+.header__title { font-size: 17px; margin: 0; font-family: Georgia, serif; font-weight: 500; text-align: center; float: left; text-align: left; padding-left: 10px; padding-top: 18px; }
 @media (min-width: 768px) { .header__title { font-size: 20px; padding-top: 15px; } }
 
 .header.scroll { background: #ffffff; padding: 12px 30px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); }
@@ -354,7 +354,7 @@ strong { font-weight: 600; }
 
 .header__inner { margin: 0 auto; max-width: 1120px; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; }
 
-.btn { display: inline-block; padding: 12px 24px; text-align: center; font-family: "rooney-sans", "HelveticaNeue", Helvetica, sans-serif; white-space: nowrap; -ms-touch-action: manipulation; touch-action: manipulation; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; background-image: none; border: 1px solid transparent; border-radius: 4px; transition: all .3s ease-in-out; }
+.btn { display: inline-block; padding: 12px 24px; text-align: center; font-family: "franklin-gothic-urw", "HelveticaNeue", Helvetica, sans-serif; white-space: nowrap; -ms-touch-action: manipulation; touch-action: manipulation; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; background-image: none; border: 1px solid transparent; border-radius: 4px; transition: all .3s ease-in-out; }
 
 .btn:hover { cursor: pointer; }
 
@@ -372,9 +372,9 @@ strong { font-weight: 600; }
 
 .menu { background: #1D1E1E; top: -100vh; left: 0; right: 0; height: 100vh; padding-bottom: 30px; padding-top: 20px; position: fixed; text-align: center; transition: .25s all ease-in-out; opacity: 0; z-index: -5; }
 .menu.show { top: 0; display: block; opacity: 1; z-index: 1; }
-.menu .tele, .menu address { font-family: "ff-meta-serif-web-pro", Georgia, serif; font-size: 16px; color: #ffffff; line-height: 1.6; text-decoration: none; }
+.menu .tele, .menu address { font-family: Georgia, serif; font-size: 16px; color: #ffffff; line-height: 1.6; text-decoration: none; }
 
-.menu_nav_link { color: #ffffff; display: block; text-align: center; margin: 20px 15px; font-size: 24px; font-family: "ff-meta-serif-web-pro", Georgia, serif; text-decoration: none; }
+.menu_nav_link { color: #ffffff; display: block; text-align: center; margin: 20px 15px; font-size: 24px; font-family: Georgia, serif; text-decoration: none; }
 .menu_nav_link a { display: block; opacity: 1; }
 @media (min-width: 768px) { .menu_nav_link { margin: 22px 0; } }
 .menu_nav_link:hover { text-decoration: underline; }
@@ -405,11 +405,11 @@ strong { font-weight: 600; }
 .footer-top-actions { display: flex; }
 
 .footer-main-title { line-height: 30px; margin-bottom: 20px; }
-.footer-main-title h2 { font-family: "ff-meta-serif-web-pro", Georgia, serif; font-size: 20px; font-weight: 500; color: #ffffff; margin-bottom: 4px; }
+.footer-main-title h2 { font-family: Georgia, serif; font-size: 20px; font-weight: 500; color: #ffffff; margin-bottom: 4px; }
 @media (min-width: 768px) { .footer-main-title h2 { font-size: 24px; } }
 .footer-main-title a { display: block; }
 
-.footer-top-title h3 { font-family: "ff-meta-serif-web-pro", Georgia, serif; font-size: 24px; color: #ffffff; margin-bottom: 10px; }
+.footer-top-title h3 { font-family: Georgia, serif; font-size: 24px; color: #ffffff; margin-bottom: 10px; }
 @media (min-width: 768px) { .footer-top-title h3 { font-size: 28px; } }
 
 .footer-main-nav ul li { line-height: 30px; }
@@ -426,7 +426,7 @@ strong { font-weight: 600; }
 .home_intro { width: 100%; float: none; z-index: 1; position: absolute; right: 0; left: 0; top: 35vh; margin: auto; padding: 0 20px; }
 @media (min-width: 768px) { .home_intro { width: 80%; max-width: 1120px; top: 22vh; } }
 @media (min-width: 1200px) { .home_intro { top: 240px; } }
-.home_intro h1 { font-family: "ff-meta-serif-web-pro", Georgia, serif; font-size: 40px; line-height: 1.2; color: #ffffff; text-align: center; }
+.home_intro h1 { font-family: Georgia, serif; font-size: 40px; line-height: 1.2; color: #ffffff; text-align: center; }
 @media (min-width: 768px) { .home_intro h1 { font-size: 48px; line-height: 1.5; } }
 @media (min-width: 1200px) { .home_intro h1 { font-size: 60px; } }
 .home_intro p { color: #ffffff; font-size: 16px; text-align: center; margin: 20px auto 30px auto; }
@@ -434,7 +434,7 @@ strong { font-weight: 600; }
 
 .feat_sermon { display: flex; flex-direction: column; align-items: center; margin-top: 40px; margin-bottom: 40px; }
 @media (min-width: 768px) { .feat_sermon { flex-direction: row; margin-top: 80px; margin-bottom: 80px; } }
-.feat_sermon h3 { color: #1D1E1E; font-family: "ff-meta-serif-web-pro", Georgia, serif; margin-bottom: 12px; font-size: 24px; }
+.feat_sermon h3 { color: #1D1E1E; font-family: Georgia, serif; margin-bottom: 12px; font-size: 24px; }
 @media (min-width: 768px) { .feat_sermon h3 { font-size: 28px; } }
 .feat_sermon h4 { color: rgba(0, 0, 0, 0.75); font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
 .feat_sermon audio { margin: 20px 0; width: 100%; }
@@ -447,27 +447,28 @@ strong { font-weight: 600; }
 .mission { margin: 40px 0; text-align: left; display: none; }
 @media (min-width: 768px) { .mission { display: block; margin: 100px auto; text-align: center; max-width: 700px; } }
 @media (min-width: 1200px) { .mission { margin: 140px auto; max-width: 930px; } }
-.mission h2 { font-size: 32px; line-height: 1.25; font-family: "ff-meta-serif-web-pro", Georgia, serif; margin-bottom: 20px; }
+.mission h2 { font-size: 32px; line-height: 1.25; font-family: Georgia, serif; margin-bottom: 20px; }
 @media (min-width: 768px) { .mission h2 { font-size: 38px; } }
 @media (min-width: 1200px) { .mission h2 { font-size: 48px; margin-bottom: 40px; } }
 
 @media (min-width: 1200px) { .events_link { text-align: right; padding-top: 14px; } }
 
 @media (min-width: 768px) { .page_content { max-width: 640px; } }
-.page_content h2 { font-size: 24px; margin: 20px 0 10px; font-family: "ff-meta-serif-web-pro", Georgia, serif; }
+.page_content h2 { font-size: 24px; margin: 20px 0 10px; font-family: Georgia, serif; }
 .page_content p { font-size: 19px; line-height: 1.6; }
 
-.page_header { padding: 30vh 0 10vh 0; min-height: 320px; }
+.page_header { margin: 100px 0; text-align: center; background: #2E2F2F; }
+.page_header .page_title { padding: 60px; font-family: Georgia, serif; text-align: center; color: #ffffff; }
 @media (min-width: 768px) { .page_header .page_hero_text { padding: 0 40% 0 35px; } }
 @media (min-width: 1200px) { .page_header .page_hero_text { padding-left: 0; } }
 .page_header .page_hero_text h1 { font-size: 18px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
-.page_header .page_hero_text h2 { font-size: 28px; line-height: 1.5; font-family: "ff-meta-serif-web-pro", Georgia, serif; margin-bottom: 10px; }
+.page_header .page_hero_text h2 { font-size: 28px; line-height: 1.5; font-family: Georgia, serif; margin-bottom: 10px; }
 
 .full_page_image { background-size: cover; width: 95%; height: 45vh; max-height: 600px; margin: 0 auto; }
 
 /* Sermon */
 .sermon_hero_text { text-align: center; }
-.sermon_hero_text h1 { font-family: "ff-meta-serif-web-pro", Georgia, serif; font-size: 44px; margin-bottom: 7.5px; }
+.sermon_hero_text h1 { font-family: Georgia, serif; font-size: 44px; margin-bottom: 7.5px; }
 .sermon_hero_text h2 { font-size: 16px; text-transform: uppercase; letter-spacing: 1px; font-weight: 600; color: #2E2F2F; margin-bottom: 7.5px; }
 .sermon_hero_text audio { width: 50vw; }
 
@@ -477,7 +478,7 @@ strong { font-weight: 600; }
 .card p { margin-top: 6px; }
 .card figure { width: 100%; height: 202px; margin: 0; }
 .card a { display: block; width: 100%; padding: 20px; text-decoration: none; background: #ffffff; }
-.card .card_title { font-family: "ff-meta-serif-web-pro", Georgia, serif; font-size: 24px; }
+.card .card_title { font-family: Georgia, serif; font-size: 24px; }
 .card .card_date { position: absolute; width: 88%; bottom: 12px; text-transform: uppercase; letter-spacing: 1px; font-size: 14px; padding-top: 10px; border-top: 1px solid rgba(0, 0, 0, 0.1); }
 
 .card:hover { box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15); transform: translateY(-10px); }

@@ -1,25 +1,25 @@
 ---
-layout: frontpage
+layout: default
 ---
 
-<!-- style="background:url('{{ page.hero_image }}' -->
+{% if page.download_file %}
+<div class="page_downloadBar">
+  <span class="page_downloadInfo">{{ page.download_info }}</span>
+  <a href="{{ page.download_file }}" class="btn btn--primary">{{ page.download_cta }}</a>
+</div>
+{% endif %}
 
 {% if page.hero_image %}
-<div class="vh-100 dt w-100 tc bg-dark-gray white cover" style="background:url('https://scontent-ord1-1.xx.fbcdn.net/v/t31.0-8/15972430_10210930129381931_6521623705598532519_o.jpg?oh=282a0fdfcf9c58d327f0f53ba7763b2b&oe=5924C5FC') no-repeat center;">
-      <div class="dtc v-mid">
-        <h1 class="f2 f-headline-l fw1 white-90">{{ page.heading }}</h1>
-        <h2 class="page_lead_in f3 fw4">{{ page.lead_in }}</h2>
-        {% if page.start_date and page.end_date %}
-			<span class="event_date">{{ page.start_date | date: "%a, %b %d"}} — {{ page.end_date | date: "%a, %b %d" }}</span>
-		{% endif %}
-      </div>
-    </div>
+<div class="page_header" style="background: url('{{ page.hero_image }}');background-size: cover; ">
+  <div class="container page_heroText">
+    <h1 class="page_heading">{{ page.heading }}</h1>
+    <h2 class="page_leadIn">{{ page.lead_in }}</h2>
+  </div>
+</div>
 {% endif %}
 
 {% if page.content %}
-	<div class="container page_content center measure-wide f5 mt3 pv5 lh-copy ph2">
-		{{ content }}
-	</div>
+  <div class="container page_content">
+    {{ content }}
+  </div>
 {% endif %}
-
-

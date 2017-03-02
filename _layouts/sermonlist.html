@@ -2,25 +2,26 @@
 layout: default
 ---
 
-<div class="page_header">
-  <h2>{{ page.content }}</h2>
+<div class="page_header page_header--sermon">
+  <h2 class="page_title">{{ page.title }}</h2>
 </div>
 
-    {% for sermon in site.sermons reversed %}
-        <div class="sermon_card card fl w-100 w-50-m w-25-ns ma2-ns">
-           {% if event.event_image != empty %}
-             <figure class="card_hero aspect-ratio aspect-ratio--4-3">
-               <img style="background: url('{{ sermon.thumbnail_image }}');" class="db bg-center cover aspect-ratio--object" />
-             </figure>
-             {% endif %} 
-              <a href="{{ sermon.url }}">
-                <h3 class="card_title">{{ sermon.title }}</h3>
-             <!--    <p>{{ sermon.content | truncate: 100, ' ...' }}</p> -->
-                {% if sermon.sermon_date %}
-                  <span class="card_date">{{ sermon.sermon_date | date: "%a, %b %d" }}</span>
-                {% endif %}
-                <!-- <span class="card_date">Read More</span> -->
-              </a>
-          </div>
-        </div>
-    {% endfor %}
+<div class="container">
+  {% for sermon in site.sermons reversed %}
+    <div class="sermon_card card fl w-100 w-50-m w-33-ns ma2-ns">
+       {% if event.event_image != empty %}
+         <figure class="card_hero aspect-ratio aspect-ratio--4-3">
+           <img style="background: url('{{ sermon.thumbnail_image }}');" class="db bg-center cover aspect-ratio--object" />
+         </figure>
+         {% endif %} 
+          <a href="{{ sermon.url }}">
+            <h3 class="card_title">{{ sermon.title }}</h3>
+         <!--    <p>{{ sermon.content | truncate: 100, ' ...' }}</p> -->
+            {% if sermon.sermon_date %}
+              <span class="card_date">{{ sermon.sermon_date | date: "%a, %b %d" }}</span>
+            {% endif %}
+            <!-- <span class="card_date">Read More</span> -->
+          </a>
+      </div>
+  {% endfor %}
+</div>
