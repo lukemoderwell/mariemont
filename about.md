@@ -12,6 +12,10 @@ download:
   file: "/uploads/MCC-chapel-banner.jpg"
   info: You should really download this file!
   cta: Download Now
+heading: A Place Where Kids Learn About Jesus On Their Level
+lead_in: Mariemont Church is committed to raising up strong, spiritually healthy children.
+  From our nursery program through 5th grade, we are empowering children to make a
+  faith in Christ their own and to put that faith into action.
 layout: page
 ---
 
