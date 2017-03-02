@@ -454,6 +454,13 @@ strong { font-weight: 600; }
 @media (min-width: 1200px) { .events_link { text-align: right; padding-top: 14px; } }
 
 .page_hero { display: inline-block; margin-bottom: 2.22222em; width: 100%; height: 560px; }
+.page_hero .page_heroText { margin: 10% auto; max-width: 800px; }
+
+.page_heading, .page_leadIn { text-align: center; color: #ffffff; }
+
+.page_heading { margin-bottom: 16px; font-family: Georgia, serif; font-size: 3.11111em; line-height: 1.2; }
+
+.page_leadIn { margin: 0 auto; max-width: 640px; font-size: 1.11111em; }
 
 .page_downloadBar { display: flex; align-items: center; justify-content: center; width: 100%; height: 80px; padding: 20px 40px; text-align: center; color: #ffffff; background-color: #2E2F2F; }
 .page_downloadBar .page_downloadInfo { display: none; }
