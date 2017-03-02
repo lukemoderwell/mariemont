@@ -1,13 +1,32 @@
 //Page Styles
 .page_hero {
-	display: block; 
+	display: inline-block; 
 	margin-bottom: em(40px);
 	width: 100%; 
 	height: 560px;
 }
 
+//Download Bar 
+.page_downloadBar {
+	display: flex;
+	align-items: center; 
+	justify-content: center;  
+	width: 100%; 
+	height: 80px; 
+	padding: 20px 40px; 
+	text-align: center; 
+	color: $color--white;
+	background-color: $color--dark-gray;
 
+	.page_downloadInfo {
+		display: none; 
 
+		@media (min-width: $med) {
+			display: inline; 
+			margin-right: 20px;
+		}
+	}
+}
 
 .page_content {
 

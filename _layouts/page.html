@@ -5,15 +5,15 @@ layout: default
 {% if page.download %}
 <div class="page_downloadBar">
   <span class="page_downloadInfo">{{ page.download.info }}</span>
-  <a href="{{ page.download.file }}" class="btn btn--primary">{{ page.download.cta }}</a>
+  <a href="{{ page.download.file }}" class="btn btn--small btn--primary">{{ page.download.cta }}</a>
 </div>
 {% endif %}
 
 {% if page.hero_image %}
 <div class="page_hero" style="background: url('{{ page.hero_image }}');background-size: cover; ">
   <div class="page_heroText">
-    <h1 class="page_heading">{{ page.heading }}</h1>
-    <h2 class="page_leadIn">{{ page.lead_in }}</h2>
+    <h2 class="page_heading">{{ page.heading }}</h2>
+    <h3 class="page_leadIn">{{ page.lead_in }}</h3>
   </div>
 </div>
 {% endif %}
