@@ -10,11 +10,7 @@
 	z-index: -1; 
 
 	@media (min-width: $med) {
-		max-height: 860px;
-	}
-
-	@media (min-width: $large) { 
-		max-height: 800px;
+		max-height: 700px;
 	}
 }
 
@@ -32,11 +28,7 @@
 	@media (min-width: $med) {
     	width: 80%; 
     	max-width: 1120px; 
-    	top: 22vh; 
-	}
-
-	@media (min-width: $large) {
-    	top: 240px; 
+    	top: em(160px); 
 	}
 
 	h1 {

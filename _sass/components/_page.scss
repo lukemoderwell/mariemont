@@ -1,3 +1,14 @@
+//Page Styles
+.page_hero {
+	display: block; 
+	margin-bottom: em(40px);
+	width: 100%; 
+	height: 560px;
+}
+
+
+
+
 .page_content {
 
 	@media (min-width: $med) {
@@ -14,54 +25,6 @@
 		font-size: 19px;
     	line-height: 1.6;
 	} 
-}
-
-
-.page_header {
-  margin: 100px 0 ; 
-  text-align: center;
-  background: $color--dark-gray;
-
-  .page_title {
-  	padding: 60px;
-  	font-family: $serif; 
-  	text-align: center;
-  	color: $color--white;
-  }
-  
-  .page_hero_text {
-  	  
-  	  @media (min-width: $med) {
-  	  	padding: 0 40% 0 35px;
-  	  }
-
-  	  @media (min-width: $large) {
-  	  	padding-left: 0;
-  	  }
-
-	  h1 {
-	  	font-size: 18px;
-	    font-weight: 600;
-	    text-transform: uppercase;
-	    letter-spacing: 1px;
-			}
-
-	  h2 {
-	    font-size: 28px;
-    	line-height: 1.5;
-    	font-family: $serif;
-    	margin-bottom: 10px;     
-	  }
-  }
-}
-
-
-.full_page_image {
-	background-size: cover; 
-	width: 95%; 
-	height: 45vh;
-	max-height: 600px;
-	margin: 0 auto;  
 }
 
 

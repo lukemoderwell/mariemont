@@ -325,7 +325,7 @@ a:hover { cursor: pointer; }
 
 strong { font-weight: 600; }
 
-.main { display: block; /* padding-top: em($gutter * 2); */ line-height: 1.5; }
+.main { display: block; padding-top: 75px; line-height: 1.5; }
 
 .badge { font-size: 14px; background: #11338D; padding: 10px 14px 22px; text-transform: uppercase; color: #ffffff; letter-spacing: 1px; border-radius: 100px; max-height: 26px; }
 
@@ -420,12 +420,10 @@ strong { font-weight: 600; }
 .home_hero { position: relative; }
 
 .home_hero_img { float: none; width: 100%; height: 100vh; background-size: cover; display: block; z-index: -1; }
-@media (min-width: 768px) { .home_hero_img { max-height: 860px; } }
-@media (min-width: 1200px) { .home_hero_img { max-height: 800px; } }
+@media (min-width: 768px) { .home_hero_img { max-height: 700px; } }
 
 .home_intro { width: 100%; float: none; z-index: 1; position: absolute; right: 0; left: 0; top: 35vh; margin: auto; padding: 0 20px; }
-@media (min-width: 768px) { .home_intro { width: 80%; max-width: 1120px; top: 22vh; } }
-@media (min-width: 1200px) { .home_intro { top: 240px; } }
+@media (min-width: 768px) { .home_intro { width: 80%; max-width: 1120px; top: 8.88889em; } }
 .home_intro h1 { font-family: Georgia, serif; font-size: 40px; line-height: 1.2; color: #ffffff; text-align: center; }
 @media (min-width: 768px) { .home_intro h1 { font-size: 48px; line-height: 1.5; } }
 @media (min-width: 1200px) { .home_intro h1 { font-size: 60px; } }
@@ -453,18 +451,11 @@ strong { font-weight: 600; }
 
 @media (min-width: 1200px) { .events_link { text-align: right; padding-top: 14px; } }
 
+.page_hero { display: block; margin-bottom: 2.22222em; width: 100%; height: 560px; }
+
 @media (min-width: 768px) { .page_content { max-width: 640px; } }
 .page_content h2 { font-size: 24px; margin: 20px 0 10px; font-family: Georgia, serif; }
 .page_content p { font-size: 19px; line-height: 1.6; }
-
-.page_header { margin: 100px 0; text-align: center; background: #2E2F2F; }
-.page_header .page_title { padding: 60px; font-family: Georgia, serif; text-align: center; color: #ffffff; }
-@media (min-width: 768px) { .page_header .page_hero_text { padding: 0 40% 0 35px; } }
-@media (min-width: 1200px) { .page_header .page_hero_text { padding-left: 0; } }
-.page_header .page_hero_text h1 { font-size: 18px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
-.page_header .page_hero_text h2 { font-size: 28px; line-height: 1.5; font-family: Georgia, serif; margin-bottom: 10px; }
-
-.full_page_image { background-size: cover; width: 95%; height: 45vh; max-height: 600px; margin: 0 auto; }
 
 /* Sermon */
 .sermon_hero_text { text-align: center; }
