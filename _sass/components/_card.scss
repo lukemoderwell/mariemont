@@ -1,42 +1,55 @@
 /* events */
 
+.card_list {
+	display: flex; 
+	flex-flow: wrap row;
+}
+
 .card {
 	min-height: 400px;
-	margin: 20px 0;  
-	position: relative;  
+	max-width: 24rem;
+	margin: 20px 0;    
 	//display: inline-block; 
-	vertical-align: top;
-	box-shadow: 0 20px 20px rgba(0,0,0,.08);
-	transition: .25s all ease-in-out;  
 
 	&.sermon_card {
 		min-height: 360px;
 	}
 
-	p { margin-top: 6px; }
-
-	figure {
-		width: 100%; 
-		height: 202px; 
-		margin: 0;
+	.card_exerpt { 
+		margin-top: 6px; 
 	}
 
-	a {
+	.card_img {
+		margin-bottom: 20px;
+	}
+
+	.card_main {
+		height: 400px;
+		position: relative;
 		display: block;
 		width: 100%; 
-		padding: 20px;
 		text-decoration: none;
-		//height: 200px;
-		background: $color--white; 
+		background-color: $color--white; 
+		transition: .25s all ease-in-out; 
+		box-shadow: 0 20px 20px rgba(0,0,0,.08);
+		vertical-align: top; 
 	}
 
+	.card_title, 
+	.card_date {
+		padding: 20px;
+	}
 
-	.card_title {font-family: $serif; font-size: 24px;}
+	.card_title {
+		position: absolute;
+    	top: 220px;
+		font-family: $serif; font-size: 24px;
+	}
 
 	.card_date {
-		position: absolute; 
-		width: 88%;
-		bottom: 12px; 
+		width: 100%; 
+		position: absolute;
+		bottom: 0; 
 		text-transform: uppercase; 
 		letter-spacing: 1px; 
 		font-size: 14px; 
@@ -45,7 +58,7 @@
 	}
 }
 
-.card:hover {
+.card_main:hover {
 	box-shadow: 0 20px 30px rgba(0,0,0,.15);
 	transform: translateY(-10px);
 }

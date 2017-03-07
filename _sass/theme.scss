@@ -7,12 +7,17 @@
 html {
   box-sizing: border-box;
 }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
-body {
-  overflow-x: hidden; 
+body { 
   background: #fff;
   color: $color--gray;
   font-family: $sans;
@@ -89,18 +94,22 @@ strong {
 
 .main {
   display: block; 
-  padding-top: 100px;
+  padding-top: 120px;
   line-height: 1.5;
+
+  @media (min-width: $med) {
+    padding-top: 88px;
+  }
 }
 
 .badge {
-  font-size: 14px; 
+  font-size: 15px; 
   background: $color-mcc-blue; 
-  padding: 10px 14px 22px; 
+  padding: 14px 20px 26px; 
   text-transform: uppercase; 
   color: $color--white; 
   letter-spacing: 1px; 
-  border-radius: 100px;
+  border-radius: 1000px;
   max-height: 26px; 
 }
 

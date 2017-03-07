@@ -36,6 +36,7 @@
 
 .btn--secondary {
     background: $color--white; 
+    color: $color--black; 
 
     &:hover {
         background: darken($color--white, 10%);

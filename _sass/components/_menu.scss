@@ -52,13 +52,12 @@
   }
 }
 
-.open_label { 
-  position: absolute; 
-  right: 30px; 
+.open_label {  
   display: block;
   opacity: 1; 
   color: $color-mcc-blue;
   cursor: pointer;
+  text-align: center;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;

@@ -27,6 +27,7 @@ defaults:
     week: ''
     sermon_date: ''
     speaker: ''
+    excerpt: ''
     audio_file: ''
     video_url: ''
     thumbnail_image: ''
@@ -40,6 +41,18 @@ defaults:
     start_date: ''
     end_date: ''
     event_image: ''
+    heading: ''
+    lead_in: ''
+- scope:
+    path: ''
+    type: page
+  values:
+    bg_color: ''
+    hero_image: ''
+    download:
+      file:
+      info:
+      cta:
     heading: ''
     lead_in: ''
 - scope:

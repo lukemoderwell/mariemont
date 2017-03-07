@@ -16,12 +16,12 @@ layout: default
     {% endfor %}
     </section>
     <div class="container">
-      <section class="feat_sermon row">
-          <div class="feat_sermon_img col-sm-12 col-md-6">
+      <section class="feat_sermon grid grid--gutters">
+          <div class="feat_sermon_img grid_cell grid_cell--half">
             <img src="/uploads/isaiah-art.jpg" />
             <!-- <img src="{{ sermon.feat_image }}" style="max-width: 800px; max-height: 600px;" /> -->
           </div>
-          <div class="feat_sermon_content col-sm-12 col-md-6">
+          <div class="feat_sermon_content grid_cell grid_cell--half">
              {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
               <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
               <a href="{{ sermon.permalink }}">
