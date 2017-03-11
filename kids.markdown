@@ -2,6 +2,7 @@
 title: Kids
 date: 2016-10-18 20:18:00 -04:00
 permalink: "/kids"
+position: 5
 hero_image: https://hd.unsplash.com/photo-1472162072942-cd5147eb3902
 heading: Kids @ Mariemont Church
 lead_in: Mariemont Church is committed to raising up strong, spiritually healthy children.
