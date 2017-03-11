@@ -50,9 +50,9 @@ defaults:
     bg_color: ''
     hero_image: ''
     download:
-      file:
-      info:
-      cta:
+      file: 
+      info: 
+      cta: 
     heading: ''
     lead_in: ''
 - scope:
