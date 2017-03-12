@@ -8,7 +8,9 @@ kids: "## Kids and Youth Our kids and youth ministries are a fun, safe place whe
 lite_bites: Lite Bites is a brunch that is held every Sunday from 10:00-11:00 in between
   services. This is a completely free way to fill your belly and meet some new friends
   or connect with those with which you are already in community.
+hasHero: true
 hero_image: "/uploads/MCC-chapel-banner-thin.jpg"
+hasDownload: true
 download:
   file: "/uploads/MCC-chapel-banner.jpg"
   info: You should really download this file!

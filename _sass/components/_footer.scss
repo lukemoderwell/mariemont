@@ -38,6 +38,16 @@
 	border-bottom: 1px solid rgba(255,255,255,.1);
 }
 
+.footer-main-nav,
+.footer-top-title, 
+.footer-main-title, 
+.footer-top-actions {
+	width: 100%; 
+
+	@media (min-width: $med) {
+		width: 50%;
+	}
+}
 
 .footer-top-title, .footer-main-title {
 	float: left; 
@@ -87,6 +97,14 @@
 	}
 }
 
+.footer-main-nav-list {
+	width: 100%;
+
+	@media (min-width: $med) {
+		float: left; 
+		width: 50%;
+	} 
+}
 
 .footer-main-nav ul li {
 	line-height: 30px;

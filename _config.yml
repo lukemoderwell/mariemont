@@ -34,21 +34,12 @@ defaults:
     is_featured: false
 - scope:
     path: ''
-    type: events
-  values:
-    layout: page
-    bg_color: ''
-    start_date: ''
-    end_date: ''
-    event_image: ''
-    heading: ''
-    lead_in: ''
-- scope:
-    path: ''
     type: page
   values:
     bg_color: ''
     hero_image: ''
+    hasHero: false
+    hasDownload: false
     download:
       file: 
       info: 

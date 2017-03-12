@@ -2,21 +2,23 @@
 layout: default
 ---
 
-{% if page.download %}
+{% if page.hasDownload == true %}
 <div class="page_downloadBar">
   <span class="page_downloadInfo">{{ page.download.info }}</span>
   <a href="{{ page.download.file }}" class="btn btn--small btn--primary">{{ page.download.cta }}</a>
 </div>
 {% endif %}
 
-{% if page.hero_image %}
-<div class="page_hero" style="background-color: aliceblue; background-image: url('{{ page.hero_image }}');background-size: cover; ">
+{% if page.hasHero == true %}
+<div class="page_hero" style="background-image: url('{{ page.hero_image }}'); background-size: cover;">
+{% else %}
+<div class="page_header" style="background-color: {{ page.bg_color }};">"
+{% endif %} 
   <div class="page_heroText">
     <h2 class="page_heading">{{ page.heading }}</h2>
     <h3 class="page_leadIn">{{ page.lead_in }}</h3>
   </div>
 </div>
-{% endif %}
 
 {% if page.content %}
   <div class="container page_content">

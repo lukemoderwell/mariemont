@@ -49,3 +49,19 @@
     flex: 0 0 50%; 
   }
 }
+
+.grid_cell--oneThird {
+  flex: 0 0 100%; 
+
+  @media (min-width: $med) {
+    flex: 0 0 33.333333333%; 
+  }
+}
+
+.grid_cell--twoThirds {
+  flex: 0 0 100%; 
+
+  @media (min-width: $med) {
+    flex: 0 0 66.66666666%; 
+  }
+}

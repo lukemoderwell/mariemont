@@ -20,3 +20,5 @@ Once your date is approved you will receive a packet of information. (Additional
 
 ### Fees
 Please contact the Mark Symmes, the Church Administrator, with questions. Send an email inquiry to mark @ mariemontchurch.org.
+
+<iframe width="600" height="338" src="https://www.youtube.com/embed/MTWeAkJ3BRY?ecver=1" frameborder="0" allowfullscreen></iframe>
