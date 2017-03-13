@@ -18,9 +18,11 @@ $('.close_label').click( function() {
     $("#menu").removeClass("show");
 } );
 
-//set vars for form
-
-
+//Prevent Page reload
+$(".page_form").submit(function(e) {
+    e.preventDefault();
+    this.reset();
+});
 
 //Ajax form requests
 $(".form_submit").click(function() {
@@ -34,14 +36,6 @@ $(".form_submit").click(function() {
         data: {name: name, email: email}
     });
 });
-
-
-//Prevent Page reload
-$(".page_form").submit(function(e) {
-    e.preventDefault();
-    this.reset();
-});
-
 
 // Disable scroll zooming and bind back the click event
   var onMapMouseleaveHandler = function (event) {
