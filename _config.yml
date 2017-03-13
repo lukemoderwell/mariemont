@@ -44,7 +44,7 @@ defaults:
     download:
       file: 
       info: 
-      cta:
+      cta: 
     heading: ''
     lead_in: ''
 - scope:
@@ -66,4 +66,4 @@ highlighter: rouge
 gems:
 - jekyll-seo-tag
 port: 8000
-permalink: /:categories/:title/
+permalink: "/:categories/:title/"
