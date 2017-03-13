@@ -5,7 +5,7 @@ permalink: "/"
 position: 3
 heading: Living & Loving In Jesus Christ
 hero_image: "/uploads/worship-leading-alt.jpg"
-layout: frontpage
+layout: default
 ---
 
 We’re a growing community of families in East Cincinnati committed to following Jesus. Visit us on Sundays at 9am and 11am. Are you new to MCC? Learn more about our church.

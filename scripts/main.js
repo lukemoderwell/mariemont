@@ -1,3 +1,4 @@
+// Add scrolling styles
 $(window).scroll(function() {    
     var scroll = $(window).scrollTop();
 
@@ -17,6 +18,16 @@ $('.close_label').click( function() {
     $("#menu").removeClass("show");
 } );
 
+
+//Ajax form requests
+$(".form_submit").onClick(function() {
+    $.ajax({
+        url: "https://formspree.io/luke.moderwell@gmail.com", 
+        method: "POST",
+        data: {message: "hello!"},
+        dataType: "json"
+    });
+});
 
 
 // Disable scroll zooming and bind back the click event
