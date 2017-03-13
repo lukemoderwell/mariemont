@@ -18,15 +18,28 @@ $('.close_label').click( function() {
     $("#menu").removeClass("show");
 } );
 
+//set vars for form
+
+
 
 //Ajax form requests
-$(".form_submit").onClick(function() {
+$(".form_submit").click(function() {
+   var name = $('#fullName').val();
+   var email = $('#email').val(); 
+   console.log(name);
     $.ajax({
-        url: "https://formspree.io/luke.moderwell@gmail.com", 
-        method: "POST",
-        data: {message: "hello!"},
-        dataType: "json"
+        url: "https:/formspree.io/luke.moderwell@gmail.com", 
+        type: "POST",
+        dataType: "json",
+        data: {name: name, email: email}
     });
+});
+
+
+//Prevent Page reload
+$(".page_form").submit(function(e) {
+    e.preventDefault();
+    this.reset();
 });
 
 
