@@ -81,29 +81,3 @@
     	line-height: 1.6;
 	} 
 }
-
-
-/* Sermon */
-
-.sermon_hero_text {
-	text-align: center; 
-
-	h1 {
-		font-family: $serif; 
-		font-size: 44px;
-		margin-bottom: $gutter / 4; 
-	}
-
-	h2 {
-	font-size: 16px;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-	font-weight: 600;
-	color: $color--dark-gray; 
-	margin-bottom: $gutter / 4; 
-	}
-
-	audio {
-		width: 50vw; 
-	}
-}

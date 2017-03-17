@@ -1,0 +1,27 @@
+/* Sermon */
+
+.sermon_hero_text {
+	text-align: center; 
+    color: $color--white;
+
+    .sermon_heading {
+        margin: 0;
+        margin-bottom: $gutter;
+		font-family: $serif; 
+		font-size: 44px; 
+        color: $color--white;
+	}
+
+	.sermon_meta {
+        margin-bottom: $gutter / 4;     
+        font-size: 16px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 600; 
+        color: $color-mcc-blue-light;
+	}
+
+	audio {
+		width: 50vw; 
+	}
+}

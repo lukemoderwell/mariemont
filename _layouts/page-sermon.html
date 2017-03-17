@@ -4,8 +4,8 @@ layout: default
 
 <div class="page_header" style="background: {{ page.bg_color }};">
 	<div class="container sermon_hero_text">
-		<h1 class="sermon_heading">{{ page.title }}</h1>
 		<h2 class="sermon_meta">{{ page.series }} Week {{ page.week }}</h2>
+		<h1 class="sermon_heading">{{ page.title }}</h1>
 		<audio controls preload src="{{ page.audio_file }}"></audio>
 		<p class="speaker">{{ page.speaker }}</p>
 		{% if page.sermon_date %}
@@ -20,11 +20,11 @@ layout: default
 </div>
 {% endif %}
 
-<div class="suggested_sermons cf center mv3 pv4">
+<!--<div class="suggested_sermons cf center mv3 pv4">
 	<h2 class="tc">Related Sermons</h2>
 		{% assign title = page.title %}
 		{% assign series = page.series %}
-	{% for sermon in site.sermons reversed %} {% if series == sermon.series %} {% if sermon.title != title %}
+		{% for sermon in site.sermons reversed %} {% if series == sermon.series %} {% if sermon.title != title %}
 		<div class="col-sm-12 col-md-4">
 			<div class="sermon_card card">
 		   	{% if event.event_image != empty %}
@@ -39,7 +39,7 @@ layout: default
 		{% endif %}	
 		{% endif %}
 	{% endfor %}
-</div>
+</div>-->
 
 
 

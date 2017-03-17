@@ -214,6 +214,12 @@ strong { font-weight: 600; }
 
 @media (min-width: 1200px) { .events_link { text-align: right; padding-top: 14px; } }
 
+/* Sermon */
+.sermon_hero_text { text-align: center; color: #ffffff; }
+.sermon_hero_text .sermon_heading { margin: 0; margin-bottom: 30px; font-family: Georgia, serif; font-size: 44px; color: #ffffff; }
+.sermon_hero_text .sermon_meta { margin-bottom: 7.5px; font-size: 16px; text-transform: uppercase; letter-spacing: 1px; font-weight: 600; color: #8598C5; }
+.sermon_hero_text audio { width: 50vw; }
+
 .page_header { width: 100%; margin-bottom: 60px; padding: 60px; text-align: center; background: #2E2F2F; }
 .page_header .page_title { color: #ffffff; }
 
@@ -233,12 +239,6 @@ strong { font-weight: 600; }
 @media (min-width: 768px) { .page_content { max-width: 40rem; } }
 .page_content h2 { font-size: 24px; margin: 20px 0 10px; font-family: Georgia, serif; }
 .page_content p { font-size: 19px; line-height: 1.6; }
-
-/* Sermon */
-.sermon_hero_text { text-align: center; }
-.sermon_hero_text h1 { font-family: Georgia, serif; font-size: 44px; margin-bottom: 7.5px; }
-.sermon_hero_text h2 { font-size: 16px; text-transform: uppercase; letter-spacing: 1px; font-weight: 600; color: #2E2F2F; margin-bottom: 7.5px; }
-.sermon_hero_text audio { width: 50vw; }
 
 /* events */
 .card_list { display: flex; flex-flow: wrap row; }
