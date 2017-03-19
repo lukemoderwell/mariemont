@@ -1,7 +1,7 @@
 ---
 title: Club 168 (9th -12th Grade)
 date: 2017-03-19 19:51:00 -04:00
-position: 11
+position: 12
 heading: Welcome To Club 168!
 layout: page
 ---

@@ -3,7 +3,7 @@ title: Events
 date: 2016-10-17 22:14:00 -04:00
 permalink: "/events/"
 published: false
-position: 14
+position: 15
 layout: events
 ---
 
