@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-position: 0
+position: 1
 kids: "## Kids and Youth Our kids and youth ministries are a fun, safe place where
   kids from ages 0-22 get to learn about Jesus and what it means to follow Him in
   their everyday life. "
