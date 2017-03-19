@@ -2,7 +2,7 @@
 title: Home
 date: 2016-10-13 07:30:00 -04:00
 permalink: "/"
-position: 5
+position: 1
 hero_image: "/uploads/worship-leading-alt.jpg"
 heading: Living & Loving In Jesus Christ
 layout: default
