@@ -2,7 +2,7 @@
 title: Giving
 date: 2017-03-11 16:07:00 -05:00
 permalink: "/giving"
-position: 3
+position: 4
 heading: Give Generously
 lead_in: 'Lorem ipsum dolor sit amet, ius in suas iuvaret, qui tota maiestatis te,
   sit ea movet feugiat explicari. '
