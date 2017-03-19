@@ -1,7 +1,7 @@
 ---
 title: Men's Ministry
 date: 2016-11-13 15:40:00 -05:00
-position: 8
+position: 9
 layout: page
 ---
 
