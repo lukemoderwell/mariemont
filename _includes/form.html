@@ -1,11 +1,15 @@
 {% if page.hasForm == true %}
-<h3 class="page_formTitle">{{ page.form_title }}</h3>
-<p class="page_formInstructions">{{ page.form_instructions }}</p>
-<form class="page_form">
-    <label for="{{ page.form.one_id }}" class="form_label">{{ page.form.one_label }}</label>
-    <input id="{{ page.form.one_id }}" class="form_input" type="{{ page.form.one_type }}" /> 
-    <label for="{{ page.form.two_id }}" class="form_label">{{ page.form.two_label }}</label>
-    <input id="{{ page.form.two_id }}" class="form_input" name="_replyto"  type="{{ page.form.two_type }}" />
-    <input class="form_submit" type="submit" value="{{ page.form.submit_value }}">
-</form>
+<div class="form_container">
+    <h3 class="form_title">{{ page.form_title }}</h3>
+    <p class="form_instructions">{{ page.form_instructions }}</p>
+    <form class="form">
+        <fieldset class="form_field">
+            <label for="{{ page.form.one_id }}" class="form_label">{{ page.form.one_label }}</label>
+            <input id="{{ page.form.one_id }}" class="form_input" type="{{ page.form.one_type }}" /> 
+            <label for="{{ page.form.two_id }}" class="form_label">{{ page.form.two_label }}</label>
+            <input id="{{ page.form.two_id }}" class="form_input" name="_replyto"  type="{{ page.form.two_type }}" />
+        </fieldset>
+        <input class="form_submit btn btn--small btn--primary" type="submit" value="{{ page.form.submit_value }}">
+    </form>
+</div>
 {% endif  %}

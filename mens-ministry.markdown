@@ -10,12 +10,13 @@ form:
   two_id: email
   two_label: Email
   two_type: email
+  submit_value: Send
 heading: Men's Ministry
 lead_in: Jesus was a man’s man, and becoming like him means we will lay down our lives
   for the benefit of those around us.
 form_title: Men's Breakfast Signup
 form_instructions: 'Fill out this form to register for the men''s breakfast 3/26 from
-  8am to 11am. '
+  8am to 11am.'
 layout: page
 ---
 

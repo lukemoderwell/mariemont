@@ -19,10 +19,9 @@ layout: default
     <h3 class="page_leadIn">{{ page.lead_in }}</h3>
   </div>
 </div>
-
-{% if page.content %}
-  <div class="container page_content">
+<div class="container page_content">
+  {% include form.html %}
+  {% if page.content %}
     {{ content }}
-    {% include form.html %}
-  </div>
-{% endif %}
+  {% endif %}  
+</div>

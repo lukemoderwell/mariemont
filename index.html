@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
-
 <div class="home">
   <section class="home_hero clearfix">
      {% for page in site.pages %}
-      {% if page.title == 'Frontpage' %}
+      {% if page.title == 'Home' %}
       <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
       <div class="home_intro">
           <h1 class="page_heading mb1">{{ page.heading }}</h1>
