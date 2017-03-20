@@ -34,13 +34,23 @@ defaults:
     is_featured: false
 - scope:
     path: ''
-    type: page
+    type: pages
   values:
     bg_color: ''
     hero_image: ''
     hasHero: false
     hasDownload: false
     hasForm: false
+    form_title: ''
+    form_instructions: ''
+    form:
+      one_id:
+      one_label:
+      one_type:
+      two_id:
+      two_label:
+      two_type:
+      submit_value:
     download:
       file: 
       info: 

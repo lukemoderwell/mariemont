@@ -23,15 +23,6 @@ layout: default
 {% if page.content %}
   <div class="container page_content">
     {{ content }}
-
-    {% if page.hasForm == true %}
-      <form class="page_form">
-        <label for="fullName" class="form_label">Full Name</label>
-        <input id="fullName" class="form_input" name="name" type="text" /> 
-        <label for="email" class="form_label">Email</label>
-        <input id="email" class="form_input" name="_replyto"  type="email" />
-        <input class="form_submit" type="submit" value="Send">
-      </form>
-    {% endif  %}
+    {% include form.html %}
   </div>
 {% endif %}
