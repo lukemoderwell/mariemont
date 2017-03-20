@@ -2,10 +2,24 @@
 title: Men's Ministry
 date: 2016-11-13 15:40:00 -05:00
 position: 8
+hasForm: true
+form:
+  one_id: fullName
+  one_label: Full Name
+  one_type: text
+  two_id: email
+  two_label: Email
+  two_type: email
+heading: Men's Ministry
+lead_in: Jesus was a man’s man, and becoming like him means we will lay down our lives
+  for the benefit of those around us.
+form_title: Men's Breakfast Signup
+form_instructions: 'Fill out this form to register for the men''s breakfast 3/26 from
+  8am to 11am. '
 layout: page
 ---
 
-We believe God has called men to provide proactive and sacrificial leadership in their families, in the church, at their places of employment, and in the community. Jesus was a man’s man, and becoming like him means we will lay down our lives for the benefit of those around us.
+We believe God has called men to provide proactive and sacrificial leadership in their families, in the church, at their places of employment, and in the community. 
 
 For us, that looks like all men realizing their sonship to the Father, married men loving their wives well and discipling their children toward a relationship with Christ, and single men devoted to the church and Kingdom building.
 
