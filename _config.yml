@@ -44,13 +44,13 @@ defaults:
     form_title: ''
     form_instructions: ''
     form:
-      one_id:
-      one_label:
-      one_type:
-      two_id:
-      two_label:
-      two_type:
-      submit_value:
+      one_id: 
+      one_label: 
+      one_type: 
+      two_id: 
+      two_label: 
+      two_type: 
+      submit_value: 
     download:
       file: 
       info: 
