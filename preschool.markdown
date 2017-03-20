@@ -15,3 +15,9 @@ The Mariemont Community Church Preschool and Elementary Extended Care are both o
 The staff and I hope you will find our Preschool and/or elementary Extended Day program a good fit for your child.  Information about our classes, policies, and general information can be found on our webpage.
 
 If you would like a personal tour, please contact Renee Brownfield at (513) 504-9287 or at [preschool @ mariemontchurch .org](mailto:preschool@mariemontchurch.org).
+
+### Important Documents
+
+[Peanut & Dairy Free List](http://mariemontchurch.org/wp-content/uploads/2012/11/dairy-peanut-free-list.docx)
+[2016/17 Preschool Calendar](http://mariemontchurch.org/wp-content/uploads/2012/11/2016-17-preschool-calendar.rtf)
+[2016/17 Parent Handbook](http://mariemontchurch.org/wp-content/uploads/2012/11/2016-17-Preschool-Parent-Handbook.rtf)
