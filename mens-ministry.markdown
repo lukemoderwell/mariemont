@@ -2,6 +2,7 @@
 title: Men's Ministry
 date: 2016-11-13 15:40:00 -05:00
 position: 8
+hero_image: "/uploads/menUnitedworn.gif"
 hasForm: true
 form_title: Men's Breakfast Signup
 form_instructions: Fill out this form to register for the men's breakfast 3/26 from
