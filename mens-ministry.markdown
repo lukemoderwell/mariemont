@@ -38,4 +38,4 @@ Here are some of the things we do:
 
 * Help out at the Family Shop
 
-* **Bible Study**: Meet on Fridays at the Parish Center at 6:30am
+* **Bible Study**: Meet on Fridays at the Parish Center at 6:30am![mcc (1).gif](/uploads/mcc%20(1).gif)![mcc (1).gif](/uploads/mcc%20(1).gif)
