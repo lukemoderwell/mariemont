@@ -24,8 +24,6 @@ form:
 layout: page
 ---
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/0m-CEh33YKM?ecver=1" frameborder="0" allowfullscreen></iframe>
-
 We believe God has called men to provide proactive and sacrificial leadership in their families, in the church, at their places of employment, and in the community.
 
 For us, that looks like all men realizing their sonship to the Father, married men loving their wives well and discipling their children toward a relationship with Christ, and single men devoted to the church and Kingdom building.
