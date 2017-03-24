@@ -30,6 +30,7 @@ defaults:
     excerpt: ''
     audio_file: ''
     video_url: ''
+    brochure: ''
     thumbnail_image: ''
     is_featured: false
 - scope:
