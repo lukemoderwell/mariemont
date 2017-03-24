@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<!--TODO: Add sermon slides & Download Brochure -->
+
 <div class="page_header" style="background: {{ page.bg_color }};">
 	<div class="container sermon_hero_text">
 		<h2 class="sermon_meta">{{ page.series }} Week {{ page.week }}</h2>
@@ -19,28 +21,6 @@ layout: default
 	{{ content }}
 </div>
 {% endif %}
-
-<!--<div class="suggested_sermons cf center mv3 pv4">
-	<h2 class="tc">Related Sermons</h2>
-		{% assign title = page.title %}
-		{% assign series = page.series %}
-		{% for sermon in site.sermons reversed %} {% if series == sermon.series %} {% if sermon.title != title %}
-		<div class="col-sm-12 col-md-4">
-			<div class="sermon_card card">
-		   	{% if event.event_image != empty %}
-		    <figure class="card_hero" style="background-image: url({{ sermon.thumbnail_image }});"></figure>
-		    {% endif %} 
-		      <a href="{{ sermon.url }}">
-		        <h3 class="card_title">{{ sermon.title }}</h3>
-		        <span class="card_date">{{ sermon.sermon_date | date: "%a, %b %d" }}</span>
-		      </a>
-		    </div>
-		 </div>
-		{% endif %}	
-		{% endif %}
-	{% endfor %}
-</div>-->
-
 
 
 
