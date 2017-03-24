@@ -7,7 +7,7 @@ sermon_date: 2016-08-21 00:00:00 -04:00
 speaker: Denis Beausejour
 audio_file: http://mariemontchurch.org/wp-content/uploads/2016/04/Messy-Church-Week-1-Denis.mp3
 thumbnail_image: "/uploads/messy-wk-one.jpg"
-is_featured: true
+is_featured: false
 feat_image: "/uploads/isaiah.jpg"
 ---
 
