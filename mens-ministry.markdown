@@ -24,7 +24,7 @@ form:
 layout: page
 ---
 
-![mcc (1).gif](/uploads/mcc%20(1).gif)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/0m-CEh33YKM?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 We believe God has called men to provide proactive and sacrificial leadership in their families, in the church, at their places of employment, and in the community.
 
