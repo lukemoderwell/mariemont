@@ -24,14 +24,14 @@ form:
 layout: page
 ---
 
-![mcc (1).gif](/uploads/mcc%20(1).gif)!
+![mcc (1).gif](/uploads/mcc%20(1).gif)
 
-We believe God has called men to provide proactive and sacrificial leadership in their families, in the church, at their places of employment, and in the community. 
+We believe God has called men to provide proactive and sacrificial leadership in their families, in the church, at their places of employment, and in the community.
 
 For us, that looks like all men realizing their sonship to the Father, married men loving their wives well and discipling their children toward a relationship with Christ, and single men devoted to the church and Kingdom building.
 
-To this end, we are 
-"Forging a Christian Brotherhood to Conquer Life's Battles Shoulder to Shoulder". 
+To this end, we are
+"Forging a Christian Brotherhood to Conquer Life's Battles Shoulder to Shoulder".
 
 Here are some of the things we do:
 
