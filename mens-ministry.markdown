@@ -15,6 +15,8 @@ form:
   two_label: Email
   two_type: email
   submit_value: Send
+download:
+  file: "/uploads/mcc%20(1).gif"
 heading: Men's Ministry
 lead_in: Jesus was a man’s man, and becoming like him means we will lay down our lives
   for the benefit of those around us.
