@@ -9,6 +9,9 @@ layout: default
 		<h2 class="sermon_meta">{{ page.series }} Week {{ page.week }}</h2>
 		<h1 class="sermon_heading">{{ page.title }}</h1>
 		<audio controls preload src="{{ page.audio_file }}"></audio>
+		{% if page.brochure_file %}
+			<a class="btn" href="{{ page.brochure_file }}">Download Brochure</a>
+		{% endif %}
 		<p class="speaker">{{ page.speaker }}</p>
 		{% if page.sermon_date %}
 			<span class="sermon_date">{{ page.sermon_date | date: "%a, %b %d" }}</span>

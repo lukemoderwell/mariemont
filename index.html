@@ -30,7 +30,7 @@ layout: default
               <p class="feat_sermon_desc"> {{ sermon.content | truncate: 140, '...' }}</p>
               <audio controls preload src="{{ sermon.audio_file }}"></audio>
               {% if sermon.brochure == true %}
-              <a href="{{ sermon.brochure }}" class="cta">Download Brochure</a>
+              <a href="{{ sermon.brochure_file }}" class="cta">Download Brochure</a>
               {% endif %} |  <a href="/sermons" class="cta">See All Sermons</a>
               {% endif %}{% endfor %}
           </div>
