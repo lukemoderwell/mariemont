@@ -2,6 +2,11 @@
 title: Men's Ministry
 date: 2016-11-13 15:40:00 -05:00
 position: 8
+heading: Men's Ministry
+lead_in: Jesus was a man’s man, and becoming like him means we will lay down our lives
+  for the benefit of those around us.
+hasHero: true
+hero_image: "/uploads/menUnitedworn.gif"
 hasForm: true
 form_title: Men's Breakfast Signup
 form_instructions: Fill out this form to register for the men's breakfast 3/26 from
@@ -16,9 +21,6 @@ form:
   submit_value: Send
 download:
   file: "/uploads/mcc%20(1).gif"
-heading: Men's Ministry
-lead_in: Jesus was a man’s man, and becoming like him means we will lay down our lives
-  for the benefit of those around us.
 layout: page
 ---
 
