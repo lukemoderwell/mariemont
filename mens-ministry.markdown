@@ -5,8 +5,10 @@ position: 8
 heading: Men's Ministry
 lead_in: Jesus was a man’s man, and becoming like him means we will lay down our lives
   for the benefit of those around us.
-hasHero: true
 hero_image: "/uploads/menUnitedworn.gif"
+hasHero: true
+download:
+  file: "/uploads/mcc%20(1).gif"
 hasForm: true
 form_title: Men's Breakfast Signup
 form_instructions: Fill out this form to register for the men's breakfast 3/26 from
@@ -19,8 +21,6 @@ form:
   two_label: Email
   two_type: email
   submit_value: Send
-download:
-  file: "/uploads/mcc%20(1).gif"
 layout: page
 ---
 
