@@ -7,7 +7,10 @@ lead_in: Jesus was a man’s man, and becoming like him means we will lay down o
   for the benefit of those around us.
 hasHero: false
 hasDownload: true
-hasForm: false
+hasForm: true
+form_title: Bacon Station
+form_instructions: If you are interested in handing out bacon to runners and spectators
+  on May 7th.
 form:
   one_id: fullName
   one_label: Full Name
