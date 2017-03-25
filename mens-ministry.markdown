@@ -6,7 +6,8 @@ heading: Men's Ministry
 lead_in: '"Forging a Christian Brotherhood to Conquer Life''s Battles Shoulder to
   Shoulder". '
 bg_color: "#000000"
-hasHero: false
+hero_image: "/uploads/mcc%20(1).gif"
+hasHero: true
 hasDownload: false
 hasForm: true
 form_title: Bacon Station
