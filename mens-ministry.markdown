@@ -7,7 +7,7 @@ lead_in: '"Forging a Christian Brotherhood to Conquer Life''s Battles Shoulder t
   Shoulder". '
 bg_color: "#000000"
 hasHero: false
-hasDownload: true
+hasDownload: false
 hasForm: true
 form_title: Bacon Station
 form_instructions: If you are interested in handing out bacon to runners and spectators
