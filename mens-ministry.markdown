@@ -5,6 +5,7 @@ position: 8
 heading: Men's Ministry
 lead_in: Jesus was a man’s man, and becoming like him means we will lay down our lives
   for the benefit of those around us.
+bg_color: "#000000"
 hasHero: false
 hasDownload: true
 hasForm: true
