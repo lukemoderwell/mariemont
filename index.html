@@ -17,21 +17,18 @@ layout: default
     </section>
     <div class="container">
       <section class="feat_sermon grid grid--gutters">
+         {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
           <div class="feat_sermon_img grid_cell grid_cell--half">
-            <img src="/uploads/isaiah-art.jpg" />
-            <!-- <img src="{{ sermon.feat_image }}" style="max-width: 800px; max-height: 600px;" /> -->
+            <img src="{{ sermon.feat_img  }}" />
           </div>
           <div class="feat_sermon_content grid_cell grid_cell--half">
-             {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
               <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
-              <a href="{{ sermon.permalink }}">
+              <a href="{{ sermon.url }}">
                 <h3 class="sermon_title">{{ sermon.title }}</h3>
               </a> 
               <p class="feat_sermon_desc"> {{ sermon.content | truncate: 140, '...' }}</p>
               <audio controls preload src="{{ sermon.audio_file }}"></audio>
-              {% if sermon.brochure == true %}
-              <a href="{{ sermon.brochure_file }}" class="cta">Download Brochure</a>
-              {% endif %} |  <a href="/sermons" class="cta">See All Sermons</a>
+              <a href="{{ sermon.brochure_file }}" class="cta">Download Brochure</a>  |  <a href="/sermons" class="cta">See All Sermons</a>
               {% endif %}{% endfor %}
           </div>
         </section>
