@@ -16,19 +16,20 @@ layout: default
     {% endfor %}
     </section>
     <div class="container">
-      <section class="feat_sermon grid grid--gutters">
+      <section class="featSermon grid grid--gutters">
          {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
-          <div class="feat_sermon_img grid_cell grid_cell--half">
-            <img src="{{ sermon.feat_img  }}" />
-          </div>
-          <div class="feat_sermon_content grid_cell grid_cell--half">
-              <h4>{{ sermon.series }} Week {{ sermon.week }}</h4></a>
+          <figure class="featSermon_img grid_cell grid_cell--half">
+            <img src="/uploads/isaiah.jpg" />
+            <!--<img src="{{ sermon.feat_img  }}" />-->
+          </figure>
+          <div class="featSermon_content grid_cell grid_cell--half">
               <a href="{{ sermon.url }}">
-                <h3 class="sermon_title">{{ sermon.title }}</h3>
+                <h4 class="featSermon_week">{{ sermon.series }} Week {{ sermon.week }}</h4></a>
+                <h3 class="featSermon_title">{{ sermon.title }}</h3>
               </a> 
-              <p class="feat_sermon_desc"> {{ sermon.content | truncate: 140, '...' }}</p>
+              <p class="featSermon_desc"> {{ sermon.content | truncate: 140, '...' }}</p>
               <audio controls preload src="{{ sermon.audio_file }}"></audio>
-              <a href="{{ sermon.brochure_file }}" class="cta">Download Brochure</a>  |  <a href="/sermons" class="cta">See All Sermons</a>
+              <a href="{{ sermon.brochure_file }}" class="featSermon_cta">Download Brochure</a>  |  <a href="/sermons" class="featSermon_cta">See All Sermons</a>
               {% endif %}{% endfor %}
           </div>
         </section>
