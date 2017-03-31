@@ -29,7 +29,15 @@ $color-mcc-red: #721E35;
 $color-mcc-red-mid: #8B485A;
 $color-mcc-red-light: #A57381;
 
-$font-size--base: 18px;
+$font-size--base: 16px;
+$fs-1: .875rem;
+$fs-2: 1rem;
+$fs-3: 1.25rem;
+$fs-4: 1.5rem;
+$fs-5: 2.25rem;
+$fs-6: 3rem;
+$fs-7: 5rem;
+$fs-8: 6rem;
 
 // Remember to maintain this list
 $system--font: -apple-system, BlinkMacSystemFont, 
@@ -40,6 +48,20 @@ $system--font: -apple-system, BlinkMacSystemFont,
 $serif: Georgia, serif;
 $sans: "franklin-gothic-urw", "HelveticaNeue", Helvetica, sans-serif;
 $compressed: "franklin-gothic-urw-cond", sans-serif; 
+
+//units
+$unit: .5rem;
+$unit-2: $unit * 2;
+$unit-3: $unit * 3;
+$unit-4: $unit * 4;
+$unit-5: $unit * 5;
+$unit-6: $unit * 6;
+$unit-7: $unit * 7;
+$unit-8: $unit * 8;
+$unit-9: $unit * 9;
+$unit-10: $unit * 10;
+
+
 
 $gutter: 30px;
 

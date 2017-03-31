@@ -1,14 +1,16 @@
 /* Home Page Styles */
 
-.home_hero {position: relative;}
+.home_hero {
+	position: relative;
+}
+
 .home_hero_img {
-	float: none; 
-	width: 100%; 
+	float: none;
+	width: 100%;
 	height: 100vh;
 	background-size: cover;
-	display: block; 
-	z-index: -1; 
-
+	display: block;
+	z-index: -1;
 	@media (min-width: $med) {
 		max-height: 700px;
 	}
@@ -19,138 +21,118 @@
 	float: none;
 	z-index: 1;
 	position: absolute;
-	right: 0; 
+	right: 0;
 	left: 0;
-	top: 35vh; 
-    margin: auto;
-    padding: 0 20px; 
-
+	top: 35vh;
+	margin: auto;
+	padding: 0 20px;
 	@media (min-width: $med) {
-    	width: 80%; 
-    	max-width: 1120px; 
-    	top: em(100px); 
+		width: 80%;
+		max-width: 1120px;
+		top: em(100px);
 	}
-
 	h1 {
-		font-family: $serif; 
-		font-size: 40px; 
-		line-height: 1.2; 
-		color: $color--white; 
-		text-align: center; 
-
+		font-family: $serif;
+		font-size: 40px;
+		line-height: 1.2;
+		color: $color--white;
+		text-align: center;
 		@media (min-width: $med) {
 			font-size: 48px;
 			line-height: 1.5;
 		}
-		
 		@media (min-width: $large) {
-			font-size: 60px; 
+			font-size: 60px;
 		}
 	}
-
 	p {
-		color: $color--white; 
-		font-size: 16px; 
-		text-align: center; 
-    	margin: 20px auto $gutter auto;
-
+		color: $color--white;
+		font-size: 16px;
+		text-align: center;
+		margin: 20px auto $gutter auto;
 		@media (min-width: $med) {
 			//margin-left: 20vw;
-    		max-width: 640px;
-    		font-size: 20px; 
+			max-width: 640px;
+			font-size: 20px;
 		}
 	}
 }
 
-.featSermon { 
-	width: 100%; 
+.featSermon {
+	width: 100%;
 	max-width: 1080px;
 	padding: 16px;
 	display: flex;
-	flex-direction: column; 
+	flex-direction: column;
 	align-items: center;
 	margin-top: 40px;
 	margin-bottom: 40px;
-
 	@media (min-width: $med) {
 		padding: 0 32px;
 		flex-direction: row;
 		margin-top: 80px;
 		margin-bottom: 80px;
 	}
-
 	.featSermon_title {
 		color: $color--black;
 		font-family: $serif;
 		margin-bottom: 12px;
-		font-size: 24px; 
-
+		font-size: 24px;
 		@media (min-width: $med) {
-			font-size: 28px; 
+			font-size: 28px;
 		}
 	}
-
 	.featSermon_week {
-		color: rgba(0,0,0,.75);
-		font-size: 14px; 
-		text-transform: uppercase; 
-		letter-spacing: 1px; 
+		color: rgba(0, 0, 0, .75);
+		font-size: 14px;
+		text-transform: uppercase;
+		letter-spacing: 1px;
 	}
-
 	audio {
 		margin: 20px 0;
-		width: 100%; 
+		width: 100%;
 	}
-
- 	a {
- 		text-decoration: none;
- 		color: $color--blue; 
- 	}
-
- 	.featSermon_cta {
- 		display: inline-block;
-    	margin-top: 16px;
-
-    	@media (min-width: $med) {
-    		margin-top: 0;
-    	}
- 	}
+	a {
+		text-decoration: none;
+		color: $color--blue;
+	}
+	.featSermon_cta {
+		display: inline-block;
+		margin-top: 16px;
+		@media (min-width: $med) {
+			margin-top: 0;
+		}
+	}
 }
 
 .featSermon_img {
-	margin-bottom: 20px; 
+	margin-bottom: 20px;
 }
 
-
 .mission {
-	margin: 40px 0; 
+	margin: 40px 0;
 	text-align: left;
 	display: none;
-
 	@media (min-width: $med) {
 		display: block;
 		margin: 100px auto;
 		text-align: center;
-		max-width: 700px; 
+		max-width: 700px;
 	}
-
-	@media (min-width: $large) { 
+	@media (min-width: $large) {
 		margin: 140px auto;
 		max-width: 930px;
 	}
-
 	h2 {
 		font-size: 32px;
-		line-height: 1.25; 
+		line-height: 1.25;
 		font-family: $serif;
 		margin-bottom: 20px;
-
 		@media (min-width: $med) {
 			font-size: 38px;
 		}
-
 		@media (min-width: $large) {
-			font-size: 48px; 
+			font-size: 48px;
 			margin-bottom: 40px;
 		}
 	}
@@ -158,7 +140,7 @@
 
 .events_link {
 	@media (min-width: $large) {
-    text-align: right;
-    padding-top: 14px;
+		text-align: right;
+		padding-top: 14px;
 	}
 }

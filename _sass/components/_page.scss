@@ -14,13 +14,13 @@
 
 .page_hero {
 	display: inline-block; 
-	margin-bottom: em(40px);
+	margin-bottom: $unit-5;
 	width: 100%; 
 	height: 560px;
 
 	.page_heroText {
 		margin: 10% auto;
-    	max-width: 800px;
+    	max-width: ($unit-10 * 10);
 	}
 }
 
@@ -30,16 +30,16 @@
 }
 
 .page_heading {
-	margin-bottom: 16px;
+	margin-bottom: $unit-2;
 	font-family: $serif;
-	font-size: em(56px);
+	font-size: $fs-6;
 	line-height: 1.2; 
 }
 
 .page_leadIn {
 	margin: 0 auto; 
 	max-width: 640px;
-	font-size: em(20px);
+	font-size: $fs-3;
 }
 
 //Download Bar 
@@ -48,8 +48,8 @@
 	align-items: center; 
 	justify-content: center;  
 	width: 100%; 
-	height: 80px; 
-	padding: 20px 40px; 
+	height: $unit-10; 
+	padding: $unit-3 $unit-5; 
 	text-align: center; 
 	color: $color--white;
 	background-color: $color--dark-gray;
@@ -59,7 +59,7 @@
 
 		@media (min-width: $med) {
 			display: inline; 
-			margin-right: 20px;
+			margin-right: $unit-4;
 		}
 	}
 }
@@ -67,17 +67,17 @@
 .page_content {
 
 	@media (min-width: $med) {
-		max-width: 40rem;	
+		max-width: 34rem;	
 	}
 
 	h2 {
-		font-size: 24px;
-		margin: 20px 0 10px;
+		font-size: $fs-4;
+		margin: $unit-3 0 $unit-2;
 		font-family: $serif; 
 	}
 
 	p {
-		font-size: 19px;
-    	line-height: 1.6;
+		font-size: $fs-3;
+    	line-height: 1.55;
 	} 
 }

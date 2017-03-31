@@ -10,10 +10,10 @@ lite_bites: Lite Bites is a brunch that is held every Sunday from 10:00-11:00 in
   or connect with those with which you are already in community.
 hasHero: true
 hero_image: "/uploads/MCC-chapel-banner-thin.jpg"
-hasDownload: true
+hasDownload: false
 hasForm: true
 download:
-  file: "/uploads/MCC-chapel-banner.jpg"
+  file: "4/uploads/MCC-chapel-banner.jpg"
   info: You should really download this file!
   cta: Download Now
 heading: A Place Where Kids Learn About Jesus On Their Level
