@@ -13,7 +13,7 @@ hero_image: "/uploads/MCC-chapel-banner-thin.jpg"
 hasDownload: false
 hasForm: true
 download:
-  file: "4/uploads/MCC-chapel-banner.jpg"
+  file: 4/uploads/MCC-chapel-banner.jpg
   info: You should really download this file!
   cta: Download Now
 heading: A Place Where Kids Learn About Jesus On Their Level
