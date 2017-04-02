@@ -2,6 +2,7 @@
 $color--white: #ffffff;
 $color--white-80: rgba(255,255,255,.8); 
 $color--black: #1D1E1E;
+$color--black-90: rgba($color--black, .9);
 $color--dark-gray: #2E2F2F;
 $color--blue: #3498DB;
 $color--dark-blue: darken($color--blue, 7%);

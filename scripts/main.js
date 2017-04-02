@@ -11,11 +11,11 @@ $(window).scroll(function() {
 }); 
 
 $('.open_label').click( function() {
-    $("#menu").addClass("show");
+    $(".menu").addClass("show");
 } );
 
 $('.close_label').click( function() {
-    $("#menu").removeClass("show");
+    $(".menu").removeClass("show");
 } );
 
 //Prevent Page reload
