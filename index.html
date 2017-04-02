@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  <section class="home_hero clearfix">
+  <section class="home_hero">
      {% for page in site.pages %}
       {% if page.title == 'Home' %}
       <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
@@ -18,10 +18,10 @@ layout: default
     <div class="container">
       <section class="featSermon grid grid--gutters">
          {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
-          <figure class="featSermon_img grid_cell grid_cell--half">
+          <div class="featSermon_img grid_cell grid_cell--half">
             <img src="/uploads/isaiah.jpg" />
             <!--<img src="{{ sermon.feat_img  }}" />-->
-          </figure>
+          </div>
           <div class="featSermon_content grid_cell grid_cell--half">
               <a href="{{ sermon.url }}">
                 <h4 class="featSermon_week">{{ sermon.series }} Week {{ sermon.week }}</h4></a>
