@@ -1,27 +1,44 @@
 .menu {
-    position: fixed;
+    position: absolute; 
+    display: block;
     top: 0;
-    left: 0;
-    right: 0;
-    height: 0;
-    padding-bottom: $unit-4;
-    padding-top: $unit-3;
-    background-color: $color--black;
-    text-align: center;
+    left: 0; 
+    right: 0; 
+    bottom: 0;
     opacity: 0;
-    overflow: hidden;
-    z-index: -1;
     -webkit-transition: .35s all ease-in-out;
     transition: .35s all ease-in-out;
+    visibility: hidden;
+    z-index: 0; 
+
     &.show {
-        height: 100%;
-        overflow: auto;
+        visibility: visible;
         opacity: 1;
-        z-index: 1;
+        z-index: 100; 
     }
+}
+
+.menu_inner {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center; 
+    width: 100%;
+    width: 100vw;
+    height: 100%; 
+    height: 100vh;
+    text-align: center;
+    background-color: $color--black; 
+
+
+    .menu_footer {
+         margin-top: auto;
+         padding-bottom: $unit-2;
+    }
+
     .tele,
     address {
-        font-family: $serif;
+        font-family: $sans;
         font-size: $fs-2;
         color: $color--white;
         line-height: 1.6;
@@ -30,37 +47,30 @@
 }
 
 .menu_nav {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-flow: column nowrap;
-    flex-flow: column nowrap;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
+    margin: auto;
 }
 
 .menu_nav_link {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 50%;
-    flex: 0 0 50%;
     color: $color--white;
     display: block;
     text-align: center;
-    margin: $unit-3 $unit-2;
-    font-size: $unit-3;
-    font-family: $serif;
+    margin: $unit-4 $unit-2;
+    font-size: $fs-3;
+    font-family: $sans;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
     text-decoration: none;
+
     a {
         display: block;
         opacity: 1;
     }
+
     @media (min-width: $med) {
         margin: $unit-3 0;
     }
+
     &:hover {
         text-decoration: underline;
     }
@@ -74,15 +84,16 @@
     text-align: center;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
+
     &:hover {
         text-decoration: underline;
     }
+
     @media (min-width: $med) {
-        width: $unit-10;
         margin: 0 auto;
         position: relative;
-        right: 0;
     }
+
     @media (min-width: $large) {
         opacity: 0;
         display: none;
@@ -91,10 +102,11 @@
 
 .close_label {
     display: block;
+    margin-bottom: auto;
     width: 100px;
-    margin: 0 auto $unit-3;
+    margin: 0 auto;
     font-size: $fs-2;
-    padding: $unit-3 0;
+    padding: $unit-4 0;
     color: $color--white;
     cursor: pointer;
 }
