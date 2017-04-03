@@ -29,16 +29,14 @@
 }
 
 .home_intro {
-    width: 100%;
-    float: none;
-    z-index: 1;
     position: absolute;
     padding: 0 $unit-3;
+    width: 100%;
+    z-index: 1;
 
     @media (min-width: $med) {
         width: 80%;
         max-width: 1120px;
-        top: em(100px);
     }
 
     h1 {
