@@ -25,7 +25,6 @@ download:
 layout: page
 ---
 
-
  Jesus was a man’s man, and becoming like him means we will lay down our lives for the benefit of those around us.
 
 We believe God has called men to provide proactive and sacrificial leadership in their families, in the church, at their places of employment, and in the community. 
