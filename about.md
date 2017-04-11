@@ -2,16 +2,10 @@
 title: About
 permalink: "/about/"
 position: 1
-kids: "## Kids and Youth Our kids and youth ministries are a fun, safe place where
-  kids from ages 0-22 get to learn about Jesus and what it means to follow Him in
-  their everyday life. "
-lite_bites: Lite Bites is a brunch that is held every Sunday from 10:00-11:00 in between
-  services. This is a completely free way to fill your belly and meet some new friends
-  or connect with those with which you are already in community.
+hero_image: "/uploads/lite_bites.jpg"
 hasHero: true
-hero_image: "/uploads/MCC-chapel-banner-thin.jpg"
 hasDownload: false
-hasForm: true
+hasForm: false
 download:
   file: 4/uploads/MCC-chapel-banner.jpg
   info: You should really download this file!
@@ -20,6 +14,12 @@ heading: A Place Where Kids Learn About Jesus On Their Level
 lead_in: Mariemont Church is committed to raising up strong, spiritually healthy children.
   From our nursery program through 5th grade, we are empowering children to make a
   faith in Christ their own and to put that faith into action.
+kids: "## Kids and Youth Our kids and youth ministries are a fun, safe place where
+  kids from ages 0-22 get to learn about Jesus and what it means to follow Him in
+  their everyday life. "
+lite_bites: Lite Bites is a brunch that is held every Sunday from 10:00-11:00 in between
+  services. This is a completely free way to fill your belly and meet some new friends
+  or connect with those with which you are already in community.
 layout: page
 ---
 
