@@ -22,18 +22,11 @@ layout: page
 
 We all get together on Sundays to worship God. We do this in many ways. We sing songs to God which is a lot like prayers set to music. We share stories or testimonies of God’s love and power. We teach using the Bible as our authority, and from time to time remember the sacrifice Christ made for us through Communion. Both buildings are handicap accessible.
 
-God the Father being glorified as His Kingdom advances in our city, nation and globally.
-*Key Verse*: Acts 1:8
+[mcc-venn.svg](/uploads/mcc-venn.svg)
 
-## Our Strategy
+## The Real Meaning of Church
 
-Make disciples that multiply, obey Jesus, and build strong families
-*Key Verse*: Mthw 28:18-20
-
-## Our Approach
-
-Inviting and challenging in the Holy Spirit, in grace and truth, overtime.
-*Key Verse*: Lk 13:6-9
+Most people think the Church is the building. That's an accident of history and translation. When Jesus used the word he meant "people called out"—that is, people called out of normal life to follow Him in an extraordinary adventure.
 
 ## Our Beliefs
 
