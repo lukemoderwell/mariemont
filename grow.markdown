@@ -2,6 +2,7 @@
 title: Grow
 date: 2016-12-22 17:30:00 -05:00
 position: 3
+hero_image: "/uploads/grow.jpg"
 hasHero: true
 heading: Grow With Us
 lead_in: 'Everyone is at different points in their personal journey with God. Do you
