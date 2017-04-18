@@ -1,5 +1,14 @@
 ---
 title: Grow
+hero_image: "/uploads/grow.jpg"
+hasHero: true
+heading: Grow With Us
+lead_in: |-
+  Everyone is at different points in their personal journey with God. Do you
+    know what your next step is?
+illustration:
+  image: "/uploads/up-in-out-triangle.svg"
+  caption: Up, In, and Out should be in balance.
 ---
 
 He's the key leader around here, and the reason we exist. He came to save us from our self-centered ways, our sin, and our rebellion. He is the unique and awesome God who laid his life down for us, and took our punishment on himself. We believe it is only through him that we can experience real life now and forever.
