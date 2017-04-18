@@ -7,7 +7,9 @@ hasHero: true
 heading: Grow With Us
 lead_in: 'Everyone is at different points in their personal journey with God. Do you
   know what your next step is? '
-illo_image: "/uploads/up-in-out-triangle-3e1704.svg"
+illustration:
+  image: "/uploads/up-in-out-triangle.svg"
+  caption: Up - In - Out Triangle
 layout: page
 ---
 
