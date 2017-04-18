@@ -5,8 +5,8 @@ position: 3
 hasHero: true
 hero_image: "/uploads/grow.jpg"
 heading: Grow With Us
-lead_in: 'Everyone is at different points in their personal journey with God. Do you
-  know what your next step is?'
+lead_in: Everyone is at different points in their personal journey with God. Do you
+  know what your next step is?
 layout: page
 ---
 
