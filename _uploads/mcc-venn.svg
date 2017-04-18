@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="463px" height="427px" viewBox="0 0 463 427" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>mcc-venn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mcc-venn">
+            <circle id="Oval" fill="#11338D" opacity="0.6" cx="225.5" cy="129.5" r="129.5"></circle>
+            <circle id="Oval-Copy" fill="#11338D" opacity="0.6" cx="129.5" cy="297.5" r="129.5"></circle>
+            <circle id="Oval-Copy-2" fill="#11338D" opacity="0.6" cx="333.5" cy="297.5" r="129.5"></circle>
+            <text id="Our-Vision" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="24" font-style="condensed" font-weight="normal" fill-opacity="0.9" fill="#FFFFFF">
+                <tspan x="183.199453" y="67">Our Vision</tspan>
+            </text>
+            <text id="Our-Approach" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="24" font-style="condensed" font-weight="normal" fill-opacity="0.9" fill="#FFFFFF">
+                <tspan x="297.147453" y="277">Our Approach</tspan>
+            </text>
+            <text id="Our-Strategy" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="24" font-style="condensed" font-weight="normal" fill-opacity="0.9" fill="#FFFFFF">
+                <tspan x="56.4394531" y="275">Our Strategy</tspan>
+            </text>
+            <text id="Disciples-that-multi" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="16" font-style="condensed" font-weight="normal" fill-opacity="0.9" fill="#FFFFFF">
+                <tspan x="31.712" y="310">Disciples that multiply, obery </tspan>
+                <tspan x="47.832" y="332">Jesus, and build strong </tspan>
+                <tspan x="89.048" y="354">families.</tspan>
+            </text>
+            <text id="God-the-Father-being-Copy" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="16" font-style="condensed" font-weight="normal" fill-opacity="0.9" fill="#FFFFFF">
+                <tspan x="142.632" y="102">God the Father being glorified </tspan>
+                <tspan x="155.744" y="124">as His Kingdom advances </tspan>
+                <tspan x="160.224" y="146">here and in the world to </tspan>
+                <tspan x="209.968" y="168">come.</tspan>
+            </text>
+            <text id="Inviting-and-challen" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed" font-size="16" font-style="condensed" font-weight="normal" fill-opacity="0.9" fill="#FFFFFF">
+                <tspan x="276.4" y="312">Inviting and challenging in </tspan>
+                <tspan x="272.768" y="334">the Holy Spirit, in grace, and </tspan>
+                <tspan x="308.416" y="356">truth, overtime.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
