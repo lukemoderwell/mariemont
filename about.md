@@ -22,7 +22,7 @@ layout: page
 
 We all get together on Sundays to worship God. We do this in many ways. We sing songs to God which is a lot like prayers set to music. We share stories or testimonies of God’s love and power. We teach using the Bible as our authority, and from time to time remember the sacrifice Christ made for us through Communion. Both buildings are handicap accessible.
 
-[mcc-venn.svg](/uploads/mcc-venn.svg)
+![mcc-venn.svg](/uploads/mcc-venn.svg)
 
 ## The Real Meaning of Church
 
