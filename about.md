@@ -2,14 +2,8 @@
 title: About
 permalink: "/about/"
 position: 1
-hero_image: "/uploads/lite_bites.jpg"
+hero_image: "/uploads/about.jpg"
 hasHero: true
-hasDownload: false
-hasForm: false
-download:
-  file: 4/uploads/MCC-chapel-banner.jpg
-  info: You should really download this file!
-  cta: Download Now
 heading: Welcome To Mariemont Church
 lead_in: We are a church community that is learning to live and love in Jesus. Join
   us every Sunday morning at 9:00 or 11:00 for a time of worship and teaching. Whether
@@ -22,7 +16,7 @@ layout: page
 
 We all get together on Sundays to worship God. We do this in many ways. We sing songs to God which is a lot like prayers set to music. We share stories or testimonies of God’s love and power. We teach using the Bible as our authority, and from time to time remember the sacrifice Christ made for us through Communion. Both buildings are handicap accessible.
 
-[mcc-venn.svg](/uploads/mcc-venn.svg)
+![mcc-venn.svg](/uploads/mcc-venn.svg)
 
 ## The Real Meaning of Church
 
