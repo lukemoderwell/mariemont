@@ -53,9 +53,18 @@
 	font-size: $fs-3;
 }
 
+.page_figure {
+	margin: $unit-4 0;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
 
 /*Download Bar */
-
 .page_downloadBar {
 	display: -webkit-box;
 	display: -ms-flexbox;

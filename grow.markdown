@@ -7,7 +7,7 @@ hasHero: true
 heading: Grow With Us
 lead_in: 'Everyone is at different points in their personal journey with God. Do you
   know what your next step is? '
-illo_image: "/uploads/up-in-out-triangle-3e1704.svg"
+illo_image: "/uploads/up-in-out-triangle.svg"
 layout: page
 ---
 
@@ -18,7 +18,8 @@ We saw what Jesus did, we turned from our ways, and we believed this good news â
 Then we started living as his disciples (followers, students, apprentices). This looks like pursuing a deepened relationship with God (Up) and with other followers of Jesus (In), and bringing the message of love to our families, neighborhoods, and workplaces (Out). One good illustration is the "Up - Out - In" triangle:
 
 <figure class="page_figure">
-<img src={{ page.illustration }} />
+  <img src="{{ page.illustration.image }}" />
+  <figcaption>{{ page.illustration.caption }}</figcaption>
 </figure>
 
 ## Following Jesus
