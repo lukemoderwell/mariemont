@@ -1,6 +1,13 @@
 ---
 title: Grow
-position: 2
+hero_image: "/uploads/grow.jpg"
+hasHero: true
+heading: Grow With Us
+lead_in: 'Everyone is at different points in their personal journey with God. Do you
+  know what your next step is?'
+illustration:
+  image: "/uploads/up-in-out-triangle.svg"
+  caption: Up - In - Out Triangle
 layout: page
 ---
 
