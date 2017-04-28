@@ -2,7 +2,7 @@
 title: Kids
 date: 2016-10-18 20:18:00 -04:00
 permalink: "/kids"
-position: 4
+position: 5
 hasHero: true
 hero_image: https://hd.unsplash.com/photo-1472162072942-cd5147eb3902
 heading: Kids @ Mariemont Church

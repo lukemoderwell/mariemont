@@ -1,7 +1,7 @@
 ---
 title: Small Groups
 date: 2017-03-19 19:55:00 -04:00
-position: 10
+position: 4
 heading: Get Connected To A Small Group
 lead_in: "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt."
