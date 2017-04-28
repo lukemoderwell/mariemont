@@ -1,4 +1,7 @@
 ---
+---
+
+---
 title: Grow
 hero_image: "/uploads/grow.jpg"
 hasHero: true
