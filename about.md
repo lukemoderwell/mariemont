@@ -4,11 +4,8 @@ permalink: "/about/"
 position: 1
 hero_image: "/uploads/about.jpg"
 hasHero: true
-heading: Welcome To Mariemont Church
-lead_in: We are a church community that is learning to live and love in Jesus. Join
-  us every Sunday morning at 9:00 or 11:00 for a time of worship and teaching. Whether
-  you are exploring what it means to have a relationship with Jesus or have already
-  started that journey, there is a place for you here.
+heading: Who We Are
+lead_in: We are a church community that is learning to live and love in Jesus.
 layout: page
 ---
 

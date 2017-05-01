@@ -111,6 +111,10 @@
     }
 }
 
+.header_nav a {
+    font-family: $sans;
+}
+
 .header_badge {
     display: none;
     @media (min-width: $med) {

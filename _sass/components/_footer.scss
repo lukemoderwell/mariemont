@@ -1,14 +1,18 @@
+.map_title,
+.map_subtitle {
+	text-align: center;
+}
+
 .map_title {
-	margin-top: ($gutter * 3);
-	text-align: left;
+	padding-top: $unit-5;
+	margin-bottom: $unit-2;
+	font-family: $sans;
+	font-size: $unit-4;
+	font-weight: 600;
+}
 
-	@media (min-width: $med) {
-		text-align: center; 
-	}
-
-	h2 {
-		margin-bottom: 10px;
-	}
+.map_subtitle {
+	font-size: $fs-3;
 }
 
 .maps {
@@ -25,7 +29,7 @@
   width: 100%; 
   color: $color--light-gray;
   min-height: 450px;
-  font-size: 18px;
+  font-size: $fs-2;
   padding-bottom: 40px; 
   text-align: left;
   background: $color--black; 
@@ -69,9 +73,8 @@
 	line-height: 30px; 
 	margin-bottom: 20px;
 
-	h2 {
-		font-family: $serif; 
-		font-size: 20px; 
+	h2 { 
+		font-size: $fs-3; 
 		font-weight: 500; 
 		color: $color--white;
 		margin-bottom: 4px; 
@@ -86,15 +89,10 @@
 	}
 }
 
-.footer-top-title h3 {
-	font-family: $serif; 
-	font-size: 24px; 
+.footer-top-title h3 { 
+	font-size: $fs-4; 
 	color: $color--white; 
 	margin-bottom: 10px;
-
-	@media (min-width: $med) {
-		font-size: 28px; 
-	}
 }
 
 .footer-main-nav-list {

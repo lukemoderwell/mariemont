@@ -6,11 +6,11 @@ layout: default
 
 <div class="page_header" style="background: {{ page.bg_color }};">
 	<div class="container sermon_hero_text">
-		<h2 class="sermon_meta">{{ page.series }} Week {{ page.week }}</h2>
+		<h2 class="sermon_meta">{{ page.series }} <span>Week {{ page.week }}</span></h2>
 		<h1 class="sermon_heading">{{ page.title }}</h1>
 		<audio controls preload src="{{ page.audio_file }}"></audio>
 		{% if page.brochure_file %}
-			<a class="btn" href="{{ page.brochure_file }}">Download Brochure</a>
+			<a class="btn btn--primary" href="{{ page.brochure_file }}">Download Brochure</a>
 		{% endif %}
 		<p class="speaker">{{ page.speaker }}</p>
 		{% if page.sermon_date %}

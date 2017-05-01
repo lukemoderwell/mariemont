@@ -4,14 +4,20 @@
 	margin-bottom: $gutter * 2;
 	padding: $gutter * 2;
 	text-align: center;
-	background: $color--dark-gray;
+	background-color: burlywood;
 
 	& .page_title {
+		font-family: $heading-font;
+		font-size: $fs-6;
+		font-weight: 600;
+		text-transform: uppercase;
 		color: $color--white;
 	}
 }
 
 .page_hero {
+	width: 100%;
+	height: calc(100vh - #{$topbar});
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -22,8 +28,7 @@
 	-ms-flex-pack: center;
 	justify-content: center;
 	margin-bottom: $unit-5;
-	width: 100%;
-	height: 560px;
+	max-height: 900px;
 
 	.page_heroText {
 		padding: $unit-2;
@@ -38,13 +43,14 @@
 }
 
 .page_heading {
-	margin-bottom: $unit-2;
-	font-family: $serif;
-	font-size: $fs-5;
+	margin-bottom: $unit;
+	font-family: $sans;
+	font-size: $fs-6;
+	font-weight: 600;
 	line-height: 1.2;
 
 	@media (min-width: $med) {
-		font-size: $fs-6;
+		font-size: $fs-7;
 	}
 }
 
@@ -55,7 +61,7 @@
 }
 
 .page_figure {
-	margin: $unit-4 0;
+	margin: $unit-6 0;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -105,18 +111,30 @@
 }
 
 .page_content {
+	font-family: $body-font;
+
 	@media (min-width: $med) {
 		max-width: 34rem;
 	}
 	
 	h2 {
+		margin: $unit-4 0 $unit;
+		font-family: $heading-font;
+		font-size: $fs-5;
+		font-weight: 600;
+		text-transform: uppercase;
+		color: $color--black;
+	}
+
+	h3 {
+		font-family: $sans;
 		font-size: $fs-4;
-		margin: $unit-3 0 $unit-2;
-		font-family: $serif;
+		font-weight: 600;
 	}
 
 	p {
-		font-size: $fs-3;
+		margin-bottom: $unit-3;
+		font-size: $fs-2;
 		line-height: 1.55;
 	}
 

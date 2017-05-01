@@ -9,8 +9,7 @@
 	min-height: 400px;
 	max-width: 24rem;
 	margin: 20px 0;    
-	//display: inline-block; 
-
+	
 	&.sermon_card {
 		min-height: 360px;
 	}
@@ -43,17 +42,19 @@
 	.card_title {
 		position: absolute;
     	top: 220px;
-		font-family: $serif; font-size: 24px;
+		font-family: $body-font; 
+		font-size: $fs-4;
 	}
 
 	.card_date {
+		padding-top: 12px;
 		width: 100%; 
 		position: absolute;
 		bottom: 0; 
+		font-family: $heading-font;
 		text-transform: uppercase; 
 		letter-spacing: 1px; 
-		font-size: 14px; 
-		padding-top: 10px; 
+		font-size: $fs-2;  
 		border-top: 1px solid rgba(0,0,0,.1);
 	}
 }

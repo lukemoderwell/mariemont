@@ -1,6 +1,5 @@
 @import 'utils/reset';
 @import 'utils/vars';
-@import 'utils/functions';
 @import 'utils/grid';
 @import 'utils/animations';
 
@@ -20,8 +19,8 @@ html, body {
 body { 
   background: #fff;
   color: $color--gray;
-  font-family: $sans;
-  font-size: $font-size--base;
+  font-family: $body-font;
+  font-size: $fs-2;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -36,46 +35,23 @@ p {
 }
 
 p + p {
-  margin-top: 16px;
-}
-
-pre, code {
-    margin-bottom: 16px;
-    font-size: em(14px);
-    font-family: Source Code Pro,Consolas,Lucida Console,Monaco,monospace;
-    line-height: 2;
-}
-
-.highlight {
-    padding: 16px;
-    margin: 16px 0;
-    background-color: #f9f9f9;
-    border: 1px solid #efefef;
-    overflow-x: auto;
-    border-radius: 4px;
-}  
-
-h1, h2, h3 {
-  color: $color--black;
-  -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
-  font-weight: normal;
+  margin-top: $unit-4;
 }
 
 h1 {
-  font-size: 36px; 
+  font-size: $fs-7; 
 }
 
 h2 {
-  font-size: 28px; 
+  font-size: $fs-6; 
 }
 
 h3 {
-  font-size: 24px; 
+  font-size: $fs-5; 
 }
 
 h4 {
-  font-size: 18px; 
+  font-size: $fs-4; 
 }
 
 a {
@@ -95,25 +71,28 @@ strong {
 .main {
   display: block; 
   padding-top: 120px;
-  line-height: 1.5;
+  line-height: 1.45;
 
   @media (min-width: $med) {
-    padding-top: 88px;
+    padding-top: $topbar;
   }
 }
 
 .badge {
-  font-size: 15px; 
+  max-height: 26px; 
+  padding: 14px 20px 26px;  
+  font-family: $heading-font;
+  font-size: 14px; 
+  font-weight: 600;
+  text-transform: uppercase;
   background: $color-mcc-blue; 
-  padding: 14px 20px 26px; 
-  text-transform: uppercase; 
   color: $color--white; 
   letter-spacing: 1px; 
   border-radius: 1000px;
-  max-height: 26px; 
 }
 
 @import 'components/header';
+@import 'components/table';
 @import 'components/button';
 @import 'components/menu';
 @import 'components/footer';

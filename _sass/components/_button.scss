@@ -1,6 +1,6 @@
 button, .btn {
     display: inline-block;
-    padding: 12px 24px;
+    padding: 12px $unit-3;
     text-align: center;
     font-family: $sans;
     white-space: nowrap;
@@ -21,7 +21,7 @@ button, .btn {
 }
 
 .btn--small {
-    font-size: 16px;
+    font-size: $unit-2;
     padding: 10px 18px;
 }
 
@@ -47,6 +47,7 @@ button, .btn {
     width: 100%;
     margin-top: 20px; 
     margin-right: 20px;
+    font-size: $fs-2;
 
     @media (min-width: $med) {
         margin-top: 10px;
@@ -54,12 +55,12 @@ button, .btn {
 }
 
 .btn--hero {
-    padding: 16px 48px; 
+    padding: $unit-2 $unit-6; 
     display: block; 
     margin-left: auto; 
     margin-right: auto;
     max-width: 240px; 
-    font-size: 22px; 
+    font-size: $fs-4; 
     color: $color--white;
     background: $color-mcc-blue; 
 

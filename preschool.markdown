@@ -2,7 +2,11 @@
 title: Preschool & Extended Care
 date: 2016-11-13 15:57:00 -05:00
 position: 14
+hero_image: "/uploads/preschool.jpg"
+hasHero: true
 hasForm: false
+heading: MCC Preschool
+lead_in: Give your child a headstart by focusing on faith & fellowship.
 layout: page
 ---
 

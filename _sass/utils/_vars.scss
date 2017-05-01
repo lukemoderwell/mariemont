@@ -3,6 +3,8 @@ $color--white: #ffffff;
 $color--white-80: rgba(255,255,255,.8); 
 $color--black: #1D1E1E;
 $color--black-90: rgba($color--black, .9);
+$color--black-80: rgba($color--black, .8);
+$color--black-70: rgba($color--black, .7);
 $color--dark-gray: #2E2F2F;
 $color--blue: #3498DB;
 $color--dark-blue: darken($color--blue, 7%);
@@ -13,7 +15,6 @@ $color--light-gray-grad: linear-gradient(-135deg, #F1EFEF 0%, #E0E0E0 100%);
 $color-shift: 10%; 
 
 //Brand Colors
-
 $color-mcc-blue: #11338D;
 $color-mcc-blue-mid: #4966AA;
 $color-mcc-blue-light: #8598C5;
@@ -30,7 +31,6 @@ $color-mcc-red: #721E35;
 $color-mcc-red-mid: #8B485A;
 $color-mcc-red-light: #A57381;
 
-$font-size--base: 16px;
 $fs-1: .875rem;
 $fs-2: 1rem;
 $fs-3: 1.25rem;
@@ -47,8 +47,9 @@ $system--font: -apple-system, BlinkMacSystemFont,
     "Droid Sans", "Helvetica Neue", sans-serif;
 
 $serif: Georgia, serif;
-$sans: "franklin-gothic-urw", "HelveticaNeue", Helvetica, sans-serif;
-$compressed: "franklin-gothic-urw-cond", sans-serif; 
+$sans: 'franklin-gothic-urw', 'HelveticaNeue', Helvetica, sans-serif;
+$heading-font: 'franklin-gothic-urw-comp', sans-serif;
+$body-font: 'abril-text', Georgia, serif;
 
 //units
 $unit: .5rem;
@@ -62,11 +63,11 @@ $unit-8: $unit * 8;
 $unit-9: $unit * 9;
 $unit-10: $unit * 10;
 
-
-
 $gutter: 30px;
 
 $small: 400px; 
 $med: 768px; 
 $large: 1200px;
 $xlarge: 1440px; 
+
+$topbar: 88px;

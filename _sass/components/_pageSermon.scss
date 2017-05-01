@@ -1,27 +1,39 @@
 /* Sermon */
 
 .sermon_hero_text {
-	text-align: center; 
-    color: $color--white;
+	text-align: center;
+    color: $color--black-70;
 
     .sermon_heading {
         margin: 0;
-        margin-bottom: $gutter;
-		font-family: $serif; 
-		font-size: 44px; 
+        margin-bottom: $unit-3;
+		font-family: $heading-font; 
+		font-size: $unit-7; 
+        font-weight: 600;
+        text-transform: uppercase;
         color: $color--white;
 	}
 
 	.sermon_meta {
-        margin-bottom: $gutter / 4;     
-        font-size: 16px;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        font-weight: 600; 
-        color: $color-mcc-blue-light;
+        margin-bottom: $unit-2;     
+        font-size: $fs-2;
+        font-weight: 600;
+        color: $color--black-70;
+
+        span {
+            font-weight: 400;
+        }
 	}
 
+    
+
 	audio {
+        margin: $unit-3 auto;
+        display: block;
 		width: 50vw; 
 	}
+
+    .btn {
+        margin-bottom: $unit-3;
+    }
 }

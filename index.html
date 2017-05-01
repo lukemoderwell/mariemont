@@ -8,7 +8,7 @@ layout: default
       {% if page.title == 'Home' %}
       <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
       <div class="home_intro">
-          <h1 class="page_heading mb1">{{ page.heading }}</h1>
+          <h1>{{ page.heading }}</h1>
           <p>{{ page.content }}</p>
           <a href="/about" class="btn btn--hero">Learn More</a>
         </div>
@@ -16,18 +16,17 @@ layout: default
     {% endfor %}
     </section>
     <div class="container">
-      <section class="featSermon grid grid--gutters">
+      <section class="featSermon">
          {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
-          <div class="featSermon_img grid_cell grid_cell--half">
+          <div class="featSermon_img">
             <img src="/uploads/isaiah.jpg" />
-            <!--<img src="{{ sermon.feat_img  }}" />-->
           </div>
           <div class="featSermon_content grid_cell grid_cell--half">
               <a href="{{ sermon.url }}">
-                <h4 class="featSermon_week">{{ sermon.series }} Week {{ sermon.week }}</h4></a>
+                <h4 class="featSermon_week">{{ sermon.series }} <span>Week {{ sermon.week }}</span></h4></a>
                 <h3 class="featSermon_title">{{ sermon.title }}</h3>
               </a> 
-              <p class="featSermon_desc"> {{ sermon.content | truncate: 140, '...' }}</p>
+              <div class="featSermon_desc">{{ sermon.content | truncate: 140, '...' }}</div>
               <audio controls preload src="{{ sermon.audio_file }}"></audio>
               <a href="{{ sermon.brochure_file }}" class="featSermon_cta">Download Brochure</a>  |  <a href="/sermons" class="featSermon_cta">See All Sermons</a>
               {% endif %}{% endfor %}
