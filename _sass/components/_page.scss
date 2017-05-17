@@ -36,6 +36,18 @@
 	}
 }
 
+.page_heroButtonGroup {
+	margin: $unit-3 0;
+
+	.btn {
+		margin-right: 1rem;
+	}
+
+	&:last-child {
+		margin-right: 0;
+	}
+}
+
 .page_heading,
 .page_leadIn {
 	text-align: center;
@@ -147,3 +159,5 @@
 		}
 	}
 }
+
+

@@ -1,6 +1,6 @@
 ---
 title: Grow
-hero_image: "/uploads/grow.jpg"
+hero_image: "/uploads/prayer.jpg"
 hasHero: true
 heading: Grow With Us
 lead_in: Everyone is at different points in their personal journey with God. Do you

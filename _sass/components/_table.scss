@@ -1,7 +1,13 @@
 table {
     width: 100%;
     margin: $unit-3 0;
-    font-size: 18px;
+    font-family: $sans;
+    font-size: 1rem;
+
+    a {
+        color: $color-mcc-blue;
+    }
+
     th {
         font-weight: 600;
         text-align: left;
