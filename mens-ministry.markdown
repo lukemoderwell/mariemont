@@ -1,7 +1,7 @@
 ---
 title: Men's Ministry
 date: 2016-11-13 15:40:00 -05:00
-position: 10
+position: 11
 heading: Men's Ministry
 lead_in: '"Forging a Christian Brotherhood to Conquer Life''s Battles Shoulder to
   Shoulder". '

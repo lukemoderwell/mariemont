@@ -2,7 +2,7 @@
 title: Kids
 date: 2016-10-18 20:18:00 -04:00
 permalink: "/kids"
-position: 7
+position: 8
 hasHero: true
 hero_image: "/uploads/preschool.jpg"
 heading: Children's Ministry
