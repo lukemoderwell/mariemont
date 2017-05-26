@@ -79,12 +79,18 @@
     }
 }
 
-.open_label {
+.open_label,
+.close_label {
     display: block;
+    font-family: $sans;
+    font-size: $fs-2;
+    text-align: center;
+    cursor: pointer;
+}
+
+.open_label {
     opacity: 1;
     color: $color-mcc-blue;
-    cursor: pointer;
-    text-align: center;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
 
@@ -104,12 +110,8 @@
 }
 
 .close_label {
-    display: block;
-    margin-bottom: auto;
     width: 100px;
     margin: 0 auto;
-    font-size: $fs-2;
     padding: $unit-4 0;
     color: $color--white;
-    cursor: pointer;
 }

@@ -66,6 +66,12 @@
 	}
 }
 
+.page_heading--noBg {
+	margin-bottom: $unit-6;
+	font-size: $fs-5;
+	color: $color--black-90;
+}
+
 .page_leadIn {
 	margin: 0 auto;
 	max-width: 640px;

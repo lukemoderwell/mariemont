@@ -2,11 +2,8 @@
 layout: default
 ---
 
-<div class="page_header page_header--sermon">
-    <h2 class="page_title">{{ page.title }}</h2>
-</div>
-
 <div class="container">
+    <h3 class="page_heading page_heading--noBg">Media</h3>
     <div class="card_list grid grid--gutters">
         {% for sermon in site.sermons reversed %}
         <div class="sermon_card card grid_cell">

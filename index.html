@@ -10,7 +10,10 @@ layout: default
       <div class="home_intro">
           <h1>{{ page.heading }}</h1>
           <p>{{ page.content }}</p>
-          <a href="/about" class="btn btn--hero">Learn More</a>
+          <div class="home_buttonGroup">
+            <a href="/latest" class="btn btn--secondary">Latest Update</a>
+            <a href="/about" class="btn btn--primary">Learn More</a>
+          </div>
         </div>
       {% endif %}
     {% endfor %}
