@@ -1,5 +1,6 @@
 ---
 title: Grow
+position: 1
 hero_image: "/uploads/prayer.jpg"
 hasHero: true
 heading: Grow With Us
