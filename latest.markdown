@@ -6,3 +6,4 @@ position: 17
 layout: events
 ---
 
+Here is where we will keep the weekly program update.
