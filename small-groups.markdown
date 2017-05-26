@@ -1,7 +1,7 @@
 ---
 title: Small Groups
 date: 2017-03-19 19:55:00 -04:00
-position: 4
+position: 5
 hero_image: "/uploads/joy.jpg"
 hasHero: true
 heading: Get Connected

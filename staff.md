@@ -1,7 +1,7 @@
 ---
 title: Staff
 permalink: "/staff/"
-position: 7
+position: 8
 layout: staff
 ---
 

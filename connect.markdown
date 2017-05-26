@@ -2,6 +2,7 @@
 title: Connect
 date: 2017-05-25 20:41:00 -04:00
 permalink: connect
+position: 4
 layout: page
 ---
 

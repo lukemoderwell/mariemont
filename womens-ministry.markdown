@@ -1,7 +1,7 @@
 ---
 title: Women's Ministry
 date: 2016-11-13 15:42:00 -05:00
-position: 10
+position: 11
 layout: page
 ---
 
