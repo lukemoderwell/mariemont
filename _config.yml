@@ -27,6 +27,7 @@ defaults:
     week: ''
     sermon_date: ''
     speaker: ''
+    bible_text: ''
     excerpt: ''
     audio_file: ''
     video_url: ''
