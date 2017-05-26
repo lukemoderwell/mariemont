@@ -1,6 +1,6 @@
 ---
 title: Media
-permalink: "/sermons/"
+permalink: "/media/"
 position: 3
 layout: sermonlist
 ---
