@@ -6,4 +6,4 @@ position: 6
 layout: events
 ---
 
-Here is where we will keep the weekly program update.
+[mcc-venn.svg](/uploads/mcc-venn.svg)
