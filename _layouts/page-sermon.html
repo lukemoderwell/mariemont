@@ -12,7 +12,8 @@ layout: default
 		{% if page.brochure_file %}
 			<a class="btn btn--primary" href="{{ page.brochure_file }}">Download Brochure</a>
 		{% endif %}
-		<p class="speaker">{{ page.speaker }}</p>
+		<p class="sermon_speaker">{{ page.speaker }}</p>
+		<span class="sermon_bibleText">{{ page.bible_text }}</span>
 		{% if page.sermon_date %}
 			<span class="sermon_date">{{ page.sermon_date | date: "%a, %b %d" }}</span>
 		{% endif %}

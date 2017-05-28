@@ -7,7 +7,7 @@ function showMailchimpPopup() {
     })
 }
 
-$('#mailchimpPopup').click( function(){
-    console.log("you've got mail");
+$('#mailchimpPopup').click(() => {
     showMailchimpPopup();
-})
+    },
+);

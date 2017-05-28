@@ -1,6 +1,8 @@
 /*Page Styles*/
 .page_header {
 	width: 100%;
+	height: 100vh;
+	max-height: 50rem;
 	margin-bottom: $gutter * 2;
 	padding: $gutter * 2;
 	text-align: center;
@@ -67,9 +69,13 @@
 }
 
 .page_heading--noBg {
-	margin-bottom: $unit-6;
-	font-size: $fs-5;
+	margin: $unit-6 0 $unit-2;
+	font-size: $fs-4;
 	color: $color--black-90;
+
+	@media(min-width: $med) {
+		text-align: left;
+	}
 }
 
 .page_leadIn {
