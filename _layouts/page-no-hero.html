@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% if page.hasDownload == true %}
+<div class="page_downloadBar">
+  <span class="page_downloadInfo">{{ page.download.info }}</span>
+  <a href="{{ page.download.file }}" class="btn btn--small btn--primary">{{ page.download.cta }}</a>
+</div>
+{% endif %}
+
+<div class="container page_content">
+  {% include form.html %}
+  {% if page.content %}
+    {{ content }}
+  {% endif %}  
+</div>

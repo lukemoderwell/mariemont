@@ -3,8 +3,8 @@ title: Prayer
 date: 2017-03-19 19:54:00 -04:00
 position: 10
 heading: Prayer
-lead_in: "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. "
+lead_in: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua."
 layout: page
 ---
 

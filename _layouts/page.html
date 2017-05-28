@@ -10,9 +10,9 @@ layout: default
 {% endif %}
 
 {% if page.hasHero == true %}
-<div class="page_hero" style="background-image: url('{{ page.hero_image }}'); background-size: cover;">
+  <div class="page_hero" style="background-image: url('{{ page.hero_image }}'); background-size: cover;">
 {% else %}
-<div class="page_header" style="background-color: {{ page.bg_color }};">"
+  <div class="page_header" style="background-color: {{ page.bg_color }};">
 {% endif %} 
   <div class="page_heroText">
     <h2 class="page_heading">{{ page.heading }}</h2>
