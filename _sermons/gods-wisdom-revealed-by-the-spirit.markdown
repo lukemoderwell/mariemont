@@ -9,7 +9,7 @@ speaker: Denis Beausejour
 audio_file: http://mariemontchurch.org/wp-content/uploads/2016/04/01-1-Cor.-Week-3-1.mp3
 thumbnail_image: "/uploads/messy-wk-3.jpg"
 is_featured: true
-brochure_file: '/uploads/05282017_MCCProgram_proof2.pdf/'
+brochure_file: '/uploads/05282017_MCCProgram_proof2.pdf'
 bible_text: 'Isaiah 15: 1-43'
 ---
 
