@@ -3,8 +3,13 @@ title: Kids
 date: 2016-10-18 20:18:00 -04:00
 permalink: "/kids"
 position: 8
-hasHero: true
 hero_image: "/uploads/preschool.jpg"
+hasHero: true
+hasDownload: true
+download:
+  file: "/uploads/nothing_that_my_hands_can_do_guitar.pdf"
+  info: Release form for 2017 student trip
+  cta: Download Form
 heading: Children's Ministry
 lead_in: We're committed to raising up strong, spiritually healthy children.
 layout: page
