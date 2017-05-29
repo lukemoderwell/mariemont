@@ -5,11 +5,7 @@ permalink: "/kids"
 position: 8
 hero_image: "/uploads/preschool.jpg"
 hasHero: true
-hasDownload: true
-download:
-  file: "/uploads/nothing_that_my_hands_can_do_guitar.pdf"
-  info: Release form for 2017 student trip
-  cta: Download Form
+hasDownload: false
 heading: Children's Ministry
 lead_in: We're committed to raising up strong, spiritually healthy children.
 layout: page
