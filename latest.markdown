@@ -6,4 +6,4 @@ position: 6
 layout: page-no-hero
 ---
 
-![mcc-venn.svg](/uploads/mcc-venn.svg)
+![nothing_that_my_hands_can_do_guitar.pdf](/uploads/nothing_that_my_hands_can_do_guitar.pdf)
