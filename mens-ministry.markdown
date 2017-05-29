@@ -1,6 +1,7 @@
 ---
 title: Men's Ministry
 date: 2016-11-13 15:40:00 -05:00
+permalink: "/mens-ministry/"
 position: 11
 heading: Men's Ministry
 lead_in: '"Forging a Christian Brotherhood to Conquer Life''s Battles Shoulder to
@@ -10,7 +11,6 @@ hasHero: false
 hasDownload: false
 hasForm: false
 layout: page
-permalink: /mens-ministry/
 ---
 
  Jesus was a man’s man, and becoming like him means we will lay down our lives for the benefit of those around us.

@@ -1,13 +1,13 @@
 ---
 title: Small Groups
 date: 2017-03-19 19:55:00 -04:00
+permalink: "/small-groups/"
 position: 7
 hero_image: "/uploads/joy.jpg"
 hasHero: true
 heading: Get Connected
 lead_in: Weekly home gatherings where we get practical and love one another.
 layout: page
-permalink: /small-groups/
 ---
 
 To be a disciple of Jesus, we realize that we need to constantly grow. A practical way that happens around here is through small groups. We desire people to learn that being the church is not just worshipping for 1 hour on a Sunday morning, but it's seeking His Kingdom daily through community.
