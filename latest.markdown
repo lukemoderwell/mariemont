@@ -6,4 +6,4 @@ position: 6
 layout: page-no-hero
 ---
 
-![nothing_that_my_hands_can_do_guitar.pdf](/uploads/nothing_that_my_hands_can_do_guitar.pdf)
+[05282017_MCCProgram_proof2.pdf](/uploads/05282017_MCCProgram_proof2.pdf)
