@@ -1,6 +1,7 @@
 ---
 title: Preschool & Extended Care
 date: 2016-11-13 15:57:00 -05:00
+permalink: "/preschool/"
 position: 16
 hero_image: "/uploads/preschool.jpg"
 hasHero: true
@@ -8,7 +9,6 @@ hasForm: false
 heading: MCC Preschool
 lead_in: Give your child a headstart by focusing on faith & fellowship.
 layout: page
-permalink: /preschool/
 ---
 
 The Mariemont Community Church Preschool and Elementary Extended Care are both outreach ministries of the Mariemont Community Church.  Our goal is to serve sacrificially, on Christ’s behalf, to the children and their families from the Mariemont and neighboring communities. As a result of connection, the children and their families will be drawn closer to Christ. Our goal is also to demonstrate the love of Christ in the way facility and staff work together continuously to demonstrate excellence and wholeheartedness befitting followers of Christ.
