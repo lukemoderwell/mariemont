@@ -1,19 +1,16 @@
 ---
 layout: default
 ---
-
-<!--TODO: Add sermon slides & Download Brochure -->
-
-<div class="page_header" style="background: {{ page.bg_color }};">
+<div class="page_header" style="background-image: url('{{ page.sermon_bg }}'); background-size: cover;">
 	<div class="container sermon_hero_text">
-		<h2 class="sermon_meta">{{ page.series }} <span>Week {{ page.week }}</span></h2>
+		<h2 class="sermon_series">{{ page.series }} <span>Week {{ page.week }}</span></h2>
 		<h1 class="sermon_heading">{{ page.title }}</h1>
 		<audio controls preload src="{{ page.audio_file }}"></audio>
 		{% if page.brochure_file %}
 			<a class="btn btn--primary" href="{{ page.brochure_file }}">Download Brochure</a>
 		{% endif %}
 		<p class="sermon_speaker">{{ page.speaker }}</p>
-		<span class="sermon_bibleText">{{ page.bible_text }}</span>
+		<span class="sermon_bibleText">{{ page.bible_text }}</span>  |  
 		{% if page.sermon_date %}
 			<span class="sermon_date">{{ page.sermon_date | date: "%a, %b %d" }}</span>
 		{% endif %}

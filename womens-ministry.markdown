@@ -3,6 +3,10 @@ title: Women's Ministry
 date: 2016-11-13 15:42:00 -05:00
 position: 12
 layout: page
+hasHero: true
+hero_image: '/uploads/womens-ministry.jpg'
+heading: Women's Ministry
+lead_in: Connecting, growing, and equipping the women of MCC.
 permalink: /womens-ministry/
 ---
 

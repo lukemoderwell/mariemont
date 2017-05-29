@@ -26,6 +26,7 @@ defaults:
     series: ''
     week: ''
     sermon_date: ''
+    sermon_bg: ''
     speaker: ''
     bible_text: ''
     excerpt: ''
@@ -42,30 +43,12 @@ defaults:
     hero_image: ''
     hasHero: false
     hasDownload: false
-    hasForm: false
-    form_title: ''
-    form_instructions: ''
-    form:
-      one_id: 
-      one_label: 
-      one_type: 
-      two_id: 
-      two_label: 
-      two_type: 
-      submit_value: 
     download:
       file: 
       info: 
       cta: 
     heading: ''
     lead_in: ''
-- scope:
-    path: ''
-    type: staff
-  values:
-    name: ''
-    position: ''
-    staff_image: ''
 email: mark@mariemontchurch.org
 description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.
