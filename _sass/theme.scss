@@ -54,9 +54,8 @@ h4 {
   font-size: $fs-4; 
 }
 
-a {
-  //color: $color--blue; 
-  color: inherit; 
+a { 
+  color: $color--blue; 
   text-decoration: none; 
 
   &:hover {

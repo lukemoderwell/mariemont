@@ -8,21 +8,9 @@ lead_in: '"Forging a Christian Brotherhood to Conquer Life''s Battles Shoulder t
 bg_color: "#000000"
 hasHero: false
 hasDownload: false
-hasForm: true
-form_title: Bacon Station
-form_instructions: If you are interested in handing out bacon to runners and spectators
-  on May 7th.
-form:
-  one_id: fullName
-  one_label: Full Name
-  one_type: text
-  two_id: email
-  two_label: Email
-  two_type: email
-  submit_value: Send
-download:
-  file: "/uploads/mcc%20(1).gif"
+hasForm: false
 layout: page
+permalink: /mens-ministry/
 ---
 
  Jesus was a man’s man, and becoming like him means we will lay down our lives for the benefit of those around us.

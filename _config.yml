@@ -71,8 +71,6 @@ description: We are a growing community of families in East Cincinnati united by
   commitment to follow Jesus.
 baseurl: 
 url: http://mariemontchurch.org
-twitter_username: 
-github_username: 
 markdown: kramdown
 highlighter: rouge
 gems:

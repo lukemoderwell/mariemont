@@ -1,7 +1,7 @@
 ---
 title: Kids
 date: 2016-10-18 20:18:00 -04:00
-permalink: "/kids"
+permalink: /kids/
 position: 8
 hero_image: "/uploads/preschool.jpg"
 hasHero: true

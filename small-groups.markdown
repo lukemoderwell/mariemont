@@ -7,6 +7,7 @@ hasHero: true
 heading: Get Connected
 lead_in: Weekly home gatherings where we get practical and love one another.
 layout: page
+permalink: /small-groups/
 ---
 
 To be a disciple of Jesus, we realize that we need to constantly grow. A practical way that happens around here is through small groups. We desire people to learn that being the church is not just worshipping for 1 hour on a Sunday morning, but it's seeking His Kingdom daily through community.
