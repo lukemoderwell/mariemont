@@ -1,6 +1,6 @@
 ---
 title: Membership
-date: 2017-6-4 17:55:00 -04:00
+date: 2017-06-04 17:55:00 -04:00
 permalink: "/membership/"
 position: 21
 hero_image: "/uploads/denis-teaching.jpg"
