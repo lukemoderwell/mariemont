@@ -20,6 +20,7 @@
 .page_hero {
 	width: 100%;
 	height: calc(100vh - #{$topbar});
+	max-height: 768px;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -30,7 +31,6 @@
 	-ms-flex-pack: center;
 	justify-content: center;
 	margin-bottom: $unit-5;
-	max-height: 900px;
 
 	.page_heroText {
 		padding: $unit-2;
@@ -40,9 +40,11 @@
 
 .page_heroButtonGroup {
 	margin: $unit-3 0;
+	text-align: center;
 
 	.btn {
-		margin-right: 1rem;
+		margin-right: $unit-2;
+		margin-bottom: $unit-2;
 	}
 
 	&:last-child {

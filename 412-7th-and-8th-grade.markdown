@@ -3,6 +3,8 @@ title: 412 (7th & 8th grade)
 date: 2017-03-11 16:00:00 -05:00
 permalink: "/youth"
 position: 13
+hasHero: true
+hero_image: '/uploads/sermon_bg.jpg'
 heading: '412: A New Way To Worship'
 lead_in: Mariemont church is committed to building the lives of teenagers in Cincinnati.
   We are a loving group of junior and senior high students with a passion for knowing

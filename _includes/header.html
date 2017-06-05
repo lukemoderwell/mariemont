@@ -14,28 +14,7 @@
                 Give</a>
             <a href="/connect">Connect</a>
         </nav>
-        <div class="menu" id="menu">
-            <div class="menu_inner">
-                <span class="close_label">Close Menu</span>
-                <nav role="navigation" class="menu_nav">
-                    <a href="/" class="menu_nav_link">Home</a>
-                    <a href="/about" class="menu_nav_link">About</a>
-                    <a href="/grow" class="menu_nav_link">Grow &amp; Serve</a>
-                    <a href="/sermons" class="menu_nav_link">Media</a>
-                    <a href="/giving" class="menu_nav_link">Connect</a>
-                    <!--{% for menu_page in site.pages %}
-                {% if menu_page.title %}
-                  <a href="{{ menu_page.url }}" class="menu_nav_link">{{ menu_page.title }}</a>
-                {% endif %}
-              {% endfor %}-->
-                    <a class="btn btn--primary" href="/giving">Give Online</a>
-                </nav>
-                <div class="menu_footer">
-                    <a class="tele" href="tel:5132714376">513-271-4376</a>
-                    <address>3908 Plainville Road, Mariemont, Ohio 45227</address>
-                </div>
-            </div>
-        </div>
+        {% include mobile-nav.html %}
         <span class="badge header_badge">Services at 9am &amp; 11am</span>
     </div>
 </header>
