@@ -1,6 +1,6 @@
 ---
 title: Sennacherib Threatens Jerusalem
-date: 2017-06-11 20:53:00 -05:00
+date: 2017-06-11 21:53:00 -04:00
 series: Isaiah
 week: 13
 sermon_date: 2017-06-11 00:00:00 -04:00
