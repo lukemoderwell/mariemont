@@ -2,7 +2,7 @@
 title: Weddings
 date: 2017-03-11 16:04:00 -05:00
 permalink: "/weddings"
-position: 17
+position: 14
 layout: page-no-hero
 ---
 
