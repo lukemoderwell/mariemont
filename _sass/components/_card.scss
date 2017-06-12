@@ -7,53 +7,40 @@
 	min-height: 400px;
 	max-width: 24rem;
 	margin: 20px 0;    
-	
-	&.sermon_card {
-		min-height: 360px;
-	}
-
-	.card_exerpt { 
-		margin-top: 6px; 
-	}
-
-	.card_img {
-		margin-bottom: 20px;
-	}
 
 	.card_main {
-		height: 400px;
+		height: 420px;
 		position: relative;
 		display: block;
 		width: 100%; 
 		text-decoration: none;
+		color: $color--black-70;
 		background-color: $color--white; 
 		transition: .25s all ease-in-out; 
 		box-shadow: 0 20px 20px rgba(0,0,0,.08);
-		vertical-align: top; 
 	}
+ 
+	.card_text {
+		padding: $unit-2 $unit-3;
 
-	.card_title, 
-	.card_date {
-		padding: 20px;
-	}
-
-	.card_title {
-		position: absolute;
-    	top: 220px;
-		font-family: $body-font; 
-		font-size: $fs-4;
-		color: $color--black-90;
+		.card_title {
+			margin-bottom: $unit;
+			font-family: $body-font; 
+			font-size: $fs-4;
+			color: $color--black-90;
+		}
 	}
 
 	.card_date {
-		padding-top: 12px;
+		padding: $unit-2;
 		width: 100%; 
 		position: absolute;
 		bottom: 0; 
 		font-family: $heading-font;
 		text-transform: uppercase; 
 		letter-spacing: 1px; 
-		font-size: $fs-2;  
+		font-size: $fs-2;
+		color: $color--dark-blue;  
 		border-top: 1px solid rgba(0,0,0,.1);
 	}
 }

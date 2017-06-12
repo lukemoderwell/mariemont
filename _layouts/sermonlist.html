@@ -6,21 +6,20 @@ layout: default
     <h3 class="page_heading page_heading--noBg">Sermons</h3>
     <div class="card_list grid grid--gutters">
         {% for sermon in site.sermons reversed %}
-        <div class="sermon_card card grid_cell">
-            <a class="card_main" href="{{ sermon.url }}">
-                <div class="card_visual">
-                    <img class="card_img" src="{{ sermon.thumbnail_image }}" />
-                    {% if sermon.thumbnail_image == false %}  
-                        <h2 class="card_visualTitle">{{ sermon.series }}</h2>
-                        <h3 class="card_visualSubtitle">Week {{ sermon.week }}</h3>
+            <div class="card grid_cell">
+                <a class="card_main" href="{{ sermon.url }}">
+                    <div class="card_visual">
+                        <img class="card_img" src="{{ sermon.thumbnail_image }}" />
+                    </div>
+                    <div class="card_text">
+                        <h3 class="card_title">{{ sermon.title }}</h3>
+                        <p class="card_bibleText">{{ sermon.bible_text }}</p>
+                    </div>
+                    {% if sermon.sermon_date %}
+                        <span class="card_date">{{ sermon.sermon_date | date: "%a, %b %d" }}</span>
                     {% endif %}
-                </div>
-                <h3 class="card_title">{{ sermon.title }}</h3>
-                {% if sermon.sermon_date %}
-                    <span class="card_date">{{ sermon.sermon_date | date: "%a, %b %d" }}</span>
-                {% endif %}
-            </a>
-        </div>
+                </a>
+            </div>
         {% endfor %}
     </div>
 </div>
