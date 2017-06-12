@@ -2,7 +2,7 @@
 title: Club 168 (9th -12th Grade)
 date: 2017-03-19 19:51:00 -04:00
 permalink: club-168
-position: 14
+position: 11
 heading: Grades 9 through 12
 lead_in: Our goal is to serve God all the time.
 hasHero: true

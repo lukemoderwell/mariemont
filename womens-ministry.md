@@ -2,7 +2,7 @@
 title: Women's Ministry
 date: 2016-11-13 15:42:00 -05:00
 permalink: "/womens-ministry/"
-position: 12
+position: 9
 layout: page
 hasHero: true
 hero_image: "/uploads/womens-ministry.jpg"

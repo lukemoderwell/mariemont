@@ -2,7 +2,7 @@
 title: Preschool & Extended Care
 date: 2016-11-13 15:57:00 -05:00
 permalink: "/preschool/"
-position: 16
+position: 13
 hero_image: "/uploads/preschool.jpg"
 hasHero: true
 hasForm: false

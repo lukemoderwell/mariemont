@@ -2,7 +2,7 @@
 title: Kids
 date: 2016-10-18 20:18:00 -04:00
 permalink: "/kids/"
-position: 8
+position: 6
 hero_image: "/uploads/kids-club.jpg"
 hasHero: true
 hasDownload: false

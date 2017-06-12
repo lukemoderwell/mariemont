@@ -2,7 +2,7 @@
 title: 412 (7th & 8th grade)
 date: 2017-03-11 16:00:00 -05:00
 permalink: "/youth"
-position: 13
+position: 10
 hasHero: true
 hero_image: "/uploads/sermon_bg.jpg"
 heading: '412: A New Way To Worship'
