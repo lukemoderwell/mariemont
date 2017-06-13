@@ -8,9 +8,5 @@ layout: page-no-hero
 
 ## Serve At MCC
 
-### Serving Needs
-- **Childcare Summer Hours** - We are looking for adults to help out at all service times for 2-3 year olds. Email [Leslie Seetin](mailto:leslie@mariemontchurch.org)
-- **Lite Bites** = Email [Mark Simes](mark@mariemontchurch.org) 
-- **Communication Team** - In search of someone to work on new brochure designs.
-- **Worship Team** - Looking for those who feel like music is their calling. Email [Raz](paul@mariemontchurch.org).
+MCC is a church community made up of volunteers that give their time generously to serve the congregation. Have a passion for a certain ministry area or some extra time to give? [Fill out our serving questionaire](/serve-form) and we will get in touch!
 
