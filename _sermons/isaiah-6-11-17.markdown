@@ -8,6 +8,7 @@ speaker: Zeke Swift
 bible_text: Isaiah 36
 audio_file: http://mariemontchurch.org/wp-content/uploads/2016/04/Messy-Church-Week-1-Denis.mp3
 thumbnail_image: "/uploads/isaiah-sermon-header.jpg"
+sermon_bg: "/uploads/sermon_bg.jpg"
 is_featured: true
 feat_image: "/uploads/isaiah.jpg"
 ---

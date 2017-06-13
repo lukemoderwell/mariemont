@@ -26,7 +26,7 @@ defaults:
     series: ''
     week: ''
     sermon_date: ''
-    sermon_bg: ''
+    sermon_bg: '/uploads/sermon_bg.jpg'
     speaker: ''
     bible_text: ''
     excerpt: ''
