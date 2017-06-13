@@ -1,5 +1,8 @@
 .card_list {
-	display: flex; 
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-flow: wrap row;
 	flex-flow: wrap row;
 }
 

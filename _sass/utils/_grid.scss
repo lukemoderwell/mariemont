@@ -1,67 +1,61 @@
 .container {
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 1120px;
-  padding-left: 20px;
-  padding-right: 20px;
-
-  @media (min-width: $med) {
-    width: 100%;
-    padding-left: 30px;
-    padding-right: 30px
-  }
-
-  @media (min-width: $large) {
-    width: 90%;
-    padding: 0; 
-  }
-
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1120px;
+    padding-left: 20px;
+    padding-right: 20px;
+    @media (min-width: $med) {
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 30px
+    }
+    @media (min-width: $large) {
+        width: 90%;
+        padding: 0;
+    }
 }
 
 .grid {
-  display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
 }
 
 .grid--gutters {
-  margin: -1em 0 0 -1em;
+    margin: -1em 0 0 -1em;
 }
 
-.grid--gutters > .grid_cell {
-  padding: 1em 0 0 1em;
+.grid--gutters>.grid_cell {
+    padding: 1em 0 0 1em;
 }
 
 .grid_cell {
-  flex: 0 0 100%;
-
-  @media (min-width: $med) {
-    flex: 0 0 50%; 
-  }
-
-  @media (min-width: $large) {
-    flex: 0 0 33.33333%; 
-  }
+    flex: 0 0 100%;
+    @media (min-width: $med) {
+        flex: 0 0 50%;
+    }
+    @media (min-width: $large) {
+        flex: 0 0 33.33333%;
+    }
 }
 
 .grid_cell--half {
-  flex: 0 0 100%; 
-
-  @media (min-width: $med) {
-    flex: 0 0 50%; 
-  }
+    flex: 0 0 100%;
+    @media (min-width: $med) {
+        flex: 0 0 50%;
+    }
 }
 
 .grid_cell--oneThird {
-  flex: 0 0 100%; 
-
-  @media (min-width: $med) {
-    flex: 0 0 33.333333333%; 
-  }
+    flex: 0 0 100%;
+    @media (min-width: $med) {
+        flex: 0 0 33.333333333%;
+    }
 }
 
 .grid_cell--twoThirds {
-  flex: 0 0 100%; 
-
-  @media (min-width: $med) {
-    flex: 0 0 66.66666666%; 
-  }
+    flex: 0 0 100%;
+    @media (min-width: $med) {
+        flex: 0 0 66.66666666%;
+    }
 }
