@@ -2,17 +2,11 @@
 title: Mariemont Community Church
 timezone: America/New_York
 collections:
-  events:
-    title: Events
-    output: true
   posts:
     title: Posts
     output: true
   sermons:
     title: Sermons
-    output: true
-  staff:
-    title: Staff
     output: true
   uploads:
     title: Uploads
@@ -26,7 +20,7 @@ defaults:
     series: ''
     week: ''
     sermon_date: ''
-    sermon_bg: '/uploads/sermon_bg.jpg'
+    sermon_bg: "/uploads/sermon_bg.jpg"
     speaker: ''
     bible_text: ''
     excerpt: ''
