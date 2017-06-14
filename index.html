@@ -1,39 +1,39 @@
----
-layout: default
+--- 
+layout: default 
 ---
 
 <div class="home">
-  <section class="home_hero">
-     {% for page in site.pages %}
-      {% if page.title == 'Home' %}
-      <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
-      <div class="home_intro">
-          <h1>{{ page.heading }}</h1>
-          <p>{{ page.content }}</p>
-          <div class="home_buttonGroup">
-            <a href="{{ page.latest_file }}" class="btn btn--secondary">Latest Update</a>
-            <a href="/about" class="btn btn--primary">Learn More</a>
-          </div>
+    <section class="home_hero">
+        {% for page in site.pages %} 
+        {% if page.title == 'Home' %}
+        <div class="home_intro">
+            <h1>{{ page.heading }}</h1>
+            <p>{{ page.content }}</p>
+            <div class="home_buttonGroup">
+                <a href="{{ page.latest_file }}" class="btn btn--secondary">Latest Update</a>
+                <a href="/about" class="btn btn--primary">Learn More</a>
+            </div>
         </div>
-      {% endif %}
-    {% endfor %}
+        <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
+        {% endif %}
+        {% endfor %}
     </section>
     <div class="container">
-      <section class="featSermon">
-         {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
-          <div class="featSermon_img">
-            <img src="/uploads/isaiah.jpg" />
-          </div>
-          <div class="featSermon_content grid_cell grid_cell--half">
-              <a href="{{ sermon.url }}">
-                <h4 class="featSermon_week">{{ sermon.series }} <span>Week {{ sermon.week }}</span></h4></a>
+        <section class="featSermon">
+            {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
+            <div class="featSermon_img">
+                <img src="/uploads/isaiah.jpg" />
+            </div>
+            <div class="featSermon_content grid_cell grid_cell--half">
+                <a href="{{ sermon.url }}">
+                    <h4 class="featSermon_week">{{ sermon.series }} <span>Week {{ sermon.week }}</span></h4>
+                </a>
                 <h3 class="featSermon_title">{{ sermon.title }}</h3>
-              </a> 
-              <div class="featSermon_desc">{{ sermon.content | truncate: 140, '...' }}</div>
-              <audio controls preload src="{{ sermon.audio_file }}"></audio>
-              <a href="{{ sermon.brochure_file }}" class="featSermon_cta">Download Brochure</a>  |  <a href="/media" class="featSermon_cta">See All Sermons</a>
-              {% endif %}{% endfor %}
-          </div>
+                </a>
+                <div class="featSermon_desc">{{ sermon.content | truncate: 140, '...' }}</div>
+                <audio controls preload src="{{ sermon.audio_file }}"></audio>
+                <a href="{{ sermon.brochure_file }}" class="featSermon_cta">Download Brochure</a> | <a href="/media" class="featSermon_cta">See All Sermons</a>                {% endif %}{% endfor %}
+            </div>
         </section>
     </div>
 </div>
