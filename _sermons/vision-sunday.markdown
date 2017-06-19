@@ -5,5 +5,6 @@ series: Standalone
 sermon_date: 2017-06-04 00:00:00 -04:00
 speaker: Denis Beasejour
 audio_file: "/uploads/vision-sunday-june-2017.mp3"
+thumbnail_image: "/uploads/standalone-thumbnail.jpg"
 ---
 
