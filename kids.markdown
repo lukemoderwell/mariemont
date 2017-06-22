@@ -22,17 +22,17 @@ Please check in at the Welcome Desk on the Lower Level, fill out an information 
 ### First Service
 
 (Check-in begins at 8:50.)
-Nursery (6-35 months) – Room 107, Little Lambs Lane
-3 to 5 Year Olds – Room 104, Jonah Blvd
-1st to 5th Grades – Room 102, Shepherd’s Place
+Nursery (6-35 months) – Little Lambs Lane, Room 107
+3 to 5 Year Olds – Jonah Blvd., Room 104
+1st to 5th Grades – Shepherd’s Place, Room 102
 
 ### Second Service
 
 (Check-in begins at 10:50)
-Nursery Care (6 to 24 months) – Room 107, Little Lambs Lane
+Nursery Care (6 to 24 months) – Little Lambs Lane, Room 107
 2 Year Olds (potty training not necessary) – Creation Room, Room 105
-PreK & Kindergarten – Room 104, Jonah Boulevard
-Early Elementary – Room 101, Village Room
+PreK & Kindergarten – Jonah Boulevard, Room 104
+Early Elementary – Village Room, Room 101
 Upper Elementary – Samson Room, Room 103
 
 ### Pick Up 
