@@ -21,7 +21,8 @@ Please check in at the Welcome Desk on the Lower Level, fill out an information 
 
 ### First Service
 
-(Check-in begins at 8:50.) Nursery (6-35 months) – Room 107, Little Lambs Lane
+(Check-in begins at 8:50.)
+Nursery (6-35 months) – Room 107, Little Lambs Lane
 3 to 5 Year Olds – Room 104, Jonah Blvd
 1st to 5th Grades – Room 102, Shepherd’s Place
 
