@@ -37,7 +37,7 @@ Upper Elementary – Samson Room, Room 103
 ### Pick Up 
 
 After the service, please pick up your children as close to 10:15 or 12:15 as possible with parent label.
-It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our Next Generation Director Jasmine Swann at jasmine@mariemontchurch.org.
+It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our Kids' Ministry Director Leslie Seetin at leslie@mariemontchurch.org.
 Traveling VBS Ministry Team
 June 2016 (TBD)
 
