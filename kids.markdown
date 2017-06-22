@@ -39,8 +39,8 @@ Upper Elementary – Samson Room, Room 103
 After the service, please pick up your children as close to 10:15 or 12:15 as possible with parent label.
 It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our Kids' Ministry Director Leslie Seetin at leslie@mariemontchurch.org.
 Traveling VBS Ministry Team
-June 2016 (TBD)
+June 19-23, 2017 
 
-We are forming a team of students and parents to serve inner city children and engage in other ministry field trips and opportunities. Our traveling team of Junior High, Senior High, elementary students and parents will go to Bright Star Baptist Church in the West End to serve inner city children for five mornings. Field trips and other ministry opportunities will be offered each afternoon. If you want to serve, tutor, and have some fun with us please contact Leslie Seetin, leslie@mariemontchurch.org.
+We formed a team of students and parents to serve inner city children and engage in other ministry field trips and opportunities. Our traveling team of Junior High, Senior High, elementary students and parents went to Bright Star Baptist Church in the West End to serve inner city children for five mornings. Field trips and other ministry opportunities were offered each afternoon. If you want to serve, tutor, and have some fun next year please contact Leslie Seetin, leslie@mariemontchurch.org.
 
 Jesus said, “Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.” (Matthew 19:14)
