@@ -15,7 +15,7 @@ layout: page
 
 Mariemont Church is committed to raising up strong, spiritually healthy children. From our nursery program through 5th grade, we are empowering children to make a faith in Christ their own and to put that faith into action.
 
-### Check In
+### Check In Process
 
 Please check in at the Welcome Desk on the Lower Level, fill out an information form, and walk with your child to their classroom. A friendly supervisor is on hand to help you find your way.
 
