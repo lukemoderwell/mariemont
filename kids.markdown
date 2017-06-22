@@ -41,6 +41,6 @@ It’s our privilege to serve you and your family. If you have any questions or 
 Traveling VBS Ministry Team
 June 19-23, 2017 
 
-We formed a team of students and parents to serve inner city children and engage in other ministry field trips and opportunities. Our traveling team of Junior High, Senior High, elementary students and parents went to Bright Star Baptist Church in the West End to serve inner city children for five mornings. Field trips and other ministry opportunities were offered each afternoon. If you want to serve, tutor, and have some fun next year please contact Leslie Seetin, leslie@mariemontchurch.org.
+We formed a team of students and parents to serve inner city children and engage in other ministry field trips and opportunities. Our traveling team of Junior High, Senior High, elementary students and parents went to Bright Star Baptist Church in the West End to serve inner city children for five mornings. Field trips and other ministry opportunities were offered each afternoon. If you want to serve, tutor, and have some fun next year please contact Paul Rasmussen, paul@mariemontchurch.org.
 
 Jesus said, “Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.” (Matthew 19:14)
