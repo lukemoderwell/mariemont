@@ -8,4 +8,4 @@ download:
 layout: page-no-hero
 ---
 
-Add The Way Content
+![TheWayBklt_Jan2017.pdf](/uploads/TheWayBklt_Jan2017.pdf)
