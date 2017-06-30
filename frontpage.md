@@ -9,4 +9,4 @@ latest_file: "/uploads/07022017_MCCProgram_proof1.pdf"
 layout: default
 ---
 
-We’re a growing community of families in East Cincinnati committed to following Jesus. Join us for Sunday services at 9 and 11am.
+We’re a growing community of families in East Cincinnati committed to following Jesus. Join us for Sunday services at 9 and 11 am.
