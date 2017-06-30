@@ -9,7 +9,7 @@ speaker: Zeke Swift
 bible_text: Isaiah 36-37
 audio_file: "/uploads/Isaiah-36-37-zeke.mp3"
 thumbnail_image: "/uploads/isaiah-sermon-header.jpg"
-is_featured: true
+is_featured: false
 feat_image: "/uploads/isaiah.jpg"
 ---
 
