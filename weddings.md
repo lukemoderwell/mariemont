@@ -22,6 +22,6 @@ Mariemont Church pastors or others who have been approved by the Council of Elde
 Once your date is approved you will receive a packet of information. (Additional approval is required for if you are using another officiant). Contact us if you have any questions. Weddings are scheduled by the Church Administrator. After your date has been approved, the receipt of one half the fee and your signed Wedding Data Sheet will secure your date on our calendar.
 
 ### Fees
-Please contact the Terri Cofskey, the Church Administrator, with questions. Send an email inquiry to terri @ mariemontchurch.org.
+Please contact Terri Cofskey, the Church Administrator, with questions. Send an email inquiry to terri @ mariemontchurch.org.
 
 <iframe width="600" height="338" src="https://www.youtube.com/embed/MTWeAkJ3BRY?ecver=1" frameborder="0" allowfullscreen></iframe>
