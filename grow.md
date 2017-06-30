@@ -13,7 +13,7 @@ illustration:
 layout: page
 ---
 
-He's the key leader around here, and the reason we exist. He came to save us from our self-centered ways, our sin, and our rebellion. He is the unique and awesome God who laid his life down for us, and took our punishment on himself. We believe it is only through him that we can experience real life now and forever.
+Jesus is the key leader around here, and the reason we exist. He came to save us from our self-centered ways, our sin, and our rebellion. He is the unique and awesome God who laid his life down for us, and took our punishment on himself. We believe it is only through him that we can experience real life now and forever.
 
 We saw what Jesus did, we turned from our ways, and we believed this good news – the Gospel of the Kingdom.
 
