@@ -3,7 +3,7 @@ title: Isaiah 40:12-26
 date: 2017-07-03 10:46:00 -04:00
 series: Isaiah
 week: 16
-sermon_date: 2017-07-02 00:00:00 -04:00
+sermon_date: 2017-07-02 11:00:00 -04:00
 speaker: Denis Beausejour
 bible_text: Isaiah 40:12-26
 audio_file: "/uploads/6-01%20Isaiah%20Chapter%2040_12-26%201-c5f48b.mp3"
