@@ -15,7 +15,7 @@ layout: page
 ### Kids loving Jesus together
 
 Youth group is open to students from 6th-12th grade. We meet weekly after the 11:00 AM service in PowerHouse on the second floor youth area.
-Junior and Senior High students have separate learning times led by our teaching team.
+Junior High students have separate learning times led by our teaching team.
 
 Parents of High School students have a study group which also meets during the 11:00 AM service in the Baker Room near the main auditorium.
 
