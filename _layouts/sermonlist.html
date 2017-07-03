@@ -5,7 +5,8 @@ layout: default
 <div class="container">
     <h3 class="page_heading page_heading--noBg">Sermons</h3>
     <div class="card_list grid grid--gutters">
-        {% for sermon in site.sermons %}
+        {% assign sorted_sermons = site.sermons | sort:"sermon_date" | reverse %}
+        {% for sermon in sorted_sermons %}
             <div class="card grid_cell">
                 <a class="card_main" href="{{ sermon.url }}">
                     <div class="card_visual">

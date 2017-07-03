@@ -1,7 +1,6 @@
 ---
 title: Isaiah 31-32
 date: 2017-06-18 16:15:00 -04:00
-position: 4
 series: Isaiah
 week: 11
 sermon_date: 2017-05-21 11:00:00 -04:00
