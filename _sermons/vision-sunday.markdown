@@ -1,6 +1,7 @@
 ---
 title: Vision Sunday
 date: 2017-06-18 16:07:00 -04:00
+position: 2
 series: Standalone
 sermon_date: 2017-06-04 11:00:00 -04:00
 speaker: Denis Beasejour
