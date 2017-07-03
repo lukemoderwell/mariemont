@@ -9,6 +9,6 @@ speaker: Denis Beausejour
 bible_text: Isaiah 40:1-11
 audio_file: "/uploads/Isaiah%2040.m4a"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: true
+is_featured: false
 ---
 
