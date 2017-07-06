@@ -18,8 +18,8 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 | Indian Hill                  | Tuesdays, 7:00PM     | [The Cambrons](mailto:)                           |
 | Indian Hill & Montgomery | Thurdays, 8:30PM     | [The Deweys](mailto:)                             |
 | Madeira                      | Tuesday, 7:00PM      | [Kevin & Jill Schad](mailto:)                 |
-| Madisonville                 | Thurdays, 8:30PM     | [Michael & Judy Belanger](mailto:)            |
-| Mariemont                    | Mondays, 6:30PM    | [Matt & Paula Ayer](mailto:)                  |
+| Madisonville                 | Mondays, 6:30PM     | [Michael & Judy Belanger](mailto:)            |
+| Mariemont                    | Thursdays, 7:00PM    | [Matt & Paula Ayer](mailto:)                  |
 | Joy In The Morning (MCC)     | Tuesdays, 9:00AM     | [Barb Leonard](mailto:)                           |
 | Joy In The Evening (MCC)     | Mondays (1st/3rd), 7:30 PM  | [Barb Leonard](mailto:)                    |
 | Men's Studies (MCC)          | Fridays, 6:30 AM     | [Denis Beausejour](mailto:)                       |
