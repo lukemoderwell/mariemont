@@ -1,0 +1,13 @@
+---
+title: Isaiah 40:27-31
+date: 2017-07-10 09:11:00 -04:00
+series: Isaiah
+week: 17
+sermon_date: 2017-07-09 11:00:00 -04:00
+speaker: Louis Arnold
+bible_text: Isaiah 40:27-31
+audio_file: "/uploads/01%20Isaiah%20Chapter%2040_27-31.mp3"
+thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
+is_featured: true
+---
+
