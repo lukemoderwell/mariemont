@@ -9,6 +9,6 @@ bible_text: Isaiah 40:12-26
 audio_file: "/uploads/6-01%20Isaiah%20Chapter%2040_12-26%201-c5f48b.mp3"
 brochure_file: "/uploads/07022017_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: true
+is_featured: false
 ---
 
