@@ -7,5 +7,7 @@ sermon_date: 2017-07-16 11:00:00 -04:00
 speaker: Paul Rasmussen
 bible_text: Isaiah 41:1-20
 audio_file: "/uploads/2-01%20Isaiah%2041_1-20%201.mp3"
+thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
+is_featured: true
 ---
 
