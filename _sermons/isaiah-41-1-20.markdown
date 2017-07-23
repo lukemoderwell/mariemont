@@ -9,6 +9,6 @@ bible_text: Isaiah 41:1-20
 audio_file: "/uploads/2-01%20Isaiah%2041_1-20%201.mp3"
 brochure_file: "/uploads/07162017_MCCProgram_proof2.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: true
+is_featured: false
 ---
 
