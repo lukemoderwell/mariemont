@@ -45,7 +45,7 @@ Everyone is encouraged to utilize their spiritual gifts and serve God in many ca
 
 For over 25 years, Women’s Ministries has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations. Volunteers use this clothing ministry as a means of reaching people by providing needed clothing and as opportunities arise, sharing the Gospel message. The proceeds of the sales are used to support Women’s Ministries, outreach to under-served women in the local community (ie. Prison Ministries – Ohio Reformatory for Women’s Tapestry and Kairos programs) and also for projects within the church. We will always accept donations of toiletries shampoo, lotions, toothpaste, soap – no pump applicators) for the women in the Tapestry and Kairos programs. Bring items to to the office!
 
-The family shop is open the second and fourth Saturdays of each month from 9 a.m. until noon.
+The Family Shop, located at the rear of the Parish Center, is open the second and fourth Saturdays of each month from 9 a.m. until noon.
 
 ### Take Them A Meal (Food Chain)
 
