@@ -1,0 +1,13 @@
+---
+title: Isaiah 42:18-43:21
+date: 2017-07-31 09:48:00 -04:00
+series: Isaiah
+week: 20
+sermon_date: 2017-07-30 00:00:00 -04:00
+speaker: Denis Beausejour
+bible_text: Isaiah 42:18-43:21
+audio_file: "/uploads/2-01%20Isaiah%2042_18-43_21%201.mp3"
+thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
+is_featured: true
+---
+
