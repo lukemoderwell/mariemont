@@ -7,6 +7,7 @@ sermon_date: 2017-07-30 00:00:00 -04:00
 speaker: Denis Beausejour
 bible_text: Isaiah 42:18-43:21
 audio_file: "/uploads/2-01%20Isaiah%2042_18-43_21%201.mp3"
+brochure_file: "/uploads/07302017_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
 is_featured: true
 ---
