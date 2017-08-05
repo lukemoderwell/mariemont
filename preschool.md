@@ -23,16 +23,8 @@ If you would like a personal tour, please contact Renee Brownfield at (513) 504-
 
 ### Important Documents
 
-[Peanut & Dairy Free List](http://mariemontchurch.org/wp-content/uploads/2012/11/dairy-peanut-free-list.docx)
+<a href="/uploads/mcc-preschool-docs.zip" class="btn btn--primary">Download All Documents</a>
 
-[2016/17 Preschool Calendar](http://mariemontchurch.org/wp-content/uploads/2012/11/2016-17-preschool-calendar.rtf)
+[2017/18 Preschool Calendar](/uploads/17-18-extended-care-calendar.rtf)
 
-[2016/17 Parent Handbook](http://mariemontchurch.org/wp-content/uploads/2012/11/2016-17-Preschool-Parent-Handbook.rtf)
-
-<iframe src="//docs.google.com/viewer?url=http%3A%2F%2Fmariemontchurch.org%2Fwp-content%2Fuploads%2F2012%2F11%2F2016-17-Preschool-Registration-form.docx&hl=en_US&embedded=true" class="gde-frame" style="width:100%; height:500px; border: none;" scrolling="no"></iframe>
-
-<iframe src="//docs.google.com/viewer?url=http%3A%2F%2Fmariemontchurch.org%2Fwp-content%2Fuploads%2F2012%2F11%2F2016-17-Preschool-and-Extended-Care-Class-information.doc&amp;hl=en_US&amp;embedded=true" class="gde-frame" style="width:100%; height:500px; border: none;" scrolling="no"></iframe>
-
-<iframe src="//docs.google.com/viewer?url=http%3A%2F%2Fmariemontchurch.org%2Fwp-content%2Fuploads%2F2012%2F11%2F2016-17-Extended-Care-Registration-form.docx&amp;hl=en_US&amp;embedded=true" class="gde-frame" style="width:100%; height:500px; border: none;" scrolling="no"></iframe>
-
-<iframe src="//docs.google.com/viewer?url=http%3A%2F%2Fmariemontchurch.org%2Fwp-content%2Fuploads%2F2012%2F11%2F2016-17-Extended-Care-Parent-Handbook.docx&amp;hl=en_US&amp;embedded=true" class="gde-frame" style="width:100%; height:500px; border: none;" scrolling="no"></iframe>
+[2017/18 Parent Handbook](/uploads/17-18-ps-parent-handbook.rtf)
