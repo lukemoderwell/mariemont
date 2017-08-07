@@ -6,6 +6,7 @@ week: 21
 sermon_date: 2017-08-06 11:00:00 -04:00
 speaker: Steve Cesler
 bible_text: Isaiah 43:22-44:23
+audio_file: "/uploads/01%20Isaiah%2043_22-44_23%201.mp3"
 brochure_file: "/uploads/08062017_MCCProgram_proof2-8a563a.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
 is_featured: true
