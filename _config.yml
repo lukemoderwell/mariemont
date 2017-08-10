@@ -50,10 +50,7 @@ baseurl:
 url: http://mariemontchurch.org
 markdown: kramdown
 highlighter: rouge
-<<<<<<< HEAD
 gems:
 - jekyll-seo-tag
-=======
->>>>>>> 8d6495d9b83cf62eb174881d6d1b57f20d573ea7
 port: 8000
 permalink: "/:categories/:title/"
