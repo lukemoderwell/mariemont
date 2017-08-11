@@ -52,5 +52,5 @@ markdown: kramdown
 highlighter: rouge
 plugins:
 - jekyll-seo-tag
-port: 8000
+port: 7000
 permalink: "/:categories/:title/"
