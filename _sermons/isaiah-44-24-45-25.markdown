@@ -6,8 +6,9 @@ week: 22
 sermon_date: 2017-08-13 11:00:00 -04:00
 speaker: Moran Rosenblit with Hope for Israel
 bible_text: Isaiah 44:24-45:25
+audio_file: "/uploads/2-01%20Isaiah%2044_24-45_25.mp3"
 brochure_file: "/uploads/08132017_MCCProgram_proof1-4cbdc9.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: false
+is_featured: true
 ---
 
