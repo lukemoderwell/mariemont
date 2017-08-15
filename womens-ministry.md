@@ -34,7 +34,7 @@ The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center
 
 ### Women’s Retreat
 
-Mariemont Church Women’s Retreat is usually offered in the spring. The purpose of this event is to help women grow in their faith by focusing on a topic (such as Spiritual Gifts) and to build relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
+Mariemont Church Women’s Retreat is usually offered in the spring. The purpose of this event is to help women grow in their faith by focusing on a topic (such as Spiritual Gifts) and to build relationships among women. The retreat environment enables connections, trust and deeper sharing among the women. More information to come.
 
 ### Serve
 
