@@ -1,4 +1,5 @@
 # mariemont
 
-To start dev server
-`bundle exec jekyll serve`
+To start dev server run `bundle exec jekyll serve`
+Built with [Siteleaf CMS](https://www.siteleaf.com/)
+
