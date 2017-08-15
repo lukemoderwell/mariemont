@@ -17,16 +17,16 @@ The vision of the Mariemont Church Women’s Ministry is to encourage women of a
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
 ### Joy In The Morning - Begins September 19, 2017
-For over 20 years, this study has been held on Tuesday mornings from 9:15-11:15am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available for a small fee. Traditionally, this has been a great outreach in the community.
+For over 20 years, this study has been held on Tuesday mornings from 9:15-11:15am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available for a small fee. This has been a great outreach in the community.
 
-Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available for a small fee. Specific study materials are TBD. For more info on the Joy in the Morning contact Barb Leonard 513-404-7434 or joyinthemorning @ mariemontchurch (dot) org.
+Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available for a small fee. Specific study materials are TBD. For more info on the Joy in the Morning contact Barb Leonard 513-404-7434 or tfleo @ cinci(dot)rr(dot)com.
 
 **Fall Kickoff** – Monday, September 18, 6:30-9:00pm
 Join us at the Parish Center for an evening of fun on Monday, September 18th. Dinner will be provided. **Beth Guckenberger** author and co-founder of Back to Back Ministries will be our guest speaker.
 
 ### Evening Joy – Begins October 2, 2017
 
-Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in the Baker Room. We will begin our fall study on Monday, October 2nd. Contact Teresa Earhart at 513-543-5362 or ttearhart@gmail.com.
+Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in the Baker Room. We will begin our fall study on Monday, October 2nd. Contact Teresa Earhart at 513-543-5362 or ttearhart @ gmail(dot)com.
 
 ### J.O.Y. Luncheon
 
