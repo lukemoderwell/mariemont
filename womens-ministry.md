@@ -26,7 +26,7 @@ Join us at the Parish Center for an evening of fun on Monday, September 18th. Di
 
 ### Evening Joy – Begins October 2, 2017
 
-Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in the Baker Room. We will begin our fall study on Monday, October 2nd. Contact Teresa Earhart at 513- or ttearhart@gmail.com.
+Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in the Baker Room. We will begin our fall study on Monday, October 2nd. Contact Teresa Earhart at 513-543-5362 or ttearhart@gmail.com.
 
 ### J.O.Y. Luncheon
 
