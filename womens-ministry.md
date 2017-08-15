@@ -30,7 +30,7 @@ Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in
 
 ### J.O.Y. Luncheon
 
-The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center on the second Wednesday of each month. Women 50 and older are welcome! We meet from 11:00 – 1:00 for Bible study followed by lunch. If you are not on the reservation list and would like to attend email Terri Cofskey at terri@mariemontchurch(dot)org.  But, we always welcome those who haven’t made reservations, too!
+The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center on the second Wednesday of each month. Women 50 and older are welcome! We meet from 11:00 – 1:00 for Bible study followed by lunch. If you are not on the reservation list and would like to attend email Terri Cofskey at terri @ mariemontchurch(dot)org.  But, we always welcome those who haven’t made reservations, too!
 
 ### Women’s Retreat
 
