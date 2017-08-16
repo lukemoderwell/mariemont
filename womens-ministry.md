@@ -19,18 +19,20 @@ Sharing the goal of having every member grow through participation in Bible stud
 ### Joy In The Morning - Begins September 19, 2017
 For over 20 years, this study has been held on Tuesday mornings from 9:15-11:15am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available for a small fee. This has been a great outreach in the community.
 
-Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available for a small fee. Specific study materials are TBD. For more info on the Joy in the Morning contact Barb Leonard 513-404-7434 or tfleo @ cinci(dot)rr(dot)com.
+Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available for a small fee. Specific study materials are TBD.
+Contact Barb Leonard at 513-404-7434 or tfleo@cinci(dot)rr(dot)com.
 
 **Fall Kickoff** – Monday, September 18, 6:30-9:00pm
-Join us at the Parish Center for an evening of fun on Monday, September 18th. Dinner will be provided. **Beth Guckenberger** author and co-founder of Back to Back Ministries will be our guest speaker.
+Join us at the Parish Center for an evening of fun on Monday, September 18th. Dinner will be provided. **Beth Guckenberger**, author and co-founder of Back to Back Ministries will be our guest speaker.
 
 ### Evening Joy – Begins October 2, 2017
 
-Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in the Baker Room. We will begin our fall study on Monday, October 2nd. Contact Teresa Earhart at 513-543-5362 or ttearhart @ gmail(dot)com.
+Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in the Baker Room of the Parish Center. We will begin our fall study on Monday, October 2nd.
+Contact Teresa Earhart at 513-543-5362 or ttearhart @ gmail(dot)com.
 
 ### J.O.Y. Luncheon
 
-The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center on the second Wednesday of each month. Women 50 and older are welcome! We meet from 11:00 – 1:00 for Bible study followed by lunch. If you are not on the reservation list and would like to attend email Terri Cofskey at terri @ mariemontchurch(dot)org.  But, we always welcome those who haven’t made reservations, too!
+The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center on the second Wednesday of each month. Women 50 and older are welcome! We meet from 11:00 – 1:00 for Bible study followed by lunch. If you are not on the reservation list and would like to attend, please email Terri Cofskey at terri @ mariemontchurch(dot)org.  We always welcome those who haven’t made reservations, too!
 
 ### Women’s Retreat
 
