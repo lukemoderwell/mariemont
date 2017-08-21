@@ -17,26 +17,27 @@ The vision of the Mariemont Church Women’s Ministry is to encourage women of a
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
 ### Joy In The Morning - Begins September 19, 2017
-For over 20 years, this study has been held on Tuesday mornings from 9:15-11:15am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available for a small fee. This has been a great outreach in the community.
+For over 20 years, this study has been held on Tuesday mornings from 9:15-11:15am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available. This has been a great outreach in the community.
 
-Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available for a small fee. Specific study materials are TBD.
-Contact Barb Leonard at 513-404-7434 or tfleo@cinci(dot)rr(dot)com.
+Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available. Specific study materials are TBD.
+Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com.
 
 **Fall Kickoff** – Monday, September 18, 6:30-9:00pm
-Join us at the Parish Center for an evening of fun on Monday, September 18th. Dinner will be provided. **Beth Guckenberger**, author and co-founder of Back to Back Ministries will be our guest speaker.
+Join us at the Parish Center for an evening of fellowship and encouragement on Monday, September 18th. Dinner will be provided. **Beth Guckenberger**, author and co-founder of Back to Back Ministries will be our guest speaker.
 
 ### Evening Joy – Begins October 2, 2017
 
 Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in the Baker Room of the Parish Center. We will begin our fall study on Monday, October 2nd.
-Contact Teresa Earhart at 513-543-5362 or ttearhart @ gmail(dot)com.
+Contact Teresa Earhart at 513-543-5362 or
+ttearhart@gmail.com.
 
 ### J.O.Y. Luncheon
 
-The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center on the second Wednesday of each month. Women 50 and older are welcome! We meet from 11:00 – 1:00 for Bible study followed by lunch. If you are not on the reservation list and would like to attend, please email Terri Cofskey at terri @ mariemontchurch(dot)org.  We always welcome those who haven’t made reservations, too!
+The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center on the second Wednesday of each month. Women 50 and older are welcome! We meet from 11:00 – 1:00 for Bible study followed by lunch. If you are not on the reservation list and would like to attend, please email Terri Cofskey at terri@mariemontchurch.org.  We always welcome those who haven’t made reservations, too!
 
 ### Women’s Retreat
 
-Mariemont Church Women’s Retreat is usually offered in the spring. The purpose of this event is to help women grow in their faith by focusing on a topic (such as Spiritual Gifts) and to build relationships among women. The retreat environment enables connections, trust and deeper sharing among the women. More information to come.
+Mariemont Church Women’s Retreat is usually offered in the spring. The purpose of this event is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women. More information to come.
 
 ### Serve
 
@@ -50,4 +51,4 @@ The Family Shop, located at the rear of the Parish Center, is open the second an
 
 ### Take Them A Meal (Food Chain)
 
-Take Them A Meal is an outreach food ministry to MCC church members who are in need of meals on a temporary basis due to surgery, illness, newborns, etc. Those in need contact Mariemont Community Church through Lois Barbro who, in turn, contacts the coordinators. Scheduling is set up on the Internet through Takethemameal.com and volunteers are advised of the specific needs and sign up accordingly. Three meals per week for two weeks are provided, but additional meals can be requested. Coordinators are Brittany Harrison and Terry Robinson.
+Take Them A Meal is an outreach food ministry to MCC church members who are in need of meals on a temporary basis due to surgery, illness, newborns, etc. Those in need contact Brittany Harrison brittany.harrison19@gmail.com or Terry Robinson dbrtpr@gmail.com. Scheduling will be set up on the Internet through Takethemameal.com, and volunteers are advised of the specific needs and sign up accordingly. Three meals per week for two weeks are provided, but additional meals can be requested.
