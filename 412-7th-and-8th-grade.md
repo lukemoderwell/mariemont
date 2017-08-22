@@ -15,11 +15,12 @@ layout: page
 ### Kids loving Jesus together
 
 Youth group is open to students from 6th-12th grade. We meet weekly after the 11:00 AM service in PowerHouse on the second floor youth area.
-Junior High students have separate learning times led by our teaching team.
 
-Parents of High School students have a study group which also meets during the 11:00 AM service in the Baker Room near the main auditorium.
+Junior High students have separate learning times led by our teaching team.
 
 ### Traveling Ministry Team
 
-**June 2016**
-We are forming a team of students and parents to serve inner city children and engage in other ministry field trips and opportunities. Our traveling team of Junior High, Senior High, elementary students and parents will go to Bright Star Baptist Church in the West End to serve inner city children for five mornings. Field trips and other ministry opportunities will be offered each afternoon. If you want to serve, tutor, and have some fun with us please contact Paul Rasmussen at paul@mariemontchurch.org.
+**2017**
+Each year we form a team of students and parents to serve inner-city children and engage in other ministry field trips and opportunities. If you want to serve, tutor, and have some fun with us please contact Paul Rasmussen at paul@mariemontchurch.org.
+
+In June 2017 our traveling team of junior high, senior high, elementary students and parents went to Bright Star Baptist Church in the West End to serve inner-city children for five mornings. In July students went to Pierre Payen, Haiti where they served at a local orphanage.
