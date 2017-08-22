@@ -14,7 +14,7 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 
 | Location                     | Time                 | Host                                              |
 | ---------------------------  | -------------------- | --------------------------------------------------|
-| Hyde Park                    | Sundays, 7:00PM      | [Burr & Terry Robinson](mailto:burr.robin.com)|
+| Hyde Park                    | Sundays, 7:00PM      | [Burr & Terry Robinson](mailto:dbrtpr@gmail.com)|
 | Indian Hill                  | Tuesdays, 7:00PM     | [The Cambrons](mailto:)                           |
 | Indian Hill & Montgomery | Thurdays, 8:30PM     | [The Deweys](mailto:)                             |
 | Madeira                      | Tuesday, 6:45PM      | [Ben and Lynn Huizenga](mailto:)                 |
