@@ -16,7 +16,7 @@ layout: page
 
 412 refers to I Timothy 4:12: "Do not let anyone look down on you because you are young, but set an example for the believers in speech, in life, in love, in faith and in purity.
 
-Our youth group is open to students from 6th-12th grade. We meet weekly after the 11:00 AM service in the PowerHouse on the second floor youth area.
+Our youth group is open to students from 7th-12th grade. We meet weekly after the 11:00 AM service in the PowerHouse on the second floor youth area.
 
 Junior High students have separate learning times led by our teaching team.
 
