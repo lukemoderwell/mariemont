@@ -6,8 +6,7 @@ week: 23
 sermon_date: 2017-08-20 11:00:00 -04:00
 speaker: Zeke Swift
 bible_text: Isaiah 46:1-47:15
-audio_file: ''
-brochure_file: ''
+brochure_file: "/uploads/08202017_MCCProgram_proof1-c93510.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
 is_featured: false
 ---
