@@ -8,6 +8,6 @@ speaker: Zeke Swift
 bible_text: Isaiah 46:1-47:15
 audio_file: "/uploads/01%20Isaiah%2046_1-47_15%201.mp3"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: false
+is_featured: true
 ---
 
