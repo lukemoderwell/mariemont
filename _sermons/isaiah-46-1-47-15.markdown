@@ -3,9 +3,12 @@ title: Isaiah 46:1-47:15
 date: 2017-08-21 11:39:00 -04:00
 series: Isaiah
 week: 23
+sermon_date: 2017-08-20 11:00:00 -04:00
 speaker: Zeke Swift
 bible_text: Isaiah 46:1-47:15
-brochure_file: "/uploads/08132017_MCCProgram_proof1-4cbdc9.pdf"
+audio_file: ""
+brochure_file: ""
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
+is_featured: false
 ---
 
