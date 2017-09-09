@@ -2,6 +2,7 @@
 title: Small Groups
 date: 2017-03-19 19:55:00 -04:00
 permalink: "/small-groups/"
+published: false
 position: 5
 hero_image: "/uploads/joy.jpg"
 hasHero: true
@@ -13,7 +14,7 @@ layout: page
 To be a disciple of Jesus, we realize that we need to constantly grow. A practical way that happens around here is through small groups. We desire people to learn that being the church is not just worshiping for 1 hour on a Sunday morning, but it's seeking His Kingdom daily through community.
 
 | Location                     | Time                 | Host                                              |
-| ---------------------------  | -------------------- | --------------------------------------------------|
+| ---------------------------  | :--------------------: | --------------------------------------------------|
 | Hyde Park                    | Sundays, 7:00PM      | [Burr & Terry Robinson](mailto:burr.robinson@gmail.com)|
 | Indian Hill                  | Tuesdays, 7:00PM     | [The Cambrons](mailto:mikecambron43@gmail.com)|                          |
 | Indian Hill & Montgomery | Thurdays, 8:30PM     | [The Deweys](mailto:dewdini@yahoo.com)                             |
