@@ -10,7 +10,7 @@ lead_in: Our goal is to serve God all the time.
 layout: page
 ---
 
-###What We Believe About Students
+### What We Believe About Students
 
 Did you know that the first youth pastor in the Christian church may have been Jesus. What a lot of people don’t know about Jesus’ original 12 disciples, is that it’s quite possible 11 of the 12 of them were teenagers, or at least younger than 20 based on the absence of paying the temple tax mentioned in Matthew 17. The fact that they were following a Rabbi and Jesus’ reference to them as “little ones” or little children” in Matthew 11, Luke 10, and John 13 support that they were youth.
 
@@ -19,11 +19,9 @@ The main point we draw from this here at MCC is that there is no junior Holy Spi
 Our Senior High Ministry is called Club 168. The 168 comes from the idea that there are 168 hours in a week, and we want to live for Christ all 168 hours, not just the few hours we are at Youth meetings or at Sunday morning community gatherings. The Scripture that speaks to this is  1 Thessalonians 5:16-18 --16 Always be joyful.--17 Never stop praying.--18 Be thankful in all circumstances, for this is God’s will for you who belong to Christ Jesus.
 
 **Coming to Our Meetings?**
-
 We meet on Wednesday nights in our student ministry's room called “The Rock” on the 2nd floor, from 7:00 – 8:30 p.m. A typical night consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
 
 We have students who go to Mariemont Schools, Turpin schools, MVCA and many home-schooled students from various co-ops. We also have some wonderful adult leaders who love Jesus, love students, and have a desire to see students walk more deeply and intentionally with Jesus.
 
 **Who Can Come?**
-
 Any 9th – 12th grade student no matter where you go to school. You don’t have to go to MCC to come on Wednesday nights, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
