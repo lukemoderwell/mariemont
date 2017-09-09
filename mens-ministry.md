@@ -3,12 +3,12 @@ title: Men's Ministry
 date: 2016-11-13 15:40:00 -05:00
 permalink: "/mens-ministry/"
 position: 8
-heading: Men's Ministry
-lead_in: '"Forging a Christian Brotherhood to Conquer Life''s Battles Shoulder to
-  Shoulder". '
 bg_color: "#000000"
 hasHero: false
 hasDownload: false
+heading: Men's Ministry
+lead_in: '"Forging a Christian Brotherhood to Conquer Life''s Battles Shoulder to
+  Shoulder". '
 hasForm: false
 layout: page
 ---
@@ -20,6 +20,8 @@ We believe God has called men to provide proactive and sacrificial leadership in
 For us, that looks like all men realizing their sonship to the Father, married men loving their wives well and discipling their children toward a relationship with Christ, and single men devoted to the church and Kingdom building.
 
 Here are some of the things we do:
+
+* Men's Retreat
 
 * Saturday Breakfast "Men United"
 
