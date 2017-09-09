@@ -12,7 +12,7 @@ layout: page
 
 ###What We Believe About Students
 
-Did you know that the first youth pastor in the Christian church may have been Jesus. What a lot of people don’t know about Jesus’ original 12 disciples, is that it’s quite possible 11 of the 12 of them were teenagers, or at least younger than 20 based on the absence of paying the temple tax Matthew 17, the fact that they were following a Rabbi, and Jesus’ reference to them as “little ones” or little children”, Matthew 11, Luke 10, John 13 etc.
+Did you know that the first youth pastor in the Christian church may have been Jesus. What a lot of people don’t know about Jesus’ original 12 disciples, is that it’s quite possible 11 of the 12 of them were teenagers, or at least younger than 20 based on the absence of paying the temple tax mentioned in Matthew 17. The fact that they were following a Rabbi and Jesus’ reference to them as “little ones” or little children” in Matthew 11, Luke 10, and John 13 support that they were youth.
 
 The main point we draw from this here at MCC is that there is no junior Holy Spirit. The Father is happy to use anyone who makes themselves available for kingdom works; so when we look at our students, we see Disciples of Jesus with gifting, power, authority, and purpose as disciples of Jesus.
 
