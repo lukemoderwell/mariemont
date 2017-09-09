@@ -2,6 +2,7 @@
 title: Small Groups
 date: 2017-03-19 19:55:00 -04:00
 permalink: "/small-groups/"
+published: false
 position: 5
 hero_image: "/uploads/Small-Group-Bible-Study_800-688x230%20card%20and%20website%20image.jpg"
 hasHero: true
