@@ -3,7 +3,7 @@ title: Small Groups
 date: 2017-03-19 19:55:00 -04:00
 permalink: "/small-groups/"
 position: 5
-hero_image: "/uploads/Small-Group-Bible-Study_800-688x230%20card%20and%20website%20image.jpg"
+hero_image: "/uploads/Small-Group-Bible-Study_800-688x230%20card%20and%20website%20image-218db1.jpg"
 hasHero: true
 heading: Get Connected
 lead_in: Weekly home gatherings where we get practical and love one another.
