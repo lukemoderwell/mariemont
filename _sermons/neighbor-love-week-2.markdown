@@ -8,6 +8,6 @@ speaker: Paul Rasmussen and Ryan Snow
 audio_file: "/uploads/01%20Neighbor%20Love%20Week%202.mp3"
 brochure_file: "/uploads/09102017_MCCProgram_proof1-54e33d.pdf"
 thumbnail_image: "/uploads/NeighorLove-f1c11e.gif"
-is_featured: true
+is_featured: false
 ---
 
