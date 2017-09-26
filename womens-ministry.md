@@ -19,11 +19,9 @@ Sharing the goal of having every member grow through participation in Bible stud
 ### Joy In The Morning - Begins September 19, 2017
 For over 20 years, this study has been held on Tuesday mornings from 9:15-11:15am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available. This has been a great outreach in the community.
 
-Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available. Specific study materials are TBD.
-Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com.
+Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available. Specific study materials are TBD. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com.
 
-**Fall Kickoff** – Monday, September 18, 6:30-9:00pm
-Join us at the Parish Center for an evening of fellowship and encouragement on Monday, September 18th. Dinner will be provided. **Beth Guckenberger**, author and co-founder of Back to Back Ministries will be our guest speaker.
+**Beth Guckenberger**, author and co-founder of Back to Back Ministries was our guest speaker at the Women's Fall Kick-off on Monday, September 18. 
 
 ### Evening Joy – Begins October 2, 2017
 
