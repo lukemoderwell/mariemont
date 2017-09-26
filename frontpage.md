@@ -5,7 +5,7 @@ permalink: "/"
 position: 0
 hero_image: "/uploads/worship-leading-alt.jpg"
 heading: Learning to live and love in Jesus as we follow him together.
-latest_file: "/uploads/09172017_MCCProgram_proof3-b567a3.pdf"
+latest_file: "/uploads/09242017_MCCProgram_proof2-8da693.pdf"
 layout: default
 ---
 
