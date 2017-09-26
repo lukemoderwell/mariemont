@@ -23,6 +23,7 @@ Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun
 
 **Beth Guckenberger**, author and co-founder of Back to Back Ministries was our guest speaker at the Women's Fall Kick-off on Monday, September 18. 
 
+
 ### Evening Joy – Begins October 2, 2017
 
 Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in the Baker Room of the Parish Center. We will begin our fall study on Monday, October 2nd.
