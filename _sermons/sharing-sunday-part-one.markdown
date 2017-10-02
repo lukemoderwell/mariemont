@@ -8,6 +8,6 @@ speaker: Various
 audio_file: "/uploads/4-01%20Sharing%20Sunday%20Sept.%2024%20Part%20One.mp3"
 brochure_file: "/uploads/09242017_MCCProgram_proof2.pdf"
 thumbnail_image: "/uploads/NeighorLove-f1c11e.gif"
-is_featured: true
+is_featured: false
 ---
 
