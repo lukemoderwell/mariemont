@@ -32,3 +32,4 @@ Here are some of the things we do:
 * Help out at the Family Shop
 
 * **Bible Study**: Meet on Fridays at the Parish Center at 6:30am
+[01 Isaiah 43_22-44_23 1.mp3](/uploads/01%20Isaiah%2043_22-44_23%201.mp3)
