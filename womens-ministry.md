@@ -21,8 +21,11 @@ For over 20 years, this study has been held on Tuesday mornings from 9:15-11:15a
 
 Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available. Specific study materials are TBD. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com.
 
-**Beth Guckenberger**, author and co-founder of Back to Back Ministries was our guest speaker at the Women's Fall Kick-off on Monday, September 18. 
+**Beth Guckenberger**, author and co-founder of Back to Back Ministries was our guest speaker at the Women's Fall Kick-off on Monday, September 18.
 
+<audio src="/uploads/YOUR_FILENAME_HERE.mp3">
+  Your browser does not support the <code>audio</code> element.
+</audio>
 
 ### Evening Joy – 
 
