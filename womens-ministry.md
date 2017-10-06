@@ -2,6 +2,7 @@
 title: Women's Ministry
 date: 2016-11-13 15:42:00 -05:00
 permalink: "/womens-ministry/"
+published: false
 position: 9
 hero_image: "/uploads/womens-ministry.jpg"
 hasHero: true
@@ -16,7 +17,7 @@ The vision of the Mariemont Church Women’s Ministry is to encourage women of a
 
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
-### Joy In The Morning - Begins September 19, 2017
+### Joy In The Morning - 
 For over 20 years, this study has been held on Tuesday mornings from 9:15-11:15am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available. This has been a great outreach in the community.
 
 Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available. Specific study materials are TBD. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com.
@@ -24,7 +25,7 @@ Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun
 **Beth Guckenberger**, author and co-founder of Back to Back Ministries was our guest speaker at the Women's Fall Kick-off on Monday, September 18. 
 
 
-### Evening Joy – Begins October 2, 2017
+### Evening Joy – 
 
 Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in the Baker Room of the Parish Center. We will begin our fall study on Monday, October 2nd.
 Contact Teresa Earhart at 513-543-5362 or
