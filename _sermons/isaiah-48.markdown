@@ -7,8 +7,7 @@ sermon_date: 2017-10-01 11:00:00 -04:00
 speaker: Denis Beausejour
 bible_text: Isaiah 48:1-22
 audio_file: "/uploads/01%20Isaiah%20Chapter%2048%201.mp3"
-brochure_file: "/uploads/10012017_MCCProgram_proof2-f7aa47.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: true
+is_featured: false
 ---
 
