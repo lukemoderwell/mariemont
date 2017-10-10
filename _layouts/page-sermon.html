@@ -7,7 +7,7 @@ layout: default
 		<h2 class="sermon_series">{{ page.series }} <span>Week {{ page.week }}</span></h2>
 		<h1 class="sermon_heading">{{ page.title }}</h1>
 		<audio controls preload src="{{ page.audio_file }}"></audio>
-		{% if page.brochure_file %}
+		{% if page.brochure_file.size > 0 %}
 			<a class="btn btn--primary" href="{{ page.brochure_file }}">Download Brochure</a>
 		{% endif %}
 		<p class="sermon_speaker">{{ page.speaker }}</p>
