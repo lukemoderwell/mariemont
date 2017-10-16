@@ -1,0 +1,12 @@
+---
+title: Isaiah 50:4-51:8
+date: 2017-10-16 11:11:00 -04:00
+series: Isaiah
+week: 26
+sermon_date: 2017-10-15 11:00:00 -04:00
+speaker: Mike Cambron
+bible_text: Isaiah 50:4-51:8
+audio_file: "/uploads/01%20Isaiah%2050_4-51_8%201.mp3"
+thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
+---
+
