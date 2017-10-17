@@ -50,5 +50,3 @@ Separately, Donna Painter offers inner healing prayer sessions, called "Soul Car
 
 There is also a box in the lobby for you to make prayer requests.  We will distribute them to the prayer chain and available in the Upper Room for prayer.   
 
-
-**
