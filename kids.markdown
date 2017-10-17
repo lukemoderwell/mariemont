@@ -41,7 +41,3 @@ Be sure to keep your parent badge for pick up after the service.
 It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our Children’s Ministry director Leslie Seetin at leslie@mariemontchurch.org. 
 
 
-**All Are Welcome**
-
-Services held every Sunday at 9am & 11am
-
