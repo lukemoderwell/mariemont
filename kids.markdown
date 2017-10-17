@@ -11,37 +11,31 @@ lead_in: We're committed to raising up strong, spiritually healthy children.
 layout: page
 ---
 
-## Kids at Mariemont Church
-
-Mariemont Church is committed to raising up strong, spiritually healthy children. From our nursery program through 5th grade, we are empowering children to make a faith in Christ their own and to put that faith into action.
-
-### Check In Process
-
-Please check in at the Welcome Desk on the Lower Level, fill out an information form, and walk with your child to their classroom. A friendly supervisor is on hand to help you find your way.
-
-### First Service
-
-(Check-in begins at 8:50.)
-Nursery (6-35 months) – Little Lambs Lane, Room 107
-3 to 5 Year Olds – Jonah Blvd., Room 104
-1st to 5th Grades – Shepherd’s Place, Room 102
-
-### Second Service
-
-(Check-in begins at 10:50)
-Nursery Care (6 to 24 months) – Little Lambs Lane, Room 107
-2 Year Olds (potty training not necessary) – Creation Room, Room 105
-PreK & Kindergarten – Jonah Boulevard, Room 104
-Early Elementary – Village Room, Room 101
-Upper Elementary – Samson Room, Room 103
-
-### Pick Up 
-
-After the service, please pick up your children as close to 10:15 or 12:15 as possible with parent label.
-It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our Kids' Ministry Director Leslie Seetin at leslie@mariemontchurch.org.
-Traveling VBS Ministry Team
-June 19-23, 2017 
-
-We formed a team of students and parents to serve inner city children and engage in other ministry field trips and opportunities. Our traveling team of Junior High, Senior High, elementary students and parents went to Bright Star Baptist Church in the West End to serve inner city children for five mornings. Field trips and other ministry opportunities were offered each afternoon. If you want to serve, tutor, and have some fun next year please contact Paul Rasmussen, paul@mariemontchurch.org.
+**Kids at Mariemont Church**
+Mariemont Church is committed to raising up strong, spiritually healthy children. From 6 months to 6th grade, we are empowering families to lead children in developing their own faith in Christ and to put that faith into action.
 
 Jesus said, “Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.” (Matthew 19:14)
+
+**Check-In Process**
+Check in at the Welcome Desk on the Lower Level, fill out an registration form, receive security name badges, and walk with your child to their classroom. A friendly supervisor is on hand to help you find your way.
+
+**First Service**
+Nursery (6-23 months)—Room 107
+2-year-olds and 3-year-olds (potty training not necessary)—Room 105
+
+**Second Service**
+Nursery (6-23 months)—Room 107
+2-year-olds and 3-year-olds (potty training not necessary)—Room 105
+PreKindergarten–Kindergarten—Room 104
+Early Elementary (1st–3rd grades)—Room 102
+Upper Elementary (4th–6th grades)—Room 103
+
+**Pick Up**
+Be sure to keep your parent badge for pick up after the service. 
+
+It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our Children’s Ministry director Leslie Seetin at leslie@mariemontchurch.org. 
+
+
+**All Are Welcome**
+Services held every Sunday at 9am & 11am
+
