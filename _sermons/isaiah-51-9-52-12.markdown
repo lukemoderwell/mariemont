@@ -6,6 +6,7 @@ week: 27
 sermon_date: 2017-10-22 11:00:00 -04:00
 speaker: Ofer Amitai
 bible_text: Isaiah 51:9-52:12
+audio_file: "/uploads/01%20Isaiah%2051_9-52_12%201.mp3"
 is_featured: false
 ---
 
