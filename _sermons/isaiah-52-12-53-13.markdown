@@ -9,6 +9,6 @@ bible_text: Isaiah 52:12-53:13
 audio_file: "/uploads/01%20Isaiah%20Chapters%2052_12-53_13%201.mp3"
 brochure_file: "/uploads/10292017_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: true
+is_featured: false
 ---
 
