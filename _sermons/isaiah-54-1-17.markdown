@@ -8,5 +8,6 @@ speaker: Denis Beausejour
 bible_text: Isaiah 54:1-17
 brochure_file: "/uploads/11052017_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
+is_featured: true
 ---
 
