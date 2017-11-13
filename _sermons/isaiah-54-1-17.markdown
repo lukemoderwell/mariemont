@@ -9,6 +9,6 @@ bible_text: Isaiah 54:1-17
 audio_file: "/uploads/2-01%20Isaiah%20Chapter%2054_1-17%201.mp3"
 brochure_file: "/uploads/11052017_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: true
+is_featured: false
 ---
 
