@@ -1,5 +1,5 @@
 ---
-title: Isaiah 55
+title: Isaiah 55:1-13 (Part I)
 date: 2017-11-13 10:16:00 -05:00
 series: Isaiah
 week: 30
