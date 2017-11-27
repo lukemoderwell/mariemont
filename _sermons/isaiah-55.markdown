@@ -9,6 +9,6 @@ bible_text: Isaiah 55:1-13
 audio_file: "/uploads/01%20Isaiah%2055_1-13%20(Part%20I)%201.mp3"
 brochure_file: "/uploads/11122017_MCCProgram_proof2.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: true
+is_featured: false
 ---
 
