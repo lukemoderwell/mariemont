@@ -6,6 +6,8 @@ week: 32
 sermon_date: 2017-11-26 11:00:00 -05:00
 speaker: Denis Beausejour
 bible_text: Isaiah 40-55
+audio_file: "/uploads/2-01%20Recap%20of%20Isaiah%2040-55%201.mp3"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
+is_featured: true
 ---
 
