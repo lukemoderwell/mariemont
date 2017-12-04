@@ -9,6 +9,6 @@ bible_text: Isaiah 40-55
 audio_file: "/uploads/2-01%20Recap%20of%20Isaiah%2040-55%201.mp3"
 brochure_file: "/uploads/11262017_MCCProgram_proof3.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: true
+is_featured: false
 ---
 
