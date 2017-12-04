@@ -8,5 +8,6 @@ speaker: Denis Beausejour
 bible_text: Matthew 24-25
 brochure_file: "/uploads/12032017_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/ptw_webbanner.jpg"
+is_featured: true
 ---
 
