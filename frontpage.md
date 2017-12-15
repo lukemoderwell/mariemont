@@ -9,4 +9,4 @@ latest_file: "/uploads/12102017_MCCProgram_proof1.pdf"
 layout: default
 ---
 
-We’re a growing community of families in East Cincinnati committed to following Jesus. Join us for Christmas Eve Sunday services in the Chapel at 11 a.m., 4:30 and 6:30 p.m.
+We’re a growing community of families in East Cincinnati committed to following Jesus. **Join us for Christmas Eve Sunday services in the Chapel at 11 a.m., 4:30 and 6:00 p.m.**
