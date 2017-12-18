@@ -9,6 +9,6 @@ bible_text: Matthew 24-25
 audio_file: "/uploads/2-01%20Week%202_%20Be%20Ready%201.mp3"
 brochure_file: "/uploads/12102017_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/ptw_webbanner.jpg"
-is_featured: true
+is_featured: false
 ---
 
