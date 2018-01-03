@@ -9,6 +9,6 @@ bible_text: Matthew 24 and 25
 audio_file: "/uploads/2-01%20Week%203_%20Serve%20and%20Love%20Well%201.mp3"
 brochure_file: "/uploads/12172017_MCCProgram_proof2.pdf"
 thumbnail_image: "/uploads/ptw_webbanner.jpg"
-is_featured: true
+is_featured: false
 ---
 
