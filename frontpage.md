@@ -9,4 +9,4 @@ latest_file: "/uploads/12172017_MCCProgram_proof2.pdf"
 layout: default
 ---
 
-We’re a growing community of families in East Cincinnati committed to following Jesus. **Join us for Sunday services in the Parish Center at 9:00 and 11:00 a.m.
+We’re a growing community of families in East Cincinnati committed to following Jesus. Join us for Sunday services in the Parish Center at 9:00 and 11:00 a.m.
