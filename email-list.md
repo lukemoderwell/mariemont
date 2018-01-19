@@ -2,7 +2,7 @@
 title: Mailing List
 date: 2017-05-28 17:04:00 -04:00
 permalink: "/email-list/"
-position: 16
+position: 17
 hasHero: false
 layout: page-no-hero
 ---
