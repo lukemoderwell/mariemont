@@ -25,7 +25,7 @@ If you would like a personal tour, please contact Renee Brownfield at (513) 504-
 
 2018/19 Preschool Information
 
-2018/19 Preschool Registration Form
+[2018/19 Preschool Registration Form](/uploads/2018-19%20preschool%20registration%20form.docx)
 
 [2017/18 Preschool Calendar](/uploads/2017-18-preschool-calendar.zip)
 
