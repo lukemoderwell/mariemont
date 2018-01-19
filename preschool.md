@@ -5,9 +5,9 @@ permalink: "/preschool/"
 position: 14
 hero_image: "/uploads/preschool.jpg"
 hasHero: true
-hasForm: false
 heading: MCC Preschool
 lead_in: Give your child a headstart by focusing on faith & fellowship.
+hasForm: false
 layout: page
 ---
 
@@ -23,7 +23,7 @@ If you would like a personal tour, please contact Renee Brownfield at (513) 504-
 
 ### Important Documents
 
-<a href="/uploads/mcc-preschool-docs.zip" class="btn btn--primary">Download All Documents</a>
+<a href="/uploads/2018-mcc-preschool.zip" class="btn btn--primary">Download All Documents</a>
 
 [2017/18 Preschool Calendar](/uploads/2017-18-preschool-calendar.zip)
 
