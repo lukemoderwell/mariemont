@@ -23,8 +23,12 @@ If you would like a personal tour, please contact Renee Brownfield at (513) 504-
 
 ### Important Documents
 
-<a href="/uploads/2018-mcc-preschool.zip" class="btn btn--primary">Download All Documents</a>
+2018/19 Preschool Information
+
+2018/19 Preschool Registration Form
 
 [2017/18 Preschool Calendar](/uploads/2017-18-preschool-calendar.zip)
 
 [2017/18 Parent Handbook](/uploads/17-18-ps-parent-handbook.rtf)
+
+<a href="/uploads/2018-mcc-preschool.zip" class="btn btn--primary">Download All Documents</a>
