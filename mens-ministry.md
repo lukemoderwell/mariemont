@@ -2,7 +2,7 @@
 title: Men's Ministry
 date: 2016-11-13 15:40:00 -05:00
 permalink: "/mens-ministry/"
-position: 9
+position: 8
 bg_color: "#000000"
 hasHero: false
 hasDownload: false

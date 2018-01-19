@@ -2,7 +2,7 @@
 title: 2018 Spring Women's Retreat
 date: 2018-01-18 10:19:00 -05:00
 permalink: "/2018-spring-womens-retreat/"
-position: 0
+position: 10
 layout: page-no-hero
 ---
 

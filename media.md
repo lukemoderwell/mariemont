@@ -1,7 +1,7 @@
 ---
 title: Media
 permalink: "/media/"
-position: 4
+position: 3
 layout: sermonlist
 ---
 

@@ -2,7 +2,7 @@
 title: Prayer
 date: 2017-03-19 19:54:00 -04:00
 permalink: "/prayer/"
-position: 8
+position: 7
 hero_image: "/uploads/MCC%20Prayer%20Meeting%20Photo-0867f4.JPG"
 hasHero: true
 heading: Prayer

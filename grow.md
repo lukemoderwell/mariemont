@@ -1,7 +1,7 @@
 ---
 title: Grow
 permalink: "/grow/"
-position: 3
+position: 2
 hero_image: "/uploads/prayer.jpg"
 hasHero: true
 heading: Grow With Us

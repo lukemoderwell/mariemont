@@ -2,7 +2,7 @@
 title: Small Groups
 date: 2017-03-19 19:55:00 -04:00
 permalink: "/small-groups/"
-position: 6
+position: 5
 hero_image: "/uploads/joy.jpg"
 hasHero: true
 heading: Get Connected

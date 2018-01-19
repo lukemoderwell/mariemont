@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-position: 2
+position: 1
 hero_image: "/uploads/about.jpg"
 hasHero: true
 heading: Who We Are
