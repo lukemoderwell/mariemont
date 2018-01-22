@@ -2,6 +2,7 @@
 title: Isaiah 58:1-59:13
 date: 2018-01-22 14:30:00 -05:00
 series: Isaiah
+week: 34
 sermon_date: 2018-01-21 11:00:00 -05:00
 speaker: Zeke Swift
 bible_text: Isaiah 58:1-59:13
