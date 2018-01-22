@@ -7,6 +7,6 @@ sermon_date: 2017-12-31 11:00:00 -05:00
 speaker: Denis Beausejour
 bible_text: Malachi 4
 thumbnail_image: "/uploads/ptw_webbanner.jpg"
-is_featured: true
+is_featured: false
 ---
 
