@@ -1,0 +1,14 @@
+---
+title: Isaiah 59:14-60:22
+date: 2018-01-30 19:04:00 -05:00
+series: Isaiah
+week: 35
+sermon_date: 2018-01-28 09:00:00 -05:00
+speaker: Denis Beausejour
+bible_text: Isaiah 59:14-60:22
+audio_file: "/uploads/01%20Isaiah%2059_14-60_22%201.mp3"
+brochure_file: "/uploads/01282018_MCCProgram_proof1.pdf"
+thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
+is_featured: true
+---
+
