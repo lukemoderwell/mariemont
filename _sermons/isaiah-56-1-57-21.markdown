@@ -6,6 +6,7 @@ week: 33
 sermon_date: 2018-01-07 09:00:00 -05:00
 speaker: Paul Rasmussen
 bible_text: Isaiah 56:1-57:21
+audio_file: "/uploads/01%20Isaiah%2056_1-57_21%201.mp3"
 brochure_file: "/uploads/01072018_MCCProgram_proof2.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
 ---
