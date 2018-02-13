@@ -1,0 +1,12 @@
+---
+title: Isaiah 62:6-63:14
+date: 2018-02-13 14:31:00 -05:00
+series: Isaiah
+sermon_date: 2018-02-11 11:00:00 -05:00
+speaker: Denis Beausejour
+bible_text: Isaiah 62:6-63:14
+brochure_file: "/uploads/02112018_MCCProgram_proof1.pdf"
+thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
+is_featured: true
+---
+
