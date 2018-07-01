@@ -6,7 +6,6 @@ layout: default
 	<div class="container sermon_hero_text">
 		<h2 class="sermon_series">{{ page.series }} <span>Week {{ page.week }}</span></h2>
 		<h1 class="sermon_heading">{{ page.title }}</h1>
-		{% soundcloud tracks 416822403 %}
 		{% if page.brochure_file.size > 0 %}
 			<a class="btn btn--primary" href="{{ page.brochure_file }}">Download Brochure</a>
 		{% endif %}
@@ -23,6 +22,5 @@ layout: default
 	{{ content }}
 </div>
 {% endif %}
-
 
 
