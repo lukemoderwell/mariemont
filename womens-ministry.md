@@ -17,20 +17,23 @@ The vision of the Mariemont Church Women’s Ministry is to encourage women of a
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
 ### Joy In The Morning
+
 For over 20 years, this study has been held on Tuesday mornings from 9:15-11:15am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available. This has been a great outreach in the community.
 
 Meet with other women Tuesday mornings from 9:15 – 11:30am for fellowship, fun and study.  Loving childcare is available. Specific study materials are TBD. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com.
 
-**Beth Guckenberger**, author and co-founder of Back to Back Ministries was our guest speaker at the Women's Fall Kick-off on Monday, September 18.
+### Summer Joy Study: 
 
-<audio src="/uploads/YOUR_FILENAME_HERE.mp3">
-  Your browser does not support the <code>audio</code> element.
-</audio>
+None Like Him, by Jen Wilkin.
+We'll be spending our time diving into the ten ways God is different from us (and why that's a good thing). 
+
+Dates: 6/5-8/21, no meeting 7/3
+
+Childcare will start at 9:15 and go to 11:15. Sign up is required. Contact Samantha Treas samantha.treas@gmail.com.
 
 ### Evening Joy
 
-Evening Joy meets on the 1st and 3rd Monday evenings each month, at 7:00 P.M. in the Baker Room of the Parish Center. We will begin our fall study on Monday, October 2nd.
-Contact Teresa Earhart at 513-543-5362 or
+Evening Joy meets on the 1st and 3rd Monday evenings during the school year, at 7:00 P.M. in the Baker Room of the Parish Center. Bible studies may be application-oriented, topical, or DVD/online studies. Come meet with other women for fellowship, discussion, and to grow deeper in your faith. Contact Teresa Earhart at 513-543-5362 or
 ttearhart@gmail.com.
 
 ### J.O.Y. Luncheon
@@ -38,6 +41,8 @@ ttearhart@gmail.com.
 The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center on the second Wednesday of each month. Women 50 and older are welcome! We meet from 11:00 – 1:00 for Bible study followed by lunch. If you are not on the reservation list and would like to attend, please email Terri Cofskey at terri@mariemontchurch.org.  We always welcome those who haven’t made reservations, too!
 
 ### Women’s Retreat
+
+Save the Date: February 1-2, 2019
 
 Mariemont Church Women’s Retreat is usually offered in the spring. The purpose of this event is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women. More information to come.
 
@@ -47,10 +52,18 @@ Everyone is encouraged to utilize their spiritual gifts and serve God in many ca
 
 ### The Family Shop
 
-For over 25 years, Women’s Ministries has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations. Volunteers use this clothing ministry as a means of reaching people by providing needed clothing and as opportunities arise, sharing the Gospel message. The proceeds of the sales are used to support Women’s Ministries, outreach to under-served women in the local community (ie. Prison Ministries – Ohio Reformatory for Women’s Tapestry and Kairos programs) and also for projects within the church. We will always accept donations of toiletries shampoo, lotions, toothpaste, soap – no pump applicators) for the women in the Tapestry and Kairos programs. Bring items to to the office!
+For over 25 years, Women’s Ministries has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations. Volunteers use this clothing ministry as a means of reaching people by providing needed clothing and as opportunities arise, sharing the Gospel message. The proceeds of the sales are used to support Women’s Ministries, outreach to under-served women in the local community (ie. Prison Ministries – Ohio Reformatory for Women’s Tapestry and Kairos programs) and also for projects within the church. 
 
 The Family Shop, located at the rear of the Parish Center, is open the second and fourth Saturdays of each month from 9 a.m. until noon.
 
 ### Take Them A Meal (Food Chain)
 
 Take Them A Meal is an outreach food ministry to MCC church members who are in need of meals on a temporary basis due to surgery, illness, newborns, etc. Those in need contact Brittany Harrison brittany.harrison19@gmail.com or Terry Robinson dbrtpr@gmail.com. Scheduling will be set up on the Internet through Takethemameal.com, and volunteers are advised of the specific needs and sign up accordingly. Three meals per week for two weeks are provided, but additional meals can be requested.
+
+### Tapestry of Love (Prison Ministry)
+
+Tapestry of Love is a ministry that reaches out to the women in Ohio prisons, especially those in the Tapestry program (www.compdrug.com/tc/tapestry) at the Ohio Reformatory for Women (ORW). Our mission is to encourage the women and show them the unconditional love of Jesus. Volunteers participate as spiritual role models who don't judge, but who encourage and love the women in prison no matter what they have done in their past. A prison visit may include making crafts, playing games, mentoring, praying with those asking for prayer, and providing basic needs through distributing toiletries or prepared food.
+
+We always accept donations of toiletries for women in the Tapestry program. Toiletries include: shampoo, conditioner, deodorant, body wash, bar soap, body lotion/cream, toothpaste, and toothbrushes. African-American shampoos and conditioners are also needed. No alcohol, no pump dispensers, no glass or aerosols. Bring items to the church office!
+
+If you are interested in attending a prison visit or would like more information about this ministry, contact Teresa Earhart at ttearhart@gmail.com.
