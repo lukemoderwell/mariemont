@@ -50,6 +50,7 @@ baseurl:
 url: http://mariemontchurch.org
 markdown: kramdown
 highlighter: rouge
+plugins_dir: plugins
 plugins:
 - jekyll-seo-tag
 port: 7000
