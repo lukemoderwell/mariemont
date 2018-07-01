@@ -4,6 +4,7 @@ date: 2016-11-13 15:40:00 -05:00
 permalink: "/mens-ministry/"
 position: 8
 bg_color: "#000000"
+hero_image: "/uploads/menUnitedworn.gif"
 hasHero: false
 hasDownload: false
 heading: Men's Ministry
@@ -24,7 +25,8 @@ Here are some of the things we do:
 * Men's Retreat
 
 * Saturday Breakfast "Men United"
-
+The next Men's Breakfast is July 21, 2018 from 8:30am - 12pm at Mariemont Church, 3908 Plainville Road, Mariemont, OH 45227
+Childcare will be provided.
 * Small Groups: Wednesday Nights (bi-weekly)
 
 * Workdays at the church
