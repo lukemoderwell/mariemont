@@ -8,6 +8,7 @@ speaker: Denis Beausejour
 bible_text: Isaiah 62:6-63:14
 brochure_file: "/uploads/02112018_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/Isaiah-Web-Banner.jpg"
-is_featured: true
+is_featured: false
+soundcloud_id: 416822403
 ---
 
