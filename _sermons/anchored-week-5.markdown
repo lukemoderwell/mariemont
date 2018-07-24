@@ -9,6 +9,6 @@ bible_text: 1 Thessalonians 4:12-5:11
 audio_file: https://s3.us-east-2.amazonaws.com/mccsermonaudio/Anchored_+Week+5.lite.mp3
 brochure_file: "/uploads/07152018_MCCProgram_proof3.pdf"
 thumbnail_image: "/uploads/anchoredabstractwebsite.png"
-is_featured: true
+is_featured: false
 ---
 
