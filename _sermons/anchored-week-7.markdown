@@ -8,6 +8,6 @@ speaker: Denis Beausejour
 bible_text: 2 Thessalonians 1:1-12
 audio_file: https://s3.us-east-2.amazonaws.com/mccsermonaudio/Anchored_+Week+7.lite.mp3
 thumbnail_image: "/uploads/anchoredlighthouse.jpg"
-is_featured: true
+is_featured: false
 ---
 
