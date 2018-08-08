@@ -7,6 +7,7 @@ sermon_date: 2018-08-05 11:00:00 -04:00
 speaker: Denis Beausejour
 bible_text: 2 Thessalonians 2:1-12
 audio_file: Anchored_ Week 8.lite.mp3
+brochure_file: "/uploads/08052018_MCCProgram_proof2.pdf"
 thumbnail_image: "/uploads/anchoredlighthouse.jpg"
 is_featured: true
 ---
