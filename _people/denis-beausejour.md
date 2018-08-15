@@ -1,7 +1,9 @@
 ---
+title: Denis Beausejour
+position: 0
 name: Denis Beausejour
-position: Lead Pastor
 is_elder: true
 image: 
-bio:
+bio: 
 ---
+
