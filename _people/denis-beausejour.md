@@ -3,6 +3,7 @@ title: Denis Beausejour
 position: 0
 name: Denis Beausejour
 is_elder: true
-image: 
+image: http://www.onecity.org/wp-content/uploads/2017/01/beasursejour-350x350.jpg
 ---
 
+This is where you would put Denis's bio.
