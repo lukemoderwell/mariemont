@@ -1,7 +1,9 @@
 ---
-name: Denis Beausejour
+title: Denis Beausejour
 position: Lead Pastor
+name: Denis Beausejour
 is_elder: true
-image: https://scontent.fluk1-1.fna.fbcdn.net/v/t1.0-1/p320x320/26166560_10214005631307557_4907305530564731381_n.jpg?_nc_cat=0&oh=0636a7bd22ce56639fd3f696b719c666&oe=5BFE69C1
-bio: This is a sample bio for Denis B.
+image: http://www.onecity.org/wp-content/uploads/2017/01/beasursejour-350x350.jpg
 ---
+
+This is where you would put Denis's bio.
