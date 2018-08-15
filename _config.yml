@@ -46,13 +46,6 @@ defaults:
       cta: 
     heading: ''
     lead_in: ''
-- scope:
-  path: ''
-  type: people
-values:
-  postion:
-  image:
-  bio:
 email: mark@mariemontchurch.org
 description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.
