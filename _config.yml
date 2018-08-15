@@ -8,6 +8,9 @@ collections:
   sermons:
     title: Sermons
     output: true
+  people:
+    title: People
+    output: false
   uploads:
     title: Uploads
     output: true
