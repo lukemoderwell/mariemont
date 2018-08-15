@@ -1,15 +1,7 @@
-.card_list {
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-ms-flex-flow: wrap row;
-	flex-flow: wrap row;
-}
-
 .card {
 	min-height: 400px;
 	max-width: 24rem;
-	margin: 20px 0;    
+	margin: 20px auto;    
 
 	.card_main {
 		height: 420px;

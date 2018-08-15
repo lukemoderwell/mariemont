@@ -1,166 +1,142 @@
 .home_hero {
-    position: relative;
-    
-    // display: -webkit-box;
-    // display: -moz-box;
-    // display: -ms-flexbox;
-    // display: -webkit-flex;
-    // display: flex;
-
-    // -webkit-box-pack: center;
-    // -ms-flex-pack: center;
-    // -webkit-justify-content: center;
-    // justify-content: center;
-
-    // -webkit-box-align: center;
-    // -ms-flex-align: center;
-    // -webkit-align-items: center;
-    // align-items: center;
-
-    // -webkit-box-orient: vertical;
-    // -webkit-box-direction: normal;
-    // -webkit-flex-direction: column;
-    // -ms-flex-direction: column;
-    // flex-direction: column;
+  position: relative; // display: -webkit-box;
+  // display: -moz-box;
+  // display: -ms-flexbox;
+  // display: -webkit-flex;
+  // display: flex;
+  // -webkit-box-pack: center;
+  // -ms-flex-pack: center;
+  // -webkit-justify-content: center;
+  // justify-content: center;
+  // -webkit-box-align: center;
+  // -ms-flex-align: center;
+  // -webkit-align-items: center;
+  // align-items: center;
+  // -webkit-box-orient: vertical;
+  // -webkit-box-direction: normal;
+  // -webkit-flex-direction: column;
+  // -ms-flex-direction: column;
+  // flex-direction: column;
 }
 
 .home_hero_img {
-    width: 100%;
-    height: calc(100vh - #{$topbar});
-    background-size: cover;
-    display: block;
-    z-index: -1;
-
-    @media (min-width: $med) {
-        max-height: 900px;
-    }
+  width: 100%;
+  height: calc(100vh - #{$topbar});
+  background-size: cover;
+  display: block;
+  z-index: -1;
+  @media (min-width: $med) {
+    max-height: 900px;
+  }
 }
 
 .home_intro {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    top: 0;
-    right: 0;
-    width: 100%;
-    height: 360px;
-    margin: auto;
-    padding: 0 $unit-2;
-    z-index: 1;
-
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 360px;
+  margin: auto;
+  padding: 0 $unit-2;
+  z-index: 1;
+  @media (min-width: $med) {
+    width: 80%;
+    max-width: 840px;
+  }
+  h1 {
+    font-family: $sans;
+    font-size: $unit-4;
+    font-weight: 600;
+    line-height: 1.2;
+    color: $color--white;
+    text-align: center;
     @media (min-width: $med) {
-        width: 80%;
-        max-width: 840px;
+      font-size: $unit-7;
     }
-
-    h1 {
-        font-family: $sans;
-        font-size: $unit-4;
-        font-weight: 600;
-        line-height: 1.2;
-        color: $color--white;
-        text-align: center;
-
-        @media (min-width: $med) {
-            font-size: $unit-7;
-        }
+  }
+  p {
+    color: $color--white;
+    font-size: $unit-2;
+    text-align: center;
+    margin: 20px auto $gutter auto;
+    @media (min-width: $med) {
+      /*margin-left: 20vw;*/
+      max-width: 640px;
+      font-size: 20px;
     }
-    p {
-        color: $color--white;
-        font-size: $unit-2;
-        text-align: center;
-        margin: 20px auto $gutter auto;
-        @media (min-width: $med) {
-            /*margin-left: 20vw;*/
-            max-width: 640px;
-            font-size: 20px;
-        }
-    }
+  }
 }
 
 .featSermon {
-    margin: $unit-5 auto;
-    width: 100%;
-    display: -webkit-box;
-    display: -ms-flexbox;
+  margin: $unit-5 auto;
+  width: 100%;
+  @media (min-width: $med) {
+    margin: $unit-10 auto;
+  }
+
+  .featSermon_content {
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
     align-items: center;
+    & > div {
+      flex: 1;
+    }
+  }
 
+  .featSermon_title {
+    padding-bottom: $unit;
+    font-family: $heading-font;
+    font-size: $fs-5;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: $color--black;
+  }
+  .featSermon_week {
+    font-family: $sans;
+    font-size: $fs-3;
+    font-weight: 600;
+    color: $color--black-70;
+    span {
+      font-weight: 400;
+    }
+  }
+  .featSermon_img {
+    padding-right: 0;
+    margin-bottom: $unit-3;
     @media (min-width: $med) {
-        margin: $unit-10 auto;
-        -webkit-box-orient: horizontal;
-        -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-        flex-direction: row;
+      margin-bottom: 0;
+      padding-right: $unit-3;
     }
-
-    .featSermon_title {
-        padding-bottom: $unit;
-        font-family: $heading-font;
-        font-size: $fs-5;
-        font-weight: 600;
-        text-transform: uppercase;
-        color: $color--black;
+  }
+  audio {
+    margin: 20px 0;
+    width: 100%;
+  }
+  a {
+    text-decoration: none;
+    color: $color--blue;
+  }
+  .featSermon_cta {
+    display: inline-block;
+    margin-top: 16px;
+    @media (min-width: $med) {
+      margin-top: 0;
     }
-
-    .featSermon_week {
-        font-family: $sans;
-        font-size: $fs-3;
-        font-weight: 600;
-        color: $color--black-70;
-
-        span {
-            font-weight: 400;
-        }
-    }
-
-    .featSermon_img {
-        padding-right: 0;
-        margin-bottom: $unit-3;
-
-        @media (min-width: $med) {
-            margin-bottom: 0;
-            padding-right: $unit-3;
-        }
-    }
-
-    audio {
-        margin: 20px 0;
-        width: 100%;
-    }
-
-    a {
-        text-decoration: none;
-        color: $color--blue;
-    }
-
-    .featSermon_cta {
-        display: inline-block;
-        margin-top: 16px;
-        @media (min-width: $med) {
-            margin-top: 0;
-        }
-    }
+  }
 }
 
 .home_buttonGroup {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-
-    .btn--primary {
-        margin-left: $unit-3;
-    }
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  .btn--primary {
+    margin-left: $unit-3;
+  }
 }

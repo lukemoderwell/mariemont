@@ -1,0 +1,18 @@
+---
+title: Explore | Mariemont Community Church
+layout: default
+---
+
+<div class="container">
+  <h3 class="page_heading page_heading--noBg">Elders</h3>
+  <div class="grid">
+    {% assign elders = site.people | where: "is_elder", true %}
+    {% for elder in elders %}
+      <div class="elder grid-item-1-6">
+        <img src="{{ elder.image }}"/>
+        <h4>{{ elder.name }}</h4>
+        <p>{{ elder.bio }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
