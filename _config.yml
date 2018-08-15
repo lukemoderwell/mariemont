@@ -2,9 +2,6 @@
 title: Mariemont Community Church
 timezone: America/New_York
 collections:
-  elders:
-    title: Elders
-    output: true
   posts:
     title: Posts
     output: true
