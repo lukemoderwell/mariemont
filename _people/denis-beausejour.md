@@ -4,6 +4,5 @@ position: 0
 name: Denis Beausejour
 is_elder: true
 image: 
-bio: 
 ---
 
