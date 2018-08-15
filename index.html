@@ -3,40 +3,43 @@ layout: default
 ---
 
 <div class="home">
-    <section class="home_hero">
-        {% for page in site.pages %} 
-        {% if page.title == 'Home' %}
-        <div class="home_intro">
-            <h1>{{ page.heading }}</h1>
-            <p>{{ page.content }}</p>
-            <div class="home_buttonGroup">
-                <a href="{{ page.latest_file }}" class="btn btn--secondary">Latest Update</a>
-                <a href="/about" class="btn btn--primary">Learn More</a>
-            </div>
-            <!-- <div style="text-align: center;">
+  <section class="home_hero">
+    {% for page in site.pages %} {% if page.title == 'Home' %}
+    <div class="home_intro">
+      <h1>{{ page.heading }}</h1>
+      <p>{{ page.content }}</p>
+      <div class="home_buttonGroup">
+        <a href="{{ page.latest_file }}" class="btn btn--secondary">Latest Update</a>
+        <a href="/about" class="btn btn--primary">Learn More</a>
+      </div>
+      <!-- <div style="text-align: center;">
                 {% include alert.html content="Sign Up For Family Camp" url="https://docs.google.com/forms/d/e/1FAIpQLSfYId3DNVYzEvI_E-tfcAxNlMSs0kSf0rJUN16vVg7rnhqcpQ/viewform" %}
             </div> -->
-        </div>
-        <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
-        {% endif %}
-        {% endfor %}
-    </section>
-    <div class="container">
-        <section class="featSermon">
-            {% for sermon in site.sermons %}{% if sermon.is_featured == true %}
-            <div class="featSermon_img">
-                <img src="{{ sermon.thumbnail_image }}" />
-            </div>
-            <div class="featSermon_content grid_cell grid_cell--half">
-                <a href="{{ sermon.url }}">
-                    <h4 class="featSermon_week">{{ sermon.series }} <span>Week {{ sermon.week }}</span></h4>
-                </a>
-                <h3 class="featSermon_title">{{ sermon.title }}</h3>
-                </a>
-                <div class="featSermon_desc">{{ sermon.content | truncate: 140, '...' }}</div>
-                <audio controls preload src="{{ sermon.audio_file }}"></audio>
-                <a href="{{ sermon.brochure_file }}" class="featSermon_cta">Download Brochure</a> | <a href="/media" class="featSermon_cta">See All Sermons</a>                {% endif %}{% endfor %}
-            </div>
-        </section>
     </div>
+    <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
+    {% endif %} {% endfor %}
+  </section>
+  <div class="container">
+    <section class="featSermon grid">
+      {% assign feat_sermon = site.sermons | sort: date | reverse | where: "is_featured", true | first %}
+        <div class="featSermon_img grid-item-1-2">
+          <img src="{{ feat_sermon.thumbnail_image }}" />
+        </div>
+        <div class="featSermon_content grid-item-1-2">
+          <div>
+            <a href="{{ feat_sermon.url }}">
+              <h4 class="featSermon_week">{{ feat_sermon.series }}
+                <span>Week {{ feat_sermon.week }}</span>
+              </h4>
+            </a>
+              <h3 class="featSermon_title">{{ feat_sermon.title }}</h3>
+            </a>
+            <div class="featSermon_desc">{{ feat_sermon.content | truncate: 140, '...' }}</div>
+            <audio controls preload src="{{ feat_sermon.audio_file }}"></audio>
+            <a href="{{ feat_sermon.brochure_file }}" class="featSermon_cta">Download Brochure</a> |
+            <a href="/media" class="featSermon_cta">See All Sermons</a>
+          </div>
+        </div>
+    </section>
+  </div>
 </div>
