@@ -9,5 +9,6 @@ bible_text: 2 Thessalonians 3:16-18
 audio_file: https://s3.us-east-2.amazonaws.com/mccsermonaudio/Anchored_+Week+9.lite.mp3
 brochure_file: "/uploads/08122018_MCCProgram_proof2.pdf"
 thumbnail_image: "/uploads/anchoredlighthouse.jpg"
+is_featured: true
 ---
 
