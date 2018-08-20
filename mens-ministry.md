@@ -23,10 +23,10 @@ For us, that looks like all men realizing their sonship to the Father, married m
 Here are some of the things we do:
 
 * Men's Retreat
+The next retreat is Friday and Saturday, October 5th-6th. Contact Rob Seetin rjseetin@gmail.com for more information.
 
 * Saturday Breakfast "Men United"
-The next Men's Breakfast is July 21, 2018 from 8:30am - 12pm at Mariemont Church, 3908 Plainville Road, Mariemont, OH 45227
-Childcare will be provided.
+
 * Small Groups: Wednesday Nights (bi-weekly)
 
 * Workdays at the church
