@@ -1,13 +1,14 @@
 ---
-title: 2018 Spring Women's Retreat
+title: 2019 Spring Women's Retreat
 date: 2018-01-18 10:19:00 -05:00
 permalink: "/2018-spring-womens-retreat/"
+published: false
 position: 10
 layout: page-no-hero
 ---
 
-## 2018 Spring Women's Retreat
-### Cultivating A Spiritual Garden
+## 2019 Spring Women's Retreat
+### Title????
 
 <br/>
 <a href="/womens-retreat-signup" class="btn btn--small btn--primary">Sign Up Now</a>
