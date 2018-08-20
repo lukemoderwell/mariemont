@@ -19,7 +19,7 @@ Jesus said, “Let the little children come to me, and do not hinder them, for t
 
 **Check-In Process**
 
-Check in at the Welcome Desk on the Lower Level, fill out an registration form, receive security name badges, and walk with your child to their classroom. A friendly supervisor is on hand to help you find your way.
+Check in at the Welcome Desk on the Lower Level, fill out a registration form, receive security name badges, and walk with your child to their classroom. A friendly supervisor is on hand to help you find your way.
 
 **First Service**
 
