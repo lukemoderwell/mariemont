@@ -22,7 +22,7 @@ For us, that looks like all men realizing their sonship to the Father, married m
 
 Here are some of the things we do:
 
-* Men's Retreat
+* ###Men's Retreat
 
 The next retreat is Friday and Saturday, October 5th-6th. Contact Rob Seetin rjseetin@gmail.com for more information.
 
