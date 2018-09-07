@@ -1,5 +1,5 @@
 ---
-title: Sermon on the Hill:Week 3
+title: 'Sermon on the Hill: Week 3'
 date: 2018-09-07 12:20:00 -04:00
 series: Sermon on the Hill
 week: 3
