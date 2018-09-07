@@ -9,6 +9,6 @@ bible_text: Matthew 4:12-25
 audio_file: https://s3.us-east-2.amazonaws.com/mccsermonaudio/Sermon+on+the+Hill_+Week+1.lite.mp3
 brochure_file: "/uploads/08262018_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/soth-typeface.gif"
-is_featured: true
+is_featured: false
 ---
 
