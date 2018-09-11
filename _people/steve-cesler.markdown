@@ -1,8 +1,9 @@
 ---
 title: Steve Cesler
 date: 2018-08-21 10:26:00 -04:00
-name: Steve Cesler
+name: Steve & Judi Cesler
 is_elder: true
+image: "/uploads/IMG_5362.jpg"
 ---
 
 Steve Cesler grew up in a Christian home and accepted Christ as young boy.  Steve rededicated his life to Jesus when he was 24.
