@@ -1,7 +1,7 @@
 ---
 title: Denis Beausejour
 position: Lead Pastor
-name: Denis & Marianne Beausejour
+name: Denis Beausejour
 is_elder: true
 image: "/uploads/IMG_4755.jpg"
 ---
