@@ -9,6 +9,6 @@ bible_text: 'Matthew 5: 1-6'
 audio_file: https://s3.us-east-2.amazonaws.com/mccsermonaudio/Sermon+on+the+Hill_+Week+2.lite.mp3
 brochure_file: "/uploads/09022018_MCCProgram_proof2.pdf"
 thumbnail_image: "/uploads/soth-typeface.gif"
-is_featured: true
+is_featured: false
 ---
 
