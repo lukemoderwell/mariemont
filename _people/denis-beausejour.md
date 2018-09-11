@@ -3,7 +3,7 @@ title: Denis Beausejour
 position: Lead Pastor
 name: Denis Beausejour
 is_elder: true
-image: http://www.onecity.org/wp-content/uploads/2017/01/beasursejour-350x350.jpg
+image: "/uploads/IMG_4755.jpg"
 ---
 
 Denis Beausejour has been lead elder of Mariemont Church for 14 years. Denis and Marianne have been married 37 years and have four grown children and 6 grandchildren. Denis is a native of Canada and came to Cincinnati as his final stop in a 22 year international career with Procter & Gamble, which included assignments in Canada, Australia, Japan and China.
