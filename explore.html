@@ -5,13 +5,16 @@ layout: default
 
 <div class="container">
   <h3 class="page_heading page_heading--noBg">Elders</h3>
-  <div class="grid">
+  <div class="elders">
     {% assign elders = site.people | where: "is_elder", true %}
     {% for elder in elders %}
-      <div class="elder grid-item-1-6">
-        <img src="{{ elder.image }}"/>
-        <h4>{{ elder.name }}</h4>
-        <p>{{ elder.content }}</p>
+      <div class="media">
+        <img class="media-img" src="{{ elder.image }}"/>
+        <div class="media-content">
+          <h4 class="media-title">{{ elder.name }}</h4>
+          <h5 class="media-subtitle">{{ elder.position }}</h5>
+          <p>{{ elder.content | markdownify }}</p>
+        </div>
       </div>
     {% endfor %}
   </div>
