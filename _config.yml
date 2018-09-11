@@ -54,6 +54,7 @@ defaults:
     is_elder: false
     image: ''
     position: ''
+    spouse_name: ''
 email: mark@mariemontchurch.org
 description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.
