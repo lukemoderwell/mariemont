@@ -31,7 +31,6 @@ defaults:
     video_url: ''
     brochure_file: ''
     thumbnail_image: ''
-    is_featured: false
 - scope:
     path: ''
     type: pages
