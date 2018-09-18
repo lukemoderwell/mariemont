@@ -1,6 +1,6 @@
 ---
 title: 'Kingdom Ops: Week 11'
-date: 2018-09-18 12:33:00 -04:00
+date: 2018-05-27 11:00:00 -04:00
 series: Kingdom Ops
 week: 11
 sermon_date: 2018-05-27 11:00:00 -04:00
