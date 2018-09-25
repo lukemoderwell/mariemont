@@ -6,8 +6,6 @@ layout: default
 
 <div class="home">
   <section class="home_hero">
-    {% for page in site.pages %}
-    {% if page.title == 'Home' %}
     <div class="home_intro">
       <h1>{{ page.heading }}</h1>
       <p>{{ page.content }}</p>
@@ -20,8 +18,6 @@ layout: default
             </div> -->
     </div>
     <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
-    {% endif %}
-    {% endfor %}
   </section>
   <div class="container">
     <section class="featSermon">
