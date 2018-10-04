@@ -4,6 +4,8 @@ layout: default
 ---
 
 <div class="container">
+  <h1 class="page_heading page_heading--noBg">Welcome to Mariemont Community Church.</h1>
+  <iframe width="100%" data-aspect-ratio="1.777777778" src="https://www.youtube.com/embed/60kOaLMUFQQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <h3 class="page_heading page_heading--noBg">Elders</h3>
   <div class="elders">
     {% assign elders = site.people | where: "is_elder", true %}
@@ -19,3 +21,12 @@ layout: default
     {% endfor %}
   </div>
 </div>
+
+<script>
+  const el = document.querySelector('[data-aspect-ratio');
+  const aspectWidth = el.offsetWidth;
+  const aspectHeight = (aspectWidth / el.dataset.aspectRatio);
+  el.height = aspectHeight;
+  console.log(el.dataset.aspectRatio);
+  console.log(aspectWidth);
+</script>
