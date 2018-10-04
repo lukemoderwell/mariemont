@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% assign current_sermon = site.sermons | sort: sermon_date | reverse | first %}
+
+<div class="home">
+  <section class="home_hero">
+    <div class="home_intro">
+      <h1>{{ page.heading }}</h1>
+      <p>{{ page.content }}</p>
+      <div class="home_buttonGroup">
+        <a href="{{ current_sermon.brochure_file }}" class="btn btn--secondary">Latest Update</a>
+        <a href="/about" class="btn btn--primary">Learn More</a>
+      </div>
+      <!-- <div style="text-align: center;>
+                {% include alert.html content="Sign Up For Family Camp" url="https://docs.google.com/forms/d/e/1FAIpQLSfYId3DNVYzEvI_E-tfcAxNlMSs0kSf0rJUN16vVg7rnhqcpQ/viewform" %}
+            </div> -->
+    </div>
+    <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
+  </section>
+  <div class="container">
+    <section class="featSermon">
+      <div class="featSermon_img">
+        <img src="{{ current_sermon.thumbnail_image }}" />
+      </div>
+      <div class="featSermon_content grid_cell grid_cell--half">
+        <a href="{{ current_sermon.url }}">
+          <h4 class="featSermon_week">{{ current_sermon.series }} <span>Week {{ current_sermon.week }}</span></h4>
+        </a>
+        <h3 class="featSermon_title">{{ current_sermon.title }}</h3>
+        </a>
+        <div class="featSermon_desc">{{ current_sermon.content | markdownify | truncate: 140, '...' }}</div>
+        <audio controls preload src="{{ current_sermon.audio_file }}"></audio>
+        <a href="{{ current_sermon.brochure_file }}" class="featSermon_cta">Download Program</a> | <a href="/media" class="featSermon_cta">See
+          All Sermons</a>
+      </div>
+    </section>
+  </div>
+</div>
