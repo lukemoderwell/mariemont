@@ -27,7 +27,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-audio, embed, img, video {
+audio, embed, img {
   max-width: 100%;
 }
 
@@ -102,3 +102,4 @@ strong {
 @import 'components/card';
 @import 'components/form';
 @import 'components/media';
+@import 'components/jumbotron';
