@@ -1,0 +1,57 @@
+.jumbotron {
+  position: relative;
+  overflow: hidden;
+
+  .jumbotron_video {
+    position: relative;
+  }
+
+  .jumbotron_teaser,
+  .jumbotron_teaser_overlay,
+  .jumbotron_content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+
+    @media (min-width: $large) {
+      // lock aspect ratio
+      height: 0%;
+      padding-bottom: 56.25%;
+    }
+  }
+
+  .jumbotron_teaser {
+    video {
+      display: none;
+      @media (min-width: $large) {
+        display: block;
+        max-width: 100%;
+      }
+    }
+  }
+
+  .jumbotron_teaser_overlay {
+    background: rgba(0,0,0,.25);
+    z-index: 1;
+  }
+
+  .jumbotron_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0;
+    color: #fefefe;
+    text-align: center;
+    z-index: 2;
+  }
+
+  .jumbotron_video {
+    visibility: hidden;
+    opacity: 0;
+    z-index: -1;
+  }
+}

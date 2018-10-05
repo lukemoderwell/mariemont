@@ -65,3 +65,12 @@ plugins:
 - jekyll-seo-tag
 port: 7000
 permalink: "/:categories/:title/"
+assets:
+  source_maps: false # false on JEKYLL_ENV=production
+  destination: "/assets"
+  compression: true
+  gzip: true
+  sources:
+  - assets/stylesheets
+  - assets/javascripts
+  
