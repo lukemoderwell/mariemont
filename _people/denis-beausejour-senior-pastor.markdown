@@ -1,5 +1,5 @@
 ---
-title: Denis Beausejour
+title: Denis Beausejour, Senior Pastor
 date: 2018-10-05 11:31:00 -04:00
 name: Denis Beausejour
 is_elder: false
