@@ -8,3 +8,5 @@ _site/
 feed.xml
 Gemfile
 CNAME
+.asset-cache
+.jekyll-cache

@@ -1,8 +1,15 @@
-@import 'utils/reset';
-@import 'utils/vars';
-@import 'utils/grid';
-@import 'utils/animations';
-@import 'utils/flexbox';
+@import 'components/header';
+@import 'components/table';
+@import 'components/button';
+@import 'components/menu';
+@import 'components/footer';
+@import 'components/home';
+@import 'components/pageSermon';
+@import 'components/page';
+@import 'components/card';
+@import 'components/form';
+@import 'components/media';
+@import 'components/jumbotron';
 
 html {
   box-sizing: border-box;
@@ -90,16 +97,3 @@ strong {
   letter-spacing: 1px; 
   border-radius: 1000px;
 }
-
-@import 'components/header';
-@import 'components/table';
-@import 'components/button';
-@import 'components/menu';
-@import 'components/footer';
-@import 'components/home';
-@import 'components/pageSermon';
-@import 'components/page';
-@import 'components/card';
-@import 'components/form';
-@import 'components/media';
-@import 'components/jumbotron';
