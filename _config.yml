@@ -66,5 +66,5 @@ plugins:
 port: 7000
 permalink: "/:categories/:title/"
 sass:
-  sass_dir: /assets/stylesheets
+  sass_dir: "/assets/stylesheets"
   style: compressed
