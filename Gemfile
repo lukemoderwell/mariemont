@@ -7,4 +7,3 @@ group :jekyll_plugins do
   gem "jekyll-assets", "~> 3.0.11"
   gem "jekyll-seo-tag"
 end
-
