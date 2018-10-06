@@ -1,4 +1,3 @@
-language: ruby
 deploy:
   provider: pages
   skip-cleanup: true
