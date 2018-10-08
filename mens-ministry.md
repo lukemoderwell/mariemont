@@ -26,7 +26,7 @@ Here are some of the things we do:
 
 The next retreat is Fall 2019. Contact Rob Seetin rjseetin@gmail.com for more information.
 
-* "Men United" Saturday Breakfasts
+* "Men United" Breakfasts with New Mission Missionary Baptist Church
 
 * Small Groups: Wednesday Nights (bi-weekly)
 
