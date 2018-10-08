@@ -18,23 +18,21 @@
 
     @media (min-width: $large) {
       // lock aspect ratio
-      height: 0%;
-      padding-bottom: 56.25%;
+      // height: 0%;
+      // padding-bottom: 56.25%;
     }
   }
 
-  .jumbotron_teaser {
-    video {
-      display: none;
-      @media (min-width: $large) {
-        display: block;
-        max-width: 100%;
-      }
+  .jumbotron_teaser_video {
+    // display: none;
+    @media (min-width: $large) {
+      display: block;
+      max-width: 100%;
     }
   }
 
   .jumbotron_teaser_overlay {
-    background: rgba(0,0,0,.25);
+    background: rgba(0,0,0,.35);
     z-index: 1;
   }
 
@@ -46,12 +44,13 @@
     padding: 0;
     color: #fefefe;
     text-align: center;
+    transition: all .25s ease;
     z-index: 2;
   }
 
   .jumbotron_video {
     visibility: hidden;
     opacity: 0;
-    z-index: -1;
+    z-index: -2;
   }
 }
