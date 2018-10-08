@@ -1,9 +1,9 @@
 ---
-title: Explore | Mariemont Community Church
+title: Explore
 permalink: "/explore/"
 position: 17
-layout: explore
-heading: This is where a title could go
+heading: Really Awesome Headline
 lead_in: Here is a small paragraph for additional information.
+layout: explore
 ---
 
