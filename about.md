@@ -17,17 +17,17 @@ We all get together on Sundays to worship God. We do this in many ways. We sing 
 
 ## The Real Meaning of Church
 
-Most people think the Church is the building. That's an accident of history and translation. When Jesus used the word he meant "people called out"—that is, people called out of normal life to follow Him in an extraordinary adventure.
+Most people think the Church is the building. That's an accident of history and translation. When Jesus used the word He meant "people called out"—that is, people called out of normal life to follow Him in an extraordinary adventure.
 
 ## Our Beliefs
 
-* **Jesus.** We believe that Jesus is the Son of God - that we can follow him and be like him.
+* **Jesus.** We believe that Jesus is the Son of God - that we can follow Him and be like Him.
 
-* **Holy Spirit.** We believe in the person of the Holy Spirit and that he plays an active role in our everyday life.
+* **Holy Spirit.** We believe in the person of the Holy Spirit and that He plays an active role in our everyday life.
 
 * **The Bible.** We believe the Bible is God’s authoritative letter to us, teaching us to live a life worth living now and forever.
 
-* **Surrender.** Jesus gave up his life for us, therefore we should give up our life for him.
+* **Surrender.** Jesus gave up His life for us, therefore we should give up our life for Him.
 
 * **Spiritual Growth.** Growing spiritually is a part of our church life. This means we take steps daily toward spiritual maturity.
 
