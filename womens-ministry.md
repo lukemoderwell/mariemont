@@ -20,11 +20,10 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available. This has been a great outreach in the community.
 
-Join us for a Women's Ministry Kick-off Event, Monday, Sept. 10th, 6:30-8:30pm at MCC Parish Center. Sheila Luther with Tapestry of Love Prison Ministry will be our guest speaker.
 
-The Joy in the Morning studies begin on Sept. 11th at 9:15 am. Specific study materials are TBD. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com.
+The Joy in the Morning studies are Tuesdays at 9:15 am. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com.
 
-Childcare will start at 9:15 and go to 11:15. Sign up is required. Contact Barb Leonard tfleo@cinci.rr.com.
+Childcare starts at 9:15 and goes until 11:15. Sign up is required. Contact Barb Leonard tfleo@cinci.rr.com.
 
 ### Evening Joy
 
