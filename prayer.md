@@ -17,7 +17,7 @@ Prayer undergirds our entire foundation at Mariemont Community Church.  We encou
 
 **Wednesday Night Prayer**
 
-Every Wednesday night anyone interested in praying together meets 7:00-8:00pm in the Hearth Room located on the left of the building adjacent to the offices.  We also have worship at 6:15 for those who are interested.  All are welcomed.  We generally start with a devotion, followed by prayer for Mariemont Community Church, the village of Mariemont, the city of Cincinnati, for the nation and her leaders, then on to our missionaries, Israel and any individual personal concerns.  If you are interested, we would love to have you join us.  No pressure to engage until you feel comfortable. Please direct any questions to Marianne Beausejour at mebeau@gmail.com.
+Every Wednesday night anyone interested in praying together meets 7:00-8:00pm in the Hearth Room located on the left of the building adjacent to the offices.  We also have worship at 6:15 for those who are interested.  All are welcomed.  We generally start with a devotion, followed by prayer for Mariemont Community Church, the village of Mariemont, the city of Cincinnati, for the nation and her leaders, then on to our missionaries, Israel and any individual personal concerns.  If you are interested, we would love to have you join us.  Pray as you feel comfortable. Please direct any questions to Marianne Beausejour at mebeau@gmail.com.
 
 **Prayer Chain**
 
