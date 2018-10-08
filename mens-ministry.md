@@ -24,7 +24,7 @@ Here are some of the things we do:
 
 * **Men's Retreat**: 
 
-The next retreat is Friday and Saturday, October 5th-6th. Contact Rob Seetin rjseetin@gmail.com for more information.
+The next retreat is Fall 2019. Contact Rob Seetin rjseetin@gmail.com for more information.
 
 * Saturday Breakfast "Men United"
 
