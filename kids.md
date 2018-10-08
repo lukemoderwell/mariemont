@@ -34,7 +34,7 @@ PreKindergarten–Kindergarten—Room 104
 Early Elementary (1st–3rd grades)—Room 102
 Upper Elementary (4th–6th grades)—Room 103
 
-**Pick Up**
+**Pick-Up**
 
 Be sure to keep your parent badge for pick up after the service. 
 
