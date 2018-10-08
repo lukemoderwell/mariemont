@@ -30,7 +30,7 @@ The next retreat is Fall 2019. Contact Rob Seetin rjseetin@gmail.com for more in
 
 * Small Groups: Wednesday Nights (bi-weekly)
 
-* Workdays at the church
+* Workdays at the church 
 
 * Help out at the Family Shop
 
