@@ -21,7 +21,7 @@ Our Senior High Ministry is called Club 168. The 168 comes from the idea that th
 **Coming to Our Meetings?**
 We meet on Wednesday nights in our student ministry's room called “The Rock” on the 2nd floor, from 7:00 – 8:30 p.m. A typical night consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
 
-We have students who go to Mariemont Schools, Turpin schools, MVCA and many home-schooled students from various co-ops. We also have some wonderful adult leaders who love Jesus, love students, and have a desire to see students walk more deeply and intentionally with Jesus.
+We have students from the tri-state area who attend public, private, and home-schools. We also have some wonderful adult leaders who love Jesus, love students, and have a desire to see students walk more deeply and intentionally with Jesus.
 
 **Who Can Come?**
 Any 9th – 12th grade student no matter where you go to school. You don’t have to go to MCC to come on Wednesday nights, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
