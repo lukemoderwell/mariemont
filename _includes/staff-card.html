@@ -1,0 +1,12 @@
+<div class="staff-card">
+  <div class="image">
+    <img src="{{ item.image }}">
+  </div>
+  <div class="content">
+    <h3 class="sans f3 bold">{{ item.name }}</h3>
+    <h4 class="serif f2 italic push-bottom-half">{{ item.position }}</h4>
+    <div class="description flush">
+      {{ item.content | markdownify }} 
+    </div>
+  </div>
+</div>
