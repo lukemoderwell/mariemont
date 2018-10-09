@@ -8,6 +8,6 @@ speaker: Denis Beausejour
 bible_text: Matthew 5:13-20
 audio_file: https://s3.us-east-2.amazonaws.com/mccsermonaudio/Sermon+on+the+Hill_+Week+4.lite.mp3
 brochure_file: "/uploads/09162018_MCCProgram_proof1.pdf"
-thumbnail_image: "/uploads/soth-typeface.gif"
+thumbnail_image: "/uploads/soth-typeface.jpg"
 ---
 
