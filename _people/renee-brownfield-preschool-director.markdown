@@ -1,9 +1,9 @@
 ---
 title: Renee Brownfield, Preschool Director
 date: 2018-10-05 16:47:00 -04:00
-position: 0
-image: "/uploads/Renee%20Color%202.jpg"
+position: Preschool Director
 name: Renee Brownfield
+image: "/uploads/Renee%20Color%202.jpg"
 ---
 
  Renee Brownfield has been on the church staff since 1994. She's a home town girl who grew up in the small village of Fairfax, attended Mariemont Junior and Senior high school, and then went to Eastern Kentucky University where she received a bachelor's degree in early child education.
