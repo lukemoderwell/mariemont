@@ -24,7 +24,9 @@
   }
 
   .jumbotron_teaser_video {
-    // display: none;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
     @media (min-width: $large) {
       display: block;
       max-width: 100%;

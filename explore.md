@@ -2,8 +2,8 @@
 title: Explore
 permalink: "/explore/"
 position: 17
-heading: Really Awesome Headline
-lead_in: Here is a small paragraph for additional information.
+heading: Explore our church culture
+lead_in: Learn the seven things that set MCC apart from other churchs.
 layout: explore
 ---
 
