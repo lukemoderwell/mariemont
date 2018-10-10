@@ -5,7 +5,30 @@ layout: default
 {% assign current_sermon = site.sermons | sort: sermon_date | reverse | first %}
 
 <div class="home">
-  <section class="home_hero">
+
+  <div class="jumbotron">
+    <div class="jumbotron_content" hidden="false">
+      <div class="home_intro" style="z-index: 1; padding: 16px;">
+        <h1>{{ page.heading }}</h1>
+        <p>{{ page.content }}</p>
+        <div class="home_buttonGroup">
+          <a href="/about" class="btn btn--secondary">Learn More</a>
+          <a id="watchButton" class="btn btn--primary">Watch The Video</a>
+        </div>
+      </div>
+      <div class="jumbotron_teaser">
+        <div class="jumbotron_teaser_overlay"></div>
+        <video class="jumbotron_teaser_video" preload="auto" poster="https://s3.us-east-2.amazonaws.com/lukemoderwell/mcc/explore.jpg"
+          autoplay="autoplay" loop="loop" muted="true" playsinline="true" src="https://s3.us-east-2.amazonaws.com/lukemoderwell/mcc/MCC_Explore_WebBanner_v01.mp4">
+        </video>
+      </div>
+    </div>
+    <div class="jumbotron_video">
+      <video id="mainVideo" width="100%" preload="metadata" data-aspect-ratio="1.777777778" controls src="https://s3.us-east-2.amazonaws.com/lukemoderwell/mcc/MCC+Draft+2.mp4"
+        allowfullscreen>
+    </div>
+  </div>
+  <!-- <section class="home_hero">
     <div class="home_intro">
       <h1>{{ page.heading }}</h1>
       <p>{{ page.content }}</p>
@@ -13,12 +36,12 @@ layout: default
         <a href="{{ current_sermon.brochure_file }}" class="btn btn--secondary">Latest Update</a>
         <a href="/about" class="btn btn--primary">Learn More</a>
       </div>
-      <!-- <div style="text-align: center;>
-                {% include alert.html content="Sign Up For Family Camp" url="https://docs.google.com/forms/d/e/1FAIpQLSfYId3DNVYzEvI_E-tfcAxNlMSs0kSf0rJUN16vVg7rnhqcpQ/viewform" %}
-            </div> -->
+      <div style="text-align: center;>
+        {% include alert.html content="Sign Up For Family Camp" url="https://docs.google.com/forms/d/e/1FAIpQLSfYId3DNVYzEvI_E-tfcAxNlMSs0kSf0rJUN16vVg7rnhqcpQ/viewform" %}
+      </div>
     </div>
     <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
-  </section>
+  </section> -->
   <div class="container">
     <section class="featSermon">
       <div class="featSermon_img">
@@ -32,9 +55,42 @@ layout: default
         </a>
         <div class="featSermon_desc">{{ current_sermon.content | markdownify | truncate: 140, '...' }}</div>
         <audio controls preload src="{{ current_sermon.audio_file }}"></audio>
-        <a href="{{ current_sermon.brochure_file }}" class="featSermon_cta">Download Program</a> | <a href="/media" class="featSermon_cta">See
+        <a href="{{ current_sermon.brochure_file }}" class="featSermon_cta">Download Program</a> | <a href="/media"
+          class="featSermon_cta">See
           All Sermons</a>
       </div>
     </section>
   </div>
 </div>
+
+<script>
+    const aspectRatioUnits = document.querySelectorAll('[data-aspect-ratio');
+    const btn = document.getElementById('watchButton');
+    const content = document.querySelector('.jumbotron_content');
+    const videoContainer = document.querySelector('.jumbotron_video');
+    const video = document.getElementById('mainVideo');
+  
+    function aspectRatioResizer(els) {
+      for (var i = 0; i < els.length; i += 1) {
+        const aspectWidth = els[i].offsetWidth;
+        const aspectHeight = (aspectWidth / els[i].dataset.aspectRatio);
+        els[i].height = aspectHeight;
+      }
+      console.log('x');
+    }
+  
+    function revealVideo() {
+      if (content.hidden = 'false') {
+        content.setAttribute('style', 'opacity: 0;visibility: hidden;z-index: -1;');
+        content.setAttribute('hidden', 'true');
+        videoContainer.setAttribute('style', 'opacity: 1; visibility: visible; z-index:0; pointer-events: auto;');
+        video.play();
+      }
+    }
+    
+    // mobile
+    window.innerWidth > 480 ? aspectRatioResizer(aspectRatioUnits) : '';
+    window.innerWidth < 480 ? video.setAttribute('height', '480')  : '';
+  
+    btn.addEventListener('click', revealVideo);
+  </script>
