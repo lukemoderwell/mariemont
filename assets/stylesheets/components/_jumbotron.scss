@@ -2,6 +2,10 @@
   position: relative;
   overflow: hidden;
 
+  @media (max-width: 500px) {
+    height: 480px;
+  }
+
   .jumbotron_video {
     position: relative;
   }
