@@ -1,6 +1,6 @@
 ---
 title: Denis Beausejour
-position: Lead Pastor
+position: Senior Pastor
 name: Denis Beausejour
 is_elder: true
 image: "/uploads/beausejour.jpg"
