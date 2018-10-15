@@ -1,7 +1,7 @@
 ---
 title: John Cofskey
 date: 2018-09-24 09:58:00 -04:00
-position: 0
+position: Elder Chair
 name: John Cofskey
 is_elder: true
 image: "/uploads/John-and-Terri.jpg"
