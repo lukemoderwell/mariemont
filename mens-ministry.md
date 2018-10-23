@@ -5,7 +5,7 @@ permalink: "/mens-ministry/"
 position: 8
 bg_color: "#000000"
 hero_image: "/uploads/menUnitedworn.gif"
-hasHero: false
+hasHero: true
 hasDownload: false
 heading: Men's Ministry
 lead_in: '"Forging a Christian Brotherhood to Conquer Life''s Battles Shoulder to
