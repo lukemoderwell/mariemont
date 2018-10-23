@@ -4,7 +4,7 @@ date: 2018-08-21 10:27:00 -04:00
 position: Missions Elder
 name: Zeke Swift
 is_elder: true
-image: "/uploads/Zeke-and-Beth.jpg"
+image: "/uploads/Zeke%20and%20Beth.crop.jpg"
 ---
 
 Zeke has been an elder of Mariemont Church since 1991. Zeke and Beth grew up in Pittsburgh, met at Penn State, and have been married for 44 years. They’ve lived in Augsburg, W. Germany, and Ft. Sill, OK, with the US Army and in Cincinnati and Japan with Procter & Gamble. They have 3 grown children and 6 grandchildren.
