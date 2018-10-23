@@ -3,7 +3,7 @@ title: Rob Seetin
 date: 2018-09-24 10:08:00 -04:00
 name: Rob Seetin
 is_elder: true
-image: "/uploads/Seetins.jpg"
+image: "/uploads/Seetins.crop.jpg"
 position: Vice-chair
 ---
 
