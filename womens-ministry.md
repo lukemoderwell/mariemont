@@ -38,7 +38,7 @@ Mariemont Church Women’s Retreat is usually offered in the spring. The purpose
 Save the Date: February 1-2, 2019
 Finding God's Treasures: Love, Joy and Peace
 Speaker: Danise DiStasi
-Registration is open. Please click on the following link to register:http://mariemontchurch.org/womens-retreat-signup/
+Registration is open. Please click on the following link to register: http://mariemontchurch.org/womens-retreat-signup/
 
 ### Serve
 
