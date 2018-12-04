@@ -8,7 +8,7 @@ layout: page-no-hero
 ---
 
 ## 2019 Spring Women's Retreat
-### Title????
+### Finding God's Treasures: Love, Joy, and Peace
 
 <br/>
 <a href="/womens-retreat-signup" class="btn btn--small btn--primary">Sign Up Now</a>
