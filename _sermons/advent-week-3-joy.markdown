@@ -1,5 +1,5 @@
 ---
-title: 'Advent: Week 3: Joy'
+title: 'Advent Week 3: Joy'
 date: 2018-12-17 13:53:00 -05:00
 series: Anticipation
 week: 3
