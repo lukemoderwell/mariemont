@@ -11,3 +11,5 @@ layout: home
 We’re a growing community of families in East Cincinnati committed to following Jesus. 
 
 Join us for Sunday services in the Parish Center at 9:00 and 11:00 a.m.
+
+**Christmas Eve Candlelight Services will be in the Memorial Chapel at 4:40, 5:30, and 6:30PM.**
