@@ -1,5 +1,5 @@
 ---
-title: Vision Sunday
+title: 2019 Vision Sunday
 date: 2019-01-08 12:15:00 -05:00
 series: Vision Sunday
 week: 1
