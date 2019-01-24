@@ -23,18 +23,8 @@ If you would like a personal tour, please contact Renee Brownfield at (513) 504-
 
 ### Important Documents
 
-[2018/19 Program Information](/uploads/2018-19%20%20Program%20Information.doc)
+[2019/20 Program Information](/uploads/2019-20-preschool-class-information.doc)
 
-[2018/19 Preschool Parent Handbook](/uploads/Preschool%20Parent%20Handbook%20%202018-19.pdf)
+[2019/20 Preschool Registration Form](uploads/2019-20-preschool-registration-form.docx)
 
-[2018/19 Preschool Registration Form](/uploads/2018-19%20preschool%20registration%20form-5bfb67.docx)
-
-[2018/19 Preschool Calendar](/uploads/2018-19%20preschool%20calendar.pdf)
-
-[2018/19 Extended Care Parent Handbook](/uploads/Extended%20Care%20Parent%20Handbook%202018-19.rtf)
-
-[2018/19 Extended Care Registration Form](/uploads/2018-19%20Extended%20Care%20Registration%20Form.docx)
-
-[2018/19 Extended Care Calendar](/uploads/2018-19%20Extended%20Care%20Calendar.rtf)
-
-<a href="/uploads/2018_2019-preschool-docs.zip" class="btn btn--primary">Download All Documents</a>
+[2019/20 Extended Care Registration Form](/uploads/2019-20-Extended-Care-Registration-Form.docx)
