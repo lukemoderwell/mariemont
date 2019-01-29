@@ -6,5 +6,6 @@ week: 3
 sermon_date: 2019-01-27 09:00:00 -05:00
 speaker: Paul Rasmussen
 brochure_file: "/uploads/01272019_MCCProgram_proof1.pdf"
+thumbnail_image: "/uploads/StrongFamiliesBLUE-PRINT.png"
 ---
 
