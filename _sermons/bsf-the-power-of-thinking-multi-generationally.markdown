@@ -1,5 +1,5 @@
 ---
-title: 'BSF: The Power of Thinking Multi-Generationally'
+title: 'BSF: Thinking Multi-Generationally'
 date: 2019-01-29 18:25:00 -05:00
 series: Building Strong Families
 week: 3
