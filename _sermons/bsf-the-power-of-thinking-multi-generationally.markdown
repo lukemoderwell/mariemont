@@ -1,6 +1,6 @@
 ---
 title: 'BSF: The Power of Thinking Multi-Generationally'
-date: 2019-01-29 17:45:00 -05:00
+date: 2019-01-29 18:25:00 -05:00
 series: Building Strong Families
 week: 3
 sermon_date: 2019-01-27 09:00:00 -05:00
