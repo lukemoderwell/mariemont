@@ -1,5 +1,5 @@
 ---
-title: 'BSF: The Crucial Role of the Father'
+title: The Crucial Role of a Father
 date: 2019-02-05 15:27:00 -05:00
 series: Building Strong Families
 week: 4
