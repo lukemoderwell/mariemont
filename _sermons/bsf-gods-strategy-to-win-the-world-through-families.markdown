@@ -1,5 +1,5 @@
 ---
-title: 'BSF: God''s Strategy to Win the World'
+title: God's Strategy to Win the World
 date: 2019-01-29 17:52:00 -05:00
 series: Building Strong Families
 week: 2
