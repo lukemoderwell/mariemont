@@ -1,5 +1,5 @@
 ---
-title: 'BSF: Seeing Children as Arrows'
+title: Seeing Children as Arrows
 date: 2019-02-19 13:09:00 -05:00
 series: Building Strong Families
 week: 6
