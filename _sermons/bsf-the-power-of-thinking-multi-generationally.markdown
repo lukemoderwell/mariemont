@@ -1,5 +1,5 @@
 ---
-title: Thinking Multi-Generationally
+title: Multi-Generational Thinking
 date: 2019-01-29 18:25:00 -05:00
 series: Building Strong Families
 week: 3
