@@ -1,5 +1,5 @@
 ---
-title: 'BSF: The Crucial Role of a Mother'
+title: 'BSF: The Role of a Mother'
 date: 2019-02-11 11:13:00 -05:00
 series: Building Strong Families
 week: 5
