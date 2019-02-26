@@ -1,5 +1,5 @@
 ---
-title: 'BSF: God''s Design for Family'
+title: God's Design for Family
 date: 2019-01-14 15:40:00 -05:00
 series: Building Strong Families
 week: 1
