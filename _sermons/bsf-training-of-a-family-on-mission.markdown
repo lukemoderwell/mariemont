@@ -1,5 +1,5 @@
 ---
-title: 'BSF: Training of a Family on Mission'
+title: Training of a Family on Mission
 date: 2019-02-26 17:19:00 -05:00
 series: Building Strong Families
 week: 6
