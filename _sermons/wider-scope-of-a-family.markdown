@@ -1,5 +1,5 @@
 ---
-title: Wider Scope of a Family
+title: Wider Scope of Family
 date: 2019-03-15 17:05:00 -04:00
 series: Building Strong Families
 week: 9
