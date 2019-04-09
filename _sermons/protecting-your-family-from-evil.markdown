@@ -1,5 +1,5 @@
 ---
-title: Protecting Your Family from Evil
+title: Defending Your Family from Evil
 date: 2019-04-09 16:30:00 -04:00
 series: Building Strong Families
 week: 13
