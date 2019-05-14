@@ -1,0 +1,18 @@
+.alert {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 4rem;
+  margin-bottom: 4rem;
+  background:#E29000; 
+  color: white;
+  border-radius: 0;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
