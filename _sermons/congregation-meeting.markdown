@@ -1,0 +1,11 @@
+---
+title: Congregation Meeting
+date: 2019-06-18 21:21:00 -04:00
+series: Congregation Meeting
+week: 1
+sermon_date: 2019-06-02 09:00:00 -04:00
+speaker: Denis Beausejour
+audio_file: https://mccsermonaudio.s3.us-east-2.amazonaws.com/Congregation+Meeting+June+2019_18Jun19_204055.lite.mp3
+thumbnail_image: "/uploads/TheWay_cvrArt.jpg"
+---
+
