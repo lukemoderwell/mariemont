@@ -16,9 +16,17 @@ The vision of the Mariemont Church Women’s Ministry is to encourage women of a
 
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
+### Summer Women's Study
+
+Boundaries in Marriage, Wednesdays, 9:00-11:00 a.m.
+Marianne Beausejour is the facilitator. No childcare. 
+**Contact:** Marianne Beausejour mebeau@gmail.com
+
 ### Joy In The Morning
 
-For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available. This has been a great outreach in the community. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com.
+For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available. This has been a great outreach in the community. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com
+
+**Fall Kickoff ** is September 9th from 6:30-8:30 p.m. Our speaker will be Lucretia Bowman, the founder of Having the Courage to Change, City Gospel Mission's recovery program for women. She also leads the Exodus recovery program for men. Lucretia is the author of Breaking the Cycle of Self Abuse, a book sharing her journey. She is a licensed pastor with more than 20 years of experience leading program that empower men and women to discover their true identity and recover from addiction, abuse and incarceration Lucretia and her husband, Charles, have two sons.
 
 Childcare starts at 9:15 and goes until 11:15. Sign up is required. Contact Barb Leonard tfleo@cinci.rr.com.
 
@@ -33,11 +41,6 @@ The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center
 ### Women’s Retreat
 
 Mariemont Church Women’s Retreat is usually offered in the spring. The purpose of this event is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
-
-Date: February 1-2, 2019
-Finding God's Treasures: Love, Joy and Peace
-Speaker: Danise DiStasi
-Registration is closed.
 
 ### Serve
 
