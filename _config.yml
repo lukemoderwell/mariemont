@@ -57,7 +57,7 @@ email: mark@mariemontchurch.org
 description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.
 baseurl: 
-url: http://mariemontchurch.org
+url: https://mariemontchurch.org
 markdown: kramdown
 highlighter: rouge
 plugins_dir: plugins
