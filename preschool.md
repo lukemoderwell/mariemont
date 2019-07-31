@@ -28,3 +28,5 @@ If you would like a personal tour, please contact Renee Brownfield at (513) 504-
 [2019/20 Preschool Registration Form](uploads/2019-20-preschool-registration-form.docx)
 
 [2019/20 Extended Care Registration Form](/uploads/2019-20-Extended-Care-Registration-Form.docx)
+
+[2019/20 Preschool Calendar](https://docs.google.com/document/d/1af0RhEfZhzF4RGiIOZjExu6OveENI7CS75hMPJdEdjU)
