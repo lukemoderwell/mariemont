@@ -1,5 +1,5 @@
 ---
-title: 'Kingdom Love: Week 8'
+title: 'Kingdom Love: Week 7'
 date: 2019-08-07 15:51:00 -04:00
 series: Kingdom Love
 week: 8
