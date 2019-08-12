@@ -2,7 +2,7 @@
 title: 'Kingdom Love: Week 7'
 date: 2019-08-07 15:51:00 -04:00
 series: Kingdom Love
-week: 8
+week: 7
 sermon_date: 2019-08-04 11:00:00 -04:00
 speaker: Moran Rosenblit
 audio_file: https://mccsermonaudio.s3.us-east-2.amazonaws.com/The+Father's+Love_07Aug19_154723.lite.mp3
