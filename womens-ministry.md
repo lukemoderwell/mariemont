@@ -16,11 +16,10 @@ The vision of the Mariemont Church Women’s Ministry is to encourage women of a
 
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
-### Summer Women's Study
+### Living Proof Live 
 
-Boundaries in Marriage, Wednesdays, 9:00-11:00 a.m.
-Marianne Beausejour is the facilitator. No childcare. 
-**Contact:** Marianne Beausejour mebeau@gmail.com
+August 24-25 at NKU features Beth Moore. Please purchase tickets on your own at https://www.lifeway.com/en/events/living-proof-live/living-proof-live-cincinnati. 
+**Contact:** Teresa Earhart ttearhart@gmail.com
 
 ### Joy In The Morning
 
