@@ -178,3 +178,5 @@ All
 One God and Father of all
 Who is over all 
 And through all and in all.
+
+All rights reserved.
