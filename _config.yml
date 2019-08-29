@@ -68,6 +68,7 @@ permalink: "/:categories/:title/"
 sass:
   sass_dir: "/assets/stylesheets"
   style: compressed
+# Podcast Settings
 podcast_url: http://www.mariemontchurch.org/podcast
 podcast_album_art: 
 podcast_title: Mariemont Community Church Sunday Teaching
@@ -77,3 +78,4 @@ podcast_author: Denis Beausejour
 podcast_description: 
 podcast_summary: 
 podcast_subtitle:
+podcast_copyright: "&#x2117; &amp; &#xA9; 2019"
