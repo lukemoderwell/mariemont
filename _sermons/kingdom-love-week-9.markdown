@@ -1,0 +1,11 @@
+---
+title: 'Kingdom Love: Week 9'
+date: 2019-08-30 12:41:00 -04:00
+series: Kingdom Love
+week: 9
+sermon_date: 2019-08-25 09:00:00 -04:00
+speaker: Denis Beausejour
+brochure_file: "/uploads/08252019_MCCProgram_proof1.pdf"
+thumbnail_image: "/uploads/Kingdom%20Love_website_brochure.png"
+---
+
