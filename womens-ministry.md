@@ -22,9 +22,6 @@ For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30a
 
 Childcare starts at 9:15 and goes until 11:15. Sign up is required. Contact Barb Leonard tfleo@cinci.rr.com.
 
-**Revive '19 Live-Streaming Conference** We will stream the Revive Conference at the MCC Parish Center auditorium September 27–28, 2019 where women will gather in Indianapolis and around the globe for Revive ’19: Seeking HIM, a conference from Revive Our Hearts. Speakers including Nancy DeMoss Wolgemuth, Mary Kassian, Dannah Gresh, and many more, will open God’s Word to reveal the heart of true revival on Friday evening and all day Saturday. Meals will be on your own. Feel free to bring a brown bag or go out with new and old friends. Coffee, tea, and water provided. No childcare. This is a free event. Sign-up required.
-Contact Teresa Earhart at 513-543-5362 or ttearhart@gmail.com.
-
 ### Evening Joy
 
 Evening Joy begins September 16, 2019 and meets on the 1st and 3rd Monday evenings during the school year, from 7:00-8:30PM in the Baker Room of the Parish Center. Fall semester study is In His Image--10 Ways God Calls Us to Reflect His Character by Jen Wilkin. Come meet with other women for fellowship, discussion, and to grow deeper in your faith. Contact Teresa Earhart at 513-543-5362 or ttearhart@gmail.com.
