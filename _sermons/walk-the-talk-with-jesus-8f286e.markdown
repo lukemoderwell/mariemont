@@ -1,5 +1,5 @@
 ---
-title: Walk the Talk with Jesus
+title: 'Walk the Talk with Jesus: 2'
 date: 2019-09-24 01:20:00 -04:00
 series: James
 week: 2
