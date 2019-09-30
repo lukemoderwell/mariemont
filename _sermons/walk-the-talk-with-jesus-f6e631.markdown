@@ -8,6 +8,5 @@ speaker: Denis Beausejour
 bible_text: James 2:1-13
 audio_file: https://mccsermonaudio.s3.us-east-2.amazonaws.com/Walk+the+Talk+with+Jesus/Walk+the+Talk+with+Jesus+Week+3.lite.mp3
 brochure_file: "/uploads/09292019_MCCProgram_proof1.pdf"
-thumbnail_image: "/uploads/0.png"
 ---
 
