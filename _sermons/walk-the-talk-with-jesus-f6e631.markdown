@@ -1,0 +1,12 @@
+---
+title: Walk the Talk With Jesus
+date: 2019-09-30 15:43:00 -04:00
+series: James
+week: 3
+sermon_date: 2019-09-29 09:00:00 -04:00
+speaker: Denis Beausejour
+bible_text: James 2:1-13
+brochure_file: "/uploads/09292019_MCCProgram_proof1.pdf"
+thumbnail_image: "/uploads/0.png"
+---
+
