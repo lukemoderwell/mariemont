@@ -24,7 +24,9 @@ Childcare starts at 9:15 and goes until 11:15. Sign up is required. Contact Barb
 
 ### Evening Joy
 
-Evening Joy begins September 16, 2019 and meets on the 1st and 3rd Monday evenings during the school year, from 7:00-8:30PM in the Baker Room of the Parish Center. Fall semester study is In His Image--10 Ways God Calls Us to Reflect His Character by Jen Wilkin. Come meet with other women for fellowship, discussion, and to grow deeper in your faith. Contact Teresa Earhart at 513-543-5362 or ttearhart@gmail.com.
+Evening Joy meets on the 1st and 3rd Monday evenings during the school year, from 7:00-8:30PM in the Baker Room of the Parish Center. Fall semester study is In His Image--10 Ways God Calls Us to Reflect His Character by Jen Wilkin. Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
+
+Contact Teresa Earhart at 513-543-5362 or ttearhart@gmail.com.
 
 ### J.O.Y. Luncheon
 
