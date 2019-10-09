@@ -24,7 +24,8 @@ Here are some of the things we do:
 
 * **Men's Retreat**: 
 
-The next retreat is October 4-5,2019.
+We had an awesome retreat on October 4-5,2019 as we learned to be Men of Presence. Join us for the next step of a deeper dive into what it means. We will have "Zoom" meetings online on Tuesday Evenings from 8:45-10:00 p.m. beginning October 14th for six weeks. Jamie Moore will be spearheading this event.
+
 Contact Rob Seetin rjseetin@gmail.com for more information.
 
 * "Men United" Breakfasts with New Mission Missionary Baptist Church
