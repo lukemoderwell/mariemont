@@ -6,5 +6,6 @@ week: 10
 sermon_date: 2019-11-24 11:00:00 -05:00
 speaker: Jamie Moore
 brochure_file: "/uploads/11242019_MCCProgramProof_1.pdf"
+thumbnail_image: "/uploads/0.png"
 ---
 
