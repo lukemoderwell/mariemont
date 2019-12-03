@@ -5,6 +5,7 @@ series: James
 week: 9
 sermon_date: 2019-11-10 00:00:00 -05:00
 speaker: Denis Beausejour
+audio_file: https://mccsermonaudio.s3.us-east-2.amazonaws.com/Walk+the+Talk+with+Jesus/Walk+the+Talk+with+Jesus+9.lite.mp3
 thumbnail_image: "/uploads/0.png"
 ---
 
