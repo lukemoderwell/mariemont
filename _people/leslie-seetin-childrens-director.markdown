@@ -1,7 +1,7 @@
 ---
 title: Leslie Seetin, Children's Ministry Director
 date: 2018-10-05 16:34:00 -04:00
-position: Children's Ministry Director
+position: 0
 name: Leslie Seetin
 image: "/uploads/Seetins.crop.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Mark Simes, Director of Ministry
 date: 2018-10-05 16:42:00 -04:00
-position: Director of Ministry
+position: 0
 name: Mark Simes
 image: "/uploads/Mark%20and%20Holly.crop.jpg"
 ---
