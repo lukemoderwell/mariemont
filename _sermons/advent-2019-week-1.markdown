@@ -1,6 +1,6 @@
 ---
 title: 'Advent 2019: Week 1'
-date: 2019-12-04 14:53:00 -05:00
+date: 2019-12-04 14:54:00 -05:00
 series: 'Ruth: The Christmas Before Christmas'
 week: 1
 sermon_date: 2019-12-01 11:00:00 -05:00
