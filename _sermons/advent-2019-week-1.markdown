@@ -9,3 +9,4 @@ audio_file: https://mccsermonaudio.s3.us-east-2.amazonaws.com/Advent+2019/Advent
 brochure_file: "/uploads/12012019_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/Ruth.png"
 ---
+
