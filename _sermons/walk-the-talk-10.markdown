@@ -1,5 +1,5 @@
 ---
-title: 'Walk the Talk: 10'
+title: 'Walk the Talk with Jesus: 10'
 date: 2019-11-25 12:00:00 -05:00
 series: James
 week: 10
