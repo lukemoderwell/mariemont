@@ -8,7 +8,6 @@ heading: Learning to live and love in Jesus as we follow him together.
 layout: home
 ---
 
-We’re a growing community of families in East Cincinnati committed to following Jesus. 
+We’re a growing community of families in East Cincinnati committed to following Jesus.
 
-
-Join us for Sunday services in the Parish Center at 9:00 and 11:00 a.m.
+Join us for Christmas Eve services in the Chapel at 3, 4 and 5pm.
