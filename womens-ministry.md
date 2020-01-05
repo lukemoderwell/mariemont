@@ -16,22 +16,17 @@ The vision of the Mariemont Church Women’s Ministry is to encourage women of a
 
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
-### Living Proof Live 
-
-August 24-25 at NKU features Beth Moore. Please purchase tickets on your own at https://www.lifeway.com/en/events/living-proof-live/living-proof-live-cincinnati. 
-**Contact:** Teresa Earhart ttearhart@gmail.com
-
 ### Joy In The Morning
 
-For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30am in the Emery Room of the Parish Center during the school year and provides an application -oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Loving childcare is available. This has been a great outreach in the community. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com
-
-**Fall Kickoff ** is September 9th from 6:30-8:30 p.m. Our speaker will be Lucretia Bowman, the founder of Having the Courage to Change, City Gospel Mission's recovery program for women. She also leads the Exodus recovery program for men. Lucretia is the author of Breaking the Cycle of Self Abuse, a book sharing her journey. She is a licensed pastor with more than 20 years of experience leading program that empower men and women to discover their true identity and recover from addiction, abuse and incarceration Lucretia and her husband, Charles, have two sons.
+For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30am in the Emery Room of the Parish Center during the school year, providing application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Fall studies are: "Judges" by Jen Wilken, "The Story: Getting to the Heart of God" DVD Series, and a study of the book of John. Loving childcare is available. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com
 
 Childcare starts at 9:15 and goes until 11:15. Sign up is required. Contact Barb Leonard tfleo@cinci.rr.com.
 
 ### Evening Joy
 
-Evening Joy meets on the 1st and 3rd Monday evenings during the school year, from 7:00-8:30PM in the Baker Room of the Parish Center. Come meet with other women for fellowship, discussion, and to grow deeper in your faith. Contact Teresa Earhart at 513-543-5362 or ttearhart@gmail.com.
+Evening Joy meets on the 1st and 3rd Monday evenings during the school year, from 7:00-8:30PM in the Baker Room of the Parish Center. Fall semester study is In His Image--10 Ways God Calls Us to Reflect His Character by Jen Wilkin. Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
+
+Contact Teresa Earhart at 513-543-5362 or ttearhart@gmail.com.
 
 ### J.O.Y. Luncheon
 

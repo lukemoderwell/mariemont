@@ -24,7 +24,8 @@ Here are some of the things we do:
 
 * **Men's Retreat**: 
 
-The next retreat is Fall 2019.
+We had an awesome retreat on October 4-5,2019 as we learned to be Men of Presence.
+
 Contact Rob Seetin rjseetin@gmail.com for more information.
 
 * "Men United" Breakfasts with New Mission Missionary Baptist Church

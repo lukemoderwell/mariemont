@@ -21,9 +21,9 @@ The main point we draw from this here at MCC is that there is no junior Holy Spi
 Our Junior High Ministry (7th-8th grade) is called “412” which is taken from the passage in 1 Timothy 4:12: "Don’t let anyone think less of you because you are young. Be an example to all believers in what you say, in the way you live, in your love, your faith, and your purity."
 
 **Coming to Our Meetings?**
-We meet on Wednesday nights in our student ministries room called “The Rock” on the 2nd floor from 7:00 – 8:30 p.m. A typical night consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
+We meet on Sunday afternoons immediately after the 11:00 service in our youth room on the second floor of the Parish Center. A typical meeting consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
  
 We have students from the tri-state area who attend public, private, and home-schools. We also have some wonderful adult leaders who love Jesus, love students, and have a desire to see students walk more deeply and intentionally with Jesus.
 
 **Who Can Come?**
-Any 7th – 8th grade student no matter where you go to school. You don’t have to go to MCC to come on Wednesday nights, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
+Any 7th – 8th grade student no matter where you go to school. You don’t have to attend MCC to come, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.

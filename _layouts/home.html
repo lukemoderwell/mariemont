@@ -12,20 +12,25 @@ layout: default
         <h1>{{ page.heading }}</h1>
         <p>{{ page.content }}</p>
         <div class="home_buttonGroup">
-          <a href="/about" class="btn btn--secondary">Learn More</a>
-          <a id="watchButton" class="btn btn--primary">Watch The Video</a>
+          <!-- <a href="/about" class="btn btn--secondary">Learn More</a> -->
+          <a href="https://www.surveymonkey.com/r/MCC-Discipleship-2020" target="_blank" class="btn btn--secondary">Take
+            The 2020 Discipleship Survey</a>
+          <a href="https://drive.google.com/drive/folders/1E360v_AIA8fJLApMdOLMpSbAfyE7VIYD?usp=sharing" target="_blank"
+            class="btn btn--primary">Pictorial Directory</a>
+          <!-- <a id="watchButton" class="btn btn--primary">Watch The Video</a> -->
         </div>
       </div>
       <div class="jumbotron_teaser">
         <div class="jumbotron_teaser_overlay"></div>
         <video class="jumbotron_teaser_video" preload="auto" poster="https://d2tzsnkqeb86y7.cloudfront.net/explore.jpg"
-          autoplay="autoplay" loop="loop" muted="true" playsinline="true" src="https://d2tzsnkqeb86y7.cloudfront.net/MCC_Explore_WebBanner_v01.mp4">
+          autoplay="autoplay" loop="loop" muted="true" playsinline="true"
+          src="https://d2tzsnkqeb86y7.cloudfront.net/MCC_Explore_WebBanner_v01.mp4">
         </video>
       </div>
     </div>
     <div class="jumbotron_video">
-      <video id="mainVideo" width="100%" preload="metadata" data-aspect-ratio="1.777777778" controls src="https://d2tzsnkqeb86y7.cloudfront.net/mcc-explainer-video.mp4"
-        allowfullscreen>
+      <video id="mainVideo" width="100%" preload="metadata" data-aspect-ratio="1.777777778" controls
+        src="https://d2tzsnkqeb86y7.cloudfront.net/mcc-explainer-video.mp4" allowfullscreen>
     </div>
   </div>
   <!-- <section class="home_hero">
@@ -64,32 +69,32 @@ layout: default
 </div>
 
 <script>
-    const aspectRatioUnits = document.querySelectorAll('[data-aspect-ratio]');
-    const btn = document.getElementById('watchButton');
-    const content = document.querySelector('.jumbotron_content');
-    const videoContainer = document.querySelector('.jumbotron_video');
-    const video = document.getElementById('mainVideo');
-  
-    function aspectRatioResizer(els) {
-      for (var i = 0; i < els.length; i += 1) {
-        const aspectWidth = els[i].offsetWidth;
-        const aspectHeight = (aspectWidth / els[i].dataset.aspectRatio);
-        els[i].height = aspectHeight;
-      }
+  const aspectRatioUnits = document.querySelectorAll('[data-aspect-ratio]');
+  const btn = document.getElementById('watchButton');
+  const content = document.querySelector('.jumbotron_content');
+  const videoContainer = document.querySelector('.jumbotron_video');
+  const video = document.getElementById('mainVideo');
+
+  function aspectRatioResizer(els) {
+    for (var i = 0; i < els.length; i += 1) {
+      const aspectWidth = els[i].offsetWidth;
+      const aspectHeight = (aspectWidth / els[i].dataset.aspectRatio);
+      els[i].height = aspectHeight;
     }
-  
-    function revealVideo() {
-      if (content.hidden = 'false') {
-        content.setAttribute('style', 'opacity: 0;visibility: hidden;z-index: -1;');
-        content.setAttribute('hidden', 'true');
-        videoContainer.setAttribute('style', 'opacity: 1; visibility: visible; z-index:0; pointer-events: auto;');
-        video.play();
-      }
+  }
+
+  function revealVideo() {
+    if (content.hidden = 'false') {
+      content.setAttribute('style', 'opacity: 0;visibility: hidden;z-index: -1;');
+      content.setAttribute('hidden', 'true');
+      videoContainer.setAttribute('style', 'opacity: 1; visibility: visible; z-index:0; pointer-events: auto;');
+      video.play();
     }
-    
-    // mobile
-    window.innerWidth > 480 ? aspectRatioResizer(aspectRatioUnits) : '';
-    window.innerWidth < 480 ? video.setAttribute('height', '480')  : '';
-  
-    btn.addEventListener('click', revealVideo);
-  </script>
+  }
+
+  // mobile
+  window.innerWidth > 480 ? aspectRatioResizer(aspectRatioUnits) : '';
+  window.innerWidth < 480 ? video.setAttribute('height', '480') : '';
+
+  btn.addEventListener('click', revealVideo);
+</script>
