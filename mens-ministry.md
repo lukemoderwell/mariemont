@@ -4,6 +4,7 @@ date: 2016-11-13 15:40:00 -05:00
 permalink: "/mens-ministry/"
 position: 8
 bg_color: "#000000"
+hero_image: "/uploads/menUnitedwornwide-e0979c.gif"
 hasHero: true
 hasDownload: false
 heading: Men's Ministry
