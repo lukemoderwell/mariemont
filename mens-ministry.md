@@ -29,6 +29,7 @@ We had an awesome retreat on October 4-5,2019 as we learned to be Men of Presenc
 Contact Rob Seetin rjseetin@gmail.com for more information.
 
 * "Men United" Breakfasts with New Mission Missionary Baptist Church
+Next Breakfast is January 25, 2020 at MCC Parish Center, 3908 Plainville Road from 8:30-11:30am. 
 
 * Small Groups: Wednesday Nights (bi-weekly)
 
