@@ -7,9 +7,6 @@ bg_color: "#000000"
 hero_image: "/uploads/menUnitedwornwide-e0979c.gif"
 hasHero: true
 hasDownload: false
-heading: Men's Ministry
-lead_in: '"Forging a Christian Brotherhood to Conquer Life''s Battles Shoulder to
-  Shoulder". '
 hasForm: false
 layout: page
 ---
