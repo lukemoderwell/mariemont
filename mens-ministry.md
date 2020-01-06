@@ -29,7 +29,7 @@ We had an awesome retreat on October 4-5,2019 as we learned to be Men of Presenc
 Contact Rob Seetin rjseetin@gmail.com for more information.
 
 * "Men United" Breakfasts with New Mission Missionary Baptist Church
-Next Breakfast is January 25, 2020 at MCC Parish Center, 3908 Plainville Road from 8:30-11:30am. 
+Next Breakfast is January 25, 2020 at MCC Parish Center, 3908 Plainville Road from 8:30-11:30am. Associate Pastor, Dr. Jamie Moore will be speaking about being in the presence of the Father. Guests are welcome.
 
 * Small Groups: Wednesday Nights (bi-weekly)
 
