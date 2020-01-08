@@ -24,7 +24,7 @@ Childcare starts at 9:15 and goes until 11:15. Sign up is required. Contact Barb
 
 ### Evening Joy
 
-Evening Joy meets on the 1st and 3rd Monday evenings during the school year, from 7:00-8:30PM in the Baker Room of the Parish Center. Fall semester study is In His Image--10 Ways God Calls Us to Reflect His Character by Jen Wilkin. Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
+Evening Joy meets on the 1st and 3rd Monday evenings during the school year, from 7:00-8:30PM in the Baker Room of the Parish Center. Winter semester study resumes January 6, 2020 and continues the study In His Image--10 Ways God Calls Us to Reflect His Character by Jen Wilkin. Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
 
 Contact Teresa Earhart at 513-543-5362 or ttearhart@gmail.com.
 
@@ -34,7 +34,9 @@ The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center
 
 ### Women’s Retreat
 
-Mariemont Church Women’s Retreat will be February 28-29, 2020 at the Jesuit Spiritual Retreat Center in Milford, OH. The purpose of this event is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
+Mariemont Church Women’s Retreat will be February 28-29, 2020 at the Jesuit Spiritual Retreat Center in Milford, OH. This year's topic is "Living Deeply Rooted" led by speaker and author Susan Carson. Registration forms available at MCC's Connect Desk or contact Paula Ayer at ayerpaula@gmail.com.
+
+The purpose of this event is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
 
 ### Serve
 
