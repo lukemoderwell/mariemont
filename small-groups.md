@@ -14,11 +14,11 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 
 | Location                     | Time                 | Host                                              |
 | ---------------------------  | :--------------------: | --------------------------------------------------|
-| MCC Library | 2nd&3rd Sundays, 9:00AM     | [The Swifts](mailto:zekeswift@gmail.com)                             |
-| Northern Kentucky            | Mondays, 6:30 PM     | [Aaron and Samantha Rogers](mailto:aaronrgrs7@gmail.com) |
-| Madison Place                 | Mondays, 6:30PM     | [Michael & Judy Belanger](mailto:chefbelanger@hotmail.com)   |
-| College and Career (Madisonville)| Mondays, 7:00PM      | [Paul and Juli Rasmussen](mailto:paul@mariemontchurch.org)|
-| Joy In The Evening (MCC)     | 1st&3rd Mondays, 7:00 PM  | [Teresa Earhart](mailto:ttearhart@gmail.com)   [Paula Ayer](mailto:ayerpaula@gmail.com)                    |
+| MCC Library | 2&4 Sundays, 9:00AM     | [The Swifts](mailto:zekeswift@gmail.com)                             |
+| Northern Kentucky            | Mondays, 6:30 PM     | [The Rogers](mailto:aaronrgrs7@gmail.com) |
+| Madison Place                 | Mondays, 6:30PM     | [The Belangers](mailto:chefbelanger@hotmail.com)   |
+| College and Career (Madisonville)| Mondays, 7:00PM      | [The Georges](mailto:georgem3@mail.uc.edu)|
+| Joy In The Evening (MCC)     |1&3 Mondays, 7:00 PM  | [Teresa Earhart](mailto:ttearhart@gmail.com)| [Paula Ayer] (mailto:ayerpaula@gmail.com)|
 | Joy In The Morning (MCC)     | Tuesdays, 9:00AM     | [Barb Leonard](mailto:tfleo@cinci.rr.com)                           |
 | Madeira                      | Tuesday, 6:00PM      | [Ben and Lynn Huizenga](mailto:huizenb@gmail.com)                 |
 | Mariemont                    | Tuesdays, 7:00PM    | [Rob and Laura Urbanski](mailto:urbanskirob@yahoo.com)                  | 
