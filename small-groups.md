@@ -20,12 +20,12 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 | College and Career (Madisonville)| Mondays, 7:00PM      | [The Georges](mailto:georgem3@mail.uc.edu)|
 | Joy In The Evening (MCC)     |1&3 Mondays, 7:00 PM  | [Teresa Earhart](mailto:ttearhart@gmail.com)| [Paula Ayer] (mailto:ayerpaula@gmail.com)|
 | Joy In The Morning (MCC)     | Tuesdays, 9:00AM     | [Barb Leonard](mailto:tfleo@cinci.rr.com)                           |
-| Madeira                      | Tuesday, 6:00PM      | [Ben and Lynn Huizenga](mailto:huizenb@gmail.com)                 |
-| Mariemont                    | Tuesdays, 7:00PM    | [Rob and Laura Urbanski](mailto:urbanskirob@yahoo.com)                  | 
+| Madeira                      | Tuesday, 6:00PM      | [The Huizengas](mailto:huizenb@gmail.com)                 |
+| Mariemont                    | Tuesdays, 7:00PM    | [The Urbanskis](mailto:urbanskirob@yahoo.com)                  | 
 | Indian Hill                  | Tuesdays, 7:00PM     | [The Cambrons](mailto:mikecambron43@gmail.com)|                          |
-| Hyde Park                    | Tuesdays, 7:00PM      | [Burr & Terry Robinson](mailto:burr.robinson@gmail.com)|
-| Mariemont                    | Thursdays, 7:00PM    | [Matt & Paula Ayer](mailto:matt@ayerquality.com)                  |
-| Mariemont                    | Thursdays, 7:00PM    | [Steve & Judi Cesler](mailto:stevecesler@yahoo.com)                  |
+| Hyde Park                    | Tuesdays, 7:00PM      | [The Robinsons](mailto:burr.robinson@gmail.com)|
+| Mariemont                    | Thursdays, 7:00PM    | [The Ayers Ayer](mailto:matt@ayerquality.com)                  |
+| Mariemont                    | Thursdays, 7:00PM    | [The Ceslers Cesler](mailto:stevecesler@yahoo.com)                  |
 | Men's Studies (MCC)          | Fridays, 6:30 AM     | [Mike Cambron](mailto:mikecambron43@gmail.com)| 
 
 
