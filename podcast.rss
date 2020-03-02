@@ -28,10 +28,10 @@
 			<itunes:email>{{ site.podcast_email }}</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/images/itunes.png" />
-		<itunes:category text="Religion & Spirituality">
+		<itunes:category text="Religion &amp; Spirituality">
 			<itunes:category text="Christianity" />
 		</itunes:category>
-        <itunes:category text="Society & Culture">
+        <itunes:category text="Society &amp; Culture">
 			<itunes:category text="Philosophy" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
