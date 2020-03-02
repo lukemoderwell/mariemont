@@ -15,68 +15,67 @@ collections:
     title: Uploads
     output: true
 defaults:
-  - scope:
-      path: ''
-      type: sermons
-    values:
-      layout: page-sermon
-      series: ''
-      week: ''
-      sermon_date: ''
-      sermon_bg: '/uploads/sermon_bg.jpg'
-      speaker: ''
-      bible_text: ''
-      excerpt: ''
-      audio_file: ''
-      video_url: ''
-      brochure_file: ''
-      thumbnail_image: ''
-  - scope:
-      path: ''
-      type: pages
-    values:
-      bg_color: ''
-      hero_image: ''
-      hasHero: false
-      hasDownload: false
-      download:
-        file:
-        info:
-        cta:
-      heading: ''
-      lead_in: ''
-  - scope:
-      path: ''
-      type: people
-    values:
-      name: ''
-      is_elder: false
-      image: ''
-      position: ''
+- scope:
+    path: ''
+    type: sermons
+  values:
+    layout: page-sermon
+    series: ''
+    week: ''
+    sermon_date: ''
+    sermon_bg: "/uploads/sermon_bg.jpg"
+    speaker: ''
+    bible_text: ''
+    excerpt: ''
+    audio_file: ''
+    video_url: ''
+    brochure_file: ''
+    thumbnail_image: ''
+- scope:
+    path: ''
+    type: pages
+  values:
+    bg_color: ''
+    hero_image: ''
+    hasHero: false
+    hasDownload: false
+    download:
+      file: 
+      info: 
+      cta: 
+    heading: ''
+    lead_in: ''
+- scope:
+    path: ''
+    type: people
+  values:
+    name: ''
+    is_elder: false
+    image: ''
+    position: ''
 email: mark@mariemontchurch.org
-description:
-  We are a growing community of families in East Cincinnati united by our
+description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.
-baseurl:
+baseurl: 
 url: https://mariemontchurch.org
 markdown: kramdown
 highlighter: rouge
 plugins_dir: plugins
 plugins:
-  - jekyll-seo-tag
+- jekyll-seo-tag
 port: 7000
-permalink: '/:categories/:title/'
+permalink: "/:categories/:title/"
 sass:
-  sass_dir: '/assets/stylesheets'
+  sass_dir: "/assets/stylesheets"
   style: compressed
 podcast_url: http://www.mariemontchurch.org/podcast.rss
-podcast_album_art:
+podcast_album_art: 
 podcast_title: Mariemont Community Church Sunday Teaching
 podcast_owner: Terri Cofsky
 podcast_email: terri@mariemontchurch.org
 podcast_author: Denis Beausejour
-podcast_description:
-podcast_summary:
-podcast_subtitle:
-podcast_copyright: '&#x2117; &amp; &#xA9; 2019'
-podcast_keyworkds: 'Mariemont Community'
+podcast_description: 
+podcast_summary: 
+podcast_subtitle: 
+podcast_copyright: "&#x2117; &amp; &#xA9; 2019"
+podcast_keyworkds: Mariemont Community
