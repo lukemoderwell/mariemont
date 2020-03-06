@@ -34,9 +34,7 @@ The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center
 
 ### Women’s Retreat
 
-Mariemont Church Women’s Retreat will be February 28-29, 2020 at the Jesuit Spiritual Retreat Center in Milford, OH. This year's topic is "Living Deeply Rooted" led by speaker and author Susan Carson. Registration forms available at MCC's Connect Desk or contact Paula Ayer at ayerpaula@gmail.com.
-
-The purpose of this event is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
+Mariemont Church Women’s Retreat is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
 
 ### Serve
 
