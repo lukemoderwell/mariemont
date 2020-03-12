@@ -2,6 +2,7 @@
 title: Updates
 date: 2020-03-12 12:09:00 -04:00
 heading: Stay in the know with these updates
+layout: page
 ---
 
 Here is where you can list out some updates:
