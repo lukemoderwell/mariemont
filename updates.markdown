@@ -5,7 +5,7 @@ heading: Stay in the know with these updates
 layout: page-no-hero
 ---
 
-# Community Updates
+## Community Updates
 
 * COVID-19
 
