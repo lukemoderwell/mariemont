@@ -8,6 +8,11 @@
     color: $color--white;
 }
 
+.sermon_video {
+    display: block;
+    margin: 16px auto;
+}
+
 .sermon_hero_text {
 	text-align: center;
 
@@ -15,7 +20,7 @@
         margin: 0;
         margin-bottom: $unit-3;
 		font-family: $heading-font; 
-		font-size: $unit-7; 
+		font-size: $unit-6; 
         font-weight: 600;
         text-transform: uppercase;
 	}
