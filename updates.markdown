@@ -7,7 +7,36 @@ layout: page-no-hero
 
 ## Community Updates
 
-<span class="timestamp">Latest Update: March 13, 2020 at 12:30pm</span>
+**NEWS UPDATE - SATURDAY MARCH 14, 2020**
+
+1. TOMORROW'S SUNDAY SERVICE: Our service will be streamed at 10 am - please follow this link: XXXX (coming soon). You will be able to replay the service any time if you cannot make it to participate at 10 am.
+
+2. MEETINGS IN PARISH CENTER: We are curtailing all in-person meetings at the Parish Center effective immediately for at least the next month. The only exceptions will be meetings deemed absolutely necessary and if the meeting attendees can meet our health care protocols (see below)
+
+3. SMALL GROUP MEETINGS: We are curtailing all small group in-person meetings for 30 days. If your group will meet by Zoom, please email terri@mariemontchurch.org  the links and times and she will post them so we can welcome people seeking community.
+
+4. COMMUNITY HELP LINE: If you have a need during this crisis, please email us at help@mariemontchurch.org and we will do our best to reply within an hour Monday-Friday between 9am and 5 pm and  
+
+5. TEMPORARY OFFICE SPACE:  Many have been displaced to work at home and have no suitable place to work. We have a limited number of spaces for work and free internet. Please send a request to mark@mariemontchurch.org and we will confirm with you that we have a safe place for you within 24 hours. You must be in good health and willing to observe our health protocol. 
+
+6. PRAYER MEETINGS: We are adding prayer meetings - Tuesdays at noon, Wednesdays at 730PM and Thursdays at 7AM - these meetings will start with 30 minutes of prayer - you will need to download the Zoom application on your computer. Then enter this code to join our prayer meetings: 829-125-2053.
+
+7. OUR HEALTH PROTOCOL: 
+
+     1. Wash hands with soap or 60% alcohol aggressively - for 20 seconds (how long it takes to say the Lord's Prayer) before starting a new meeting, after entering a new location, before eating, after touching someone or a wet surface, after coughing or sneezing or of course, after using the toilet. 
+
+     2. Stay 5 feet away from non-immediate family members - practice social distancing wherever you go - don’t go to meetings that can’t accommodate this. Beware of coughing or sneezing people, and cover your own. Stay at home if sick.
+
+     3. Disinfect common surfaces often throughout the day- kitchen counters, bathrooms, smartphones etc.
+
+     4. Do not touch your face. The virus comes in micro moisture droplets that can live on hands and wet surfaces and can fly into your face with a cough or a sneeze, or get transported to your nose and lungs when you touch your face. 
+
+These 4 steps will keep you healthy and prevent you from spreading the virus - even in the event you didn’t know you had it - which is still a significant undefined problem with this virus.
+
+Let’s all **focus on Jesus**, so we can live in love and not fear! 
+
+
+Update: March 13, 2020 at 12:30pm
 
 Church Family,
 
