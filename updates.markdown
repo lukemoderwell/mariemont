@@ -1,6 +1,8 @@
 ---
 title: Updates
 date: 2020-03-12 12:09:00 -04:00
+download:
+  file: "/uploads/PastedGraphic-1-e17753.png"
 heading: Stay up to date with these updates
 layout: page-no-hero
 ---
