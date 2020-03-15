@@ -7,7 +7,7 @@ heading: Stay up to date with these updates
 layout: page-no-hero
 ---
 
-## Community Updates
+## Community Updates 
 
 **NEWS UPDATE - SATURDAY MARCH 14, 2020**
 
