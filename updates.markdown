@@ -11,7 +11,7 @@ layout: page-no-hero
 
 **NEWS UPDATE - SATURDAY MARCH 14, 2020**
 
-1. TOMORROW'S SUNDAY SERVICE: Our service will be streamed at 10AM - please follow this link: XXXX (coming soon). You will want to have Bibles available and lyrics on your phone for Blessed Be Your Name and It Is Well With My Soul. You can replay the service any time if you cannot make it to participate at 10AM. 
+1. TOMORROW'S SUNDAY SERVICE: Our service will be streamed at 10AM - please follow this link: <a href="https://youtu.be/rT_wSrvgxHA"></a>. You will want to have Bibles available and lyrics on your phone for Blessed Be Your Name and It Is Well With My Soul. You can replay the service any time if you cannot make it to participate at 10AM. 
 
 2. MEETINGS IN PARISH CENTER: We are curtailing all in-person meetings at the Parish Center effective immediately for at least the next month. The only exceptions will be meetings deemed absolutely necessary and if the meeting attendees can meet our health care protocols (see below)
 
