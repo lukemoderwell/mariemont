@@ -11,17 +11,17 @@ layout: page-no-hero
 
 **NEWS UPDATE - SATURDAY MARCH 14, 2020**
 
-1. TOMORROW'S SUNDAY SERVICE: Our service will be streamed at 10 am - please follow this link: XXXX (coming soon). You will be able to replay the service any time if you cannot make it to participate at 10 am.
+1. TOMORROW'S SUNDAY SERVICE: Our service will be streamed at 10AM - please follow this link: XXXX (coming soon). You will want to have Bibles available and lyrics on your phone for Blessed Be Your Name and It Is Well With My Soul. You can replay the service any time if you cannot make it to participate at 10AM. 
 
 2. MEETINGS IN PARISH CENTER: We are curtailing all in-person meetings at the Parish Center effective immediately for at least the next month. The only exceptions will be meetings deemed absolutely necessary and if the meeting attendees can meet our health care protocols (see below)
 
 3. SMALL GROUP MEETINGS: We are curtailing all small group in-person meetings for 30 days. If your group will meet by Zoom, please email terri@mariemontchurch.org  the links and times and she will post them so we can welcome people seeking community.
 
-4. COMMUNITY HELP LINE: If you have a need during this crisis, please email us at help@mariemontchurch.org and we will do our best to reply within an hour Monday-Friday between 9am and 5 pm and  
+4. COMMUNITY HELP LINE: If you have a need during this crisis, please email us at help@mariemontchurch.org and we will do our best to reply within an hour Monday-Friday between 9AM and 5PM and as soon as possible after normal business hours.
 
 5. TEMPORARY OFFICE SPACE:  Many have been displaced to work at home and have no suitable place to work. We have a limited number of spaces for work and free internet. Please send a request to mark@mariemontchurch.org and we will confirm with you that we have a safe place for you within 24 hours. You must be in good health and willing to observe our health protocol. 
 
-6. PRAYER MEETINGS: We are adding prayer meetings - Tuesdays at noon, Wednesdays at 730PM and Thursdays at 7AM - these meetings will start with 30 minutes of prayer - you will need to download the Zoom application on your computer. Then enter this code to join our prayer meetings: 829-125-2053.
+6. PRAYER MEETINGS: We are adding prayer meetings - Tuesdays at noon, Wednesdays at 7:30PM and Thursdays at 7AM - these meetings will start with 30 minutes of prayer - you will need to download the Zoom application on your computer. Then enter this code to join our prayer meetings: 829-125-2053.
 
 7. OUR HEALTH PROTOCOL: 
 
