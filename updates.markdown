@@ -37,6 +37,7 @@ These 4 steps will keep you healthy and prevent you from spreading the virus - e
 
 Let’s all **focus on Jesus**, so we can live in love and not fear! 
 
+![PastedGraphic-1.png](/uploads/PastedGraphic-1.png)
 
 Update: March 13, 2020 at 12:30pm
 
