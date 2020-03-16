@@ -19,7 +19,7 @@ layout: page-no-hero
 
 4. COMMUNITY HELP LINE: If you have a need during this crisis, please email us at help@mariemontchurch.org and we will do our best to reply within an hour Monday-Friday between 9AM and 5PM and as soon as possible after normal business hours.
 
-5. TEMPORARY OFFICE SPACE:  Many have been displaced to work at home and have no suitable place to work. We have a limited number of spaces for work and free internet. Please send a request to mark@mariemontchurch.org and we will confirm with you that we have a safe place for you within 24 hours. You must be in good health and willing to observe our health protocol.
+5. TEMPORARY OFFICE SPACE:  Many have been displaced to work at home and have no suitable place to work. We have a limited number of spaces for work and free internet. Please send a request to [mark@mariemontchurch.org](http://mark@mariemontchurch.org) and we will confirm with you that we have a safe place for you within 24 hours. You must be in good health and willing to observe our health protocol.
 
 6. PRAYER MEETINGS: We are adding prayer meetings - Tuesdays at noon, Wednesdays at 7:30PM and Thursdays at 7AM - these meetings will start with 30 minutes of prayer - you will need to download the Zoom application on your computer. Then enter this code to join our prayer meetings: 829-125-2053.
 
