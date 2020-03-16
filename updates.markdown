@@ -15,7 +15,7 @@ layout: page-no-hero
 
 2. MEETINGS IN PARISH CENTER: We are curtailing all in-person meetings at the Parish Center effective immediately for at least the next month. The only exceptions will be meetings deemed absolutely necessary and if the meeting attendees can meet our health care protocols (see below)
 
-3. SMALL GROUP MEETINGS: We are curtailing all small group in-person meetings for 30 days. If your group will meet by Zoom, please email [terri@mariemontchurch.org](http://terri@mariemontchurch.org)  the links and times and she will post them so we can welcome people seeking community.
+3. SMALL GROUP MEETINGS: We are curtailing all small group in-person meetings for 30 days. If your group will meet by Zoom, please email [terri@mariemontchurch.org](http://terri@mariemontchurch.org)  the links and times and she will post them so we can welcome people seeking community. Please download the Zoom app for a better viewing experience.
 
 * Monday, March 16 8:00-8:40 p.m. [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
 
