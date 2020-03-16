@@ -19,7 +19,7 @@ layout: page-no-hero
 
 * Monday, March 16 8:00-8:40 p.m. [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
 
-* Thursday, March 19 6:00-7:00 a.m. (link to come)
+* Thursday, Weekly from 6:00-7:00 a.m. ([https://zoom.us/j/390610405?pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405?pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09))
 
 4. COMMUNITY HELP LINE: If you have a need during this crisis, please email us at help@mariemontchurch.org and we will do our best to reply within an hour Monday-Friday between 9AM and 5PM and as soon as possible after normal business hours.
 
