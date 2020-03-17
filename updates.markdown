@@ -17,9 +17,9 @@ layout: page-no-hero
 
 3. SMALL GROUP MEETINGS: We are curtailing all small group in-person meetings for 30 days. If your group will meet by Zoom, please email [terri@mariemontchurch.org](http://terri@mariemontchurch.org)  the links and times and she will post them so we can welcome people seeking community. Please download the Zoom app for a better viewing experience.
 
-* Monday, March 16 8:00-8:40 p.m. [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
+* Monday, March 16 8:00-8:40 p.m. Michael Belanger [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
 
-* Thursday, Weekly from 6:00-7:00 a.m. ([https://zoom.us/j/390610405?pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405?pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09))
+* Thursday, Weekly from 6:00-7:00 a.m. Rob Seetin ([https://zoom.us/j/390610405?pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405?pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09))
 
 4. COMMUNITY HELP LINE: If you have a need during this crisis, please email us at [help@mariemontchurch.org](http://help@mariemontchurch.org) and we will do our best to reply within an hour Monday-Friday between 9AM and 5PM and as soon as possible after normal business hours.
 
