@@ -9,6 +9,50 @@ layout: page-no-hero
 
 ## Community Updates
 
+Latest Update: March 17, 2020
+
+Video link: [https://youtu.be/c6yb1nGMQts](https://youtu.be/c6yb1nGMQts)
+
+Suggestions for Taking Communion at Home (For families and individuals)
+
+This is for a longer Sabbath Day communion (I will share about that in a separate video)
+
+For Sunday service communion, you can skip the steps marked with an asterisk.
+
+1. Remember that as a follower of Jesus, you are a royal priest, authorized to lead communion.
+
+2. Prepare the grape juice and bread. Pray over the elements and place them on your table.
+
+3. Pray and invite the presence of the Father, Son and Holy Spirit. 
+
+*4. It can be fun for kids to light candles, symbolizing God’s presence.
+
+*5. Have someone read Psalm 139: 23-24
+
+6. Invite everyone to ponder and confess their sins to the Father privately.
+
+*7. Invite anyone willing to share one sin from this week (or this day).
+
+8. Have someone read 1 Corinthians 11:23-29 
+
+9. Ask someone what the bread represents. Break it. (OK to say that must have hurt!!!!)
+
+10. Ask someone what the juice represents. Pass the cup (dip bread in cup and wait)
+
+11. Share the good news that Jesus’ death on the cross pays for all our sins. Eat together!
+
+*12. Have someone read 1 John 1:9 and celebrate that we are all clean! (Cheering OK)
+
+13. Give thanks for our forgiveness and freedom. (More cheering OK) 
+
+*14. Sing a simple song together, like the Doxology. 
+
+*15. Decide who gets to blow candles out. (or light one candle per child)
+
+
+Parents, you are the ones to decide about the ages at which your kids will partake of communion. In my experience, seeing my grandchildren partaking and learning the Gospel with weekly repetition has been very encouraging. Hopefully, one day they will really understand and receive the Good News for themselves. It is also fine to have them abstain until they understand, as long as they participate. They key is that we are rehearsing the nuggets of the Gospel often. Especially on days or weeks when behaviors offer object lessons in the pain of sin and the cost and wonder of the Cross.
+
+
 **NEWS UPDATE - SATURDAY MARCH 14, 2020**
 
 1. TOMORROW'S SUNDAY SERVICE: Our service will be streamed at 10AM - please follow this link: [https://youtu.be/rT_wSrvgxHA](https://youtu.be/rT_wSrvgxHA). You will want to have Bibles available and lyrics on your phone for Blessed Be Your Name and It Is Well With My Soul. You can replay the service any time if you cannot make it to participate at 10AM.
