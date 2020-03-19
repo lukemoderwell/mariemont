@@ -9,7 +9,7 @@ layout: page-no-hero
 
 ## Community Updates
 
-
+![fivefingerhand.gif](/uploads/fivefingerhand.gif)
 
 
 LETS KEEP DOING THE 5 TOGETHER!
