@@ -66,7 +66,7 @@ Latest Update: March 17, 2020
 
 Video link: [https://youtu.be/c6yb1nGMQts](https://youtu.be/c6yb1nGMQts)
 
-Suggestions for Taking Communion at Home (For families and individuals)
+**Suggestions for Taking Communion at Home (For families and individuals)**
 
 This is for a longer Sabbath Day communion (I will share about that in a separate video)
 
@@ -102,9 +102,7 @@ For Sunday service communion, you can skip the steps marked with an asterisk.
 
 *15. Decide who gets to blow candles out. (or light one candle per child)
 
-
 Parents, you are the ones to decide about the ages at which your kids will partake of communion. In my experience, seeing my grandchildren partaking and learning the Gospel with weekly repetition has been very encouraging. Hopefully, one day they will really understand and receive the Good News for themselves. It is also fine to have them abstain until they understand, as long as they participate. They key is that we are rehearsing the nuggets of the Gospel often. Especially on days or weeks when behaviors offer object lessons in the pain of sin and the cost and wonder of the Cross.
-
 
 **NEWS UPDATE - SATURDAY MARCH 14, 2020**
 
