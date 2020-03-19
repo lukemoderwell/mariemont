@@ -68,9 +68,7 @@ Video link: [https://youtu.be/c6yb1nGMQts](https://youtu.be/c6yb1nGMQts)
 
 **Suggestions for Taking Communion at Home (For families and individuals)**
 
-This is for a longer Sabbath Day communion (I will share about that in a separate video)
-
-For Sunday service communion, you can skip the steps in bold.
+This is for a longer Sabbath Day communion (I will share about that in a separate video). For Sunday service communion, you can skip the steps in bold.
 
 1. Remember that as a follower of Jesus, you are a royal priest, authorized to lead communion.
 
