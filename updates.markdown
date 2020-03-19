@@ -62,7 +62,7 @@ layout: page-no-hero
 
 5 **FEEL**-sick? Stay home
 
-# Latest Update: March 17, 2020
+**Latest Update: March 17, 2020**
 
 Video link: [https://youtu.be/c6yb1nGMQts](https://youtu.be/c6yb1nGMQts)
 
