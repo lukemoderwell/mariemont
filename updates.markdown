@@ -76,7 +76,7 @@ For Sunday service communion, you can skip the steps in italics.
 
 2. Prepare the grape juice and bread. Pray over the elements and place them on your table.
 
-3. Pray and invite the presence of the Father, Son and Holy Spirit. 
+3. Pray and invite the presence of the Father, Son and Holy Spirit.
 
 4. *It can be fun for kids to light candles, symbolizing God’s presence.*
 
