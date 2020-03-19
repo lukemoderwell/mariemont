@@ -9,20 +9,58 @@ layout: page-no-hero
 
 ## Community Updates
 
+**Latest Update: Thursday, March 18, 2020**
+
+UPDATE ON MCC’S RHYTHMS DURING THIS SEASON OF ISOLATION
+
+**GOAL:** To continue to help us all stay connected and practicing healthy rhythms in a season of social isolation. 
+
+**APPROACH:** Practice the "Up, In and Out" rhythms of the Prince of Peace PER LUKE 6:12-
+
+**"LIFESTYLE WITH GOD” ACTIVITIES MENU:**
+
+- Keep your quiet time as a top priority - commune with Abba
+
+- Worship led by Raz Wednesdays at 430 PM and Fridays at 9 AM on Mariemont Church Facebook Page (recorded to view later)
+
+- Other worship leaders’ sets will be set up soon!
+
+- Devotional led by Jamie every Thursday at NOON on Mariemont Church (recorded to view later)
+
+**“LIFESTYLE WITH THE CHURCH” ACTIVITIES MENU:**
+
+- Streamed services every Sunday at 10 am on the Mariemont Church YouTube Channel (recorded to view later)
+
+- Get it at this link: [https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw?view_as=subscriber](https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw?view_as=subscriber)
+
+- 30 minute Prayer Meetings at zoom.us (code is 829-125-2053) Tuesday NOON, Wednesday 730PM, Thursday 7 AM
+
+- If you want the church to pray about something, email your request to Amy - [theamystaylor@gmail.com](http://theamystaylor@gmail.com)
+
+- Communion as a family - see below for coaching posted earlier
+
+**“LIFESTYLE WITH NEIGHBORS” ACTIVITIES MENU:**
+
+- Get out and walk - pray for neighbors - if people are out - say hello and ask how they are doing
+
+- Ask if they need prayer and pray for people - keep a safe distance!
+
+- Leave notes on neighbors doors (especially elderly) with cell phone and your willingness to run errands or pray
+
+
 ![fivefingerhand.gif](/uploads/fivefingerhand.gif)
 
+**LETS KEEP DOING THE 5 TOGETHER!**
 
-LETS KEEP DOING THE 5 TOGETHER!
+1 **HANDS**-Wash them often for 20 seconds
 
-1 HANDS-Wash them often for 20 seconds
+2 **ELBOW**-Cough or sneeze into it
 
-2 ELBOW-Cough or sneeze into it
+3 **FACE**-Don't touch it!
 
-3 FACE-Don't touch it!
+4 **FEET**-Stay more than 6ft apart
 
-4 FEET-Stay more than 6ft apart
-
-5 FEEL-sick? Stay home
+5 **FEEL**-sick? Stay home
 
 Latest Update: March 17, 2020
 
