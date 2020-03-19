@@ -11,11 +11,11 @@ layout: page-no-hero
 
 **Latest Update: Thursday, March 19, 2020**
 
-UPDATE ON MCC’S RHYTHMS DURING THIS SEASON OF ISOLATION
+**UPDATE ON MCC’S RHYTHMS DURING THIS SEASON OF ISOLATION**
 
 **GOAL:** To continue to help us all stay connected and practicing healthy rhythms in a season of social isolation. 
 
-**APPROACH:** Practice the "Up, In and Out" rhythms of the Prince of Peace PER LUKE 6:12-
+**APPROACH:** Practice the "Up, In and Out" rhythms of the Prince of Peace PER LUKE 6:12-19
 
 **"LIFESTYLE WITH GOD” ACTIVITIES MENU:**
 
