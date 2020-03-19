@@ -31,7 +31,7 @@ UPDATE ON MCC’S RHYTHMS DURING THIS SEASON OF ISOLATION
 
 - Streamed services every Sunday at 10 am on the Mariemont Church YouTube Channel (recorded to view later)
 
-- Get it at this link: [https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw?view_as=subscriber](https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw?view_as=subscriber)
+- Get it at this link: [https://www.youtube.com/user/MariemontCh/videos?view_as=subscriber](https://www.youtube.com/user/MariemontCh/videos?view_as=subscriber)
 
 - 30 minute Prayer Meetings at zoom.us (code is 829-125-2053) Tuesday NOON, Wednesday 730PM, Thursday 7 AM
 
