@@ -9,7 +9,7 @@ layout: page-no-hero
 
 ## Community Updates
 
-**Latest Update: Thursday, March 18, 2020**
+**Latest Update: Thursday, March 19, 2020**
 
 UPDATE ON MCC’S RHYTHMS DURING THIS SEASON OF ISOLATION
 
