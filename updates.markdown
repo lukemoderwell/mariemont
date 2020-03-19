@@ -15,9 +15,13 @@ layout: page-no-hero
 LETS KEEP DOING THE 5 TOGETHER!
 
 1 HANDS-Wash them often for 20 seconds
+
 2 ELBOW-Cough or sneeze into it
+
 3 FACE-Don't touch it!
+
 4 FEET-Stay more than 6ft apart
+
 5 FEEL-sick? Stay home
 
 Latest Update: March 17, 2020
