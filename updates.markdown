@@ -8,6 +8,29 @@ layout: page-no-hero
 ---
 
 ## Community Updates
+**UPDATE FRIDAY MARCH 20, 2020**
+
+**WHAT TO DO IF YOU START HAVING SYMPTOMS**
+
+Remain calm - let others know how you are doing and ask for prayer. Don’t panic, it could be regular flu or allergies!
+
+Start by calling your primary care physician. They may have heavy call volumes, so do the next two items below if you are placed on hold. 
+
+- Go to the CDC web site for good general information:[ https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
+
+- There is a “self-checker” tab on the right hand side of that page with simple self-diagnostic questions that are very helpful.
+
+Do not go to the ER or to your doctor’s office unless the doctor’s office tells you to - or if the CDC self-checker tells you to do that after hours.
+
+Your primary care physician or assistants will ask you questions to determine your situation and your best next steps.
+
+Ask them about medications for your symptoms and possible interactions with other meds you are taking.
+
+Follow their directions. If you need any help with a trip to doctor or the drug store, ask your small group leader or shepherding elder.
+
+Remain patient and courteous - health care workers are putting in long hours under stress - bless them and thank them!
+
+Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
 
 **Latest Update: Thursday, March 19, 2020**
 
@@ -159,3 +182,4 @@ If you have questions or needs during this extraordinary period, please contact 
 MCC Elders & Staff
 
 But seek the welfare of the city where I have sent you into exile, and pray to the LORD on its behalf, for in its welfare you will find your welfare. Jeremiah 29:7
+
