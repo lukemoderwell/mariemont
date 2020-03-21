@@ -8,6 +8,30 @@ layout: page-no-hero
 ---
 
 ## Community Updates
+
+**MCC NEWS UPDATE - SATURDAY AND SUNDAY - MARCH 21-22**
+
+We are praying that everyone is able to get a rest day in this weekend!
+
+Let’s get outdoors and enjoy our Creator’s handiwork!
+
+**For this Sunday’s service, we will stream live on MCC’s YouTube channel at 10 am. **
+
+Go here please: [https://www.youtube.com/user/MariemontCh/videos?view_as=subscriber](https://www.youtube.com/user/MariemontCh/videos?view_as=subscriber) 
+
+**Scriptures you may want to look at ahead of time:**
+Matthew 10:7-8, 1 Peter 2:9, Hebrews 4:9-10
+
+**Songs we will be singing:**
+10,000 Reasons, No Longer Slaves, Do It Again
+We will also sing a children’s tune Raz wrote.
+
+Song lyrics and Raz’s song will be posted on our Facebook page
+**Practice the kids tune with your kids!
+**
+Also, get ready because **we will celebrate communion at home!**
+(Scroll to see notes below for a few tips and a link to a brief video from Denis)
+
 **UPDATE FRIDAY MARCH 20, 2020**
 
 **WHAT TO DO IF YOU START HAVING SYMPTOMS**
