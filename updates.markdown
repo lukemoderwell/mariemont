@@ -26,11 +26,11 @@ Matthew 10:7-8, 1 Peter 2:9, Hebrews 4:9-10
 10,000 Reasons, No Longer Slaves, Do It Again
 We will also sing a children’s tune Raz wrote.
 
-Song lyrics and Raz’s song will be posted on our Facebook page
-**Practice the kids tune with your kids!
-**
+Song lyrics and Raz’s song will be posted on our Facebook page. 
+**Practice the kids tune with your kids!**
+
 Also, get ready because **we will celebrate communion at home!**
-(Scroll to see notes below for a few tips and a link to a brief video from Denis)
+(Scroll to see the notes below for a few tips and a link to a brief video from Denis)
 
 **UPDATE FRIDAY MARCH 20, 2020**
 
