@@ -17,7 +17,7 @@ Let’s get outdoors and enjoy our Creator’s handiwork!
 
 **For this Sunday’s service, we will stream live on MCC’s YouTube channel at 10 am. **
 
-Go here please: https://www.youtube.com/watch?tv=ifasIUIL2gs[](https://www.youtube.com/watch?tv=ifasIUIL2gs)
+Go here please: [https://www.youtube.com/watch?tv=ifasIUIL2gs](https://www.youtube.com/watch?tv=ifasIUIL2gs)
 **Scriptures you may want to look at ahead of time:**
 Matthew 10:7-8, 1 Peter 2:9, Hebrews 4:9-10
 
