@@ -6,3 +6,4 @@ speaker: Denis Beausejour
 video_url: https://youtu.be/ifasIUlL2gs
 ---
 
+Due to COVID-19, this worship service is distributed digitally.
