@@ -19,7 +19,6 @@ layout: page-no-hero
 **Tuesday**
 
 12:00pm Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
-
 1:00pm  Worship with Anna Moderwell on Mariemont 
         Church Facebook Page
 
@@ -27,7 +26,6 @@ layout: page-no-hero
 
 4:30pm Worship with Raz on Mariemont Church 
           Facebook Page
-
 7:30pm Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
 **Thursday**
