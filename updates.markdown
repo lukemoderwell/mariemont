@@ -12,26 +12,26 @@ layout: page-no-hero
 **Week of 3/23-3/29**
 
 **Monday**
-8:00pm Belanger Small Group Zoom Meeting 
-       [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
+8:00pm Belanger Small Group Zoom Meeting [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
      
 
 **Tuesday**
-12:00pm Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)
-        (Use code 829-125-2053)
+12:00pm Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
+
 1:00pm  Worship with Anna Moderwell on Mariemont 
         Church Facebook Page
 
 **Wednesday**
 4:30pm Worship with Raz on Mariemont Church 
           Facebook Page
+
 7:30pm Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
 **Thursday**
-6:00-7:00am Seetin Small Group Zoom Meeting 
-            [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
+6:00-7:00am Seetin Small Group Zoom Meeting          [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
           
 7:00am Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
+
 12:00pm Devotional with Jamie Moore on 
         Mariemont Church Facebook Page
 
