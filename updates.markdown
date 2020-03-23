@@ -9,6 +9,50 @@ layout: page-no-hero
 
 ## Community Updates
 
+**Week of 3/23-3/29**
+**Monday**
+8:00pm Belanger Small Group Zoom Meeting 
+       [https://us04web.zoom.us/j/5657171238] 
+       (https://us04web.zoom.us/j/5657171238)
+
+**Tuesday**
+12:00pm Zoom Prayer Meeting at [zoom.us] 
+        (http://zoom.us)(Use code 829-125-2053)
+1:00pm  Worship with Anna Moderwell on Mariemont 
+        Church Facebook Page
+
+**Wednesday**
+4:30pm Worship with Raz on Mariemont Church 
+          Facebook Page
+7:30pm Zoom Prayer Meeting at [zoom.us] 
+       (http://zoom.us)(Use code 829-125-2053)
+
+**Thursday**
+6:00-7:00am Seetin Small Group Zoom Meeting 
+            [https://zoom.us/j/390610405? 
+            pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09] 
+            (https://zoom.us/j/390610405? 
+            pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
+7:00am Zoom Prayer Meeting at [zoom.us] 
+       (http://zoom.us)(Use code 829-125-2053)
+12:00pm Devotional with Jamie Moore on 
+        Mariemont Church Facebook Page
+
+**Friday**
+6:30-7:30am Cambron Men's Zoom Bible Study
+            Call 513.621.0220
+            Use code 835510
+
+**Saturday**
+
+**Sunday**
+10:00 a.m. Sunday Service LiveStream on YouTube 
+           Click on orange banner on homepage of 
+           [http://mariemontchurch.org] 
+           (http://mariemontchurch.org)
+
+If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
+
 **MCC NEWS UPDATE - SATURDAY AND SUNDAY - MARCH 21-22**
 
 We are praying that everyone is able to get a rest day in this weekend!
