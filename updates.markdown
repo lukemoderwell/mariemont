@@ -10,6 +10,7 @@ layout: page-no-hero
 ## Community Updates
 
 **Week of 3/23-3/29**
+
 **Monday**
 8:00pm Belanger Small Group Zoom Meeting 
        [https://us04web.zoom.us/j/5657171238] 
