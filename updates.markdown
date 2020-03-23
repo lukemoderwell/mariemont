@@ -49,8 +49,7 @@ layout: page-no-hero
 
 10:00 a.m. Sunday Service LiveStream on YouTube 
            Click on orange banner on homepage of 
-           [http://mariemontchurch.org] 
-           (http://mariemontchurch.org)
+           [https://mariemontchurch.org](https://mariemontchurch.org)
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
 
