@@ -9,7 +9,7 @@ layout: default
 		{% if page.video_url %}
 			<iframe class="sermon_video" width="560" height="315" src="{{ page.video_url }}" frameborder="0"
 			allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		{% elsif page.audio_file != '' %}
+		{% else %}
 			<audio controls preload src="{{ page.audio_file }}"></audio>
 		{% endif %}
 		{% if page.brochure_file.size > 0 %}
