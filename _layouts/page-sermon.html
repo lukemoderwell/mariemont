@@ -4,7 +4,9 @@ layout: default
 
 <div class="page_header" style="background-image: url('{{ page.sermon_bg }}'); background-size: cover;">
 	<div class="container sermon_hero_text">
-		<h2 class="sermon_series">{{ page.series }} <span>Week {{ page.week }}</span></h2>
+		{% if page.week != "" and if page.series != "" %}
+		  <h2 class="sermon_series">{{ page.series }} <span>Week {{ page.week }}</span></h2>
+		{% endif %}
 		<h1 class="sermon_heading">{{ page.title }}</h1>
 		{% if page.video_url != "" %}
 			<iframe class="sermon_video" width="560" height="315" src="{{ page.video_url }}" frameborder="0"
