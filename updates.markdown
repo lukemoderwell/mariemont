@@ -15,46 +15,46 @@ The president has extended the stay-at-home advisory until April 30, 2020.
 
 **Monday**
 
-8:00pm Belanger Small Group Zoom Meeting [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
+**8:00pm** Belanger Small Group Zoom Meeting [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
      
 
 **Tuesday**
 
-12:00pm Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
+**12:00pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
 
-1:00pm  Live Worship with Anna Moderwell on Mariemont 
+**1:00pm**  Live Worship with Anna Moderwell on Mariemont 
         Church Facebook Page
 
 **Wednesday**
 
-4:30pm Live Worship with Raz on Mariemont Church 
+**4:30pm** Live Worship with Raz on Mariemont Church 
           Facebook Page
 
-7:30pm Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
+**7:30pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
 **Thursday**
 
-6:00-7:00am Seetin Small Group Zoom Meeting          [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
+**6:00-7:00am** Seetin Small Group Zoom Meeting          [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
           
-7:00am Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
+**7:00am** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
-12:00pm Live Devotional with Jamie Moore on 
+**12:00pm** Live Devotional with Jamie Moore on 
         Mariemont Church Facebook Page
 
 **Friday**
 
-6:30-7:30am Cambron Men's Zoom Bible Study
+**6:30-7:30am** Cambron Men's Zoom Bible Study
             Call 513.621.0220
             Use code 835510
 
-9:00am Live Worship with Raz on Mariemont Church 
+**9:00am** Live Worship with Raz on Mariemont Church 
           Facebook Page
 
 **Saturday**
 
 **Sunday**
 
-10:00 a.m. Sunday Service LiveStream on YouTube 
+**10:00am** Sunday Service LiveStream on YouTube 
            Click on orange banner on homepage of 
            [https://mariemontchurch.org](https://mariemontchurch.org)
 
