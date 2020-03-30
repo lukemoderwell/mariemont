@@ -9,7 +9,9 @@ layout: page-no-hero
 
 ## Community Updates
 
-**Week of 3/23-3/29**
+The president has extended the stay-at-home advisory until April 30, 2020. 
+
+**Week of 3/30-4/5**
 
 **Monday**
 
@@ -25,8 +27,9 @@ layout: page-no-hero
 
 **Wednesday**
 
-4:30pm Worship with Raz on Mariemont Church 
+4:30pm Live Worship with Raz on Mariemont Church 
           Facebook Page
+
 7:30pm Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
 **Thursday**
@@ -43,6 +46,9 @@ layout: page-no-hero
 6:30-7:30am Cambron Men's Zoom Bible Study
             Call 513.621.0220
             Use code 835510
+
+9:00am Live Worship with Raz on Mariemont Church 
+          Facebook Page
 
 **Saturday**
 
