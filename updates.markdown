@@ -22,7 +22,7 @@ The president has extended the stay-at-home advisory until April 30, 2020.
 
 12:00pm Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
 
-1:00pm  Worship with Anna Moderwell on Mariemont 
+1:00pm  Live Worship with Anna Moderwell on Mariemont 
         Church Facebook Page
 
 **Wednesday**
@@ -38,7 +38,7 @@ The president has extended the stay-at-home advisory until April 30, 2020.
           
 7:00am Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
-12:00pm Devotional with Jamie Moore on 
+12:00pm Live Devotional with Jamie Moore on 
         Mariemont Church Facebook Page
 
 **Friday**
