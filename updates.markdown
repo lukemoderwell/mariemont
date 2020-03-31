@@ -43,7 +43,7 @@ The president has extended the stay-at-home advisory until April 30, 2020.
 
 **Friday**
 
-**6:30-7:30am** Cambron Men's Zoom Bible Study
+**6:30-7:30am** Cambron Men's Bible Study
             Call 513.621.0220
             Use code 835510
 
