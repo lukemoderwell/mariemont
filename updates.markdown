@@ -9,6 +9,10 @@ layout: page-no-hero
 
 ## Community Updates
 
+Here is a 17 minute video where Denis looks at lessons from plagues in the Bible and gives applications. 
+
+[https://youtu.be/jrSOrTedHJM](https://youtu.be/jrSOrTedHJM)
+
 The president has extended the stay-at-home advisory until April 30, 2020. 
 
 **Week of 3/30-4/5**
