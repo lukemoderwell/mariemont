@@ -5,7 +5,7 @@ series: Where is God in This?
 week: 4
 sermon_date: 2020-04-05 10:00:00 -04:00
 speaker: Jamie Moore
-video_url: https://youtu.be/rUpi7p-9O1I
+video_url: " https://www.youtube.com/embed/rUpi7p-9O1I"
 thumbnail_image: "/uploads/wigit.jpg"
 ---
 
