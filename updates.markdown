@@ -9,6 +9,28 @@ layout: page-no-hero
 
 ## Community Updates
 
+**Sunday April 5, 2020**
+
+**10:00am**  Sunday Service
+
+Welcome to the Sunday Service for Mariemont Church!
+
+**Here is the link for the service:**
+
+[https://youtu.be/rUpi7p-9O1I](https://youtu.be/rUpi7p-9O1I)
+
+or you can click on the orange banner on homepage at [https://mariemontchurch.org](https://mariemontchurch.org)
+
+Make sure to have communion elements ready as we are celebrating it today. Communion instructions are in this Google Doc:
+
+[https://docs.google.com/document/d/1870g9mZOJSIp8mLEE44HBlfGDZZ0667FHD8Ahz3aPlw/edit?ts=5e87d26b](https://docs.google.com/document/d/1870g9mZOJSIp8mLEE44HBlfGDZZ0667FHD8Ahz3aPlw/edit?ts=5e87d26b)
+
+Also, you can make plans to FaceTime another person or family so you can celebrate communion together!
+
+There will be a 6-7 minute instrumental for the communion time in the video.
+
+**Wednesday, April 1, 2020**
+
 Here is a 17 minute video where Denis looks at lessons from plagues in the Bible and gives applications. 
 
 [https://youtu.be/jrSOrTedHJM](https://youtu.be/jrSOrTedHJM)
@@ -56,11 +78,8 @@ The president has extended the stay-at-home advisory until April 30, 2020.
 
 **Saturday**
 
-**Sunday**
 
-**10:00am** Sunday Service LiveStream on YouTube 
-           Click on orange banner on homepage of 
-           [https://mariemontchurch.org](https://mariemontchurch.org)
+
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
 
