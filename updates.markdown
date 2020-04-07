@@ -14,6 +14,8 @@ layout: page-no-hero
 
 **Sunday April 5, 2020**
 
+Psalm Reading for Today: Psalm 118
+
 **10:00am**  Sunday Service
 
 Welcome to the Sunday Service for Mariemont Church!
@@ -54,12 +56,16 @@ Today's Devotional with Denis: [https://youtu.be/Gr9Jsy0m7tM](https://youtu.be/G
 
 **Wednesday**
 
+Psalm Reading for Today: Psalm 112
+
 **4:30pm** Live Worship with Raz on Mariemont Church 
           Facebook Page
 
 **7:30pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
 **Thursday**
+
+Psalm Reading for Today: Psalm 113-117
 
 **6:00-7:00am** Seetin Small Group Zoom Meeting          [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
           
@@ -70,16 +76,21 @@ Today's Devotional with Denis: [https://youtu.be/Gr9Jsy0m7tM](https://youtu.be/G
 
 **Friday**
 
+Psalm Reading for Today: Psalm 22
+
 **6:30-7:30am** Cambron Men's Bible Study
             Call 513.621.0220
             Use code 835510
 
-**9:00am** Live Worship with Raz on Mariemont Church 
-          Facebook Page
+**9:00am** Live Worship with Raz on Mariemont Church Facebook Page
 
 **Saturday**
 
+Psalm Reading for Today: Psalm 23
 
+**Easter Sunday**
+
+Psalm Reading for Today: Psalm 24
 
 **Wednesday, April 1, 2020**
 
