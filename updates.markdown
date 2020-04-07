@@ -9,6 +9,9 @@ layout: page-no-hero
 
 ## Community Updates
 
+
+**Week of 4/5-4/11**
+
 **Sunday April 5, 2020**
 
 **10:00am**  Sunday Service
@@ -29,22 +32,20 @@ Also, you can make plans to FaceTime another person or family so you can celebra
 
 There will be a 6-7 minute instrumental for the communion time in the video.
 
-**Wednesday, April 1, 2020**
-
-Here is a 17 minute video where Denis looks at lessons from plagues in the Bible and gives applications. 
-
-[https://youtu.be/jrSOrTedHJM](https://youtu.be/jrSOrTedHJM)
-
-The president has extended the stay-at-home advisory until April 30, 2020. 
-
-**Week of 3/30-4/5**
-
 **Monday**
+
+Psalm Reading for Today: Psalm 2
+
+Today's Devotional with Denis: [https://youtu.be/DOCxKRLgiW8](https://youtu.be/DOCxKRLgiW8)
 
 **8:00pm** Belanger Small Group Zoom Meeting [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
      
 
 **Tuesday**
+
+Psalm Reading for Today: Psalm 110
+
+Today's Devotional with Denis: [https://youtu.be/Gr9Jsy0m7tM](https://youtu.be/Gr9Jsy0m7tM)
 
 **12:00pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
 
@@ -80,6 +81,14 @@ The president has extended the stay-at-home advisory until April 30, 2020.
 
 
 
+**Wednesday, April 1, 2020**
+
+Here is a 17 minute video where Denis looks at lessons from plagues in the Bible and gives applications. 
+
+[https://youtu.be/jrSOrTedHJM](https://youtu.be/jrSOrTedHJM)
+
+
+The president has extended the stay-at-home advisory until April 30, 2020. 
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
 
