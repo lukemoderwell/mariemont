@@ -42,6 +42,7 @@ Today's Devotional with Denis: [https://youtu.be/DOCxKRLgiW8](https://youtu.be/D
 
 **8:00pm** Belanger Small Group Zoom Meeting [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
      
+**8:30pm** Live Worship with Mark Wavle on Mariemont Church Facebook Page
 
 **Tuesday**
 
@@ -51,15 +52,13 @@ Today's Devotional with Denis: [https://youtu.be/Gr9Jsy0m7tM](https://youtu.be/G
 
 **12:00pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
 
-**1:00pm**  Live Worship with Anna Moderwell on Mariemont 
-        Church Facebook Page
+**3:00pm**  Live Worship with Anna Moderwell on Mariemont Church Facebook Page
 
 **Wednesday**
 
 Psalm Reading for Today: Psalm 112
 
-**4:30pm** Live Worship with Raz on Mariemont Church 
-          Facebook Page
+**4:30pm** Live Worship with Raz on Mariemont Church Facebook Page
 
 **7:30pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
@@ -71,8 +70,7 @@ Psalm Reading for Today: Psalm 113-117
           
 **7:00am** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
-**12:00pm** Live Devotional with Jamie Moore on 
-        Mariemont Church Facebook Page
+**12:00pm** Live Devotional with Jamie Moore on Mariemont Church Facebook Page
 
 **Friday**
 
