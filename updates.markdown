@@ -86,6 +86,8 @@ Psalm Reading for Today: Psalm 23
 
 Psalm Reading for Today: Psalm 24
 
+**Here's what you may have missed...**
+
 **Wednesday, April 1, 2020**
 
 Here is a 17 minute video where Denis looks at lessons from plagues in the Bible and gives applications. 
