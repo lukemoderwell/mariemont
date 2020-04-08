@@ -9,6 +9,8 @@ layout: page-no-hero
 
 ## Community Updates
 
+Click here for our YouTube Channel to watch any videos you may have missed:
+[https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
 **Week of 4/5-4/11**
 
