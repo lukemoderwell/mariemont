@@ -36,7 +36,7 @@ There is a 6-7 minute instrumental for the communion time in the video.
 
 Psalm Reading for Today: Psalm 2
 
-Today's Devotional with Denis: [https://youtu.be/DOCxKRLgiW8](https://youtu.be/DOCxKRLgiW8)
+Today's Devotional with Jamie: [https://youtu.be/DOCxKRLgiW8](https://youtu.be/DOCxKRLgiW8)
 
 **8:00pm** Belanger Small Group Zoom Meeting [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
      
@@ -55,6 +55,9 @@ Today's Devotional with Denis: [https://youtu.be/Gr9Jsy0m7tM](https://youtu.be/G
 **Wednesday**
 
 Psalm Reading for Today: Psalm 112
+
+Today's Devotional with Jamie:
+[https://www.youtube.com/watch?v=4WVPBwpLP6Q](https://www.youtube.com/watch?v=4WVPBwpLP6Q)
 
 **4:30pm** Live Worship with Raz on Mariemont Church Facebook Page
 
