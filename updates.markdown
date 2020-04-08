@@ -20,7 +20,7 @@ Psalm Reading for Today: Psalm 118
 
 **10:00am**  Sunday Service
 
-Welcome to the 4/5/22020 Sunday Service for Mariemont Church!
+Welcome to the 4/5/2020 Sunday Service for Mariemont Church!
 
 **Here is the link for the service:**
 
