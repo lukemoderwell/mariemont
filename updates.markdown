@@ -20,21 +20,17 @@ Psalm Reading for Today: Psalm 118
 
 **10:00am**  Sunday Service
 
-Welcome to the Sunday Service for Mariemont Church!
+Welcome to the 4/5/22020 Sunday Service for Mariemont Church!
 
 **Here is the link for the service:**
 
 [https://youtu.be/rUpi7p-9O1I](https://youtu.be/rUpi7p-9O1I)
 
-or you can click on the orange banner on homepage at [https://mariemontchurch.org](https://mariemontchurch.org)
-
-Make sure to have communion elements ready as we are celebrating it today. Communion instructions are in this Google Doc:
+Lyrics to songs can be found on this Google Doc:
 
 [https://docs.google.com/document/d/1870g9mZOJSIp8mLEE44HBlfGDZZ0667FHD8Ahz3aPlw/edit?ts=5e87d26b](https://docs.google.com/document/d/1870g9mZOJSIp8mLEE44HBlfGDZZ0667FHD8Ahz3aPlw/edit?ts=5e87d26b)
 
-Also, you can make plans to FaceTime another person or family so you can celebrate communion together!
-
-There will be a 6-7 minute instrumental for the communion time in the video.
+There is a 6-7 minute instrumental for the communion time in the video.
 
 **Monday**
 
@@ -71,8 +67,6 @@ Psalm Reading for Today: Psalm 113-117
 **6:00-7:00am** Seetin Small Group Zoom Meeting          [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
           
 **7:00am** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
-
-**12:00pm** Live Devotional with Jamie Moore on Mariemont Church Facebook Page
 
 **Friday**
 
