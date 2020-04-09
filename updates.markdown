@@ -61,9 +61,12 @@ Today's Devotional with Jamie:
 
 **7:30pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
-**Thursday**
+**Maundy Thursday**
 
 Psalm Reading for Today: Psalm 113-117
+
+Today's Devotional with Denis: 
+[https://youtu.be/DOCxkRLgiW8](https://youtu.be/DOCxkRLgiW8)
 
 **6:00-7:00am** Seetin Small Group Zoom Meeting          [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
           
