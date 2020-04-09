@@ -80,7 +80,7 @@ Today's Devotional with Jamie:
 Psalm Reading for Today: Psalm 113-117
 
 Today's Devotional with Denis: 
-[https://youtu.be/DOCxkRLgiW8](https://youtu.be/DOCxkRLgiW8)
+[https://youtu.be/HLaQfRmIgGY](https://youtu.be/HLaQfRmIgGY)
 
 **6:00-7:00am** Seetin Small Group Zoom Meeting          [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
           
