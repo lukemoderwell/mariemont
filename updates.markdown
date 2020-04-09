@@ -9,6 +9,20 @@ layout: page-no-hero
 
 ## Community Updates
 
+Latest CDC Coronavirus Public Safety Procedures:
+
+* Protect yourself while shopping.
+* Stay at least 6 feet away from others while shopping and in lines.
+* Cover your mouth and nose with a cloth face covering when you have to go out in public.
+* When you do have to visit in person, go during hours when fewer people will be there (for example, early morning or late night).
+* If you are at higher risk for severe illness, find out if the store has special hours for people at higher risk. If they do, try to shop during those hours. People at higher risk for severe illness include adults 65 or older and people of any age who have serious underlying medical conditions.
+* Disinfect the shopping cart, use disinfecting wipes if available.
+* Cover coughs and sneezes.
+* Do not touch your eyes, nose, or mouth.
+* If possible, use touchless payment (pay without touching money, a card, or a keypad). If you must handle money, a card, or use a keypad, use hand sanitizer right after paying.
+* After leaving the store, use hand sanitizer. When you get home, wash your hands with soap and water for at least 20 seconds.
+* At home, follow food safety guidelines: clean, separate, cook, chill. There is no evidence that food or food packaging has been linked to getting sick from COVID-19.
+
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
