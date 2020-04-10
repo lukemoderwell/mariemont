@@ -86,9 +86,12 @@ Today's Devotional with Denis:
           
 **7:00am** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
-**Friday**
+**Good Friday**
 
 Psalm Reading for Today: Psalm 22
+
+Today's Devotion with Jamie Moore:
+https://m.youtube.com/watch?v=yfw-Gcx7t8U[](https://m.youtube.com/watch?v=yfw-Gcx7t8U)
 
 **6:30-7:30am** Cambron Men's Bible Study
             Call 513.621.0220
