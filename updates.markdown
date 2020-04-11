@@ -103,6 +103,8 @@ https://m.youtube.com/watch?v=yfw-Gcx7t8U[](https://m.youtube.com/watch?v=yfw-Gc
 
 Psalm Reading for Today: Psalm 23
 
+https://m.youtube.com/watch?v=ovqfZ_DzG9o[](https://m.youtube.com/watch?v=ovqfZ_DzG9o)
+
 **Easter Sunday**
 
 Psalm Reading for Today: Psalm 24
