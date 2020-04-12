@@ -9,7 +9,7 @@ layout: page-no-hero
 
 ## Community Updates
 
-**Easter Sunday**
+**Resurrection Sunday**
 
 He is Risen!
 
