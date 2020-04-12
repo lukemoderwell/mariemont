@@ -18,6 +18,9 @@ Psalm Reading for Today: Psalm 24
 Click here for Easter Sunday Service:
 [https://youtu.be/yjW8rzBO060](https://youtu.be/yjW8rzBO060)
 
+Click here for Google Doc with Notes and Lyrics: 
+https://docs.google.com/document/d/1870g9mZOJSIp8mLEE44HBlfGDZZ0667FHD8Ahz3aPlw/edit?ts=5e87d26b
+
 Latest CDC Coronavirus Public Safety Procedures:
 
 * Protect yourself while shopping.
