@@ -117,7 +117,7 @@ Psalm Reading for Today: Psalm 23
 
 https://m.youtube.com/watch?v=ovqfZ_DzG9o[](https://m.youtube.com/watch?v=ovqfZ_DzG9o)
 
-**Easter Sunday**
+**Resurrection Sunday**
 
 He is Risen!
 
