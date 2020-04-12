@@ -9,6 +9,15 @@ layout: page-no-hero
 
 ## Community Updates
 
+**Easter Sunday**
+
+He is Risen!
+
+Psalm Reading for Today: Psalm 24
+
+Click here for Easter Sunday Service:
+[https://youtu.be/yjW8rzBO060](https://youtu.be/yjW8rzBO060)
+
 Latest CDC Coronavirus Public Safety Procedures:
 
 * Protect yourself while shopping.
@@ -105,9 +114,6 @@ Psalm Reading for Today: Psalm 23
 
 https://m.youtube.com/watch?v=ovqfZ_DzG9o[](https://m.youtube.com/watch?v=ovqfZ_DzG9o)
 
-**Easter Sunday**
-
-Psalm Reading for Today: Psalm 24
 
 **Here's what you may have missed...**
 
