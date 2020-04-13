@@ -13,9 +13,7 @@ layout: page-no-hero
 
 **Resurrection Sunday April 12, 2020**
 
-He is Risen!
-
-Psalm Reading for Today: Psalm 24
+He is Risen! Psalm Reading for Today: Psalm 24
 
 **10:00am**  Sunday Service
 
@@ -65,6 +63,8 @@ Click here for Resurrection Sunday Service:
 4 **FEET**-Stay more than 6ft apart
 
 5 **FEEL**-sick? Stay home
+
+**Here's what you may have missed...**
 
 **Holy Week Schedule**
 
@@ -142,8 +142,6 @@ Latest CDC Coronavirus Public Safety Procedures:
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
-
-**Here's what you may have missed...**
 
 **Wednesday, April 1, 2020**
 
