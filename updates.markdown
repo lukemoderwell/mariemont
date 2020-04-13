@@ -38,7 +38,7 @@ Click here for Resurrection Sunday Service:
 
 **Thursday**
 
-**12:00** Zoom Devotional with Jamie Moore
+**12:00** Devotional with Jamie Moore on MCC's You Tube Channel: [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
 **6:00-7:00am** Seetin Small Group Zoom Meeting          [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
           
