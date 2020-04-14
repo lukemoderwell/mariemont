@@ -68,7 +68,7 @@ Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-205
 
 **Here's what you may have missed...**
 
-**Holy Week Schedule**
+** Last Week's Schedule**
 
 **Monday**
 
