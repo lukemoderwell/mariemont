@@ -26,7 +26,9 @@ Click here for Resurrection Sunday Service:
      
 **Tuesday**
 
-**12:00pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
+**12:00pm** Tuesday Devotional with Denis Beausejour: [https://youtu.be/w5Q97JXyJfA](https://youtu.be/w5Q97JXyJfA)
+
+Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
 
 **Wednesday**
 
