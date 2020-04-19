@@ -9,16 +9,14 @@ layout: page-no-hero
 
 ## Community Updates
 
-**Week of 4/12-4/18**
+**Week of 4/19-4/25**
 
-**Resurrection Sunday April 12, 2020**
-
-He is Risen! Psalm Reading for Today: Psalm 24
+**Sunday April 19, 2020**
 
 **10:00am**  Sunday Service
 
-Click here for Resurrection Sunday Service:
-[https://youtu.be/yjW8rzBO060](https://youtu.be/yjW8rzBO060)
+Click here for Sunday Service:
+[https://youtu.be/SdYVoRMjq78](https://youtu.be/SdYVoRMjq78)
 
 **Monday**
 
