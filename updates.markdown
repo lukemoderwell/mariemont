@@ -15,8 +15,7 @@ layout: page-no-hero
 
 **10:00am**  Sunday Service
 
-Click here for Sunday Service:
-[https://youtu.be/SdYVoRMjq78](https://youtu.be/SdYVoRMjq78)
+Click here for today's [Sunday Service](https://youtu.be/SdYVoRMjq78). 
 
 **Monday**
 
