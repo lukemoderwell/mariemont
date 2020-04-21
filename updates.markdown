@@ -23,7 +23,7 @@ Click here for today's [Sunday Service](https://youtu.be/SdYVoRMjq78).
      
 **Tuesday**
 
-**12:00pm** Tuesday Devotional with Denis Beausejour: [https://youtu.be/w5Q97JXyJfA](https://youtu.be/w5Q97JXyJfA)
+**12:00pm** Tuesday Devotional with Denis Beausejour: [https://www.youtube.com/watch?v=nyDk6AADEJs](https://www.youtube.com/watch?v=nyDk6AADEJs)
 
 Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
 
