@@ -9,6 +9,7 @@ layout: page-no-hero
 
 ## Community Updates
 
+**Here's the Latest**
 Mercy Health and the City of Cincinnati Health Department are sponsoring a COVID-19 Screening Site at the Mercy Health Facility, 1701 Mercy Health Place Cincinnati, Ohio. Initial screening will begin Wednesday, April 22, 2020, 9:00 a.m. – 6:00 p.m. Community members are asked to drive through the lot for a personal assessment. They will be referred for a more thorough assessment if needed. Community members will not be asked to exit their vehicles.
 
 Beginning Monday, April 27th, the Screening Site will be open Monday – Friday from 9:00 a.m. – 6:00 p.m.
