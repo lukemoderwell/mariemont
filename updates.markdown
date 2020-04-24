@@ -10,11 +10,18 @@ layout: page-no-hero
 ## Community Updates
 
 **Here's the Latest**
+
+If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to terri@mariemontchurch.org and we will reply ASAP.
+
+If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
+
+Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
+
 Mercy Health and the City of Cincinnati Health Department are sponsoring a COVID-19 Screening Site at the Mercy Health Facility, 1701 Mercy Health Place Cincinnati, Ohio. Initial screening will begin Wednesday, April 22, 2020, 9:00 a.m. – 6:00 p.m. Community members are asked to drive through the lot for a personal assessment. They will be referred for a more thorough assessment if needed. Community members will not be asked to exit their vehicles.
 
 Beginning Monday, April 27th, the Screening Site will be open Monday – Friday from 9:00 a.m. – 6:00 p.m.
 
-Additionally, if you are willing to donate cloth face masks for this screening site, please forward your information to Rev. Mr. Royce Winters: rwinters@catholiccincinnati.org. The masks will be distributed by the health professionals at the Screening Site.
+Additionally, if you are willing to donate cloth facemasks for this screening site, please forward your information to Rev. Mr. Royce Winters: rwinters@catholiccincinnati.org. The masks will be distributed by the health professionals at the Screening Site.
 
 **Week of 4/19-4/25**
 
@@ -72,66 +79,6 @@ Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-205
 
 **Here's what you may have missed...**
 
-** Last Week's Schedule**
-
-**Monday**
-
-Today's Devotional with Jamie: [https://youtu.be/DOCxKRLgiW8](https://youtu.be/DOCxKRLgiW8)
-
-**8:00pm** Belanger Small Group Zoom Meeting [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
-     
-**8:30pm** Live Worship with Mark Wavle on Mariemont Church Facebook Page
-
-**Tuesday**
-
-Psalm Reading for Today: Psalm 110
-
-Today's Devotional with Denis: [https://youtu.be/Gr9Jsy0m7tM](https://youtu.be/Gr9Jsy0m7tM)
-
-**12:00pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
-
-**3:00pm**  Live Worship with Anna Moderwell on Mariemont Church Facebook Page
-
-**Wednesday**
-
-Psalm Reading for Today: Psalm 112
-
-Today's Devotional with Jamie:
-[https://www.youtube.com/watch?v=4WVPBwpLP6Q](https://www.youtube.com/watch?v=4WVPBwpLP6Q)
-
-**4:30pm** Live Worship with Raz on Mariemont Church Facebook Page
-
-**7:30pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
-
-**Maundy Thursday**
-
-Psalm Reading for Today: Psalm 113-117
-
-Today's Devotional with Denis: 
-[https://youtu.be/HLaQfRmIgGY](https://youtu.be/HLaQfRmIgGY)
-
-**6:00-7:00am** Seetin Small Group Zoom Meeting          [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
-          
-**7:00am** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
-
-**Good Friday**
-
-Psalm Reading for Today: Psalm 22
-
-Today's Devotion with Jamie Moore:
-https://m.youtube.com/watch?v=yfw-Gcx7t8U[](https://m.youtube.com/watch?v=yfw-Gcx7t8U)
-
-**6:30-7:30am** Cambron Men's Bible Study
-            Call 513.621.0220
-            Use code 835510
-
-**9:00am** Live Worship with Raz on Mariemont Church Facebook Page
-
-**Saturday**
-
-Psalm Reading for Today: Psalm 23
-
-https://m.youtube.com/watch?v=ovqfZ_DzG9o[](https://m.youtube.com/watch?v=ovqfZ_DzG9o)
 Latest CDC Coronavirus Public Safety Procedures:
 
 * Protect yourself while shopping.
@@ -155,12 +102,7 @@ Here is a 17 minute video where Denis looks at lessons from plagues in the Bible
 
 [https://youtu.be/jrSOrTedHJM](https://youtu.be/jrSOrTedHJM)
 
-
 The president has extended the stay-at-home advisory until April 30, 2020. 
-
-If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
-
-**UPDATE FRIDAY MARCH 20, 2020**
 
 **WHAT TO DO IF YOU START HAVING SYMPTOMS**
 
@@ -182,8 +124,6 @@ Follow their directions. If you need any help with a trip to doctor or the drug 
 
 Remain patient and courteous - health care workers are putting in long hours under stress - bless them and thank them!
 
-Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
-
 **Latest Update: Thursday, March 19, 2020**
 
 **UPDATE ON MCC’S RHYTHMS DURING THIS SEASON OF ISOLATION**
@@ -198,8 +138,6 @@ Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/go
 
 - Worship led by Raz Wednesdays at 430 PM and Fridays at 9 AM on Mariemont Church Facebook Page (recorded to view later)
 
-- Other worship leaders’ sets will be set up soon!
-
 - Devotional led by Jamie every Thursday at NOON on Mariemont Church (recorded to view later)
 
 **“LIFESTYLE WITH THE CHURCH” ACTIVITIES MENU:**
@@ -212,8 +150,6 @@ Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/go
 
 - If you want the church to pray about something, email your request to Amy - [theamystaylor@gmail.com](http://theamystaylor@gmail.com)
 
-- Communion as a family - see below for coaching posted earlier
-
 **“LIFESTYLE WITH NEIGHBORS” ACTIVITIES MENU:**
 
 - Get out and walk - pray for neighbors - if people are out - say hello and ask how they are doing
@@ -221,7 +157,6 @@ Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/go
 - Ask if they need prayer and pray for people - keep a safe distance!
 
 - Leave notes on neighbors doors (especially elderly) with cell phone and your willingness to run errands or pray
-
 
 **NEWS UPDATE - MARCH 2020**
 
@@ -261,7 +196,7 @@ Update: March 13, 2020
 
 Church Family,
 
-MCC's Elders and Staff convened electronically yesterday--praise God for the technology--and reached the following decisions concerning the church assembling in the face of the Coronavirus.
+MCC's Elders and Staff convened electronically--praise God for the technology--and reached the following decisions concerning the church assembling in the face of the Coronavirus.
 
 Until the Governor lifts the stay-at-home order, MCC will NOT hold Sunday services at the Parish Center.
 Instead, we will offer one service at 10:00 digitally from the MCC website. Source will be Denis and others of the church staff leading a family-oriented experience from their respective homes.
