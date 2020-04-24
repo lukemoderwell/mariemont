@@ -11,7 +11,7 @@ layout: page-no-hero
 
 **Here's the Latest**
 
-If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](https://terri@mariemontchurch.org) and we will reply ASAP.
+If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
 
