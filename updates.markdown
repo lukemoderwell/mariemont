@@ -33,11 +33,11 @@ Click here for today's [Sunday Service](https://youtu.be/SdYVoRMjq78).
 
 **Monday**
 
-**8:00pm** Belanger Small Group Zoom Meeting [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
+**8:00pm** [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
      
 **Tuesday**
 
-**12:00pm** Tuesday Devotional with Denis Beausejour: [https://www.youtube.com/watch?v=nyDk6AADEJs](https://www.youtube.com/watch?v=nyDk6AADEJs)
+**12:00pm** [Tuesday Devotional with Denis Beausejour](https://www.youtube.com/user/MariemontCh)
 
 Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
 
@@ -49,9 +49,9 @@ Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-205
 
 **Thursday**
 
-**12:00** Devotional with Jamie Moore on MCC's You Tube Channel: [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
+**12:00** [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 
-**6:00-7:00am** Seetin Small Group Zoom Meeting          [https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
+**6:00-7:00am** [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
           
 **7:00am** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
 
