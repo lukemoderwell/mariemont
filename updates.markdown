@@ -11,6 +11,12 @@ layout: page-no-hero
 
 **Here's the Latest**
 
+**Sunday April 26, 2020**
+
+**10:00am**  Sunday Service
+
+Click here for today's [Sunday's Service](https://youtu.be/5mMQe4pdWmY)
+
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
