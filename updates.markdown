@@ -56,7 +56,7 @@ There are three practical ideas for each day this week included in this week's c
 2. 4:30pm Worship with Raz on Mariemont Church Facebook Page
 3. 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
 
-Thursday, April 30
+**Thursday, April 30**
 
 (Family/neighbors)
 1. Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
