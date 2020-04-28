@@ -9,7 +9,13 @@ layout: page-no-hero
 
 ## Community Updates
 
+If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
+
+If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
+
 **Here's the Latest**
+
+**Week of 4/26-5/2**
 
 **Sunday April 26, 2020**
 
@@ -17,46 +23,56 @@ layout: page-no-hero
 
 Click here for today's [Sunday's Service](https://youtu.be/5mMQe4pdWmY)
 
-If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
-
-If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
-
 Practicing prayer and the presence of Jesus is our focus this week.
 
 What next step is God inviting you to take?
 
-We have three suggestions for each day of the week - see opportunities below.		
-
-Brothers and sisters:
-
-I'm sending this out to help you maximize application options for practicing prayer and the presence of Jesus this week.
+We have three suggestions for each day of the week to help you maximize application options for practicing prayer and the presence of Jesus this week.
 
 In Luke 11:1-13, Jesus gives us a prayer agenda (verses 1-4), then a prayer posture (verses 5-8), and then a prayer expectation (verses 9-13).  
 
-Here are three practical ideas for each day this week:
- 
-Monday April 27 (Praise)
+There are three practical ideas for each day this week included in this week's calendar:
+
+**Monday, April 27**
+
+(Praise)
 1. Get up 15 minutes early - Read Psalm 80:14-19 and praise Jesus
 2. Download the App “Pause” - do the 1 minute pause today 3 times
 3. Set an alarm on your phone every hour to practice his presence.
 
-Tuesday April 28 (Gratitude)
-1. Early - Devo with Denis on our YouTube Channel:
- https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw
-2. 12:00 Prayer Meeting https://zoom.us (Use code 829-125-2053)
+**8:00pm** [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
+
+**Tuesday, April 28**
+
+(Gratitude)
+1. Early - Devo with Denis on our [YouTube Channel](https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw)
+2. 12:00 [Prayer Meeting](https://zoom.us) (Use code 829-125-2053)
 3. 2 pm - Use the Pause App - do the 3 minute pause
 
-Wednesday April 29 (Supplication)
-1. Early: Devo with Jess Moore on our YouTube Channel:
-https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw
+**Wednesday, April 29**
+
+(Supplication)
+1. Early: [Devotional with Jess Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 2. 4:30pm Worship with Raz on Mariemont Church Facebook Page
 3. 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
 
-Thursday April 30 (Family/neighbors)
-1. Early - Devo with Jamie on our YouTube Channel:
-https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw
+Thursday, April 30
+
+(Family/neighbors)
+1. Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 2. 7:00am Prayer Meeting at https://zoom.us (Use code 829-125-2053)
-3. Challenge: Email/text Denis to enter into a 40 day prayer covenant. 
+3. Challenge: Email/text Denis to enter into a 40 day prayer covenant.
+
+**6:00-7:00am** [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
+
+**Friday, May 1**
+
+**6:30-7:30am** Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
+
+**10:00am** Live Worship with Raz on Mariemont Church Facebook Page
+
+**Saturday, May 2** No scheduled events.
+
 
 Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
 
@@ -65,46 +81,6 @@ Mercy Health and the City of Cincinnati Health Department are sponsoring a COVID
 Beginning Monday, April 27th, the Screening Site will be open Monday – Friday from 9:00 a.m. – 6:00 p.m.
 
 Additionally, if you are willing to donate cloth facemasks for this screening site, please forward your information to Rev. Mr. Royce Winters: rwinters@catholiccincinnati.org. The masks will be distributed by the health professionals at the Screening Site.
-
-**Week of 4/19-4/25**
-
-**Sunday April 19, 2020**
-
-**10:00am**  Sunday Service
-
-Click here for today's [Sunday Service](https://youtu.be/SdYVoRMjq78). 
-
-**Monday**
-
-**8:00pm** [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
-     
-**Tuesday**
-
-**12:00pm** [Tuesday Devotional with Denis Beausejour](https://www.youtube.com/user/MariemontCh)
-
-Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us) (Use code 829-125-2053)
-
-**Wednesday**
-
-**4:30pm** Live Worship with Raz on Mariemont Church Facebook Page
-
-**7:30pm** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
-
-**Thursday**
-
-**12:00** [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
-
-**6:00-7:00am** [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
-          
-**7:00am** Zoom Prayer Meeting at [https://zoom.us ](https://zoom.us)(Use code 829-125-2053)
-
-**Friday**
-
-**6:30-7:30am** Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
-
-**10:00am** Live Worship with Raz on Mariemont Church Facebook Page
-
-**Saturday** No scheduled events.
 
 ![fivefingerhand.gif](/uploads/fivefingerhand.gif)
 
@@ -139,8 +115,6 @@ Latest CDC Coronavirus Public Safety Procedures:
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Wednesday, April 1, 2020**
-
 Here is a 17 minute video where Denis looks at lessons from plagues in the Bible and gives applications. 
 
 [https://youtu.be/jrSOrTedHJM](https://youtu.be/jrSOrTedHJM)
@@ -166,8 +140,6 @@ Ask them about medications for your symptoms and possible interactions with othe
 Follow their directions. If you need any help with a trip to doctor or the drug store, ask your small group leader or shepherding elder.
 
 Remain patient and courteous - health care workers are putting in long hours under stress - bless them and thank them!
-
-**Latest Update: Thursday, March 19, 2020**
 
 **UPDATE ON MCC’S RHYTHMS DURING THIS SEASON OF ISOLATION**
 
