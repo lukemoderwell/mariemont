@@ -21,6 +21,43 @@ If you are new to our online church community, we would love to pray for you and
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
 
+Practicing prayer and the presence of Jesus is our focus this week.
+
+What next step is God inviting you to take?
+
+We have three suggestions for each day of the week - see opportunities below.		
+
+Brothers and sisters:
+
+I'm sending this out to help you maximize application options for practicing prayer and the presence of Jesus this week.
+
+In Luke 11:1-13, Jesus gives us a prayer agenda (verses 1-4), then a prayer posture (verses 5-8), and then a prayer expectation (verses 9-13).  
+
+Here are three practical ideas for each day this week:
+ 
+Monday April 27 (Praise)
+1. Get up 15 minutes early - Read Psalm 80:14-19 and praise Jesus
+2. Download the App “Pause” - do the 1 minute pause today 3 times
+3. Set an alarm on your phone every hour to practice his presence.
+
+Tuesday April 28 (Gratitude)
+1. Early - Devo with Denis on our YouTube Channel:
+ https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw
+2. 12:00 Prayer Meeting https://zoom.us (Use code 829-125-2053)
+3. 2 pm - Use the Pause App - do the 3 minute pause
+
+Wednesday April 29 (Supplication)
+1. Early: Devo with Jess Moore on our YouTube Channel:
+https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw
+2. 4:30pm Worship with Raz on Mariemont Church Facebook Page
+3. 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
+
+Thursday April 30 (Family/neighbors)
+1. Early - Devo with Jamie on our YouTube Channel:
+https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw
+2. 7:00am Prayer Meeting at https://zoom.us (Use code 829-125-2053)
+3. Challenge: Email/text Denis to enter into a 40 day prayer covenant. 
+
 Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
 
 Mercy Health and the City of Cincinnati Health Department are sponsoring a COVID-19 Screening Site at the Mercy Health Facility, 1701 Mercy Health Place Cincinnati, Ohio. Initial screening will begin Wednesday, April 22, 2020, 9:00 a.m. – 6:00 p.m. Community members are asked to drive through the lot for a personal assessment. They will be referred for a more thorough assessment if needed. Community members will not be asked to exit their vehicles.
