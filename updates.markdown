@@ -35,33 +35,33 @@ There are three practical ideas for each day this week included in this week's c
 
 **Monday, April 27**
 
-(Praise)
-1. Get up 15 minutes early - Read Psalm 80:14-19 and praise Jesus
-2. Download the App “Pause” - do the 1 minute pause today 3 times
-3. Set an alarm on your phone every hour to practice his presence.
+**(Praise)**
+* Get up 15 minutes early - Read Psalm 80:14-19 and praise Jesus
+* Download the App “Pause” - do the 1 minute pause today 3 times
+* Set an alarm on your phone every hour to practice his presence.
 
 **8:00pm** [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
 **Tuesday, April 28**
 
-(Gratitude)
-1. Early - Devo with Denis on our [YouTube Channel](https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw)
-2. 12:00 [Prayer Meeting](https://zoom.us) (Use code 829-125-2053)
-3. 2 pm - Use the Pause App - do the 3 minute pause
+**(Gratitude)**
+* Early - Devo with Denis on our [YouTube Channel](https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw)
+* 12:00 [Prayer Meeting](https://zoom.us) (Use code 829-125-2053)
+* 2 pm - Use the Pause App - do the 3 minute pause
 
 **Wednesday, April 29**
 
-(Supplication)
-1. Early: [Devotional with Jess Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
-2. 4:30pm Worship with Raz on Mariemont Church Facebook Page
-3. 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
+**(Supplication)**
+* Early: [Devotional with Jess Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
+* 4:30pm Worship with Raz on Mariemont Church Facebook Page
+* 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
 
 **Thursday, April 30**
 
-(Family/neighbors)
-1. Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
-2. 7:00am Prayer Meeting at https://zoom.us (Use code 829-125-2053)
-3. Challenge: Email/text Denis to enter into a 40 day prayer covenant.
+**(Family/neighbors)**
+* Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
+* 7:00am Prayer Meeting at https://zoom.us (Use code 829-125-2053)
+* Challenge: Email/text Denis to enter into a 40 day prayer covenant.
 
 **6:00-7:00am** [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
