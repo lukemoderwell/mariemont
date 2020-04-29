@@ -69,10 +69,16 @@ There are three practical ideas for each day this week included in this week's c
 
 **6:30-7:30am** Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 
-**10:00am** Live Worship with Raz on Mariemont Church Facebook Page
+**10:00am** 
+* Live Worship with Raz on Mariemont Church Facebook Page
+* Use the Pause App and do the 3 minute pause
+* Have a family Shabbat meal and communion together.
 
 **Saturday, May 2** No scheduled events.
 
+* Use the Pause App and do the 3 minute pause - praise God for rest!
+* Read [Fenelon’s essay](http://articles.ochristian.com/article4171.shtml) on time that Jamie mentioned Thursday (5 minute read)
+* Play this in your house today: [Click here.](https://www.youtube.com/watch?v=YdvtiYPlMhs&t=3209s)
 
 Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
 
