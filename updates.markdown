@@ -65,6 +65,9 @@ There are three practical ideas for each day this week included in this week's c
 
 **6:00-7:00am** [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
+[Devotional with Rob Seetin](https://youtu.be/aDPVJ4-Nyi8)
+
+
 **Friday, May 1**
 
 **6:30-7:30am** Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
