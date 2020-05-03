@@ -14,6 +14,7 @@ If you are new to our online church community, we would love to pray for you and
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
 
 **Here's the Latest**
+
 **Sunday May 3, 2020**
 
 **10:00am**  Sunday Service
