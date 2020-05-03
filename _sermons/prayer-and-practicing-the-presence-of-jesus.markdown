@@ -1,5 +1,5 @@
 ---
-title: Prayer and Practicing the Presence of Jesus
+title: 'Follow Me: Prayer and Practicing the Presence of Jesus'
 date: 2020-04-26 09:54:00 -04:00
 series: Follow Me
 week: 2
