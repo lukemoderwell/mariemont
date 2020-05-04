@@ -25,8 +25,6 @@ Click here for today's [Sunday Service](https://youtu.be/TJzeRuVECfo).
 
 **Monday, May 4**
 
-practice his presence.
-
 **8:00pm** [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
 **Tuesday, May 5**
