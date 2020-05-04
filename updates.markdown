@@ -18,31 +18,25 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 **Week of 5/3-5/9**
 
 **Sunday May 3, 2020**
-
 * 10:00am  Sunday Service
 Click here for today's [Sunday Service](https://youtu.be/TJzeRuVECfo).
 
 **Monday, May 4**
-
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
 **Tuesday, May 5**
-
 * Early - Devo with Denis on our [YouTube Channel](https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw)
 
 **Wednesday, May 6**
-
 * Early: [Devotional with Jess Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 * 4:30pm Worship with Raz on Mariemont Church Facebook Page
 * 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
 
 **Thursday, May 7**
-
 * Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
 **Friday, May 8**
-
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
