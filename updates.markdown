@@ -15,88 +15,45 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
+**Week of 5/3-5/9**
+
 **Sunday May 3, 2020**
 
 **10:00am**  Sunday Service
 
 Click here for today's [Sunday Service](https://youtu.be/TJzeRuVECfo).
 
-**Week of 4/26-5/2**
+**Monday, May 4**
 
-**Sunday April 26, 2020**
-
-**10:00am**  Sunday Service
-
-Click here for today's [Sunday's Service](https://youtu.be/5mMQe4pdWmY)
-
-Practicing prayer and the presence of Jesus is our focus this week.
-
-What next step is God inviting you to take?
-
-We have three suggestions for each day of the week to help you maximize application options for practicing prayer and the presence of Jesus this week.
-
-In Luke 11:1-13, Jesus gives us a prayer agenda (verses 1-4), then a prayer posture (verses 5-8), and then a prayer expectation (verses 9-13).  
-
-There are three practical ideas for each day this week included in this week's calendar:
-
-**Monday, April 27**
-
-**(Praise)**
-* Get up 15 minutes early - Read Psalm 80:14-19 and praise Jesus
-* Download the App “Pause” - do the 1 minute pause today 3 times
-* Set an alarm on your phone every hour to practice his presence.
+practice his presence.
 
 **8:00pm** [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, April 28**
+**Tuesday, May 5**
 
-**(Gratitude)**
 * Early - Devo with Denis on our [YouTube Channel](https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw)
-* 12:00 [Prayer Meeting](https://zoom.us) (Use code 829-125-2053)
-* 2 pm - Use the Pause App - do the 3 minute pause
 
-**Wednesday, April 29**
+**Wednesday, May 6**
 
-**(Supplication)**
 * Early: [Devotional with Jess Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 * 4:30pm Worship with Raz on Mariemont Church Facebook Page
 * 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
 
-**Thursday, April 30**
+**Thursday, May 7**
 
-**(Family/Neighbors)**
 * Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
-* 7:00am Prayer Meeting at https://zoom.us (Use code 829-125-2053)
-* Challenge: Email/text Denis to enter into a 40 day prayer covenant.
 
 **6:00-7:00am** [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-[Devotional with Rob Seetin](https://youtu.be/aDPVJ4-Nyi8)
-
-
-**Friday, May 1**
+**Friday, May 8**
 
 **6:30-7:30am** Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 
 **10:00am** * Live Worship with Raz on Mariemont Church Facebook Page
 
-* Use the Pause App and do the 3 minute pause
-* Have a family Shabbat meal and communion together.
-
-**Saturday, May 2** No scheduled events.
-
-* Use the Pause App and do the 3 minute pause - praise God for rest!
-* Read [Fenelon’s essay](http://articles.ochristian.com/article4171.shtml) on time that Jamie mentioned Thursday (5 minute read)
-* Play this in your house today: [Click here.](https://www.youtube.com/watch?v=YdvtiYPlMhs&t=3209s)
-
+**Saturday, May 9** No scheduled events.
 
 Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
-
-Mercy Health and the City of Cincinnati Health Department are sponsoring a COVID-19 Screening Site at the Mercy Health Facility, 1701 Mercy Health Place Cincinnati, Ohio. Initial screening will begin Wednesday, April 22, 2020, 9:00 a.m. – 6:00 p.m. Community members are asked to drive through the lot for a personal assessment. They will be referred for a more thorough assessment if needed. Community members will not be asked to exit their vehicles.
-
-Beginning Monday, April 27th, the Screening Site will be open Monday – Friday from 9:00 a.m. – 6:00 p.m.
-
-Additionally, if you are willing to donate cloth facemasks for this screening site, please forward your information to Rev. Mr. Royce Winters: rwinters@catholiccincinnati.org. The masks will be distributed by the health professionals at the Screening Site.
 
 ![fivefingerhand.gif](/uploads/fivefingerhand.gif)
 
@@ -134,8 +91,6 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 Here is a 17 minute video where Denis looks at lessons from plagues in the Bible and gives applications. 
 
 [https://youtu.be/jrSOrTedHJM](https://youtu.be/jrSOrTedHJM)
-
-The president has extended the stay-at-home advisory until April 30, 2020. 
 
 **WHAT TO DO IF YOU START HAVING SYMPTOMS**
 
@@ -189,29 +144,25 @@ Remain patient and courteous - health care workers are putting in long hours und
 
 - Leave notes on neighbors doors (especially elderly) with cell phone and your willingness to run errands or pray
 
-**NEWS UPDATE - MARCH 2020**
+**NEWS UPDATE - MAY 2020**
 
-1. SUNDAY SERVICE: Our service will be streamed at 10AM - please follow this link: [https://youtu.be/rT_wSrvgxHA](https://youtu.be/rT_wSrvgxHA). You will want to have Bibles available and lyrics on your phone for Blessed Be Your Name and It Is Well With My Soul. You can replay the service any time if you cannot make it to participate at 10AM.
+1. SUNDAY SERVICE: Our service will be on our YouTube Channel at 10AM - please follow this link: [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh). You will want to have Bibles available and lyrics are on the provided Google Doc below the video.You can replay the service any time if you cannot make it to participate at 10AM.
 
-2. MEETINGS IN PARISH CENTER: We are curtailing all in-person meetings at the Parish Center effective immediately for at least the next month. The only exceptions will be meetings deemed absolutely necessary and if the meeting attendees can meet our health care protocols (see below)
+2. MEETINGS IN PARISH CENTER: We are curtailing all in-person meetings at the Parish Center effective immediately for at least the next month. The only exceptions will be meetings deemed absolutely necessary and if the meeting attendees can meet our health care protocols (see below).
 
 3. SMALL GROUP MEETINGS: We are curtailing all small group in-person meetings for 30 days. If your group will meet by Zoom, please email [terri@mariemontchurch.org](http://terri@mariemontchurch.org)  the links and times and she will post them so we can welcome people seeking community. Please download the Zoom app for a better viewing experience.
-
-* Monday, March 16 8:00-8:40 p.m. Michael Belanger [https://us04web.zoom.us/j/5657171238](https://us04web.zoom.us/j/5657171238)
-
-* Thursday, Weekly from 6:00-7:00 a.m. Rob Seetin ([https://zoom.us/j/390610405?pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09](https://zoom.us/j/390610405?pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09))
 
 4. COMMUNITY HELP LINE: If you have a need during this crisis, please email us at [help@mariemontchurch.org](http://help@mariemontchurch.org) and we will do our best to reply within an hour Monday-Friday between 9AM and 5PM and as soon as possible after normal business hours.
 
 5. TEMPORARY OFFICE SPACE:  Many have been displaced to work at home and have no suitable place to work. We have a limited number of spaces for work and free internet. Please send a request to [mark@mariemontchurch.org](http://mark@mariemontchurch.org) and we will confirm with you that we have a safe place for you within 24 hours. You must be in good health and willing to observe our health protocol.
 
-6. PRAYER MEETINGS: We are adding prayer meetings - Tuesdays at noon, Wednesdays at 7:30PM and Thursdays at 7AM - these meetings will start with 30 minutes of prayer - you will need to download the Zoom application on your computer. Then enter this code to join our prayer meetings: 829-125-2053.
+6. PRAYER MEETINGS: We have a prayer meeting - Wednesdays at 7:30PM  - the meeting will start with 30 minutes of prayer - you will need to download the Zoom application on your computer. Then enter this code to join our prayer meeting: 829-125-2053.
 
 7. OUR HEALTH PROTOCOL:
 
    a. Wash hands with soap or 60% alcohol aggressively - for 20 seconds (how long it takes to say the Lord's Prayer) before starting a new meeting, after entering a new location, before eating, after touching someone or a wet surface, after coughing or sneezing or of course, after using the toilet.
 
-   b. Stay 5 feet away from non-immediate family members - practice social distancing wherever you go - don’t go to meetings that can’t accommodate this. Beware of coughing or sneezing people, and cover your own. Stay at home if sick.
+   b. Stay 6 feet away from non-immediate family members - practice social distancing wherever you go - don’t go to meetings that can’t accommodate this. Beware of coughing or sneezing people, and cover your own. Stay at home if sick.
 
    c. Disinfect common surfaces often throughout the day- kitchen counters, bathrooms, smartphones etc.
 
@@ -222,8 +173,6 @@ These 4 steps will keep you healthy and prevent you from spreading the virus - e
 Let’s all **focus on Jesus**, so we can live in love and not fear!
 
 ![PastedGraphic-1.png](/uploads/PastedGraphic-1.png)
-
-Update: March 13, 2020
 
 Church Family,
 
