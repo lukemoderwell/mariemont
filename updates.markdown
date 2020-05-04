@@ -19,13 +19,12 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Sunday May 3, 2020**
 
-**10:00am**  Sunday Service
-
+* 10:00am  Sunday Service
 Click here for today's [Sunday Service](https://youtu.be/TJzeRuVECfo).
 
 **Monday, May 4**
 
-**8:00pm** [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
+* 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
 **Tuesday, May 5**
 
@@ -40,16 +39,15 @@ Click here for today's [Sunday Service](https://youtu.be/TJzeRuVECfo).
 **Thursday, May 7**
 
 * Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
-
-**6:00-7:00am** [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
+* 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
 **Friday, May 8**
 
-**6:30-7:30am** Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
+* 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
+* 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**10:00am** * Live Worship with Raz on Mariemont Church Facebook Page
-
-**Saturday, May 9** No scheduled events.
+**Saturday, May 9** 
+* No scheduled events.
 
 Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
 
