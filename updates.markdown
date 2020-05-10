@@ -15,6 +15,18 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
+**Today's Service, May 10, 2020**
+
+Join us as Denis continues the Follow Me series. Click on this link to here the message. Happy Mother's Day!
+[Follow Me: Silence, Solitude, and Hearing from God](https://www.youtube.com/watch?v=y5jy4cp8gAA)
+
+
+Today’s message is in three parts:
+1. What the Bible says about silence, solitude and hearing God.
+2. The awesome outcomes available to us when we do hear God.
+3. Some practical tips and this week’s application challenge.
+
+
 **Week of 5/3-5/9**
 
 **Sunday May 3, 2020**
