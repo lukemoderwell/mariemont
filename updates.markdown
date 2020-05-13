@@ -173,8 +173,7 @@ Church Family,
 
 MCC's Elders and Staff convened electronically--praise God for the technology--and reached the following decisions concerning the church assembling in the face of the Coronavirus.
 
-Until the Governor lifts the stay-at-home order, MCC will NOT hold Sunday services at the Parish Center.
-Instead, we will offer one service at 10:00 digitally from the MCC website. Source will be Denis and others of the church staff leading a family-oriented experience from their respective homes.
+Until the Governor lifts the stay-at-home order, MCC will NOT hold Sunday services at the Parish Center. Instead, we will offer one service at 10:00am digitally from the MCC website. Source will be Denis and others of the church staff leading a family-oriented experience from their respective homes.
 
 We will also suggest activities for families to do at home in conjunction with the streaming experience.
 This decision was based on: 1) a desire to protect the flock by reducing contact and exposure inherent in church fellowship; 2) recommendations and requests of public officials to limit group meetings; and 3) the characteristics of the Coronavirus--longer incubation without symptoms and greater severity than typical flu viruses.
