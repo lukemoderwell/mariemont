@@ -23,6 +23,7 @@ Click here:[Follow Me: Silence, Solitude, and Hearing from God](https://www.yout
 
 The message is in three parts: 1. What the Bible says about silence, solitude and hearing God. 2. The awesome outcomes available to us when we do hear God. 3. Some practical tips and this week’s application challenge.
 
+
 **Monday, May 4**
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
