@@ -17,7 +17,7 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Week of 5/10-5/16**
 
-**Sunday, May 10, 2020**
+**Sunday, May 10**
 * 10:00am  Sunday Service
 Click here:[Follow Me: Silence, Solitude, and Hearing from God](https://www.youtube.com/watch?v=y5jy4cp8gAA)
 
