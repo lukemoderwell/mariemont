@@ -15,23 +15,16 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
-**Today's Service, May 10, 2020**
+**Week of 5/10-5/16**
 
-Join us as Denis continues the Follow Me series. Click on this link to here the message. Happy Mother's Day!
-[Follow Me: Silence, Solitude, and Hearing from God](https://www.youtube.com/watch?v=y5jy4cp8gAA)
+**Sunday, May 10, 2020**
+* 10:00am  Sunday Service
+Click here:[Follow Me: Silence, Solitude, and Hearing from God](https://www.youtube.com/watch?v=y5jy4cp8gAA)
 
-
-Today’s message is in three parts:
+The message is in three parts:
 1. What the Bible says about silence, solitude and hearing God.
 2. The awesome outcomes available to us when we do hear God.
 3. Some practical tips and this week’s application challenge.
-
-
-**Week of 5/3-5/9**
-
-**Sunday May 3, 2020**
-* 10:00am  Sunday Service
-Click here for today's [Sunday Service](https://youtu.be/TJzeRuVECfo).
 
 **Monday, May 4**
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
@@ -40,7 +33,7 @@ Click here for today's [Sunday Service](https://youtu.be/TJzeRuVECfo).
 * Early - Devo with Denis on our [YouTube Channel](https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw)
 
 **Wednesday, May 6**
-* Early: [Devotional with Jess Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
+* Early: [Devotional with Donna Painter on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 * 4:30pm Worship with Raz on Mariemont Church Facebook Page
 * 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
 
@@ -50,7 +43,7 @@ Click here for today's [Sunday Service](https://youtu.be/TJzeRuVECfo).
 
 **Friday, May 8**
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
-* 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
+* 4:00pm * Live Worship with Raz on Mariemont Church Facebook Page
 
 **Saturday, May 9** 
 * No scheduled events.
