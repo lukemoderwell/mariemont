@@ -34,7 +34,7 @@ The message is in three parts:
 
 **Wednesday, May 6**
 * Early: [Devotional with Donna Painter on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
-* 4:30pm Worship with Raz on Mariemont Church Facebook Page
+* 4:30pm Worship on Mariemont Church Facebook Page
 * 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
 
 **Thursday, May 7**
