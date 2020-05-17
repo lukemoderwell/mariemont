@@ -15,6 +15,10 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
+**Today, Sunday, May 17**
+* 10:00am  Sunday Service
+Click here: [Follow Me: Confession of Sin](https://youtu.be/oxYn0Oi7VZg) 
+
 **Week of 5/10-5/16**
 
 **Sunday, May 10**
