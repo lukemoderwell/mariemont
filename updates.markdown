@@ -17,7 +17,11 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Today, Sunday, May 17**
 * 10:00am  Sunday Service
-Click here: [Follow Me: Confession of Sin](https://youtu.be/oxYn0Oi7VZg) 
+Click here: [Follow Me: Confession of Sin](https://youtu.be/oxYn0Oi7VZg)
+
+**Sermon in Two Parts:**
+* Confessing our Sin to God ( Matthew 6: 9-13; 1 John 1:8-9)
+* Confessing our Sin to Each Other (Acts 4:32; James 5:16; Acts 19:18-20)
 
 **Week of 5/10-5/16**
 
