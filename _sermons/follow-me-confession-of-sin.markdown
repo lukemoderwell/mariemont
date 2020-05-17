@@ -5,7 +5,7 @@ series: Follow Me
 week: 4
 sermon_date: 2020-05-17 09:00:00 -04:00
 speaker: " Jamie Moore"
-video_url: https://youtu.be/oxYn0Oi7VZg
+video_url: https://www.youtube.com/embed/oxYn0Oi7VZg
 thumbnail_image: "/uploads/followme.png"
 ---
 
