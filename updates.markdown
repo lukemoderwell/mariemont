@@ -33,7 +33,7 @@ Click here: [Follow Me: Confession of Sin](https://youtu.be/oxYn0Oi7VZg)
 * Early - Devo with Denis on our [[YouTube Channel](https://m.youtube.com/watch?v=2qKUHFd-eI4)]
 
 **Wednesday, May 20**
-* Early: [Devotional with Donna Painter on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
+* Early: [Devotional with Marianne Beausejour on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 * 4:30pm Worship on Mariemont Church Facebook Page
 * 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
 
@@ -43,7 +43,7 @@ Click here: [Follow Me: Confession of Sin](https://youtu.be/oxYn0Oi7VZg)
 
 **Friday, May 22**
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
-* 4:00pm * Live Worship with Raz on Mariemont Church Facebook Page
+* 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
 **Saturday, May 23** 
 * No scheduled events.
