@@ -15,7 +15,10 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
-**Today, Sunday, May 17**
+
+**Week of 5/17-5/23**
+
+**Sunday, May 17**
 * 10:00am  Sunday Service
 Click here: [Follow Me: Confession of Sin](https://youtu.be/oxYn0Oi7VZg)
 
@@ -23,35 +26,26 @@ Click here: [Follow Me: Confession of Sin](https://youtu.be/oxYn0Oi7VZg)
 * Confessing our Sin to God ( Matthew 6: 9-13; 1 John 1:8-9)
 * Confessing our Sin to Each Other (Acts 4:32; James 5:16; Acts 19:18-20)
 
-**Week of 5/10-5/16**
-
-**Sunday, May 10**
-* 10:00am  Sunday Service
-Click here:[Follow Me: Silence, Solitude, and Hearing from God](https://www.youtube.com/watch?v=y5jy4cp8gAA)
-
-The message is in three parts: 1. What the Bible says about silence, solitude and hearing God. 2. The awesome outcomes available to us when we do hear God. 3. Some practical tips and this week’s application challenge.
-
-
-**Monday, May 4**
+**Monday, May 18**
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, May 5**
-* Early - Devo with Denis on our [YouTube Channel](https://www.youtube.com/channel/UCWeglZlA5Upi_FYZHaf8Bvw)
+**Tuesday, May 19**
+* Early - Devo with Denis on our [[YouTube Channel](https://m.youtube.com/watch?v=2qKUHFd-eI4)]
 
-**Wednesday, May 6**
+**Wednesday, May 20**
 * Early: [Devotional with Donna Painter on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 * 4:30pm Worship on Mariemont Church Facebook Page
 * 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
 
-**Thursday, May 7**
+**Thursday, May 21**
 * Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-**Friday, May 8**
+**Friday, May 22**
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 4:00pm * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Saturday, May 9** 
+**Saturday, May 23** 
 * No scheduled events.
 
 Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
