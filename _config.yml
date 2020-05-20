@@ -28,6 +28,7 @@ defaults:
     bible_text: ''
     excerpt: ''
     audio_file: ''
+    audio_file_length: 0
     video_url: ''
     brochure_file: ''
     thumbnail_image: ''
