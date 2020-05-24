@@ -17,7 +17,7 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Sunday, May 24**
 * 10:00am  Sunday Service
-Click here: Follow Me: Fasting and Feasting
+Click here: [Follow Me: Fasting and Feasting](https://m.youtube.com/watch?v=HMq8iZ88JWg)
 
 * Fasting awakens our dependence on the Father, Jesus and the Spirit
 * Feasting elevates our gratitude for the Father, Jesus and the Spirit
