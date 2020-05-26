@@ -10,3 +10,4 @@ audio_file_length: 19134336
 brochure_file: "/uploads/02092020_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/IDOLS.png"
 ---
+

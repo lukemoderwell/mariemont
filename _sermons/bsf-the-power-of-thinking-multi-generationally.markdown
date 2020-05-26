@@ -10,3 +10,4 @@ audio_file_length: 18974592
 brochure_file: "/uploads/01272019_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/StrongFamiliesBLUE-PRINT.png"
 ---
+

@@ -10,3 +10,4 @@ audio_file_length: 8953728
 brochure_file: "/uploads/09082019_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/0.png"
 ---
+

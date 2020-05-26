@@ -12,3 +12,4 @@ brochure_file: "/uploads/09092018_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/soth-typeface.jpg"
 is_featured: true
 ---
+

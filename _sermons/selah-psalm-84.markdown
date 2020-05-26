@@ -11,3 +11,4 @@ audio_file_length: 16072576
 brochure_file: "/uploads/05262019_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/SelahArt.png"
 ---
+

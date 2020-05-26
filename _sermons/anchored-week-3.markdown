@@ -12,3 +12,4 @@ brochure_file: "/uploads/07012018_MCCProgram_proof2.pdf"
 thumbnail_image: "/uploads/anchoredabstractwebsite.png"
 is_featured: false
 ---
+

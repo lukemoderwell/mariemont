@@ -12,3 +12,4 @@ brochure_file: "/uploads/08122018_MCCProgram_proof2.pdf"
 thumbnail_image: "/uploads/anchoredlighthouse.jpg"
 is_featured: false
 ---
+

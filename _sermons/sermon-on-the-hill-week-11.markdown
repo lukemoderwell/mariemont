@@ -11,3 +11,4 @@ audio_file_length: 15705984
 brochure_file: "/uploads/11042018_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/soth-typeface.jpg"
 ---
+

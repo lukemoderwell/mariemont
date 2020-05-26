@@ -9,3 +9,4 @@ audio_file_length: 28092288
 brochure_file: "/uploads/01052020_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/TheWay_cvrArt.jpg"
 ---
+

@@ -11,3 +11,4 @@ audio_file_length: 15232896
 brochure_file: "/uploads/07212019_MCCProgram_proof1.pdf"
 thumbnail_image: "/uploads/Kingdom%20Love_website_brochure.png"
 ---
+
