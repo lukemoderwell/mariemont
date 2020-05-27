@@ -15,6 +15,8 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
+**Week of 5/24-5/30**
+
 **Sunday, May 24**
 * 10:00am  Sunday Service
 Click here: [Follow Me: Fasting and Feasting](https://m.youtube.com/watch?v=HMq8iZ88JWg)
@@ -22,38 +24,36 @@ Click here: [Follow Me: Fasting and Feasting](https://m.youtube.com/watch?v=HMq8
 * Fasting awakens our dependence on the Father, Jesus and the Spirit
 * Feasting elevates our gratitude for the Father, Jesus and the Spirit
 
+**Monday, May 25** Happy Memorial Day!
 
-**Week of 5/17-5/23**
-
-**Sunday, May 17**
-* 10:00am  Sunday Service
-Click here: [Follow Me: Confession of Sin](https://youtu.be/oxYn0Oi7VZg)
-
-**Sermon in Two Parts:**
-* Confessing our Sin to God ( Matthew 6: 9-13; 1 John 1:8-9)
-* Confessing our Sin to Each Other (Acts 4:32; James 5:16; Acts 19:18-20)
-
-**Monday, May 18**
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, May 19**
-* Early - Devo with Denis on our [[YouTube Channel](https://m.youtube.com/watch?v=2qKUHFd-eI4)]
+**Tuesday, May 26**
+*  Instead of his Tuesday devotional, Denis encourages everyone to pick a day to fast this week and a day to feast.
+* Check out Christine Wavle’s great art and resources on the Biblical feasts - https://bit.ly/FeastPacket
 
-**Wednesday, May 20**
-* Early: [Devotional with Marianne Beausejour on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
+**Wednesday, May 27**
+* Early: [Devotional with Leslie Seetin on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 * 4:30pm Worship on Mariemont Church Facebook Page
-* 7:30pm Prayer Meeting at https://zoom.us (Use code 829-125-2053)
+* 7:00-8:00pm Prayer Meeting on the porch at the Parish Center
 
-**Thursday, May 21**
+**Thursday, May 28**
 * Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-**Friday, May 22**
+**Friday, May 29**
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
+* 6:30-7:30pm "Fire on the Hilltops" - a city-wide Pentecost prayer and worship event from the seven hills in Cincinnati. MCC has been assigned to cover the site in Mount Adams. We would like to get a crew of 10-15 to attend and pray and worship as part of this event. Raz will lead us - please plan to join in and invite others. If you park at or near the Rookwood Pottery restaurant and you should easily find us there. We will be able to maintain physical distance in the parking lot by the Rookwood restaurant. If you can’t make it - you can join in on the Zoom feed from all seven hills at this link:
+https://us02web.zoom.us/j/88177788315.
 
-**Saturday, May 23** 
+**Saturday, May 30** 
 * No scheduled events.
+
+**Sunday, May 31** 
+* 10:00am Regular streaming worship service online.
+* 4:00-5:00pm In-Person Pentecost celebration at the Parish Center on our rear parking lot. Please bring your own lawn chairs. Park on the south side of the Parish Center or in front of the school playground or across the field in the school lot. We will spread out in family bunches and worship the Lord and pray together.
+
 
 Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
 
