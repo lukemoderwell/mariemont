@@ -23,12 +23,16 @@ Lyrics to tonight's worship:
 
 **Holy Spirit**
 
-There's nothing worth more that will ever come close
-No thing can compare You're our living hope
+There's nothing worth more
+that will ever come close
+No thing can compare 
+You're our living hope
 Your Presence Lord
 
-I've tasted and seen of the sweetest of loves
-Where my heart becomes free and my shame is undone
+I've tasted and seen 
+of the sweetest of loves
+Where my heart becomes free 
+and my shame is undone
 In Your Presence Lord
 
 Holy Spirit You are welcome here
@@ -55,8 +59,11 @@ For use solely with the SongSelect® Terms of Use. All rights reserved.
 **O Praise The Name**
 
 I cast my mind to Calvary
+
 Where Jesus bled and died for me
+
 I see His wounds His hands His feet
+
 My Saviour on that cursed tree
 
 His body bound and drenched in tears
