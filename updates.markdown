@@ -15,6 +15,89 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
+**Tonight**
+
+* 6:30-7:30pm "Fire on the Hilltops" - a city-wide Pentecost prayer and worship event from the seven hills in Cincinnati.
+
+Lyrics to tonight's worship:
+
+Holy Spirit
+Verse 1
+There's nothing worth more that will ever come close
+No thing can compare You're our living hope
+Your Presence
+
+Verse 2
+I've tasted and seen of the sweetest of loves
+Where my heart becomes free and my shame is undone
+In Your Presence Lord
+
+Chorus
+Holy Spirit You are welcome here
+Come flood this place and fill the atmosphere
+Your glory God is what our hearts long for
+To be overcome by Your Presence Lord
+
+Interlude
+Your Presence Lord
+
+Interlude
+Your Presence Lord
+Your Presence
+Oh God how we love Your Presence Lord
+
+Bridge
+Let us become more aware of Your Presence
+Let us experience the glory of Your goodness (Lord)
+
+CCLI Song # 6087919
+
+Bryan Torwalt | Katie Torwalt
+© 2011 Capitol CMG Genesis (Admin. by Capitol CMG Publishing)
+Jesus Culture Music (Admin. by Capitol CMG Publishing)
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 202209
+O Praise The Name (Anástasis)
+Verse 1
+I cast my mind to Calvary
+Where Jesus bled and died for me
+I see His wounds His hands His feet
+My Saviour on that cursed tree
+
+Verse 2
+His body bound and drenched in tears
+They laid Him down in Joseph's tomb
+The entrance sealed by heavy stone
+Messiah still and all alone
+
+Chorus
+O praise the Name of the Lord our God
+O praise His Name forevermore
+For endless days we will sing Your praise
+Oh Lord oh Lord our God
+
+Verse 3
+Then on the third at break of dawn
+The Son of heaven rose again
+O trampled death where is your sting
+The angels roar for Christ the King
+
+Verse 4
+He shall return in robes of white
+The blazing sun shall pierce the night
+And I will rise among the saints
+My gaze transfixed on Jesus' face
+
+CCLI Song # 7037787
+
+Benjamin Hastings | Dean Ussher | Marty Sampson
+© 2015 Hillsong Music Publishing Australia (Admin. by Capitol CMG Publishing)
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 202209
+
+ Y
+
+
 **Week of 5/24-5/30**
 
 **Sunday, May 24**
