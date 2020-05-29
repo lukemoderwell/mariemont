@@ -59,11 +59,8 @@ For use solely with the SongSelect® Terms of Use. All rights reserved.
 **O Praise The Name**
 
 I cast my mind to Calvary
-
 Where Jesus bled and died for me
-
 I see His wounds His hands His feet
-
 My Saviour on that cursed tree
 
 His body bound and drenched in tears
