@@ -21,10 +21,11 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 Lyrics to tonight's worship:
 
-Holy Spirit
+**Holy Spirit**
+
 There's nothing worth more that will ever come close
 No thing can compare You're our living hope
-Your Presence
+Your Presence Lord
 
 I've tasted and seen of the sweetest of loves
 Where my heart becomes free and my shame is undone
@@ -51,7 +52,7 @@ Jesus Culture Music (Admin. by Capitol CMG Publishing)
 For use solely with the SongSelect® Terms of Use. All rights reserved.
 
 
-O Praise The Name (Anástasis)
+**O Praise The Name**
 
 I cast my mind to Calvary
 Where Jesus bled and died for me
