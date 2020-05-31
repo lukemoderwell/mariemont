@@ -18,7 +18,8 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 **Sunday, May 31**
 
 * 10:00am  Sunday Service
-Click here: Giving, Serving, and Sharing Good News Acts 2 - Pentecost
+Click here: [Giving, Serving, and Sharing Good News](https://m.youtube.com/watch?v=gmTts_y-2GE) 
+Acts 2 - Pentecost
 Acts 2:43-45 – “awe came upon every soul . . . distributing as needed”
 
 * 4:00-5:00pm In-Person Pentecost celebration at the Parish Center on our rear parking lot. Please bring your own lawn chairs. Park on the south side of the Parish Center or in front of the school playground or across the field in the school lot. We will spread out in family bunches and worship the Lord and pray together.
