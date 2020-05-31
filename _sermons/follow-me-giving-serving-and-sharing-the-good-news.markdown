@@ -1,5 +1,5 @@
 ---
-title: 'Follow Me: Giving, Serving and Sharing the Good News'
+title: 'Pentecost Sunday: Giving, Serving and Sharing the Good News'
 date: 2020-05-31 09:02:00 -04:00
 series: Follow Me
 week: 7
