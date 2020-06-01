@@ -18,7 +18,7 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 ### Joy In The Morning
 
-For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30am in the Emery Room of the Parish Center during the school year, providing application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Fall studies are: "Judges" by Jen Wilken, "The Story: Getting to the Heart of God" DVD Series, and a study of the book of John. Loving childcare is available. Contact Barb Leonard at 513-404-7434 or tfleo@cinci.rr.com
+For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30am in the Emery Room of the Parish Center during the school year, providing application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Fall studies are: "Judges" by Jen Wilken, "The Story: Getting to the Heart of God" DVD Series, and a study of the book of John. Loving childcare is available. Contact Barb Leonard at 513-404-7434 or tombarbleonard@gmail.com
 
 Childcare starts at 9:15 and goes until 11:15. Sign up is required. Contact Barb Leonard tfleo@cinci.rr.com.
 
