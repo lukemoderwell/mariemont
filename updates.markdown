@@ -35,7 +35,7 @@ Acts 2:43-45 – “awe came upon every soul . . . distributing as needed”
 
 **Wednesday, June 3**
 * Early: [Devotional with Jess Moore on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
-* 6:00-7:00pm Prayer Meeting on the Porch at the Parish Center
+* 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
 **Thursday, June 4**
 * Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
