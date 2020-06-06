@@ -15,6 +15,9 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
+On My Heart Today...
+[Devotional by Denis Beausejour](https://youtu.be/kOuERV0rsc8)
+
 **Week of 5/31-6/6**
 
 **Sunday, May 31**
