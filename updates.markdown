@@ -46,7 +46,7 @@ Acts 2:43-45 – “awe came upon every soul . . . distributing as needed”
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
 **Saturday, June 6** 
-* No scheduled events.
+[Devotional by Denis Beausejour](https://youtu.be/kOuERV0rsc8). 
 
 Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
 
