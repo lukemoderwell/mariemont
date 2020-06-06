@@ -15,6 +15,8 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
+In a special Saturday devotional, pastor Denis shares his heart on the current unrest and gives some practical analysis and next steps from the Scriptures. He points us to the example of Jesus and to the Gospel as the only viable solution as we continue to learn and walk as a congregation together with our African American brothers and sisters.
+
 **On My Heart Today...**
 [Devotional by Denis Beausejour](https://youtu.be/kOuERV0rsc8)
 
