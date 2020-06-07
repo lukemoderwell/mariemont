@@ -15,10 +15,9 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
-In a special Saturday devotional, pastor Denis shares his heart on the current unrest and gives some practical analysis and next steps from the Scriptures. He points us to the example of Jesus and to the Gospel as the only viable solution as we continue to learn and walk as a congregation together with our African American brothers and sisters.
+**Sunday, June 7**
 
-**On My Heart Today...**
-[Devotional by Denis Beausejour](https://youtu.be/kOuERV0rsc8)
+* 10:00am  Click here for today's [Sunday Service](https://youtu.be/mpToAsb4k80)
 
 **Week of 5/31-6/6**
 
@@ -28,8 +27,6 @@ In a special Saturday devotional, pastor Denis shares his heart on the current u
 Click here: [Giving, Serving, and Sharing Good News](https://m.youtube.com/watch?v=gmTts_y-2GE) 
 Acts 2 - Pentecost
 Acts 2:43-45 – “awe came upon every soul . . . distributing as needed”
-
-* 4:00-5:00pm In-Person Pentecost celebration at the Parish Center on our rear parking lot. Please bring your own lawn chairs. Park on the south side of the Parish Center or in front of the school playground or across the field in the school lot. We will spread out in family bunches and worship the Lord and pray together.
 
 **Monday, June 1**
 
