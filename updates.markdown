@@ -26,16 +26,17 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
 **Tuesday, June 9**
+
 * [Devotional with Denis Beausejour on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
 
-**Wednesday, June 9**
+**Wednesday, June 10**
 * Early: [Devotional with Anna Moderwell on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
-**Thursday, June 4**
+**Thursday, June 11**
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-**Friday, June 5**
+**Friday, June 12**
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
