@@ -15,41 +15,32 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
+**Week of 6/7-6/13**
+
 **Sunday, June 7**
 
-* 10:00am  Click here for today's [Sunday Service](https://youtu.be/mpToAsb4k80)
+* 10:00am  Click here for [Sunday Service](https://youtu.be/mpToAsb4k80)
 
-
-**Week of 5/31-6/6**
-
-**Sunday, May 31**
-
-* 10:00am  Sunday Service
-Click here: [Giving, Serving, and Sharing Good News](https://m.youtube.com/watch?v=gmTts_y-2GE) 
-Acts 2 - Pentecost
-Acts 2:43-45 – “awe came upon every soul . . . distributing as needed”
-
-**Monday, June 1**
+**Monday, June 8**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, June 2**
+**Tuesday, June 9**
 * [Devotional with Denis Beausejour on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
 
-**Wednesday, June 3**
-* Early: [Devotional with Jess Moore on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
+**Wednesday, June 9**
+* Early: [Devotional with Anna Moderwell on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
 **Thursday, June 4**
-* Early - [Devotional with Jamie Moore on MCC's You Tube Channel](https://www.youtube.com/user/MariemontCh)
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
 **Friday, June 5**
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Saturday, June 6** 
-[Devotional by Denis Beausejour](https://youtu.be/kOuERV0rsc8). 
+**Saturday, June 13**
+No events scheduled.
 
 Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
 
