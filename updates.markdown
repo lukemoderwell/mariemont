@@ -19,6 +19,13 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 * 10:00 a.m. [Click here for today's Sunday Service on Sabbath Rest.](https://youtu.be/59cKiA9TT2A)
 
+* 3:00 p.m. Church Meeting (You will need a password for this meeting. Please text 513.205.4238 for password to attend.)
+
+Join Zoom Meeting
+[https://us02web.zoom.us/j/87616538385?pwd=TUcyVWk4NTZmdk1JOTlvbktMdXJKQT09](https://us02web.zoom.us/j/87616538385?pwd=TUcyVWk4NTZmdk1JOTlvbktMdXJKQT09)
+Meeting ID: 876 1653 8385
+https://us02web.zoom.us/u/kgSAEqPOM
+
 **Week of 6/7-6/13**
 
 **Sunday, June 7**
