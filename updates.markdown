@@ -15,6 +15,10 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
+**Sunday June 14**
+
+* 10:00 a.m. [Click here for today's Sunday Service on Sabbath Rest.](https://youtu.be/59cKiA9TT2A)
+
 **Week of 6/7-6/13**
 
 **Sunday, June 7**
