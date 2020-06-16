@@ -15,9 +15,7 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Here's the Latest**
 
-**Sunday June 14**
 
-* 10:00 a.m. [Click here for today's Sunday Service on Sabbath Rest.](https://youtu.be/59cKiA9TT2A)
 
 * 3:00 p.m. Church Meeting (You will need a password for this meeting. Please text 513.205.4238 for password to attend.)
 
@@ -26,32 +24,35 @@ Join Zoom Meeting
 Meeting ID: 876 1653 8385
 https://us02web.zoom.us/u/kgSAEqPOM
 
-**Week of 6/7-6/13**
+**Week of 6/14-6/20**
 
 **Sunday, June 7**
 
-* 10:00am  Click here for [Sunday Service](https://youtu.be/mpToAsb4k80)
 
-**Monday, June 8**
+**Sunday June 14**
+
+* 10:00 a.m. [Click here for the Sunday Service on Sabbath Rest.](https://youtu.be/59cKiA9TT2A)
+
+**Monday, June 15**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, June 9**
+**Tuesday, June 16**
 
-* [Devotional with Denis Beausejour on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
+No events scheduled.
 
-**Wednesday, June 10**
-* Early: [Devotional with Anna Moderwell on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
+**Wednesday, June 17**
+* Early: [Devotional with Terri Cofskey on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
-**Thursday, June 11**
+**Thursday, June 18**
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-**Friday, June 12**
+**Friday, June 19**
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Saturday, June 13**
+**Saturday, June 20**
 No events scheduled.
 
 Ohio Specific Information web site:  [https://coronavirus.ohio.gov/wps/portal/gov/covid-19/](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/)
