@@ -44,20 +44,6 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 No events scheduled.
 
-![fivefingerhand.gif](/uploads/fivefingerhand.gif)
-
-**LETS KEEP DOING THE 5 TOGETHER!**
-
-1 **HANDS**-Wash them often for 20 seconds
-
-2 **ELBOW**-Cough or sneeze into it
-
-3 **FACE**-Don't touch it!
-
-4 **FEET**-Stay more than 6ft apart
-
-5 **FEEL**-sick? Stay home
-
 **Here's what you may have missed...**
 
 Click here for our YouTube Channel to watch any videos you may have missed:
@@ -67,10 +53,9 @@ Here is a 17 minute video where Denis looks at lessons from plagues in the Bible
 
 [https://youtu.be/jrSOrTedHJM](https://youtu.be/jrSOrTedHJM)
 
-
 **UPDATE ON MCC’S RHYTHMS DURING THIS SEASON**
 
-**GOAL:** To continue to help us all stay connected and practicing healthy rhythms in a season of social isolation. 
+**GOAL:** To continue to help us all stay connected and practicing healthy rhythms in this unique season. 
 
 **APPROACH:** Practice the "Up, In and Out" rhythms of the Prince of Peace PER LUKE 6:12-19
 
@@ -87,7 +72,6 @@ Here is a 17 minute video where Denis looks at lessons from plagues in the Bible
 - Streamed services every Sunday at 10 am on the Mariemont Church YouTube Channel (recorded to view later)
 
 - Get it at this link: [https://www.youtube.com/user/MariemontCh/videos?view_as=subscriber](https://www.youtube.com/user/MariemontCh/videos?view_as=subscriber)
-
 
 - If you want the church to pray about something, email your request to Amy - [theamystaylor@gmail.com](http://theamystaylor@gmail.com)
 
@@ -125,7 +109,21 @@ Here is a 17 minute video where Denis looks at lessons from plagues in the Bible
 
 These 4 steps will keep you healthy and prevent you from spreading the virus - even in the event you didn’t know you had it - which is still a significant undefined problem with this virus.
 
+![fivefingerhand.gif](/uploads/fivefingerhand.gif)
+
+**LETS KEEP DOING THE 5 TOGETHER!**
+
+1 **HANDS**-Wash them often for 20 seconds
+
+2 **ELBOW**-Cough or sneeze into it
+
+3 **FACE**-Don't touch it!
+
+4 **FEET**-Stay more than 6ft apart
+
+5 **FEEL**-sick? Stay home
+
+
 Let’s all **focus on Jesus**, so we can live in love and not fear!
 
 But seek the welfare of the city where I have sent you into exile, and pray to the LORD on its behalf, for in its welfare you will find your welfare. Jeremiah 29:7
-
