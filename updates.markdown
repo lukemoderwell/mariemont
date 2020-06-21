@@ -41,6 +41,7 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
 **Saturday, June 27**
+
 No events scheduled.
 
 ![fivefingerhand.gif](/uploads/fivefingerhand.gif)
