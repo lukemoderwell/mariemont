@@ -11,23 +11,17 @@ layout: page-no-hero
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
-If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org).
-
-**Here's the Latest**
+If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.or
 
 
 
 * 3:00 p.m. Church Meeting (You will need a password for this meeting. Please text 513.205.4238 for password to attend.)
 
-Join Zoom Meeting
-[https://us02web.zoom.us/j/87616538385?pwd=TUcyVWk4NTZmdk1JOTlvbktMdXJKQT09](https://us02web.zoom.us/j/87616538385?pwd=TUcyVWk4NTZmdk1JOTlvbktMdXJKQT09)
-Meeting ID: 876 1653 8385
-https://us02web.zoom.us/u/kgSAEqPOM
+**Sunday, June 21**
+
+Click here for today's [Sunday Service on Rethink](https://youtu.be/yRgD8pQNsEA).
 
 **Week of 6/14-6/20**
-
-**Sunday, June 7**
-
 
 **Sunday June 14**
 
