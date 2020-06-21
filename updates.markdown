@@ -7,21 +7,17 @@ heading: Stay up to date with these updates
 layout: page-no-hero
 ---
 
-## Community Updates
+## Updates
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.or
 
-**Sunday, June 21**
+**Week of 6/21-6/27**
 
-Click here for today's [Sunday Service on Rethink](https://youtu.be/yRgD8pQNsEA).
+**Sunday June 21**
 
-**Week of 6/14-6/20**
-
-**Sunday June 14**
-
-* 10:00 a.m. [Click here for the Sunday Service on Sabbath Rest.](https://youtu.be/59cKiA9TT2A)
+* 10:00 a.m. [Click here for today's Sunday Service on Rethink](https://youtu.be/yRgD8pQNsEA).
 
 **Monday, June 22**
 
