@@ -53,8 +53,7 @@ Here is a 17 minute video where Denis looks at lessons from plagues in the Bible
 
 [https://youtu.be/jrSOrTedHJM](https://youtu.be/jrSOrTedHJM)
 
-
-7. OUR HEALTH PROTOCOL:
+OUR HEALTH PROTOCOL:
 
    a. Wash hands with soap or 60% alcohol aggressively - for 20 seconds (how long it takes to say the Lord's Prayer) before starting a new meeting, after entering a new location, before eating, after touching someone or a wet surface, after coughing or sneezing or of course, after using the toilet.
 
