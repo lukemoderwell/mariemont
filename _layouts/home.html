@@ -6,16 +6,16 @@ layout: default
 
 <div class="home">
 
-  <div class="jumbotron">
+  <!-- <div class="jumbotron">
     <div class="jumbotron_content" hidden="false">
       <div class="home_intro" style="z-index: 1; padding: 16px;">
         <h1>{{ page.heading }}</h1>
         <p>{{ page.content }}</p>
         <div class="home_buttonGroup">
           <a href="/about" class="btn btn--secondary">Learn More</a>
-          <a id="watchButton" class="btn btn--primary">Watch COVID-19 PSA</a>
-          <!-- <a href="https://www.surveymonkey.com/r/MCC-Discipleship-2020" target="_blank" class="btn btn--secondary">Take
-            The 2020 Discipleship Survey</a> -->
+          <a id="watchButton" class="btn btn--primary">Watch Welcome Video</a>
+          <a href="https://www.surveymonkey.com/r/MCC-Discipleship-2020" target="_blank" class="btn btn--secondary">Take
+            The 2020 Discipleship Survey</a>
         </div>
       </div>
       <div class="jumbotron_teaser">
@@ -27,26 +27,28 @@ layout: default
       </div>
     </div>
     <div class="jumbotron_video">
-      <!-- <video id="mainVideo" width="100%" preload="metadata" data-aspect-ratio="1.777777778" controls
-        src="https://d2tzsnkqeb86y7.cloudfront.net/mcc-explainer-video.mp4" allowfullscreen> -->
+      <video id="mainVideo" width="100%" preload="metadata" data-aspect-ratio="1.777777778" controls
+        src="https://d2tzsnkqeb86y7.cloudfront.net/mcc-explainer-video.mp4" allowfullscreen>
       <video id="mainVideo" width="100%" preload="auto" data-aspect-ratio="1.777777778" controls
         src="https://mccsermonaudio.s3.us-east-2.amazonaws.com/Sermon+Videos/psa-out.mp4" allowfullscreen>
-    </div>
-  </div>
-  <!-- <section class="home_hero">
-    <div class="home_intro">
-      <h1>{{ page.heading }}</h1>
-      <p>{{ page.content }}</p>
-      <div class="home_buttonGroup">
-        <a href="{{ current_sermon.brochure_file }}" class="btn btn--secondary">Latest Update</a>
-        <a href="/about" class="btn btn--primary">Learn More</a>
       </div>
-      <div style="text-align: center;>
-        {% include alert.html content="Sign Up For Family Camp" url="https://docs.google.com/forms/d/e/1FAIpQLSfYId3DNVYzEvI_E-tfcAxNlMSs0kSf0rJUN16vVg7rnhqcpQ/viewform" %}
-      </div>
-    </div>
+    </div> -->
+  <section class="home_hero">
     <div class="home_hero_img" style="background-image: url('{{ page.hero_image }}');"></div>
-  </section> -->
+    <div class="home_intro">
+      <div>
+        <h1>{{ page.heading }}</h1>
+        <p>{{ page.content }}</p>
+        <div class="home_buttonGroup">
+          <!-- <a href="{{ current_sermon.brochure_file }}" class="btn btn--secondary">Latest Update</a> -->
+          <a href="/about" class="btn btn--primary">Learn More</a>
+        </div>
+      </div>
+      <!-- <div style="text-align: center;>
+        {% include alert.html content="Sign Up For Family Camp" url="https://docs.google.com/forms/d/e/1FAIpQLSfYId3DNVYzEvI_E-tfcAxNlMSs0kSf0rJUN16vVg7rnhqcpQ/viewform" %} -->
+      <!-- </div> -->
+    </div>
+  </section>
   <div class="container">
     <section class="featSermon">
       <div class="featSermon_img">
