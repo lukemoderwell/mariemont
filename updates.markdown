@@ -53,49 +53,6 @@ Here is a 17 minute video where Denis looks at lessons from plagues in the Bible
 
 [https://youtu.be/jrSOrTedHJM](https://youtu.be/jrSOrTedHJM)
 
-**UPDATE ON MCC’S RHYTHMS DURING THIS SEASON**
-
-**GOAL:** To continue to help us all stay connected and practicing healthy rhythms in this unique season. 
-
-**APPROACH:** Practice the "Up, In and Out" rhythms of the Prince of Peace PER LUKE 6:12-19
-
-**"LIFESTYLE WITH GOD” ACTIVITIES MENU:**
-
-- Keep your quiet time as a top priority - commune with Abba
-
-- Devotional  every Tuesday at NOON on Mariemont Church (recorded to view later)
-
-- Worship led by Raz Fridays at 10 AM on Mariemont Church Facebook Page (recorded to view later)
-
-**“LIFESTYLE WITH THE CHURCH” ACTIVITIES MENU:**
-
-- Streamed services every Sunday at 10 am on the Mariemont Church YouTube Channel (recorded to view later)
-
-- Get it at this link: [https://www.youtube.com/user/MariemontCh/videos?view_as=subscriber](https://www.youtube.com/user/MariemontCh/videos?view_as=subscriber)
-
-- If you want the church to pray about something, email your request to Amy - [theamystaylor@gmail.com](http://theamystaylor@gmail.com)
-
-**“LIFESTYLE WITH NEIGHBORS” ACTIVITIES MENU:**
-
-- Get out and walk - pray for neighbors - if people are out - say hello and ask how they are doing
-
-- Ask if they need prayer and pray for people - keep a safe distance!
-
-- Leave notes on neighbors doors (especially elderly) with cell phone and your willingness to run errands or pray
-
-**NEWS UPDATE**
-
-1. SUNDAY SERVICE: Our service will be on our YouTube Channel at 10AM - please follow this link: [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh). You can replay the service any time if you cannot make it to participate at 10AM.
-
-2. MEETINGS IN PARISH CENTER: We are curtailing all in-person meetings at the Parish Center The only exceptions will be meetings deemed absolutely necessary and if the meeting attendees can meet health care protocols.
-
-3. SMALL GROUP MEETINGS: We are curtailing all small group in-person meetings. If your group will meet by Zoom, please email [terri@mariemontchurch.org](http://terri@mariemontchurch.org)  the links and times and she will post them so we can welcome people seeking community. Please download the Zoom app for a better viewing experience.
-
-4. COMMUNITY HELP LINE: If you have a need during this crisis, please email us at [help@mariemontchurch.org](http://help@mariemontchurch.org) and we will do our best to reply within an hour Monday-Friday between 9AM and 5PM and as soon as possible after normal business hours.
-
-5. TEMPORARY OFFICE SPACE:  Many have been displaced to work at home and have no suitable place to work. We have a limited number of spaces for work and free internet. Please send a request to [mark@mariemontchurch.org](http://mark@mariemontchurch.org) and we will confirm with you that we have a safe place for you within 24 hours. You must be in good health and willing to observe our health protocol.
-
-6. PRAYER MEETINGS: We have a prayer meeting - Wednesdays at 7:00-8:00PM on the front porch, weather permitting. We will be practicing social distancing. Please wear masks in honor of others. 
 
 7. OUR HEALTH PROTOCOL:
 
