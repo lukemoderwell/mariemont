@@ -11,13 +11,16 @@ layout: page-no-hero
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
-If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.or
+If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
 
-**Week of 6/21-6/27**
 
 **Sunday, June 28**
 
-Please join us this week, Sunday, June 28, at 6 p.m. for a picnic behind the Parish Center on Plainville Road before the worship service. Bring food for your family, chairs, and a blanket. Worship will begin at 7 p.m. in the church parking lot behind the Parish Center. 
+* 10:00 a.m. [Click here for today's Sunday Service on Rethink: Who Is Jesus?](https://youtu.be/BVRsb0ZlqJM)
+
+Please join us today, Sunday, June 28, at 6 p.m. for a picnic behind the Parish Center on Plainville Road before the worship service. Bring food for your family, chairs, and a blanket. Worship will begin at 7 p.m. in the church parking lot behind the Parish Center. 
+
+**Week of 6/21-6/27**
 
 **Sunday June 21**
 
