@@ -1,6 +1,7 @@
 ---
 title: Updates
 date: 2020-03-12 12:09:00 -04:00
+bg_color: "\n"
 download:
   file: "/uploads/PastedGraphic-1-e17753.png"
 heading: Stay up to date with these updates
@@ -18,6 +19,7 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 * 10:00 a.m. [Click here for today's Sunday Service on Rethink: Who Is Jesus?](https://youtu.be/BVRsb0ZlqJM)
 
+THIS EVENT HAS BEEN CANCELLED!
 Please join us today, Sunday, June 28, at 6 p.m. for a picnic behind the Parish Center on Plainville Road before the worship service. Bring food for your family, chairs, and a blanket. Worship will begin at 7 p.m. in the church parking lot behind the Parish Center. 
 
 **Week of 6/21-6/27**
