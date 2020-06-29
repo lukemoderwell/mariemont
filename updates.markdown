@@ -2,6 +2,7 @@
 title: Updates
 date: 2020-03-12 12:09:00 -04:00
 bg_color: "\n"
+hero_image: "/uploads/Happy-Independence-Day.jpg"
 download:
   file: "/uploads/PastedGraphic-1-e17753.png"
 heading: Stay up to date with these updates
@@ -46,7 +47,7 @@ Please join us today, Sunday, June 28, at 6 p.m. for a picnic behind the Parish 
 
 **Saturday, July 4**
 
-[https://images.app.goo.gl/gHpQS1tTL1S6WsxT8](https://images.app.goo.gl/gHpQS1tTL1S6WsxT8)
+
 
 No events scheduled.
 
