@@ -2,7 +2,8 @@
 title: Updates
 date: 2020-03-12 12:09:00 -04:00
 bg_color: "\n"
-hasHero: false
+hero_image: "/uploads/Happy-Independence-Day.jpg"
+hasHero: true
 download:
   file: "/uploads/PastedGraphic-1-e17753.png"
 heading: Stay up to date with these updates
