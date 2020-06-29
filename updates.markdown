@@ -49,7 +49,6 @@ Please join us today, Sunday, June 28, at 6 p.m. for a picnic behind the Parish 
 **Saturday, July 4**
 
 **Happy Independence Day!**
-
 No events scheduled.
 
 **Here's what you may have missed...**
