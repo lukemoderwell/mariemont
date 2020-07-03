@@ -31,10 +31,11 @@ Please join us today, Sunday, June 28, at 6 p.m. for a picnic behind the Parish 
 
 **Tuesday, June 30**
 
-* Early: [Devotional on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
+No events scheduled.
 
 **Wednesday, July 1**
 
+* Early: [Devotional on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
 **Thursday, July 2**
