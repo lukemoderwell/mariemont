@@ -20,40 +20,32 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 * 10:00 a.m. [Click here for today's Sunday Service on Rethink: Why Did Jesus Die?](https://youtu.be/7iaECrFiw0c)
 
-**Week of 6/28-7/4**
+**Week of 7/6-7/11**
 
-**Sunday, June 28**
-
-* 10:00 a.m. [Click here for today's Sunday Service on Rethink: Who Is Jesus?](https://youtu.be/BVRsb0ZlqJM)
-
-THIS EVENT HAS BEEN CANCELLED!
-Please join us today, Sunday, June 28, at 6 p.m. for a picnic behind the Parish Center on Plainville Road before the worship service. Bring food for your family, chairs, and a blanket. Worship will begin at 7 p.m. in the church parking lot behind the Parish Center. 
-
-**Monday, June 29**
+**Monday, July 6**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, June 30**
+**Tuesday, July 7**
 
 No events scheduled.
 
-**Wednesday, July 1**
+**Wednesday, July 8**
 
 * Early: [Devotional on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
-**Thursday, July 2**
+**Thursday, July 9**
 
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-**Friday, July 3**
+**Friday, July 10**
 
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Saturday, July 4**
+**Saturday, July 11**
 
-**Happy Independence Day!**
 No events scheduled.
 
 **Here's what you may have missed...**
