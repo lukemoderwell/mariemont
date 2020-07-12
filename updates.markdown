@@ -16,9 +16,9 @@ If you are new to our online church community, we would love to pray for you and
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
 
-**Today, Sunday, July 5**
+**Today, Sunday, July 12**
 
-* 10:00 a.m. [Click here for today's Sunday Service on Rethink: Why Did Jesus Die?](https://youtu.be/7iaECrFiw0c)
+* 10:00 a.m. [Click here for today's Sunday Service on Rethink: Is the Bible Trustworthy?](https://youtu.be/QdnEq7H3TJA)
 
 **Week of 7/6-7/11**
 
