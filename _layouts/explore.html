@@ -11,28 +11,32 @@ layout: default
     </div>
     <div class="jumbotron_teaser">
       <div class="jumbotron_teaser_overlay"></div>
-      <video class="jumbotron_teaser_video" preload="auto" poster="https://s3.us-east-2.amazonaws.com/lukemoderwell/mcc/explore.jpg" autoplay="autoplay" loop="loop" muted="true" playsinline="true" src="https://s3.us-east-2.amazonaws.com/lukemoderwell/mcc/MCC_Explore_WebBanner_v01.mp4">
+      <video class="jumbotron_teaser_video" preload="auto"
+        poster="https://s3.us-east-2.amazonaws.com/lukemoderwell/mcc/explore.jpg" autoplay="autoplay" loop="loop"
+        muted="true" playsinline="true"
+        src="https://s3.us-east-2.amazonaws.com/lukemoderwell/mcc/MCC_Explore_WebBanner_v01.mp4">
       </video>
     </div>
   </div>
   <div class="jumbotron_video">
-    <video id="mainVideo" width="100%" preload="metadata" data-aspect-ratio="1.777777778" controls src="https://s3.us-east-2.amazonaws.com/lukemoderwell/mcc/MCC+Draft+2.mp4" allowfullscreen>
+    <video id="mainVideo" width="100%" preload="metadata" data-aspect-ratio="1.777777778" controls
+      src="https://s3.us-east-2.amazonaws.com/lukemoderwell/mcc/MCC+Draft+2.mp4" allowfullscreen>
   </div>
-  
+
 </div>
 <div class="container">
   <h3 class="page_heading page_heading--noBg">Elders</h3>
   <div class="elders">
     {% assign elders = site.people | where: "is_elder", true %}
     {% for elder in elders %}
-      <div class="media">
-        <img class="media-img" src="{{ elder.image }}"/>
-        <div class="media-content">
-          <h4 class="media-title">{{ elder.name }}</h4>
-          <h5 class="media-subtitle">{{ elder.position }}</h5>
-          <p>{{ elder.content | markdownify }}</p>
-        </div>
+    <div class="media">
+      <img class="media-img" src="{{ elder.image }}" />
+      <div class="media-content">
+        <h4 class="media-title">{{ elder.name }}</h4>
+        <h5 class="media-subtitle">{{ elder.position }}</h5>
+        <p>{{ elder.content | markdownify }}</p>
       </div>
+    </div>
     {% endfor %}
   </div>
 </div>
@@ -61,10 +65,10 @@ layout: default
       video.play();
     }
   }
-  
+
   // mobile
   window.innerWidth > 480 ? aspectRatioResizer(aspectRatioUnits) : '';
-  window.innerWidth < 480 ? video.setAttribute('height', '480')  : '';
+  window.innerWidth < 480 ? video.setAttribute('height', '480') : '';
 
-  btn.addEventListener('click', revealVideo);
+  // btn.addEventListener('click', revealVideo);
 </script>

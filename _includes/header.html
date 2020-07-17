@@ -16,7 +16,22 @@
             <a href="/updates">Updates</a>
         </nav>
         {% include mobile-nav.html %}
-        <a href="https://www.youtube.com/user/MariemontCh/videos?view=0&sort=dd&flow=grid" target="_blank"
-            class="badge header_badge">Watch Latest Sermon</a>
+        <a id="stream-btn" href="https://www.youtube.com/user/MariemontCh/videos?view=0&sort=dd&flow=grid"
+            target="_blank" class="badge header_badge">Watch Latest Sermon</a>
     </div>
+    <script>
+        function isStreaming() {
+            const btn = document.getElementById('stream-btn');
+            fetch('https://api.boxcast.com/channels/jabw5gnjrjjzitkrjjpq/broadcasts?q=timeframe:current')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.length > 0) {
+                        btn.setAttribute('href', '/livestream');
+                        btn.innerText = 'Watch Live Stream'
+                        btn.classList.add('live')
+                    }
+                })
+        }
+        document.addEventListener('DOMContentLoaded', isStreaming);
+    </script>
 </header>

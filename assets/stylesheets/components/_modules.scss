@@ -17,16 +17,19 @@ html {
   box-sizing: border-box;
 }
 
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
-body { 
+body {
   background: #fff;
   color: $color--gray;
   font-family: $body-font;
@@ -36,7 +39,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-audio, embed, img {
+audio,
+embed,
+img {
   max-width: 100%;
 }
 
@@ -44,32 +49,32 @@ p {
   line-height: 1.55;
 }
 
-p + p {
+p+p {
   margin-top: $unit-4;
 }
 
 h1 {
-  font-size: $fs-7; 
+  font-size: $fs-7;
 }
 
 h2 {
-  font-size: $fs-6; 
+  font-size: $fs-6;
 }
 
 h3 {
-  font-size: $fs-5; 
+  font-size: $fs-5;
 }
 
 h4 {
-  font-size: $fs-4; 
+  font-size: $fs-4;
 }
 
-a { 
-  color: $color--blue; 
-  text-decoration: none; 
+a {
+  color: $color--blue;
+  text-decoration: none;
 
   &:hover {
-    cursor: pointer; 
+    cursor: pointer;
   }
 }
 
@@ -78,7 +83,7 @@ strong {
 }
 
 .main {
-  display: block; 
+  display: block;
   padding-top: 120px;
   line-height: 1.45;
 
@@ -88,14 +93,20 @@ strong {
 }
 
 .badge {
-  max-height: 26px; 
-  padding: 14px 20px 26px;  
+  max-height: 26px;
+  padding: 14px 20px 26px;
   font-family: $sans;
-  font-size: 14px; 
+  font-size: 14px;
   font-weight: 600;
   text-transform: uppercase;
-  background: $color-mcc-blue; 
-  color: $color--white; 
-  letter-spacing: 1px; 
+  background: $color-mcc-blue;
+  color: $color--white;
+  letter-spacing: 1px;
   border-radius: 1000px;
+  border: 1px solid rgba(0, 0, 0, 0);
+  transition: all .25s ease;
+
+  &:hover {
+    opacity: .9;
+  }
 }
