@@ -16,35 +16,34 @@ If you are new to our online church community, we would love to pray for you and
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
 
-**Today, Sunday, July 12**
+**Today, Sunday, July 19**
 
-* 10:00 a.m. [Click here for today's Sunday Service on Rethink: Is the Bible Trustworthy?](https://youtu.be/QdnEq7H3TJA)
+* 10:00 a.m. [Click here for today's Sunday Service on Rethink:How Do I Follow Jesus?](https://youtu.be/QdnEq7H3TJA)
 
-**Week of 7/13-7/18**
+**Week of 7/20-7/25**
 
-**Monday, July 13**
+**Monday, July 20**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, July 14**
+**Tuesday, July 21**
 
 No events scheduled.
 
-**Wednesday, July 15**
+**Wednesday, July 22**
 
-* Early: [Devotional on MCC's YouTube Channel](https://www.youtube.com/user/MariemontCh)
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
-**Thursday, July 16**
+**Thursday, July 23**
 
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-**Friday, July 17**
+**Friday, July 24**
 
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Saturday, July 18**
+**Saturday, July 25**
 
 No events scheduled.
 
