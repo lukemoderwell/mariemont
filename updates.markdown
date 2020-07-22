@@ -45,6 +45,8 @@ No events scheduled.
 
 **Saturday, July 25**
 
+No events scheduled.
+
 **Sunday, July 26**
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
@@ -52,8 +54,6 @@ No events scheduled.
 * 6:00 p.m. Picnic behind the Parish Center: Bring food and drinks for your family, chairs, and a blanket.
 
 * 7:00 p.m. Outdoor Worship behind the Parish Center
-
-No events scheduled.
 
 **Here's what you may have missed...**
 
