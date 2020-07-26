@@ -26,10 +26,10 @@
                 .then(response => response.json())
                 .then(data => {
                     if (data.length > 0) {
-                        for (const btn in btns) {
-                            btns[btn].setAttribute('href', '/livestream');
-                            btns[btn].innerText = 'Watch Live Stream'
-                            btns[btn].classList.add('live')
+                        btns.forEach(btn => {
+                            btn.setAttribute('href', '/livestream');
+                            btn.innerText = 'Watch Live Stream'
+                            btn.classList.add('live')
                         }
                     }
                 })
