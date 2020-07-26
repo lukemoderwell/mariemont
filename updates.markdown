@@ -16,9 +16,9 @@ If you are new to our online church community, we would love to pray for you and
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
 
-**Sunday, July 19**
+**Sunday, July 26**
 
-* 10:00 a.m. Click here for today's Sunday Service on [Rethink: How Do I Follow Jesus?](https://youtu.be/rV9_xho4PJs)
+* 9:00 a.m. Click here for today's livestream Sunday Service on [Rethink: What Is the Gospel of the Kingdom?](https://youtu.be/wquf54O3JHQ)
 
 **Week of 7/20-7/25**
 
