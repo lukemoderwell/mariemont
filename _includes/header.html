@@ -16,19 +16,21 @@
             <a href="/updates">Updates</a>
         </nav>
         {% include mobile-nav.html %}
-        <a id="stream-btn" href="https://www.youtube.com/user/MariemontCh/videos?view=0&sort=dd&flow=grid"
+        <a data-stream-btn href="https://www.youtube.com/user/MariemontCh/videos?view=0&sort=dd&flow=grid"
             target="_blank" class="badge header_badge">Watch Latest Sermon</a>
     </div>
     <script>
         function isStreaming() {
-            const btn = document.getElementById('stream-btn');
+            const btns = document.querySelectorAll('[data-stream-btn');
             fetch('https://api.boxcast.com/channels/jabw5gnjrjjzitkrjjpq/broadcasts?q=timeframe:current')
                 .then(response => response.json())
                 .then(data => {
                     if (data.length > 0) {
-                        btn.setAttribute('href', '/livestream');
-                        btn.innerText = 'Watch Live Stream'
-                        btn.classList.add('live')
+                        for (const btn in btns) {
+                            btns[btn].setAttribute('href', '/livestream');
+                            btns[btn].innerText = 'Watch Live Stream'
+                            btns[btn].classList.add('live')
+                        }
                     }
                 })
         }
