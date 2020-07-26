@@ -1,4 +1,5 @@
-button, .btn {
+button,
+.btn {
     display: inline-block;
     padding: 12px $unit-3;
     text-align: center;
@@ -17,7 +18,7 @@ button, .btn {
 }
 
 .btn:hover {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .btn--small {
@@ -26,7 +27,7 @@ button, .btn {
 }
 
 .btn--primary {
-    background: $color-mcc-blue; 
+    background: $color-mcc-blue;
     color: $color--white;
 
     &:hover {
@@ -35,8 +36,8 @@ button, .btn {
 }
 
 .btn--secondary {
-    background: $color--white; 
-    color: $color--black; 
+    background: $color--white;
+    color: $color--black;
 
     &:hover {
         background: darken($color--white, 10%);
@@ -45,7 +46,7 @@ button, .btn {
 
 .footer_btn {
     width: 100%;
-    margin-top: 20px; 
+    margin-top: 20px;
     margin-right: 20px;
     font-size: $fs-2;
 
@@ -55,14 +56,12 @@ button, .btn {
 }
 
 .btn--hero {
-    padding: $unit-2 $unit-6; 
-    display: block; 
-    margin-left: auto; 
-    margin-right: auto;
-    max-width: 240px; 
-    font-size: $fs-4; 
+    display: block;
+    margin-bottom: 1rem;
+    max-width: 240px;
+    font-size: $fs-4;
     color: $color--white;
-    background: $color-mcc-blue; 
+    background: $color-mcc-blue;
 
     &:hover {
         background: darken($color-mcc-blue, 5%);

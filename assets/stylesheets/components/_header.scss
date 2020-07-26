@@ -129,6 +129,12 @@
   }
 }
 
-.header_badge.live {
+.header_badge.live,
+.btn.live {
   background-color: $color--green;
+
+  &:hover {
+    background-color: $color--green;
+    opacity: .9;
+  }
 }
