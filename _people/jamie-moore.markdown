@@ -1,7 +1,7 @@
 ---
 title: Jamie Moore, Discipleship and Family Pastor
 date: 2019-08-07 14:01:00 -04:00
-position: 0
+position: Discipleship and Family Pastor
 name: Jamie Moore
 is_elder: true
 image: "/uploads/0.jpg"
