@@ -1,5 +1,5 @@
 ---
-title: 'ReThink: What is the Gospel of the Kingdom'
+title: 'ReThink: What is the Gospel of the Kingdom?'
 date: 2020-07-26 09:05:00 -04:00
 series: ReThink
 week: 6
