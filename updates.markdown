@@ -16,44 +16,40 @@ If you are new to our online church community, we would love to pray for you and
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
 
-**Sunday, July 26**
+**Sunday, August 2**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on [Rethink: What Is the Gospel of the Kingdom?](https://youtu.be/wquf54O3JHQ)
-
+* 9:00 a.m. Click here for today's livestream Sunday Service on Rethink[: What Is the Church?
+](https://youtu.be/YRwdLMJK3ls)
 **Week of 7/20-7/25**
 
-**Monday, July 20**
+**Monday, August 3**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, July 21**
+**Tuesday, August 4**
 
 No events scheduled.
 
-**Wednesday, July 22**
+**Wednesday, August 5**
 
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
-**Thursday, July 23**
+**Thursday, August 6**
 
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-**Friday, July 24**
+**Friday, August 7**
 
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Saturday, July 25**
+**Saturday, August 8**
 
 No events scheduled.
 
-**Sunday, July 26**
+**Sunday, August 9**
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
-
-* 6:00 p.m. Picnic behind the Parish Center: Bring food and drinks for your family, chairs, and a blanket.
-
-* 7:00 p.m. Outdoor Worship behind the Parish Center
 
 **Here's what you may have missed...**
 
