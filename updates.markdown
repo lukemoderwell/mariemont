@@ -18,8 +18,7 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Sunday, August 9**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on Rethink[: What Is the Church?
-](https://youtu.be/YRwdLMJK3ls)
+* 9:00 a.m. Click here for today's livestream Sunday Service on [Rethink: Who Is the Holy Spirit?](https://youtu.be/c6vAXVTRvnA)https://youtu.be/c6vAXVTRvnA
 
 **Week of 8/9-8/15**
 
