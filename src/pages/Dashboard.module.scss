@@ -1,0 +1,61 @@
+.dashboard {
+}
+
+.header {
+  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  background-color: white;
+}
+
+.title,
+.date {
+  font-size: 14px;
+}
+
+.main {
+  margin: 0 auto;
+  max-width: 42rem;
+  padding: 4rem 8rem;
+}
+
+.totals {
+  display: flex;
+  justify-content: center;
+}
+
+.stat {
+  margin: 2.5rem;
+  color: white;
+  .count {
+    font-size: 64px;
+  }
+  .change {
+    font-size: 14px;
+  }
+}
+
+.summary {
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 19px;
+  line-height: 1.55;
+
+  .tag {
+    font-size: 14px;
+    text-transform: uppercase;
+    background: black;
+    padding: 0.5rem 0.75rem;
+    color: white;
+  }
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 1.5rem 0;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.75);
+  color: white;
+  font-size: 14px;
+}

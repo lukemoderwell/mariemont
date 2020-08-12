@@ -11,5 +11,5 @@ module.exports = {
     author: `Luke Moderwell`,
   },
   /* Your site config here */
-  plugins: [],
+  plugins: [`gatsby-plugin-sass`],
 }
