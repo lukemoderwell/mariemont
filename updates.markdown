@@ -20,7 +20,7 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 * 9:00 a.m. Click here for today's livestream Sunday Service on [Rethink> : What Is Eternal Life?](https://youtu.be/IAmG1eCH0fg)
 
-**Week of 8/16-8/122**
+**Week of 8/16-8/22**
 
 **Monday, August 17**
 
