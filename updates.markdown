@@ -16,11 +16,11 @@ If you are new to our online church community, we would love to pray for you and
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
 
+**Week of 8/16-8/22**
+
 **Sunday, August 16**
 
 * 9:00 a.m. Click here for today's livestream Sunday Service on [Rethink> : What Is Eternal Life?](https://youtu.be/IAmG1eCH0fg)
-
-**Week of 8/16-8/22**
 
 **Monday, August 17**
 
