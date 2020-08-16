@@ -18,36 +18,36 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Sunday, August 16**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on [Rethink> : Where Do You Go After You Die?](https://youtu.be/IAmG1eCH0fg)
+* 9:00 a.m. Click here for today's livestream Sunday Service on [Rethink> : What Is Eternal Life?](https://youtu.be/IAmG1eCH0fg)
 
-**Week of 8/9-8/15**
+**Week of 8/16-8/122**
 
-**Monday, August 10**
+**Monday, August 17**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, August 11**
+**Tuesday, August 18**
 
 No events scheduled.
 
-**Wednesday, August 12**
+**Wednesday, August 19**
 
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
-**Thursday, August 13**
+**Thursday, August 20**
 
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-**Friday, August 14**
+**Friday, August 21**
 
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Saturday, August 15**
+**Saturday, August 22**
 
 No events scheduled.
 
-**Sunday, August 16**
+**Sunday, August 23**
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
