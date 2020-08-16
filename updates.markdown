@@ -16,9 +16,9 @@ If you are new to our online church community, we would love to pray for you and
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
 
-**Sunday, August 9**
+**Sunday, August 16**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on [Rethink: Who Is the Holy Spirit?](https://youtu.be/c6vAXVTRvnA)https://youtu.be/c6vAXVTRvnA
+* 9:00 a.m. Click here for today's livestream Sunday Service on [Rethink> : Where Do You Go After You Die?](https://youtu.be/IAmG1eCH0fg)
 
 **Week of 8/9-8/15**
 
