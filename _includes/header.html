@@ -1,39 +1,50 @@
 <header class="header">
-    <!-- {% include alert.html content="Click here for latest news updates. Join our online services Sundays at 10 am." url="/updates"%} -->
-    <!--  {% include alert.html content="Join the 10 am stream" url="https://www.youtube.com/watch?v=y5jy4cp8gAA" %} -->
-    <div class="masthead">
-        <a class="home_link" href="/" alt="{{ site.title }}">
-            <img class="mcc_logo" src="/uploads/blue_mcc_logo.png" />
-            <h1 class="header_title">Mariemont Community Church</h1>
-        </a>
-        <span class="open_label">Menu</span>
-        <nav class="header_nav">
-            <a href="/about">About</a>
-            <a href="/grow">Grow &amp; Serve</a>
-            <a href="/media">Media</a>
-            <a href="https://mariemontchurch.churchcenter.com/giving" target="_blank">Give</a>
-            <a href="/connect">Connect</a>
-            <a href="/updates">Updates</a>
-        </nav>
-        {% include mobile-nav.html %}
-        <a data-stream-btn href="https://www.youtube.com/user/MariemontCh/videos?view=0&sort=dd&flow=grid"
-            target="_blank" class="badge header_badge">Watch Latest Sermon</a>
-    </div>
-    <script>
-        function isStreaming() {
-            const btns = document.querySelectorAll('[data-stream-btn');
-            fetch('https://api.boxcast.com/channels/jabw5gnjrjjzitkrjjpq/broadcasts?q=timeframe:current')
-                .then(response => response.json())
-                .then(data => {
-                    if (data.length > 0) {
-                        btns.forEach(btn => {
-                            btn.setAttribute('href', '/livestream');
-                            btn.innerText = 'Watch Live Stream'
-                            btn.classList.add('live')
-                        })
-                    }
-                })
-        }
-        document.addEventListener('DOMContentLoaded', isStreaming);
-    </script>
+  <!-- {% include alert.html content="Click here for latest news updates. Join our online services Sundays at 10 am." url="/updates"%} -->
+  <!--  {% include alert.html content="Join the 10 am stream" url="https://www.youtube.com/watch?v=y5jy4cp8gAA" %} -->
+  <div class="masthead">
+    <a class="home_link" href="/" alt="{{ site.title }}">
+      <img class="mcc_logo" src="/uploads/blue_mcc_logo.png" />
+      <h1 class="header_title">Mariemont Community Church</h1>
+    </a>
+    <span class="open_label">Menu</span>
+    <nav class="header_nav">
+      <a href="/about">About</a>
+      <a href="/grow">Grow &amp; Serve</a>
+      <a href="/media">Media</a>
+      <a
+        href="https://mariemontchurch.churchcenter.com/giving?open-in-church-center-modal=true"
+      >
+        Give</a
+      >
+      <a href="/connect">Connect</a>
+      <a href="/updates">Updates</a>
+    </nav>
+    {% include mobile-nav.html %}
+    <a
+      data-stream-btn
+      href="https://www.youtube.com/user/MariemontCh/videos?view=0&sort=dd&flow=grid"
+      target="_blank"
+      class="badge header_badge"
+      >Watch Latest Sermon</a
+    >
+  </div>
+  <script>
+    function isStreaming() {
+      const btns = document.querySelectorAll('[data-stream-btn');
+      fetch(
+        'https://api.boxcast.com/channels/jabw5gnjrjjzitkrjjpq/broadcasts?q=timeframe:current'
+      )
+        .then((response) => response.json())
+        .then((data) => {
+          if (data.length > 0) {
+            btns.forEach((btn) => {
+              btn.setAttribute('href', '/livestream');
+              btn.innerText = 'Watch Live Stream';
+              btn.classList.add('live');
+            });
+          }
+        });
+    }
+    document.addEventListener('DOMContentLoaded', isStreaming);
+  </script>
 </header>
