@@ -49,8 +49,6 @@ export default function Home() {
         }
       );
   };
-  debugger;
-  console.log(data, totalViews);
   return (
     <div className={styles.dashboard}>
       <header className={styles.header}>
