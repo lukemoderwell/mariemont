@@ -1,7 +1,7 @@
 ---
 title: 'ReThink: Who Is Jesus?'
 date: 2020-06-28 08:58:00 -04:00
-position: 105
+position: 104
 series: ReThink
 week: 2
 sermon_date: 2020-06-28 10:00:00 -04:00
