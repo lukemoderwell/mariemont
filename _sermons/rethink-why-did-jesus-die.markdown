@@ -1,7 +1,7 @@
 ---
 title: 'ReThink: Why Did Jesus Die?'
 date: 2020-07-05 08:46:00 -04:00
-position: 107
+position: 105
 series: ReThink
 week: 3
 sermon_date: 2020-07-05 10:00:00 -04:00
