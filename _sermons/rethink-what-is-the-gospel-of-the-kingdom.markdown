@@ -1,7 +1,7 @@
 ---
 title: 'ReThink: What is the Gospel of the Kingdom?'
 date: 2020-07-26 09:05:00 -04:00
-position: 106
+position: 108
 series: ReThink
 week: 6
 sermon_date: 2020-07-26 09:00:00 -04:00
