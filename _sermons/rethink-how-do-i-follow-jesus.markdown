@@ -1,7 +1,7 @@
 ---
 title: 'ReThink: How Do I Follow Jesus?'
 date: 2020-07-20 13:59:00 -04:00
-position: 107
+position: 108
 series: ReThink
 week: 5
 sermon_date: 2020-07-19 10:00:00 -04:00
