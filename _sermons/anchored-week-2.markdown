@@ -1,6 +1,7 @@
 ---
 title: 'Anchored: Week 2'
 date: 2018-06-25 14:21:00 -04:00
+position: 12
 series: Anchored
 week: 2
 sermon_date: 2018-06-24 11:00:00 -04:00

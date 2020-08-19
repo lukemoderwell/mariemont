@@ -1,6 +1,7 @@
 ---
 title: Gospel and the Idol of Comfort, Pleasure, and Sex
 date: 2020-02-26 15:39:00 -05:00
+position: 94
 series: Idols
 week: 2
 sermon_date: 2020-02-16 09:00:00 -05:00

@@ -1,6 +1,7 @@
 ---
 title: 'Kingdom Love: Week 4'
 date: 2019-07-08 15:47:00 -04:00
+position: 64
 series: Kingdom Love
 week: 4
 sermon_date: 2019-07-07 11:00:00 -04:00

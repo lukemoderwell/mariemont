@@ -1,6 +1,7 @@
 ---
 title: 'Walk the Talk with Jesus: 1'
 date: 2019-09-13 18:00:00 -04:00
+position: 73
 series: James
 week: 1
 sermon_date: 2019-09-08 11:00:00 -04:00

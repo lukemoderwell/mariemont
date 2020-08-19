@@ -1,6 +1,7 @@
 ---
 title: 'Pentecost Sunday: Giving, Serving and Sharing the Good News'
 date: 2020-05-31 09:02:00 -04:00
+position: 97
 series: Follow Me
 week: 7
 sermon_date: 2020-05-31 10:00:00 -04:00

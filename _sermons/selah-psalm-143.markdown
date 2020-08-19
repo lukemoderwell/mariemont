@@ -1,6 +1,7 @@
 ---
 title: 'Selah: Psalm 143'
 date: 2019-06-18 21:33:00 -04:00
+position: 60
 series: Selah
 week: 5
 sermon_date: 2019-06-09 11:00:00 -04:00

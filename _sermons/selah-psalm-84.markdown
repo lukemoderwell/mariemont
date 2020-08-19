@@ -1,6 +1,7 @@
 ---
 title: 'Selah: Psalm 84'
 date: 2019-05-28 09:44:00 -04:00
+position: 58
 series: Selah
 week: 4
 sermon_date: 2019-05-26 11:00:00 -04:00

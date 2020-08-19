@@ -1,6 +1,7 @@
 ---
 title: 'Advent Week 1: Hope'
 date: 2018-12-03 15:10:00 -05:00
+position: 34
 series: Anticipation
 week: 1
 sermon_date: 2018-12-02 09:00:00 -05:00

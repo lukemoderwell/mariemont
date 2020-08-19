@@ -1,6 +1,7 @@
 ---
 title: Gospel and the Idol of Image and Approval
 date: 2020-03-06 16:56:00 -05:00
+position: 7
 series: Idols
 week: 4
 sermon_date: 2020-03-01 09:00:00 -05:00

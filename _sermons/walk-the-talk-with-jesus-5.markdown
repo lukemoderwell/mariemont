@@ -1,6 +1,7 @@
 ---
 title: 'Walk the Talk with Jesus: 5'
 date: 2019-10-17 16:27:00 -04:00
+position: 79
 series: James
 week: 5
 sermon_date: 2019-10-13 11:00:00 -04:00

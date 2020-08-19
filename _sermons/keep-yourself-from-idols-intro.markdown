@@ -1,6 +1,7 @@
 ---
 title: 'Keep Yourself from Idols: Intro.'
 date: 2020-02-12 17:50:00 -05:00
+position: 91
 series: Idols
 week: 1
 sermon_date: 2020-02-09 09:00:00 -05:00

@@ -1,6 +1,7 @@
 ---
 title: Seeing Children as Arrows
 date: 2019-02-19 13:09:00 -05:00
+position: 44
 series: Building Strong Families
 week: 6
 sermon_date: 2019-02-17 00:00:00 -05:00

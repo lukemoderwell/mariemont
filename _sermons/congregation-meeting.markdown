@@ -1,6 +1,7 @@
 ---
 title: Congregation Meeting
 date: 2019-06-18 21:21:00 -04:00
+position: 59
 series: Congregation Meeting
 week: 1
 sermon_date: 2019-06-02 09:00:00 -04:00

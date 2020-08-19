@@ -1,6 +1,7 @@
 ---
 title: Training a Family on Mission
 date: 2019-02-26 17:19:00 -05:00
+position: 45
 series: Building Strong Families
 week: 7
 sermon_date: 2019-02-24 11:00:00 -05:00

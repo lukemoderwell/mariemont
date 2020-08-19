@@ -1,6 +1,7 @@
 ---
 title: 'Sermon on the Hill: Week 9'
 date: 2018-10-22 16:04:00 -04:00
+position: 28
 series: Sermon on the Hill
 week: 9
 sermon_date: 2018-10-21 23:00:00 -04:00

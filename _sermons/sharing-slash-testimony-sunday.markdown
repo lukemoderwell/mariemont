@@ -1,6 +1,7 @@
 ---
 title: Sharing/Testimony Sunday
 date: 2019-04-19 15:45:00 -04:00
+position: 52
 series: Building Strong Families
 week: 14
 sermon_date: 2019-04-14 11:00:00 -04:00

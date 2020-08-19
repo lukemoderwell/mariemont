@@ -1,6 +1,7 @@
 ---
 title: God's Design for Family
 date: 2019-01-14 15:40:00 -05:00
+position: 39
 series: Building Strong Families
 week: 1
 sermon_date: 2019-01-13 09:00:00 -05:00

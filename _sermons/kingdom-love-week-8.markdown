@@ -1,6 +1,7 @@
 ---
 title: The Father's Love
 date: 2019-08-07 15:51:00 -04:00
+position: 68
 series: The Father's Love
 week: 1
 sermon_date: 2019-08-04 11:00:00 -04:00

@@ -1,6 +1,7 @@
 ---
 title: 'Advent 2019: Week 3'
 date: 2019-12-18 13:38:00 -05:00
+position: 86
 series: 'Ruth: The Christmas Before Christmas'
 week: 3
 sermon_date: 2019-12-15 11:00:00 -05:00

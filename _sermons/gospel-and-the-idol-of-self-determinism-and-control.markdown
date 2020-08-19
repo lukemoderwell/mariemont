@@ -1,6 +1,7 @@
 ---
 title: Gospel and the Idol of Self-Determinism and Control
 date: 2020-02-26 16:10:00 -05:00
+position: 93
 series: Idols
 week: 3
 sermon_date: 2020-02-23 11:00:00 -05:00

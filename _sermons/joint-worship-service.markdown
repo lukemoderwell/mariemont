@@ -1,6 +1,7 @@
 ---
 title: Joint Worship Service
 date: 2019-08-23 18:53:00 -04:00
+position: 70
 series: Joint Worship
 week: 1
 sermon_date: 2019-08-18 10:00:00 -04:00

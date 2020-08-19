@@ -1,6 +1,7 @@
 ---
 title: 'Anchored: Week 3'
 date: 2018-07-03 12:05:00 -04:00
+position: 13
 series: Anchored
 week: 3
 sermon_date: 2018-07-01 09:00:00 -04:00

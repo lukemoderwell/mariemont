@@ -1,6 +1,7 @@
 ---
 title: Multi-Generational Thinking
 date: 2019-01-29 18:25:00 -05:00
+position: 41
 series: Building Strong Families
 week: 3
 sermon_date: 2019-01-27 09:00:00 -05:00

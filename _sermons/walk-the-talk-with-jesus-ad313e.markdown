@@ -1,6 +1,7 @@
 ---
 title: 'Walk the Talk with Jesus: 8'
 date: 2019-11-10 10:48:00 -05:00
+position: 82
 series: James
 week: 8
 sermon_date: 2019-11-03 11:00:00 -05:00

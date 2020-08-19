@@ -1,6 +1,7 @@
 ---
 title: Resurrection Sunday 2020
 date: 2020-04-12 10:06:00 -04:00
+position: 0
 series: Resurrection Sunday
 sermon_date: 2020-04-12 10:00:00 -04:00
 speaker: Denis Beausejour

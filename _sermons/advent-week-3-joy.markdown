@@ -1,6 +1,7 @@
 ---
 title: 'Advent Week 3: Joy'
 date: 2018-12-17 13:53:00 -05:00
+position: 36
 series: Anticipation
 week: 3
 sermon_date: 2018-12-16 11:00:00 -05:00

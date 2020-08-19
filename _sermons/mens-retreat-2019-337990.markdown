@@ -1,6 +1,7 @@
 ---
 title: Men's Retreat 2019
 date: 2019-10-17 16:03:00 -04:00
+position: 78
 series: Becoming Men of Presence
 week: 2
 sermon_date: 2019-10-05 10:00:00 -04:00

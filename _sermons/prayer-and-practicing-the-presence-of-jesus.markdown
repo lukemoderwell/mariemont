@@ -1,6 +1,7 @@
 ---
 title: 'Follow Me: Prayer and Practicing the Presence of Jesus'
 date: 2020-04-26 09:54:00 -04:00
+position: 99
 series: Follow Me
 week: 2
 sermon_date: 2020-04-26 10:00:00 -04:00

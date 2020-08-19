@@ -1,6 +1,7 @@
 ---
 title: 'Kingdom Love: Week 8'
 date: 2019-08-12 14:42:00 -04:00
+position: 69
 series: Kingdom Love
 week: 8
 sermon_date: 2019-08-11 11:00:00 -04:00

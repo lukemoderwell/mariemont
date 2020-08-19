@@ -1,6 +1,7 @@
 ---
 title: 'Selah: Psalm 75'
 date: 2019-05-21 10:14:00 -04:00
+position: 57
 series: Selah
 week: 3
 sermon_date: 2019-05-19 11:00:00 -04:00

@@ -1,6 +1,7 @@
 ---
 title: 'Selah: Psalm 46'
 date: 2019-05-20 18:18:00 -04:00
+position: 56
 series: Selah
 week: 2
 sermon_date: 2019-05-12 11:00:00 -04:00

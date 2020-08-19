@@ -1,6 +1,7 @@
 ---
 title: 'Sermon on the Hill: Week 1'
 date: 2018-08-27 14:16:00 -04:00
+position: 20
 series: Sermon on the Hill
 week: 1
 sermon_date: 2018-08-26 11:00:00 -04:00

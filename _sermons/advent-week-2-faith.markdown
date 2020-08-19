@@ -1,6 +1,7 @@
 ---
 title: 'Advent Week 2: Faith'
 date: 2018-12-10 14:54:00 -05:00
+position: 35
 series: Anticipation
 week: 2
 sermon_date: 2018-12-09 11:00:00 -05:00

@@ -1,6 +1,7 @@
 ---
 title: Strategy to Win the World
 date: 2019-01-29 17:52:00 -05:00
+position: 40
 series: Building Strong Families
 week: 2
 sermon_date: 2019-01-20 11:00:00 -05:00

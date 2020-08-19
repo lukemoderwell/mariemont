@@ -1,6 +1,7 @@
 ---
 title: 'Advent Week 4: Peace'
 date: 2018-12-31 10:10:00 -05:00
+position: 37
 series: Anticipation
 week: 4
 sermon_date: 2018-12-23 11:00:00 -05:00

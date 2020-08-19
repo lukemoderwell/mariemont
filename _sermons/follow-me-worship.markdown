@@ -1,6 +1,7 @@
 ---
 title: 'Follow Me: Worship'
 date: 2020-06-07 08:44:00 -04:00
+position: 102
 series: Follow Me
 week: 8
 sermon_date: 2020-06-07 10:00:00 -04:00

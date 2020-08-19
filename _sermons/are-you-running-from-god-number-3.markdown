@@ -1,6 +1,7 @@
 ---
 title: 'Are You running from God? #3'
 date: 2020-01-29 15:16:00 -05:00
+position: 88
 series: Jonah 2020 Series
 week: 3
 sermon_date: 2020-01-26 11:00:00 -05:00

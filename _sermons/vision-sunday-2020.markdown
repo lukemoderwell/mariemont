@@ -1,6 +1,7 @@
 ---
 title: Vision Sunday 2020
 date: 2020-01-13 11:34:00 -05:00
+position: 8
 series: Vision Sunday
 sermon_date: 2020-01-05 00:00:00 -05:00
 speaker: Denis Beausejour

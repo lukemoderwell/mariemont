@@ -1,6 +1,7 @@
 ---
 title: Defending Your Family from Evil
 date: 2019-04-09 16:30:00 -04:00
+position: 51
 series: Building Strong Families
 week: 13
 sermon_date: 2019-04-07 11:00:00 -04:00
