@@ -51,9 +51,9 @@ No events scheduled.
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
-* 6:00 p.m. BYO Picnic in the parking lot behind the Parish Center at MCC before the Outdoor Worship. 
+* 6:00 p.m. BYO Picnic in the parking lot behind the Parish Center at MCC before the Outdoor Worship, weather permitting.
 
-* 7:00 p.m. Outdoor Worship in the parking lot behind the Parish Center at 3908 Plainville Road.
+* 7:00 p.m. Outdoor Worship in the parking lot behind the Parish Center at 3908 Plainville Road. In case of inclement weather, we will meet inside the Parish Center auditorium with masks.
 
 **Here's what you may have missed...**
 
