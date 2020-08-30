@@ -16,44 +16,40 @@ If you are new to our online church community, we would love to pray for you and
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
 
-**Week of 8/23-8/29**
+**Week of 8/30-9/5**
 
-**Sunday, August 23**
+**Sunday, August 30**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on [Rethink: What's Next, Jesus?](https://youtu.be/vcpt_B_PLxo)
+* 9:00 a.m. Click here for today's livestream Sunday Service on [David: Why Study the Life of David?](https://youtu.be/brV8RVVukgw)
 
-**Monday, August 24**
+**Monday, August 31**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, August 25**
+**Tuesday, September 1**
 
 No events scheduled.
 
-**Wednesday, August 26**
+**Wednesday, September 2**
 
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
-**Thursday, August 27**
+**Thursday, September 3**
 
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-**Friday, August 28**
+**Friday, September 4**
 
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Saturday, August 29**
+**Saturday, September 5**
 
 No events scheduled.
 
-**Sunday, August 30**
+**Sunday, September 6**
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
-
-* 6:00 p.m. BYO Picnic in the parking lot behind the Parish Center at MCC before the Outdoor Worship, weather permitting.
-
-* 7:00 p.m. Outdoor Worship in the parking lot behind the Parish Center at 3908 Plainville Road. In case of inclement weather, we will meet inside the Parish Center auditorium with masks.
 
 **Here's what you may have missed...**
 
