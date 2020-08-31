@@ -1,5 +1,5 @@
 ---
-title: 'David: Why Study the Life of David?'
+title: 'David: What''s My Dream?'
 date: 2020-08-30 09:07:00 -04:00
 series: David
 week: 1
