@@ -2,3 +2,8 @@ node_modules
 .cache
 public
 .env.*
+_site
+_uploads
+Gemfile.lock
+.sass-cache
+.DS_Store

@@ -1,0 +1,4 @@
+# Specific branch context: all deploys from this specific branch will inherit
+# these settings.
+[context.dashboard] # 'dashboard' is a branch name
+  command = "yarn run build"
