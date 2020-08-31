@@ -1,7 +1,7 @@
 # Specific branch context: all deploys from this specific branch will inherit
 # these settings.
 [context.dashboard] # 'dashboard' is a branch name
-  command = "yarn run build"
+  command = "echo $AIRTABLE_API_KEY && yarn run build"
   publish = "public/"
   environment = { NODE_VERSION = "10.16.3" }
 
