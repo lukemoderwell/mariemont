@@ -2,3 +2,4 @@
 # these settings.
 [context.dashboard] # 'dashboard' is a branch name
   command = "yarn run build"
+  publish = "public/"
