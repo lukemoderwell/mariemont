@@ -1,25 +1,33 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import styles from './Dashboard.module.scss';
 import Select from '../components/Select';
 import data from '../../data.json';
 
 export default function Dashboard() {
   const now = new Date().getTime();
+  const dayMs = 86400 * 1000;
+  const weekMs = dayMs * 7;
+
+  const [end, setEnd] = useState(null);
+
   const sortedByDate = data.sort((a, b) => {
     return Math.abs(now - a.date_published) - Math.abs(now - b.date_published);
   });
 
-  const dayInSeconds = 86400 * 1000;
-  const weekInSeconds = dayInSeconds * 7;
-  const getViews = (arr, start = now, end = now - weekInSeconds) => {
+  useEffect(() => {
+    setEnd(now - weekMs);
+  }, []);
+
+  const getViews = (arr) => {
     let _views = 0;
     arr.forEach((item) => {
-      if (item.date_published < start && item.date_published > end) {
+      if (item.date_published < now && item.date_published > end) {
         _views += item.views;
       }
     });
     return _views;
   };
+
   return (
     <div className={styles.dashboard}>
       <header className={styles.header}>
@@ -32,7 +40,24 @@ export default function Dashboard() {
         >
           <Select
             label="Date Range"
-            options={['Last 7 Days', 'Last 30 Days', 'Last 90 Days']}
+            value={end}
+            options={[
+              {
+                label: 'Last 7 Days',
+                value: now - weekMs,
+              },
+              {
+                label: 'Last 30 Days',
+                value: now - dayMs * 30,
+              },
+              {
+                label: 'Last 90 Days',
+                value: now - dayMs * 90,
+              },
+            ]}
+            handleChange={(event) => {
+              setEnd(Number(event.target.value));
+            }}
           />
         </h4>
       </header>
