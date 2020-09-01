@@ -5,6 +5,10 @@ import data from '../../data.json';
 
 export default function Dashboard() {
   const now = new Date().getTime();
+  const sortedByDate = data.sort((a, b) => {
+    return Math.abs(now - a.date_published) - Math.abs(now - b.date_published);
+  });
+
   const dayInSeconds = 86400 * 1000;
   const weekInSeconds = dayInSeconds * 7;
   const getViews = (arr, start = now, end = now - weekInSeconds) => {
@@ -74,7 +78,9 @@ export default function Dashboard() {
           </p>
         </div> */}
       </div>
-      <div className={styles.footer}>last synced on August 17th, 2020</div>
+      <div className={styles.footer}>{`last synced on ${new Date(
+        sortedByDate[0].date_published,
+      ).toDateString()}`}</div>
     </div>
   );
 }
