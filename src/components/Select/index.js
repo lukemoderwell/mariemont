@@ -7,7 +7,7 @@ export default function Select({ label, options, value, handleChange }) {
       <label>{label}</label>
       <select value={value} onChange={handleChange}>
         {options.map((opt, index) => (
-          <option key={index} value={opt.value} selected={opt.value === value}>
+          <option key={index} value={opt.value}>
             {opt.label}
           </option>
         ))}

@@ -7,8 +7,22 @@ export default function Dashboard() {
   const now = new Date().getTime();
   const dayMs = 86400 * 1000;
   const weekMs = dayMs * 7;
+  const dateRangeOptions = [
+    {
+      label: 'Last 7 Days',
+      value: now - weekMs,
+    },
+    {
+      label: 'Last 30 Days',
+      value: now - dayMs * 30,
+    },
+    {
+      label: 'Last 90 Days',
+      value: now - dayMs * 90,
+    },
+  ];
 
-  const [end, setEnd] = useState(null);
+  const [end, setEnd] = useState('');
 
   const sortedByDate = data.sort((a, b) => {
     return Math.abs(now - a.date_published) - Math.abs(now - b.date_published);
@@ -36,25 +50,11 @@ export default function Dashboard() {
           className={styles.date}
           style={{
             marginLeft: 'auto',
-          }}
-        >
+          }}>
           <Select
             label="Date Range"
-            value={end}
-            options={[
-              {
-                label: 'Last 7 Days',
-                value: now - weekMs,
-              },
-              {
-                label: 'Last 30 Days',
-                value: now - dayMs * 30,
-              },
-              {
-                label: 'Last 90 Days',
-                value: now - dayMs * 90,
-              },
-            ]}
+            value={dateRangeOptions.find((item) => item.value === end)}
+            options={dateRangeOptions}
             handleChange={(event) => {
               setEnd(Number(event.target.value));
             }}
@@ -104,7 +104,7 @@ export default function Dashboard() {
         </div> */}
       </div>
       <div className={styles.footer}>{`last synced on ${new Date(
-        sortedByDate[0].date_published,
+        sortedByDate[0].date_published
       ).toDateString()}`}</div>
     </div>
   );
