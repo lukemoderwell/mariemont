@@ -20,6 +20,10 @@ export default function Dashboard() {
       label: 'Last 90 Days',
       value: now - dayMs * 90,
     },
+    {
+      label: 'Last 365 Days',
+      value: now - dayMs * 365,
+    },
   ];
 
   const [end, setEnd] = useState('');
