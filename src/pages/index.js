@@ -26,7 +26,7 @@ export default function Dashboard() {
     },
   ];
 
-  const [end, setEnd] = useState('');
+  const [end, setEnd] = useState(now - weekMs);
 
   const sortedByDate = data.sort((a, b) => {
     return Math.abs(now - a.date_published) - Math.abs(now - b.date_published);
