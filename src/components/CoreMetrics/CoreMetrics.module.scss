@@ -1,0 +1,36 @@
+.CoreMetrics {
+  margin-bottom: 2rem;
+}
+
+.totals {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.stat {
+  margin: 1rem 0;
+  padding: 0 1.5rem;
+  border-right: 1px solid rgba(0, 0, 0, 0.25);
+  width: 20%;
+
+  &:last-of-type {
+    padding-right: 0;
+    border: 0;
+  }
+
+  .title,
+  .change {
+    font-size: 1rem;
+    margin: 0.25rem 0;
+  }
+
+  .title {
+    color: #808899;
+  }
+
+  .count {
+    font-size: 2.4rem;
+    font-weight: 600;
+  }
+}

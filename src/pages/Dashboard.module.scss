@@ -1,8 +1,12 @@
+.dashboard {
+  margin: 0 auto;
+  max-width: 90rem;
+  padding: 1rem 8rem;
+}
+
 .header {
-  padding: .5rem 1rem;
   display: flex;
   align-items: center;
-  background-color: white;
 }
 
 .title,
@@ -10,42 +14,24 @@
   font-size: 14px;
 }
 
-.main {
-  margin: 0 auto;
-  max-width: 42rem;
-  padding: 4rem 8rem;
-}
-
-.totals {
-  display: flex;
-  justify-content: center;
-}
-
-.stat {
-  margin: 2.5rem;
-  color: white;
-
-  .count {
-    font-size: 64px;
-  }
-
-  .change {
-    font-size: 14px;
-  }
+.subtitle {
+  margin-left: 0.5rem;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.65);
 }
 
 .summary {
-  color: rgba(255, 255, 255, 0.95);
   font-size: 19px;
   line-height: 1.55;
+}
 
-  .tag {
-    font-size: 14px;
-    text-transform: uppercase;
-    background: black;
-    padding: 0.5rem 0.75rem;
-    color: white;
-  }
+.tag {
+  font-size: 14px;
+  text-transform: uppercase;
+  background: black;
+  padding: 0.5rem 0.75rem;
+  color: white;
 }
 
 .footer {
