@@ -10,7 +10,12 @@ export default function CoreMetrics({ metrics }) {
           <div className={styles.stat} key={metric.title}>
             <p className={styles.title}>{metric.title}</p>
             <span className={styles.count}>{metric.value}</span>
-            <p className={styles.change}>{metric.change}</p>
+            <p
+              className={styles.change}
+              style={{ color: metric.change >= 0 ? '#47c294' : '#ff6356' }}
+            >
+              {metric.change}%
+            </p>
           </div>
         ))}
       </div>

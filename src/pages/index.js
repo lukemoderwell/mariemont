@@ -3,6 +3,7 @@ import styles from './Dashboard.module.scss';
 import Select from '../components/Select';
 import data from '../../data.json';
 import CoreMetrics from '../components/CoreMetrics';
+import PieWidget from '../components/PieWidget';
 
 export default function Dashboard() {
   const now = new Date().getTime();
@@ -52,51 +53,100 @@ export default function Dashboard() {
     return 0;
   });
 
-  const countMetric = (arr, key = 'views') => {
+  const countMetric = (arr, key, startDate, endDate) => {
     let _count = 0;
     arr.forEach((item) => {
-      if (item.date_published < now && item.date_published > end) {
+      if (item.date_published < startDate && item.date_published > endDate) {
         _count += item[key];
       }
     });
     return _count;
   };
 
-  const averageMetric = (
-    arr,
-    key = 'average_view_percentage',
-    isPercent = false,
-  ) => {
-    debugger;
+  const averageMetric = (arr, key, startDate, endDate) => {
     let _total = 0;
     let _amount = 0;
     arr.forEach((item) => {
-      if (item.date_published < now && item.date_published > end) {
+      if (item.date_published < startDate && item.date_published > endDate) {
         _total += item[key];
         _amount += 1;
       }
     });
     const result = _total / _amount;
-    return isPercent ? `${Math.round(result * 100)}%` : Math.round(result);
+    return `${Math.ceil(result)}`;
   };
 
-  const coreMetrics = [
-    { title: 'Views', value: countMetric(data, 'views'), change: 22 },
-    { title: 'Likes', value: countMetric(data, 'likes'), change: -2 },
-    { title: 'Comments', value: countMetric(data, 'comments'), change: 3 },
+  const percentDifferent = (a, b) => {
+    return Math.round(((a - b) / ((a + b) / 2)) * 100);
+  };
+
+  const pieData = [
     {
-      title: 'Avg. View Percentage',
-      value: averageMetric(data, 'average_view_percentage', true),
-      change: 20,
+      title: 'YouTube',
+      value: countMetric(
+        data.filter((item) => item.medium === 'youtube'),
+        'views',
+        now,
+        end,
+      ),
+      color: '#fc4739',
     },
     {
-      title: 'Avg. View Duration',
-      value: averageMetric(data, 'average_view_duration', false),
-      change: 3,
+      title: 'Facebook',
+      value: countMetric(
+        data.filter((item) => item.medium === 'facebook'),
+        'views',
+        now,
+        end,
+      ),
+      color: '#4267b2',
     },
   ];
 
-  console.log(data);
+  const coreMetrics = [
+    {
+      title: 'Views',
+      value: countMetric(data, 'views', now, end),
+      change: percentDifferent(
+        countMetric(data, 'views', now, end),
+        countMetric(data, 'views', end, end - weekMs),
+      ),
+    },
+    {
+      title: 'Likes',
+      value: countMetric(data, 'likes', now, end),
+      change: percentDifferent(
+        countMetric(data, 'likes', now, end),
+        countMetric(data, 'likes', end, end - weekMs),
+      ),
+    },
+    {
+      title: 'Comments',
+      value: countMetric(data, 'comments', now, end),
+      change: percentDifferent(
+        countMetric(data, 'comments', now, end),
+        countMetric(data, 'comments', end, end - weekMs),
+      ),
+    },
+    {
+      title: 'Avg. View Percentage',
+      value: averageMetric(data, 'average_view_percentage', now, end),
+      change: percentDifferent(
+        averageMetric(data, 'average_view_percentage', now, end),
+        averageMetric(data, 'average_view_percentage', end, end - weekMs),
+      ),
+    },
+    {
+      title: 'Avg. View Duration',
+      value: averageMetric(data, 'average_view_duration', now, end),
+      change: percentDifferent(
+        averageMetric(data, 'average_view_duration', now, end),
+        averageMetric(data, 'average_view_duration', end, end - weekMs),
+      ),
+    },
+  ];
+
+  console.log(data.filter((item) => item.medium === 'facebook'));
   return (
     <div className={styles.dashboard}>
       <header className={styles.header}>
@@ -122,18 +172,17 @@ export default function Dashboard() {
       </header>
       <div className={styles.main}>
         <CoreMetrics metrics={coreMetrics} />
-        <div className={styles.summary}>
-          <span className={styles.tag}>Summary</span>
-          <p>In the past 7 days there have been</p>
+        <div style={{ maxWidth: '50%' }}>
+          <PieWidget data={pieData} />
         </div>
-        <div>
+        {/* <div>
           <span className={styles.tag}>Top 5 Most Popular Videos</span>
           {sortedByViews.slice(0, 5).map((item) => (
             <h4 key={item.id}>
               {item.title || item.description} {item.views} {item.medium}
             </h4>
           ))}
-        </div>
+        </div> */}
       </div>
     </div>
   );
