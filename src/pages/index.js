@@ -2,8 +2,9 @@ import React, { useState } from 'react';
 import styles from './Dashboard.module.scss';
 import Select from '../components/Select';
 import data from '../../data.json';
-import CoreMetrics from '../components/CoreMetrics';
+import CoreMetricsWidget from '../components/CoreMetricsWidget';
 import PieWidget from '../components/PieWidget';
+import ListWidget from '../components/ListWidget';
 
 export default function Dashboard() {
   const now = new Date().getTime();
@@ -30,8 +31,8 @@ export default function Dashboard() {
   ];
 
   const sortBy = (arr, key) => {
-    return arr.sort((a, b) => {
-      if (a[key] > b[key]) {
+    return [...arr].sort((a, b) => {
+      if (a[key] < b[key]) {
         return 1;
       }
       if (a[key] > b[key]) {
@@ -41,17 +42,7 @@ export default function Dashboard() {
     });
   };
 
-  const mostRecentVideo = sortBy(data, 'date_publihsed')[0];
-
-  const sortedByViews = data.sort((a, b) => {
-    if (a.views < b.views) {
-      return 1;
-    }
-    if (a.views > b.views) {
-      return -1;
-    }
-    return 0;
-  });
+  const topVideos = sortBy(data, 'views');
 
   const countMetric = (arr, key, startDate, endDate) => {
     let _count = 0;
@@ -146,13 +137,12 @@ export default function Dashboard() {
     },
   ];
 
-  console.log(data.filter((item) => item.medium === 'facebook'));
   return (
     <div className={styles.dashboard}>
       <header className={styles.header}>
         <h4 className={styles.title}>MCC Video Metrics </h4>
         <span className={styles.subtitle}>
-          {`updated ${new Date(mostRecentVideo.date_published).toDateString()}`}
+          {`updated ${new Date(data[0].date_published).toDateString()}`}
         </span>
         <h4
           className={styles.date}
@@ -171,18 +161,26 @@ export default function Dashboard() {
         </h4>
       </header>
       <div className={styles.main}>
-        <CoreMetrics metrics={coreMetrics} />
-        <div style={{ maxWidth: '50%' }}>
-          <PieWidget data={pieData} />
+        <CoreMetricsWidget metrics={coreMetrics} />
+        <div
+          style={{
+            display: 'grid',
+            gridTemplateColumns: '1fr 1fr',
+            gridGap: '2rem',
+          }}
+        >
+          <div>
+            <PieWidget data={pieData} />
+          </div>
+          <div>
+            <ListWidget
+              data={topVideos.filter(
+                (video) =>
+                  video.date_published <= now && video.date_published >= end,
+              )}
+            />
+          </div>
         </div>
-        {/* <div>
-          <span className={styles.tag}>Top 5 Most Popular Videos</span>
-          {sortedByViews.slice(0, 5).map((item) => (
-            <h4 key={item.id}>
-              {item.title || item.description} {item.views} {item.medium}
-            </h4>
-          ))}
-        </div> */}
       </div>
     </div>
   );

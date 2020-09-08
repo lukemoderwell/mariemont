@@ -1,8 +1,8 @@
 import React from 'react';
-import styles from './CoreMetrics.module.scss';
+import styles from './CoreMetricsWidget.module.scss';
 import Widget from '../Widget';
 
-export default function CoreMetrics({ metrics }) {
+export default function CoreMetricsWidget({ metrics }) {
   return (
     <Widget title="Core Metrics">
       <div className={styles.totals}>

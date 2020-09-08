@@ -1,0 +1,38 @@
+.list {
+  height: 375px;
+  overflow-y: auto;
+  margin-block-start: 0;
+  margin-inline-end: 0;
+  padding-inline-start: 0;
+}
+
+.listItem {
+  margin: 0;
+  padding: 1.25rem 2rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.metric {
+  margin-left: auto;
+  font-weight: 500;
+}
+
+.title {
+  margin: 0;
+  font-weight: 500;
+  max-width: 50%;
+  overflow: hidden;
+  white-space: pre;
+  text-overflow: ellipsis;
+}
+
+.medium {
+  margin-left: 0.5rem;
+  font-weight: 400;
+  text-transform: capitalize;
+  color: #808899;
+}
