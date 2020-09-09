@@ -2,19 +2,24 @@
   display: flex;
   align-items: center;
   background: white;
-  padding: 0 8rem;
+  color: #182b3a;
+  padding: 0 1rem;
   position: sticky;
   top: 0;
 
-  .title {
-    color: #182b3a;
+  @media (min-width: 1000px) {
+    padding: 0 8rem;
   }
 }
 
 .main {
   margin: 0 auto;
-  max-width: 90rem;
-  padding: 1rem 8rem;
+  padding: 1rem;
+
+  @media (min-width: 1000px) {
+    max-width: 90rem;
+    padding: 1rem 8rem;
+  }
 }
 
 .subtitle {
