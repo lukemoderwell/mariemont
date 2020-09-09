@@ -15,7 +15,7 @@ export default function CoreMetricsWidget({ metrics }) {
             <span className={styles.count}>{metric.value}</span>
             <p
               className={styles.change}
-              style={{ color: metric.change >= 0 ? '#47c294' : '#ff6356' }}
+              style={{ color: metric.change >= 0 ? '#36CA3E' : '#C10E4F' }}
             >
               {metric.change}%
             </p>

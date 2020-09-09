@@ -155,7 +155,7 @@ export default function Dashboard() {
   return (
     <div className={styles.dashboard}>
       <header className={styles.header}>
-        <h4 className={styles.title}>MCC Video Metrics </h4>
+        <h4 className={styles.title}>MCC Video Dashboard</h4>
         <span className={styles.subtitle}>
           {`updated ${new Date(data[0].date_published).toDateString()}`}
         </span>

@@ -9,7 +9,7 @@ export default function PieWidget({ data }) {
     fill: 'white',
   };
   return (
-    <Widget title="Views By Platform">
+    <Widget title="Views By Platform" className={styles.container}>
       <PieChart
         data={data}
         radius={PieChart.defaultProps.radius - 8}
@@ -17,7 +17,7 @@ export default function PieWidget({ data }) {
           dataEntry.title + ' ' + Math.round(dataEntry.percentage) + '%'
         }
         labelStyle={defaultLabelStyle}
-        style={{ maxWidth: '80%', maxHeight: '80%', marginLeft: '10%' }}
+        style={{ maxWidth: '80%', marginLeft: '10%' }}
       />
     </Widget>
   );
