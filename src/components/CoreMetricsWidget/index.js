@@ -8,7 +8,10 @@ export default function CoreMetricsWidget({ metrics }) {
       <div className={styles.totals}>
         {metrics.map((metric) => (
           <div className={styles.stat} key={metric.title}>
-            <p className={styles.title}>{metric.title}</p>
+            <p className={styles.title}>
+              {metric.title}{' '}
+              {metrics.helpText && <small>{metrics.helpText}</small>}
+            </p>
             <span className={styles.count}>{metric.value}</span>
             <p
               className={styles.change}

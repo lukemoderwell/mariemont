@@ -11,22 +11,27 @@ export default function Dashboard() {
   const dayMs = 86400 * 1000;
   const weekMs = dayMs * 7;
   const [end, setEnd] = useState(now - weekMs);
+  const [previousEnd, setPreviousEnd] = useState(end - weekMs);
   const dateRangeOptions = [
     {
       label: '7 Days',
       value: now - weekMs,
+      previous: end - weekMs,
     },
     {
       label: '30 Days',
       value: now - dayMs * 30,
+      previous: end - dayMs * 30,
     },
     {
       label: '90 Days',
       value: now - dayMs * 90,
+      previous: end - dayMs * 90,
     },
     {
       label: '365 Days',
       value: now - dayMs * 365,
+      previous: end - dayMs * 365,
     },
   ];
 
@@ -94,13 +99,23 @@ export default function Dashboard() {
     },
   ];
 
-  const coreMetrics = [
+  const averageViewDuration = averageMetric(
+    data,
+    'average_view_duration',
+    now,
+    end,
+  );
+
+  const minutes = Math.floor(averageViewDuration / 60);
+  const seconds = averageViewDuration - minutes * 60;
+
+  const coreMetricsData = [
     {
       title: 'Views',
       value: countMetric(data, 'views', now, end),
       change: percentDifferent(
         countMetric(data, 'views', now, end),
-        countMetric(data, 'views', end, end - weekMs),
+        countMetric(data, 'views', end, previousEnd),
       ),
     },
     {
@@ -108,7 +123,7 @@ export default function Dashboard() {
       value: countMetric(data, 'likes', now, end),
       change: percentDifferent(
         countMetric(data, 'likes', now, end),
-        countMetric(data, 'likes', end, end - weekMs),
+        countMetric(data, 'likes', end, previousEnd),
       ),
     },
     {
@@ -116,23 +131,23 @@ export default function Dashboard() {
       value: countMetric(data, 'comments', now, end),
       change: percentDifferent(
         countMetric(data, 'comments', now, end),
-        countMetric(data, 'comments', end, end - weekMs),
+        countMetric(data, 'comments', end, previousEnd),
       ),
     },
     {
       title: 'Avg. View Percentage',
-      value: averageMetric(data, 'average_view_percentage', now, end),
+      value: `${averageMetric(data, 'average_view_percentage', now, end)}%`,
       change: percentDifferent(
         averageMetric(data, 'average_view_percentage', now, end),
-        averageMetric(data, 'average_view_percentage', end, end - weekMs),
+        averageMetric(data, 'average_view_percentage', end, previousEnd),
       ),
     },
     {
       title: 'Avg. View Duration',
-      value: averageMetric(data, 'average_view_duration', now, end),
+      value: `${minutes}m ${seconds}s`,
       change: percentDifferent(
         averageMetric(data, 'average_view_duration', now, end),
-        averageMetric(data, 'average_view_duration', end, end - weekMs),
+        averageMetric(data, 'average_view_duration', end, previousEnd),
       ),
     },
   ];
@@ -156,12 +171,17 @@ export default function Dashboard() {
             options={dateRangeOptions}
             handleChange={(event) => {
               setEnd(Number(event.target.value));
+              setPreviousEnd(
+                dateRangeOptions.find(
+                  (option) => option.value === Number(event.target.value),
+                )['previous'],
+              );
             }}
           />
         </h4>
       </header>
       <div className={styles.main}>
-        <CoreMetricsWidget metrics={coreMetrics} />
+        <CoreMetricsWidget metrics={coreMetricsData} />
         <div
           style={{
             display: 'grid',
