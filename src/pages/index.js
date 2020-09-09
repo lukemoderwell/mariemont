@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import styles from './Dashboard.module.scss';
 import Select from '../components/Select';
 import data from '../../data.json';
@@ -152,6 +152,13 @@ export default function Dashboard() {
     },
   ];
 
+  useEffect(() => {
+    const closest = [...dateRangeOptions].sort(
+      (a, b) => Math.abs(end - a.value) - Math.abs(end - b.value),
+    );
+    setPreviousEnd(closest[0].previous);
+  }, [end]);
+
   return (
     <div className={styles.dashboard}>
       <header className={styles.header}>
@@ -171,11 +178,6 @@ export default function Dashboard() {
             options={dateRangeOptions}
             handleChange={(event) => {
               setEnd(Number(event.target.value));
-              setPreviousEnd(
-                dateRangeOptions.find(
-                  (option) => option.value === Number(event.target.value),
-                )['previous'],
-              );
             }}
           />
         </h4>
