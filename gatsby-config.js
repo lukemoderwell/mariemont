@@ -11,5 +11,14 @@ module.exports = {
     author: `Luke Moderwell`,
   },
   /* Your site config here */
-  plugins: [`gatsby-plugin-sass`],
+  plugins: [
+    `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`Inter`],
+        display: 'swap',
+      },
+    },
+  ],
 };

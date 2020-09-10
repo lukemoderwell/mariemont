@@ -16,6 +16,32 @@
   font-size: 1rem;
 }
 
+.link {
+  margin-left: 0.5rem;
+  font-weight: 400;
+  text-transform: capitalize;
+  color: #808899;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+
+  &:hover,
+  &:hover svg {
+    cursor: pointer;
+    color: rgb(54, 202, 62);
+    fill: rgb(54, 202, 62);
+  }
+
+  &:visited {
+    opacity: 0.75;
+  }
+}
+
+.linkIcon {
+  fill: #808899;
+  margin-left: 4px;
+}
+
 .metric {
   margin-left: auto;
   font-weight: 500;
@@ -28,11 +54,4 @@
   overflow: hidden;
   white-space: pre;
   text-overflow: ellipsis;
-}
-
-.medium {
-  margin-left: 0.5rem;
-  font-weight: 400;
-  text-transform: capitalize;
-  color: #808899;
 }
