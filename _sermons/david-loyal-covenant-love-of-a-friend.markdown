@@ -1,5 +1,5 @@
 ---
-title: 'David: Loyal Covenant, Love of a Friend'
+title: 'David: Loyal Covenant Love of a Friend'
 date: 2020-09-13 09:09:00 -04:00
 series: David
 week: 3
