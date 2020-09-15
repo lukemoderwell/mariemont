@@ -9,7 +9,9 @@ export default function ListWidget({ data }) {
       <ul className={styles.list}>
         {data.map((item) => (
           <li className={styles.listItem} key={item.id}>
-            <h4 className={styles.title}>{item.title || item.description}</h4>
+            <h4 className={styles.title}>
+              {item.title || item.description || 'Untitled Video'}
+            </h4>
             <a href={item.source} target="_blank" className={styles.link}>
               {item.medium}
               <svg
