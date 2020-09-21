@@ -45,12 +45,14 @@
 .metric {
   margin-left: auto;
   font-weight: 500;
+  min-width: 4rem;
+  padding-left: 1rem;
 }
 
 .title {
   margin: 0;
   font-weight: 500;
-  max-width: 50%;
+  max-width: 18.75rem;
   overflow: hidden;
   white-space: pre;
   text-overflow: ellipsis;
