@@ -78,8 +78,8 @@ export default function Dashboard() {
 
   const pieData = [
     {
-      title: 'YouTube',
-      value: countMetric(
+      label: 'YouTube',
+      angle: countMetric(
         data.filter((item) => item.medium === 'youtube'),
         'views',
         now,
@@ -88,8 +88,8 @@ export default function Dashboard() {
       color: '#fc4739',
     },
     {
-      title: 'Facebook',
-      value: countMetric(
+      label: 'Facebook',
+      angle: countMetric(
         data.filter((item) => item.medium === 'facebook'),
         'views',
         now,

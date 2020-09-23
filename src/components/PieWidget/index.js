@@ -1,24 +1,22 @@
 import React from 'react';
-import { PieChart } from 'react-minimal-pie-chart';
+import { RadialChart } from 'react-vis';
 import Widget from '../Widget';
 import styles from './PieWidget.module.scss';
 
 export default function PieWidget({ data }) {
+  console.log(data);
   const defaultLabelStyle = {
-    fontSize: '5px',
-    fill: 'white',
+    fontSize: '18px',
   };
   return (
     <Widget title="Views By Platform" className={styles.container}>
-      <PieChart
+      <RadialChart
+        showLabels={true}
         data={data}
-        radius={PieChart.defaultProps.radius - 8}
-        label={({ dataEntry }) =>
-          dataEntry.title + ' ' + Math.round(dataEntry.percentage) + '%'
-        }
-        labelStyle={defaultLabelStyle}
-        style={{ maxWidth: '80%', marginLeft: '10%' }}
-      />
+        height={300}
+        width={300}
+        labelsStyle={defaultLabelStyle}
+      ></RadialChart>
     </Widget>
   );
 }
