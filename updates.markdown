@@ -15,38 +15,38 @@ If you are new to our online church community, we would love to pray for you and
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
 
-**Week of 9/20-9/26**
+**Week of 9/27-10/3**
 
-**Sunday, September 20**
+**Sunday, September 27**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on [David: How to KNow God's Will and Timing](https://youtu.be/8Ztgmoxwgcs) 
+* 9:00 a.m. Click here for today's livestream Sunday Service on [David: Kingdom Leadership](https://youtu.be/S2U3KgRV9YM) 
 
-**Monday, September 21**
+**Monday, September 28**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, September 22**
+**Tuesday, September 29**
 
 No events scheduled.
 
-**Wednesday, September 23**
+**Wednesday, September 30**
 
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
-**Thursday, September 24**
+**Thursday, October 1**
 
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 
-**Friday, September 25**
+**Friday, October 2**
 
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Saturday, September 26**
+**Saturday, October 3**
 
 No events scheduled.
 
-**Sunday, September 27**
+**Sunday, October 4**
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
