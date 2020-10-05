@@ -38,11 +38,11 @@ No events scheduled.
 **Thursday, October 8**
 
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
+* 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
 **Friday, October 9**
 
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
-* 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
 **Saturday, October 10**
 
