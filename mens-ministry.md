@@ -11,27 +11,46 @@ hasForm: false
 layout: page
 ---
 
-Jesus was a man’s man, and becoming like him means we will lay down our lives for the benefit of those around us.
+We are a fellowship of men seeking to forge a Christian Brotherhood by ordering our lives under the comprehensive rule of God so that we can conquer life’s battles shoulder to shoulder.
 
-We believe God has called men to provide proactive and sacrificial leadership in their families, in the church, at their places of employment, and in the community.
 
-For us, that looks like all men realizing their sonship to the Father, married men loving their wives well and discipling their children toward a relationship with Christ, and single men devoted to the church and Kingdom building.
+**We seek to be men that:**
 
-Here are some of the things we do:
+* Hunger for more of God’s Word (Deut 6:6-9)
 
-* **Men's Retreat**: 
+* Worship and obey the Father, Son, and Holy Spirit with everything we have. (Deut 6:5)
 
-We had an awesome retreat on October 4-5,2019 as we learned to be Men of Presence.
+* Love our neighbor as ourselves (Matt 22:39)
 
-Contact Rob Seetin rjseetin@gmail.com for more information.
+* Pray without ceasing. (1 Thes 5:17)
 
-* "Men United" Breakfasts with New Mission Missionary Baptist Church
+* Serve God, Family, and our communities (1 Peter 4:10)
 
-* Small Groups: Wednesday Nights (bi-weekly)
+* Lead our families in the sacrificial example of Christ. (Matt 20:28)
 
-* Workdays at the church 
+* Love our wives like Christ loved the Church (Eph 5:25)
 
-* Help out at the Family Shop
+* Train up our children (Biological, Adopted, or Spiritual) (Proverbs 22:6)
 
-* **Bible Study**: Meet on Fridays at the Parish Center at 6:30am
-  
+* Train together for Spiritual Warfare (Eph 6:10-17)
+
+* Are disciples that make disciples. (Matt 28:19-20)
+
+* Look out for the widow, orphan, and stranger (James 1:27)
+
+* Work heartily, as for the Lord not for men. (Col 3:23)
+
+ 
+
+**Want to get connected, prayer or have a need?**
+
+Contact Rob Seetin@ Men@mariemontchurch.org
+
+ 
+
+**Current open Men’s small groups:**
+
+Thursday Morning Bible Study (Zoom): 6-7:15 am
+
+Friday Morning Men’s Study: 6:30 am
+
