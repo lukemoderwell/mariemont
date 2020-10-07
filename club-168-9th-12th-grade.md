@@ -19,7 +19,7 @@ The main point we draw from this here at MCC is that there is no junior Holy Spi
 Our Senior High Ministry is called Club 168. The 168 comes from the idea that there are 168 hours in a week, and we want to live for Christ all 168 hours, not just the few hours we are at Youth meetings or at Sunday morning community gatherings. The Scripture that speaks to this is  1 Thessalonians 5:16-18 --16 Always be joyful.--17 Never stop praying.--18 Be thankful in all circumstances, for this is God’s will for you who belong to Christ Jesus.
 
 **Coming to Our Meetings?**
-We meet on Sunday afternoons immediately after the 11:00 service in our youth room on the second floor of the Parish Center. A typical meeting consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
+We meet on Sunday mornings immediately after the 9:00 service on the second floor of the Parish Center. A typical meeting consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
  
 We have students from the tri-state area who attend public, private, and home-schools. We also have some wonderful adult leaders who love Jesus, love students, and have a desire to see students walk more deeply and intentionally with Jesus.
 
