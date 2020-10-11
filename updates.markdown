@@ -15,40 +15,40 @@ If you are new to our online church community, we would love to pray for you and
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
 
-**Week of 10/4-10/11**
+**Week of 10/11-10/18**
 
-**Sunday, October 4**
+**Sunday, October 11**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on [David: Waiting for God's Fulfillment](https://www.youtube.com/watch?v=lMozRebzvPM)
+* 9:00 a.m. Click here for today's livestream Sunday Service on [David: Covenant Relationship](https://youtu.be/ITYVAE-Hfmc)
 
-**Monday, October 5**
+**Monday, October 12**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, October 6**
+**Tuesday, October 13**
 
 No events scheduled.
 
-**Wednesday, October 7**
+**Wednesday, October 14**
 
 * 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
 
 2nd Wednesday of each month: We will worship in the Parish Center Auditorium
 
-**Thursday, October 8**
+**Thursday, October 15**
 
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Friday, October 9**
+**Friday, October 16**
 
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 
-**Saturday, October 10**
+**Saturday, October 17**
 
 No events scheduled.
 
-**Sunday, October 11**
+**Sunday, October 18**
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
