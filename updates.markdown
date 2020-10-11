@@ -19,7 +19,7 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Sunday, October 11**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on [David: Covenant Relationship](https://youtu.be/ITYVAE-Hfmc)
+* 9:00 a.m. Click here for today's livestream Sunday Service on [David: Covenant Relationship](https://youtu.be/wXd6370_RVY)
 
 **Monday, October 12**
 
