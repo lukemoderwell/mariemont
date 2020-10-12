@@ -31,9 +31,11 @@ No events scheduled.
 
 **Wednesday, October 14**
 
-* 7:00-8:00pm Prayer Meeting on the Porch at the Parish Center
+* 7:00-8:00pm Prayer Meeting in the Hearth Room at the Parish Center
 
-2nd Wednesday of each month: We will worship in the Parish Center Auditorium
+Please join us for worship and prayer ****today** from 7:00-8:00 p.m.** in our auditorium - we will wear masks and be socially distanced with the same protocols as our Sunday morning gatherings.  
+
+We plan to continue worshiping and praying together every second Wednesday of the month from 7-8 pm.
 
 **Thursday, October 15**
 
