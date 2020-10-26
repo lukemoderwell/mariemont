@@ -19,7 +19,7 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Sunday, October 25**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on [David](https://youtu.be/J44Nbg5bjgo) 
+* 9:00 a.m. Click here for today's livestream Sunday Service on [David: Family Consequences](https://youtu.be/J44Nbg5bjgo) 
 
 **Monday, October 26**
 
