@@ -1,5 +1,5 @@
 ---
-title: David:Family Consequences
+title: 'David: Family Consequences'
 date: 2020-10-25 09:17:00 -04:00
 series: David
 week: 9
