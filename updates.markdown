@@ -11,21 +11,21 @@ layout: page-no-hero
 
 ## Events
 
-**Week of 11/1-11/8**
+**Week of November 1-8**
 
-**Sunday, November 1**
+**Sunday, 11/1**
 
 * 9:00 a.m. Click here for today's livestream Sunday Service on [David: Return of the King](https://youtu.be/MGqrBevDA3s)
 
-**Monday, November 2**
+**Monday, 11/2**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, November 3**
+**Tuesday, 11/3**
 
 No events scheduled.
 
-**Wednesday, November 4**
+**Wednesday, 11/4**
 
 * 7:00-8:00pm Prayer Meeting in the Hearth Room at the Parish Center
 
@@ -33,20 +33,20 @@ Please join us for worship and prayer ****today** from 7:00-8:00 p.m.** in our a
 
 We plan to continue worshiping and praying together every second Wednesday of the month from 7-8 pm.
 
-**Thursday, November 5**
+**Thursday, 11/5**
 
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Friday, November 6**
+**Friday, 11/6**
 
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 
-**Saturday, November 7**
+**Saturday, 11/7**
 
 No events scheduled.
 
-**Sunday, November 8**
+**Sunday, 11/8**
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
