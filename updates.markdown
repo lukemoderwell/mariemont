@@ -50,6 +50,7 @@ No events scheduled.
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
+
 **Here's what you may have missed...**
 
 Click here for our YouTube Channel to watch any videos you may have missed:
