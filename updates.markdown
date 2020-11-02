@@ -11,10 +11,6 @@ layout: page-no-hero
 
 ## Events
 
-If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
-
-If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
-
 **Week of 11/1-11/8**
 
 **Sunday, November 1**
@@ -58,3 +54,8 @@ No events scheduled.
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
+
+If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
+
+If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
+
