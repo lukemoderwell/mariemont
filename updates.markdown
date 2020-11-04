@@ -11,6 +11,10 @@ layout: page-no-hero
 
 ## Events
 
+[Revivaltown Music Facebook Page](https://www.facebook.com/Revivaltown-Music-2008659255901002)
+
+Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album Release Concert](https://www.eventbrite.com/e/revivaltown-music-album-release-concert-tickets-126366392281?aff=ebdssbdestsearch)
+
 **Week of November 1-8**
 
 **Sunday, 11/1**
