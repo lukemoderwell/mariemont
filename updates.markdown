@@ -11,6 +11,8 @@ layout: page-no-hero
 
 ## Events
 
+Here is the link for the [Created for Worship Declarations ](https://drive.google.com/file/d/1969DB-BQciyW-AhVmxZnT0QFqIKrUpjZ/view?usp=sharing)
+
 [Revivaltown Music Facebook Page](https://www.facebook.com/Revivaltown-Music-2008659255901002)
 
 Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album Release Concert](https://www.eventbrite.com/e/revivaltown-music-album-release-concert-tickets-126366392281?aff=ebdssbdestsearch)
