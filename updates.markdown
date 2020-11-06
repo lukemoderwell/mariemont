@@ -11,7 +11,7 @@ layout: page-no-hero
 
 ## Events
 
-Here is the link for the [Created for Worship Declarations ](https://drive.google.com/file/d/1969DB-BQciyW-AhVmxZnT0QFqIKrUpjZ/view?usp=sharing)
+Here is the link for the [Created for Worship Declarations](https://drive.google.com/file/d/1ldbfAXjwh75cKzWlN307i_xHWjrI1vje/view?usp=sharing)
 
 [Revivaltown Music Facebook Page](https://www.facebook.com/Revivaltown-Music-2008659255901002)
 
