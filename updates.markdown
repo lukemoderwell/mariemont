@@ -17,21 +17,22 @@ Here is the link for the [Created for Worship Declarations](https://drive.google
 
 Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album Release Concert](https://www.eventbrite.com/e/revivaltown-music-album-release-concert-tickets-126366392281?aff=ebdssbdestsearch)
 
-**Week of November 1-8**
+**Week of November 8-15**
 
-**Sunday, 11/1**
+**Sunday, 11/8**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on [David: Return of the King](https://youtu.be/MGqrBevDA3s)
+* 9:00 a.m. Click here for today's livestream Sunday Service on [David: Legacy of Worship
+](https://youtu.be/EQUzL9FvX1A)
 
-**Monday, 11/2**
+**Monday, 11/9**
 
 * 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
 
-**Tuesday, 11/3**
+**Tuesday, 11/10**
 
 No events scheduled.
 
-**Wednesday, 11/4**
+**Wednesday, 11/11**
 
 * 7:00-8:00pm Prayer Meeting in the Hearth Room at the Parish Center
 
@@ -39,20 +40,20 @@ Please join us for worship and prayer ****today** from 7:00-8:00 p.m.** in our a
 
 We plan to continue worshiping and praying together every second Wednesday of the month from 7-8 pm.
 
-**Thursday, 11/5**
+**Thursday, 11/12**
 
 * 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
-**Friday, 11/6**
+**Friday, 11/13**
 
 * 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
 
-**Saturday, 11/7**
+**Saturday, 11/14**
 
 No events scheduled.
 
-**Sunday, 11/8**
+**Sunday, 11/15**
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
