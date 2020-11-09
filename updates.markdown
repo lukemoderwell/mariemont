@@ -66,17 +66,20 @@ No events scheduled.
 
 **DECEMBER**
 
-Saturday, 12/5
+**Saturday, 12/5**
 Luminaria Stroll in Mariemont
 5:30-7:30p.m. Caroling on the Parish Center Porch
 
-Tuesday, 12/22
+**Tuesday, 12/22**
+
+Candlelight Family Services 6:30 & 7:30p.m.
+**
+Wednesday, 12/23**
+
 Candlelight Family Services 6:30 & 7:30p.m.
 
-Wednesday, 12/23
-Candlelight Family Services 6:30 & 7:30p.m.
+**Thursday, 12/24**
 
-Thursday, 12/24
 3:00, 4:00, & 5:00p.m. Candlelight Family Christmas Eve Services
 
 **JANUARY**
