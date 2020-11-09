@@ -67,7 +67,7 @@ No events scheduled.
 **DECEMBER**
 
 **Saturday, 12/5**
-Luminaria Stroll in Mariemont
+**Luminaria Stroll** in Mariemont
 5:30-7:30p.m. Caroling on the Parish Center Porch
 
 **Tuesday, 12/22**
