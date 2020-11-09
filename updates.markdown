@@ -58,7 +58,7 @@ No events scheduled.
 
 **Tuesday, 11/17**
 
-7:00-9:00p.m. Revivaltown Music Album Release at Vineyard Cincinnati Christian Church tickets available at eventbrite.com
+* 7:00-9:00p.m. Revivaltown Music Album Release at Vineyard Cincinnati Christian Church tickets available at eventbrite.com
 
 **Sunday, 11/29** 
 
@@ -76,11 +76,11 @@ No events scheduled.
 
 **Wednesday, 12/23**
 
-*6:30 & 7:30p.m. Candlelight Family Services
+* 6:30 & 7:30p.m. Candlelight Family Services
 
 **Thursday, 12/24**
 
-*3:00, 4:00, & 5:00p.m. Candlelight Family Christmas Eve Services
+* 3:00, 4:00, & 5:00p.m. Candlelight Family Christmas Eve Services
 
 **JANUARY**
 
