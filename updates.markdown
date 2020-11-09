@@ -84,7 +84,8 @@ Candlelight Family Services 6:30 & 7:30p.m.
 
 **JANUARY**
 
-Sunday, 1/3 
+**Sunday, 1/3 **
+
 9:00a.m. **Astonished: Attributes of the God We Worship** sermon series begins
 
 **Here's what you may have missed...**
