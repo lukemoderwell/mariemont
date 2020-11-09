@@ -66,7 +66,7 @@ Sundays at 9:00a.m.
 
 Saturday, 12/5
 Luminaria Stroll in Mariemont
-5:30-7:00p.m. Caroling on the Parish Center Porch
+5:30-7:30p.m. Caroling on the Parish Center Porch
 
 Tuesday, 12/22
 Candlelight Family Services 6:30 & 7:30p.m.
