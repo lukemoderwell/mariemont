@@ -73,8 +73,8 @@ Luminaria Stroll in Mariemont
 **Tuesday, 12/22**
 
 Candlelight Family Services 6:30 & 7:30p.m.
-**
-Wednesday, 12/23**
+
+**Wednesday, 12/23**
 
 Candlelight Family Services 6:30 & 7:30p.m.
 
