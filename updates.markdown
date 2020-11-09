@@ -64,9 +64,11 @@ No events scheduled.
 
 * 9:00a.m. Advent Series—Promises of Hope begins
 
+
 **DECEMBER**
 
 **Saturday, 12/5**
+
 **Luminaria Stroll** in Mariemont
 5:30-7:30p.m. Caroling on the Parish Center Porch
 
