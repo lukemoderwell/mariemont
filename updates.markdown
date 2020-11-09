@@ -57,10 +57,12 @@ No events scheduled.
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
 **Tuesday, 11/17**
+
 7:00-9:00p.m. Revivaltown Music Album Release at Vineyard Cincinnati Christian Church tickets available at eventbrite.com
 
-* 11/29 begins our Advent Series—Promises of Hope
-Sundays at 9:00a.m.
+**Sunday, 11/29** 
+
+9:00a.m. Advent Series—Promises of Hope begins
 
 **DECEMBER**
 
