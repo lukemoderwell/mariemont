@@ -62,7 +62,7 @@ No events scheduled.
 
 **Sunday, 11/29** 
 
-9:00a.m. Advent Series—Promises of Hope begins
+* 9:00a.m. Advent Series—Promises of Hope begins
 
 **DECEMBER**
 
@@ -72,21 +72,21 @@ Luminaria Stroll in Mariemont
 
 **Tuesday, 12/22**
 
-Candlelight Family Services 6:30 & 7:30p.m.
+* 6:30 & 7:30p.m.Candlelight Family Services
 
 **Wednesday, 12/23**
 
-Candlelight Family Services 6:30 & 7:30p.m.
+*6:30 & 7:30p.m. Candlelight Family Services
 
 **Thursday, 12/24**
 
-3:00, 4:00, & 5:00p.m. Candlelight Family Christmas Eve Services
+*3:00, 4:00, & 5:00p.m. Candlelight Family Christmas Eve Services
 
 **JANUARY**
 
 **Sunday, 1/3 **
 
-9:00a.m. **Astonished: Attributes of the God We Worship** sermon series begins
+* 9:00a.m. **Astonished: Attributes of the God We Worship** sermon series begins
 
 **Here's what you may have missed...**
 
