@@ -17,7 +17,7 @@ Here is the link for the [Created for Worship Declarations](https://drive.google
 
 Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album Release Concert](https://www.eventbrite.com/e/revivaltown-music-album-release-concert-tickets-126366392281?aff=ebdssbdestsearch)
 
-**Week of November 8-15**
+**NOVEMBER**
 
 **Sunday, 11/8**
 
@@ -26,7 +26,7 @@ Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album R
 
 **Monday, 11/9**
 
-* 8:00pm [Belanger Small Group Zoom Meeting ](https://us04web.zoom.us/j/5657171238)
+No events scheduled.
 
 **Tuesday, 11/10**
 
@@ -42,12 +42,11 @@ We plan to continue worshiping and praying together every second Wednesday of th
 
 **Thursday, 11/12**
 
-* 6:00-7:00am [Seetin Small Group Zoom Meeting](https://zoom.us/j/390610405pwd=cy9wQkRFZm1wSG1RSk1yM0VjZW42Zz09)
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
 
 **Friday, 11/13**
 
-* 6:30-7:30am Cambron Men's Bible Study: Call 513.621.0220, Use code 835510.
+No events scheduled.
 
 **Saturday, 11/14**
 
@@ -57,6 +56,31 @@ No events scheduled.
 
 * 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
+**Tuesday, 11/17**
+7:00-9:00p.m. Revivaltown Music Album Release at Vineyard Cincinnati Christian Church tickets available at eventbrite.com
+
+* 11/29 begins our Advent Series—Promises of Hope
+Sundays at 9:00a.m.
+
+**DECEMBER**
+
+Saturday, 12/5
+Luminaria in Mariemont
+5:30-7:00p.m. Caroling on the Parish Center Porch
+
+Tuesday, 12/22
+Candlelight Family Services 6:30 & 7:30p.m.
+
+Wednesday, 12/23
+Candlelight Family Services 6:30 & 7:30p.m.
+
+Thursday, 12/24
+3:00, 4:00, & 5:00p.m. Candlelight Family Christmas Eve Services
+
+**JANUARY**
+
+Sunday, 1/3 
+9:00a.m. **Astonished: Attributes of the God We Worship** sermon series begins
 
 **Here's what you may have missed...**
 
