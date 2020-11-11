@@ -21,12 +21,12 @@ Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album R
 
 **Sunday, 11/8**
 
-* 9:00 a.m. Click here for today's livestream Sunday Service on [David: Legacy of Worship
+* **9:00 a.m.** Click here for today's livestream Sunday Service on [David: Legacy of Worship
 ](https://youtu.be/EQUzL9FvX1A)
 
 **Wednesday, 11/11**
 
-* 7:00-8:00pm Prayer Meeting in the Hearth Room at the Parish Center
+* **7:00-8:00pm** Prayer Meeting in the Hearth Room at the Parish Center
 
 Please join us for worship and prayer ****today** from 7:00-8:00 p.m.** in our auditorium - we will wear masks and be socially distanced with the same protocols as our Sunday morning gatherings.  
 
@@ -34,19 +34,19 @@ We plan to continue worshiping and praying together every second Wednesday of th
 
 **Thursday, 11/12**
 
-* 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
+* **10:00a.m.**  Live Worship with Raz on Mariemont Church Facebook Page
 
 **Sunday, 11/15**
 
-* 9:00 a.m. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
+* **9:00 a.m.** Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
 **Tuesday, 11/17**
 
-* 7:00-9:00p.m. Revivaltown Music Album Release at Vineyard Cincinnati Christian Church tickets available at eventbrite.com
+* **7:00-9:00p.m.** Revivaltown Music Album Release at Vineyard Cincinnati Christian Church tickets available at eventbrite.com
 
 **Sunday, 11/29** 
 
-* 9:00a.m. Advent Series—Promises of Hope begins
+* **9:00a.m.** Advent Series—Promises of Hope begins
 
 
 **DECEMBER**
@@ -54,25 +54,26 @@ We plan to continue worshiping and praying together every second Wednesday of th
 **Saturday, 12/5**
 
 **Luminaria Stroll** in Mariemont
-5:30-7:30p.m. Caroling on the Parish Center Porch
+
+**5:30-7:30p.m.** Caroling on the Parish Center Porch
 
 **Tuesday, 12/22**
 
-* 6:30 & 7:30p.m.Candlelight Family Services
+* **6:30 & 7:30p.m.**Candlelight Family Services
 
 **Wednesday, 12/23**
 
-* 6:30 & 7:30p.m. Candlelight Family Services
+* **6:30 & 7:30p.m.** Candlelight Family Services
 
 **Thursday, 12/24**
 
-* 3:00, 4:00, & 5:00p.m. Candlelight Family Christmas Eve Services
+* **3:00, 4:00, & 5:00p.m.** Candlelight Family Christmas Eve Services
 
 **JANUARY**
 
 **Sunday, 1/3**
 
-* 9:00a.m. **Astonished: Attributes of the God We Worship** sermon series begins
+* **9:00a.m.** **Astonished: Attributes of the God We Worship** sermon series begins
 
 **Here's what you may have missed...**
 
