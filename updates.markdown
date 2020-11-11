@@ -24,14 +24,6 @@ Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album R
 * 9:00 a.m. Click here for today's livestream Sunday Service on [David: Legacy of Worship
 ](https://youtu.be/EQUzL9FvX1A)
 
-**Monday, 11/9**
-
-No events scheduled.
-
-**Tuesday, 11/10**
-
-No events scheduled.
-
 **Wednesday, 11/11**
 
 * 7:00-8:00pm Prayer Meeting in the Hearth Room at the Parish Center
@@ -43,14 +35,6 @@ We plan to continue worshiping and praying together every second Wednesday of th
 **Thursday, 11/12**
 
 * 10:00am * Live Worship with Raz on Mariemont Church Facebook Page
-
-**Friday, 11/13**
-
-No events scheduled.
-
-**Saturday, 11/14**
-
-No events scheduled.
 
 **Sunday, 11/15**
 
@@ -86,7 +70,7 @@ No events scheduled.
 
 **JANUARY**
 
-**Sunday, 1/3 **
+**Sunday, 1/3**
 
 * 9:00a.m. **Astonished: Attributes of the God We Worship** sermon series begins
 
