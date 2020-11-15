@@ -19,12 +19,15 @@ Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album R
 
 **NOVEMBER**
 
-**Sunday, 11/8**
+**Sunday, 11/15**
 
-* **9:00 a.m.** Click here for today's livestream Sunday Service on [David: Legacy of Worship
-](https://youtu.be/EQUzL9FvX1A)
+* **9:00 a.m.** Click here for today's livestream Sunday Service on [David: Being People After God's Heart ](https://youtu.be/Y5Xg4nUXGJg)
 
-**Wednesday, 11/11**
+**Tuesday, 11/17**
+
+* **7:00-9:00 p.m.** Revivaltown Music Album Release at Vineyard Cincinnati Christian Church tickets available at eventbrite.com
+
+**Wednesday, 11/18**
 
 * **7:00-8:00 p.m.** Prayer Meeting in the Hearth Room at the Parish Center
 
@@ -32,17 +35,13 @@ Please join us for worship and prayer ****today** from 7:00-8:00 p.m.** in our a
 
 We plan to continue worshiping and praying together every second Wednesday of the month from 7:00-8:00 p.m.
 
-**Thursday, 11/12**
+**Thursday, 11/19**
 
 * **10:00 a.m.**  Live Worship with Raz on Mariemont Church Facebook Page
 
-**Sunday, 11/15**
+**Sunday, 11/22**
 
 * **9:00 a.m.** Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
-
-**Tuesday, 11/17**
-
-* **7:00-9:00 p.m.** Revivaltown Music Album Release at Vineyard Cincinnati Christian Church tickets available at eventbrite.com
 
 **Sunday, 11/29** 
 
