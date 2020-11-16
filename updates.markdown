@@ -50,11 +50,11 @@ Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album R
 
 **Luminaria Stroll** in Mariemont
 
-**5:30-7:30 p.m.** Caroling on the Parish Center Porch
+**5:30-7:30 p.m.** Caroling and Photos on the Parish Center Porch
 
 **Tuesday, 12/22**
 
-* **6:30 & 7:30 p.m.**Candlelight Family Services
+* **6:30 & 7:30 p.m.** Candlelight Family Services
 
 **Wednesday, 12/23**
 
