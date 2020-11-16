@@ -5,7 +5,7 @@ bg_color: "\n"
 hasHero: true
 download:
   file: "/uploads/PastedGraphic-1-e17753.png"
-heading: Stay up to date with these updates
+heading: What's happening at MCC
 layout: page-no-hero
 ---
 
