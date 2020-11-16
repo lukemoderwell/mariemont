@@ -29,11 +29,7 @@ Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album R
 
 **Wednesday, 11/18**
 
-* **7:00-8:00 p.m.** Prayer Meeting in the Hearth Room at the Parish Center
-
-Please join us for worship and prayer ****today** from 7:00-8:00 p.m.** in our auditorium - we will wear masks and be socially distanced with the same protocols as our Sunday morning gatherings.  
-
-We plan to continue worshiping and praying together every second Wednesday of the month from 7:00-8:00 p.m.
+* **7:00-8:00 p.m.** Prayer Meeting in the Hearth Room at the Parish Center. Worship same time every second Wednesday in the auditorium.
 
 **Thursday, 11/19**
 
