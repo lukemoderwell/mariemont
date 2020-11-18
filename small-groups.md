@@ -24,8 +24,8 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 | Mariemont                    | Tuesdays, 7:00PM       | [The Urbanskis](mailto:urbanskirob@yahoo.com)    | 
 | Indian Hill                  | Tuesdays, 7:00PM       | [The Cambrons](mailto:mikecambron43@gmail.com)  |
 | Hyde Park                    | Tuesdays, 7:00PM       | [The Robinsons](mailto:burr.robinson@gmail.com)  |
-| Mariemont                    | Thursdays, 7:00PM      | [The Ayers Ayer](mailto:matt@ayerquality.com)|
-| Mariemont                    | Thursdays, 7:00PM      | [The Ceslers Cesler](mailto:stevecesler@yahoo.com)|
+| Mariemont                    | Thursdays, 7:00PM      | [The Ayers](mailto:matt@ayerquality.com)|
+| Montgomery                    | Thursdays, 7:00PM      | [The Ceslers](mailto:stevecesler@yahoo.com)|
 | Men's Studies (MCC)          | Fridays, 6:30 AM       | [Mike Cambron](mailto:mikecambron43@gmail.com)  | 
 
 
