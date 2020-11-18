@@ -20,19 +20,19 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 | College and Career (Madisonville)| Mondays, 7:00PM    | [The Georges](mailto:georgem3@mail.uc.edu)     |
 | Joy In The Evening (MCC)     |1&3 Mondays, 7:00 PM    | [Teresa Earhart](mailto:ttearhart@gmail.com) [Paula Ayer] (mailto:ayerpaula@gmail.com)|
 | Joy In The Morning (MCC)     | Tuesdays, 9:00AM       
-| [Barb Leonard](mailto:tfleo@cinci.rr.com)       |
+|[Barb Leonard](mailto:tfleo@cinci.rr.com)       |
 | Madeira                      | Tuesday, 6:00PM        
-| [The Huizengas](mailto:huizenb@gmail.com)        |
+|[The Huizengas](mailto:huizenb@gmail.com)        |
 | Mariemont                    | Tuesdays, 7:00PM       
-| [The Urbanskis](mailto:urbanskirob@yahoo.com)    | 
+|[The Urbanskis](mailto:urbanskirob@yahoo.com)    | 
 | Indian Hill                  | Tuesdays, 7:00PM       
-| [The Cambrons](mailto:mikecambron43@gmail.com)  |
+|[The Cambrons](mailto:mikecambron43@gmail.com)  |
 | Hyde Park                    | Tuesdays, 7:00PM       
-| [The Robinsons](mailto:burr.robinson@gmail.com)  |
+|[The Robinsons](mailto:burr.robinson@gmail.com)  |
 | Mariemont                    | Thursdays, 7:00PM      
-| [The Ayers](mailto:matt@ayerquality.com)|
-| Montgomery                    | Every Other Thursday, 7:00PM      | [The Ceslers](mailto:stevecesler@yahoo.com)|
+|[The Ayers](mailto:matt@ayerquality.com)|
+| Montgomery                    | Every Other Thursday, 7:00PM      |[The Ceslers](mailto:stevecesler@yahoo.com)|
 | Men's Studies (MCC)          | Fridays, 6:30 AM       
-| [Mike Cambron](mailto:mikecambron43@gmail.com)  | 
+|[Mike Cambron](mailto:mikecambron43@gmail.com)  | 
 
 
