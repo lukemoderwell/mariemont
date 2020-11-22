@@ -19,30 +19,21 @@ Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album R
 
 **NOVEMBER**
 
-**Sunday, 11/15**
+**Sunday, 11/22**
 
-* **9:00 a.m.** Click here for today's livestream Sunday Service on [David: Being People After God's Heart ](https://youtu.be/Y5Xg4nUXGJg)
+* **9:00 a.m.** Click here for today's livestream [Sunday Sharing Service](https://youtu.be/qTlkmZzVCes) 
 
-**Tuesday, 11/17**
-
-* **7:00-9:00 p.m.** Revivaltown Music Album Release at Vineyard Cincinnati Christian Church tickets available at eventbrite.com
-
-**Wednesday, 11/18**
+**Wednesday, 11/24**
 
 * **7:00-8:00 p.m.** Prayer Meeting in the Hearth Room at the Parish Center. Worship same time every second Wednesday in the auditorium.
 
-**Thursday, 11/19**
+**Thursday, 11/25**
 
-* **10:00 a.m.**  Live Worship with Raz on Mariemont Church Facebook Page
+Happy Thanksgiving!
 
-**Sunday, 11/22**
+**Sunday, 11/29**
 
-* **9:00 a.m.** Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
-
-**Sunday, 11/29** 
-
-* **9:00 a.m.** Advent Series—Promises of Hope begins
-
+* **9:00 a.m.** Advent Series—Promises of Hope begins. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
 **DECEMBER**
 
