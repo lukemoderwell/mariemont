@@ -21,11 +21,7 @@ Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album R
 
 **Sunday, 11/22**
 
-* **9:00 a.m.** Click here for today's livestream [Sunday Sharing Service](https://youtu.be/qTlkmZzVCes) 
-
-**Wednesday, 11/25**
-
-* **7:00-8:00 p.m.** Prayer Meeting in the Hearth Room at the Parish Center. Worship same time every second Wednesday in the auditorium.
+* **9:00 a.m.** Click here for today's livestream [Sunday Sharing Service](https://youtu.be/qTlkmZzVCes)
 
 **Thursday, 11/26**
 
