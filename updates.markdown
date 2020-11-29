@@ -17,27 +17,29 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album Release Concert](https://www.eventbrite.com/e/revivaltown-music-album-release-concert-tickets-126366392281?aff=ebdssbdestsearch)
 
-**NOVEMBER**
-
-**Sunday, 11/22**
-
-* **9:00 a.m.** Click here for today's livestream [Sunday Sharing Service](https://youtu.be/qTlkmZzVCes)
-
-**Thursday, 11/26**
-
-Happy Thanksgiving!
+**DECEMBER**
 
 **Sunday, 11/29**
 
-* **9:00 a.m.** Advent Series—Promises of Hope begins. Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
+* **9:00 a.m.** Click here for today's livestream [Advent: Waiting in Hope](https://youtu.be/9P0JlD2W1Ww)
 
-**DECEMBER**
+**Wednesday, 12/2**
+
+* **7:00-8:00 p.m.** Prayer Meeting in the Hearth Room at the Parish Center. Worship same time every second Wednesday in the auditorium.
+
+**Thursday, 12/3**
+
+* **10:00 a.m.**  Live Worship with Raz on Mariemont Church Facebook Page
 
 **Saturday, 12/5**
 
 **Luminaria Stroll** in Mariemont
 
 **5:30-7:30 p.m.** Caroling and Photos on the Parish Center Porch
+
+**Sunday, 12/6**
+
+* **9:00 a.m.** Advent Series—Promises of Hope . Live Week 2 Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
 **Tuesday, 12/22**
 
