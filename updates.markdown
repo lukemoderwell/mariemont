@@ -39,7 +39,7 @@ Click to buy tickets to the [Revivaltown Music "Dangerous and Beautiful" Album R
 
 **Sunday, 12/6**
 
-* **9:00 a.m.** Advent Series—Promises of Hope . Live Week 2 Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
+* **9:00 a.m.** Advent Series—Promises of Hope Week 2: Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
 **Tuesday, 12/22**
 
