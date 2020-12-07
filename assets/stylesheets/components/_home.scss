@@ -3,7 +3,7 @@
     display: flex;
     flex-direction: column;
 
-    @media (min-width: $med) {
+    @media (min-width: $large) {
         flex-direction: row;
     }
 }
@@ -16,7 +16,7 @@
 }
 
 .home_hero_img {
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     display: block;
@@ -27,13 +27,10 @@
 .gradient-bg {
     width: 100%;
     height: 40vh;
-    @media (min-width: $med) {
-        width: 50%;
-        height: calc(100vh - #{$topbar});
-    }
 
     @media (min-width: $large) {
         width: 60%;
+        height: calc(100vh - #{$topbar});
     }
 }
 
@@ -44,13 +41,9 @@
     align-items: center;
     padding: 2rem 3rem;
 
-    @media (min-width: $med) {
-        width: 50%;
-        height: calc(100vh - #{$topbar});
-    }
-
     @media (min-width: $large) {
         width: 40%;
+        height: calc(100vh - #{$topbar});
     }
 
     h1 {
