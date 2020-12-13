@@ -11,23 +11,25 @@ layout: page-no-hero
 
 ## Events
 
+Here is the link for the [staff announcement](https://drive.google.com/file/d/1fimihQTCfrLdNmrFnf8OVGG2fBwtAJv7/view?usp=sharing) on 12/13/2020.
+
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
 **DECEMBER**
 
-**Sunday, 12/6**
+**Sunday, 12/13**
 
-* **9:00 a.m.** Click here for today's livestream [Advent: Peace is a Person](https://youtu.be/VHPikNAEla8)
+* **9:00 a.m.** Click here for today's livestream [Advent: Joy!](https://youtu.be/FsuD4BW0pv4)
 
-**Wednesday, 12/9**
+**Wednesday, 12/16**
 
 * **7:00-8:00 p.m.** Prayer Meeting in the Hearth Room at the Parish Center. Worship same time every second Wednesday in the auditorium.
 
-**Thursday, 12/10**
+**Thursday, 12/17**
 
 * **10:00 a.m.**  Live Worship with Raz on Mariemont Church Facebook Page
 
-**Sunday, 12/13**
+**Sunday, 12/20**
 
 * **9:00 a.m.** Advent Series—Promises of Hope Week 2: Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
