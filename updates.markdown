@@ -13,7 +13,7 @@ layout: page-no-hero
 
 **Candlelight Family Christmas Eve Services**
 
-* **Wednesday, 12/23: 6:30 & 7:30 p.m.**
+* **Wednesday, 12/23: 7:00 p.m.**
 
 * **Thursday, 12/24: 3:00, 4:00, & 5:00 p.m.**
 
@@ -43,7 +43,7 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Wednesday, 12/23**
 
-* **6:30 & 7:30 p.m.** Candlelight Family Services
+* **7:00 p.m.** Candlelight Family Service
 
 **Thursday, 12/24**
 
