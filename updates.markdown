@@ -11,7 +11,7 @@ layout: page-no-hero
 
 ## Events
 
-Candlelight Family Christmas Eve Services
+**Candlelight Family Christmas Eve Services**
 
 **Wednesday, 12/23**
 
