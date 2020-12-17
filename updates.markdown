@@ -19,7 +19,7 @@ layout: page-no-hero
 
 **Please RSVP to mark@mariemontchurch.org to reserve your seat.**
 
-Here is the link for the [staff announcement](https://drive.google.com/file/d/1fimihQTCfrLdNmrFnf8OVGG2fBwtAJv7/view?usp=sharing) on 12/13/2020.
+Here is the link for the [staff announcement] (https://drive.google.com/file/d/1fimihQTCfrLdNmrFnf8OVGG2fBwtAJv7/view?usp=sharing) which was made on 12/13/2020 regarding Dr. Jamie Moore becoming a co-senior pastor.
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
