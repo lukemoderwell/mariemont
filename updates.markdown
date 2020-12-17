@@ -33,10 +33,6 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 * **9:00 a.m.** Advent Series—Promises of Hope Week 2: Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
-**Tuesday, 12/22**
-
-* **6:30 & 7:30 p.m.** Candlelight Family Services
-
 **Wednesday, 12/23**
 
 * **6:30 & 7:30 p.m.** Candlelight Family Services
