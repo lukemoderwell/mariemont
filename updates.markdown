@@ -14,7 +14,9 @@ layout: page-no-hero
 **Candlelight Family Christmas Eve Services**
 
 **Wednesday, 12/23: 6:30 & 7:30 p.m.**
+
 **Thursday, 12/24: 3:00, 4:00, & 5:00 p.m.**
+
 **Please RSVP to mark@mariemontchurch.org to reserve your seat.**
 
 Here is the link for the [staff announcement](https://drive.google.com/file/d/1fimihQTCfrLdNmrFnf8OVGG2fBwtAJv7/view?usp=sharing) on 12/13/2020.
