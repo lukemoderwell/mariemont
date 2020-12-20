@@ -25,21 +25,23 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **DECEMBER**
 
-**Sunday, 12/13**
-
-* **9:00 a.m.** Click here for today's livestream [Advent: Joy!](https://youtu.be/FsuD4BW0pv4)
-
-**Wednesday, 12/16**
-
-* **7:00-8:00 p.m.** Prayer Meeting in the Hearth Room at the Parish Center. Worship same time every second Wednesday in the auditorium.
-
-**Thursday, 12/17**
-
-* **10:00 a.m.**  Live Worship with Raz on Mariemont Church Facebook Page
-
 **Sunday, 12/20**
 
-* **9:00 a.m.** Advent Series—Promises of Hope Week 2: Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
+* **9:00 a.m.** Click here for today's livestream [Advent: Love](http://https://youtu.be/4m3I4tLc-LE)
+
+**Wednesday, 12/23**
+
+* **7:00p.m.** **Candlelight Family Christmas Eve Services**
+
+**Thursday, 12/24**
+
+* **3:00, 4:00, & 5:00 p.m.** **Candlelight Family Christmas Eve Services**
+
+**Friday, 12/25** Merry Christmas! Happy Birthday, Jesus!
+
+**Sunday, 12/27**
+
+* **9:00 a.m.** Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
 **Wednesday, 12/23**
 
