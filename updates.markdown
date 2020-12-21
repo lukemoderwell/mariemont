@@ -31,31 +31,30 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Wednesday, 12/23**
 
-* **7:00p.m.** **Candlelight Family Christmas Eve Services**
+* **7:00p.m.** **Candlelight Family Christmas Eve Services at the Parish Center, 3908 Plainville Road, 45227**
 
 **Thursday, 12/24**
 
-* **3:00, 4:00, & 5:00 p.m.** **Candlelight Family Christmas Eve Services**
+* **3:00, 4:00, & 5:00 p.m.** **Candlelight Family Christmas Eve Services at the Parish Center, 3908 Plainville Road, 45227**
 
 **Friday, 12/25** Merry Christmas! Happy Birthday, Jesus!
 
 **Sunday, 12/27**
 
-* **9:00 a.m.** Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
+* **9:00 a.m.** **Family Blessing Sunday**
+Seeking Abba's blessing as we dedicate 2021 to him!
 
-**Wednesday, 12/23**
+Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
 
-* **7:00 p.m.** Candlelight Family Service
-
-**Thursday, 12/24**
-
-* **3:00, 4:00, & 5:00 p.m.** Candlelight Family Christmas Eve Services
 
 **JANUARY**
 
 **Sunday, 1/3**
 
-* **9:00 a.m.** **Astonished: Attributes of the God We Worship** sermon series begins
+* **9:00 a.m.** **Astonished Journey Begins!**
+Attributes of the God We Worship: A small group adventure to knowing and loving Father Son and Spirit!
+
+* Congregation meeting on Zoom from 2-3 PM.
 
 **Here's what you may have missed...**
 
