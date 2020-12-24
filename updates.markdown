@@ -13,11 +13,11 @@ layout: page-no-hero
 
 **Candlelight Family Christmas Eve Services**
 
-* **Wednesday, 12/23: 7:00 p.m.**
-
 * **Thursday, 12/24: 3:00, 4:00, & 5:00 p.m.**
 
 **Please RSVP to mark@mariemontchurch.org to reserve your seat.**
+
+If you are unable to join us, you may click [here](https://youtu.be/2Z7iXkQBZwg) to enjoy the service. Merry Christmas!
 
 Here is the link for the [staff announcement](https://drive.google.com/file/d/1fimihQTCfrLdNmrFnf8OVGG2fBwtAJv7/view?usp=sharing)  which was made on 12/13/2020 regarding Dr. Jamie Moore becoming a co-senior pastor.
 
