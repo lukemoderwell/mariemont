@@ -20,26 +20,17 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **DECEMBER**
 
-**Sunday, 12/20**
-
-* **9:00 a.m.** Click here for today's livestream [Advent: Love](http://https://youtu.be/4m3I4tLc-LE)
-
-**Wednesday, 12/23**
-
-* **7:00p.m.** **Candlelight Family Christmas Eve Services at the Parish Center, 3908 Plainville Road, 45227**
-
-**Thursday, 12/24**
-
-* **3:00, 4:00, & 5:00 p.m.** **Candlelight Family Christmas Eve Services at the Parish Center, 3908 Plainville Road, 45227**
-
-**Friday, 12/25** Merry Christmas! Happy Birthday, Jesus!
-
 **Sunday, 12/27**
 
 * **9:00 a.m.** **Family Blessing Sunday**
-Seeking Abba's blessing as we dedicate 2021 to him!
+Seeking Abba's blessing as we dedicate 2021 to him! Click here for today's livestream [Family Blessing Sunday
+](https://youtu.be/YvgkxYv-sl8)
 
-Live Stream Service from our [Mariemont Church YouTube Channel](https://www.youtube.com/c/MariemontChurch/videos) or on our [website],(https://mariemontchurch.org/).
+**Wednesday, 12/30**
+
+* **7:00p.m.** 
+
+**Thursday, 12/24**
 
 
 **JANUARY**
