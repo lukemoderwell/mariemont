@@ -28,7 +28,6 @@ Seeking Abba's blessing as we dedicate 2021 to him! Click here for today's lives
 
 **Wednesday, 12/30**
 
-* **7:00p.m.** 
 
 **Thursday, 12/24**
 
