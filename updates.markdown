@@ -11,13 +11,8 @@ layout: page-no-hero
 
 ## Events
 
-**Candlelight Family Christmas Eve Services**
-
-* **Thursday, 12/24: 3:00, 4:00, & 5:00 p.m.**
-
-**Please RSVP to mark@mariemontchurch.org to reserve your seat.**
-
-If you are unable to join us, you may click [here](https://youtu.be/2Z7iXkQBZwg) to enjoy the service. Merry Christmas!
+We are having our semi-annual congregation meeting via Zoom from 2-3 PM on Sunday January 3. Ask for permission to join Zoom Meeting at this link:
+[https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09](https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09)
 
 Here is the link for the [staff announcement](https://drive.google.com/file/d/1fimihQTCfrLdNmrFnf8OVGG2fBwtAJv7/view?usp=sharing)  which was made on 12/13/2020 regarding Dr. Jamie Moore becoming a co-senior pastor.
 
@@ -54,7 +49,7 @@ Live Stream Service from our [Mariemont Church YouTube Channel](https://www.yout
 * **9:00 a.m.** **Astonished Journey Begins!**
 Attributes of the God We Worship: A small group adventure to knowing and loving Father Son and Spirit!
 
-* Congregation meeting on Zoom from 2-3 PM.
+* **2:00 p.m.** **Congregation meeting on Zoom**. Click this link for permission to join the meeting: [https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09](https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09)
 
 **Here's what you may have missed...**
 
