@@ -1,5 +1,5 @@
 ---
-title: 'Advent: Love'
+title: 'Advent 2020: Love'
 date: 2020-12-20 09:08:00 -05:00
 series: Advent 2020
 week: 4
