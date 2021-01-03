@@ -1,7 +1,7 @@
 ---
-title: 'Advent: Waiting in Hope'
+title: 'Advent 2020: Waiting in Hope'
 date: 2020-11-29 09:20:00 -05:00
-series: Advent
+series: Advent 2020
 week: 1
 sermon_date: 2020-11-29 09:00:00 -05:00
 speaker: Jamie Moore
