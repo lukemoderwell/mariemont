@@ -1,5 +1,5 @@
 ---
-title: 'Advent: Peace is a Person'
+title: 'Advent 2020: Peace is a Person'
 date: 2020-12-06 09:27:00 -05:00
 series: Advent 2020
 week: 2
