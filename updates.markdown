@@ -18,26 +18,12 @@ Here is the link for the [staff announcement](https://drive.google.com/file/d/1f
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
-**DECEMBER**
-
-**Sunday, 12/27**
-
-* **9:00 a.m.** **Family Blessing Sunday**
-Seeking Abba's blessing as we dedicate 2021 to him! Click here for today's livestream [Family Blessing Sunday
-](https://youtu.be/YvgkxYv-sl8)
-
-**Wednesday, 12/30**
-
-
-**Thursday, 12/24**
-
-
 **JANUARY**
 
 **Sunday, 1/3**
 
 * **9:00 a.m.** **Astonished Journey Begins!**
-Attributes of the God We Worship: A small group adventure to knowing and loving Father Son and Spirit!
+Click here for today's livestream of [Astonished: The Marvelous God](https://youtu.be/pXQppDxM89M)
 
 * **2:00 p.m.** **Congregation meeting on Zoom**. Click this link for permission to join the meeting: [https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09](https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09)
 
