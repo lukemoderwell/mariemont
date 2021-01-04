@@ -15,16 +15,27 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 | Location                     | Time                 | Host                                              |
 | ---------------------------  | :--------------------: | --------------------------------------------------|
 | MCC Library                  | 2&4 Sundays, 9:00AM    | [The Swifts](mailto:zekeswift@gmail.com)      |
-| Northern Kentucky               | Mondays, 6:30 PM    | [The Rogers](mailto:aaronrgrs7@gmail.com)     |
-| Madison Place                   | Mondays, 6:30PM     | [The Belangers](mailto:chefbelanger@hotmail.com) |
-| College and Career (Madisonville)| Mondays, 7:00PM    | [The Georges](mailto:georgem3@mail.uc.edu)     |
+| Northern Kentucky               | Mondays, 
+6:30PM    | [The Rogers](mailto:aaronrgrs7@gmail.com)     |
+| Madison Place                   | Mondays,
+ 6:30PM     | [The Belangers](mailto:chefbelanger@hotmail.com) |
+| College and Career (Madisonville)| Mondays,
+7:00PM    | [The Georges](mailto:georgem3@mail.uc.edu)     |
 | Joy In The Evening (MCC)     |1&3 Mondays, 7:00PM    | [Teresa Earhart](mailto:ttearhart@gmail.com) [Paula Ayer](mailto:ayerpaula@gmail.com) |
-| Joy In The Morning (MCC)     |Tuesdays, 9:00AM   | [Barb Leonard](mailto:tfleo@cinci.rr.com)  |
-| Madeira                      | Tuesdays, 6:00PM        
-|[The Huizengas](mailto:huizenb@gmail.com)       |
-| Mariemont                    | Tuesdays, 7:00PM       
-|[The Urbanskis](mailto:urbanskirob@yahoo.com)    | 
-| Indian Hill                  | Tuesdays, 7:00PM       |[The Cambrons](mailto:mikecambron43@gmail.com)  |
+| Joy In The Morning (MCC)     |Tuesdays,
+9:00AM   | [Barb Leonard](mailto:tfleo@cinci.rr.com)  |
+| Madiera                   | Tuesdays,
+6:00PM     | [The Huizengas](mailto:huizenb@gmail.com)      |
+
+| Loveland                  | Tuesdays,
+ 6:30PM     | [The Haynes](mailto:haynes.joel@gmail.com) |
+
+| Mariemont                  | Tuesdays,
+7:00PM     | [The Urbanskis](mailto:urbanskirob@yahoo.com) |
+
+| Indian Hill                  | Tuesdays,
+7:00PM     | [The Cambrons](mailto:mikecambron43@gmail.com) |
+ 
 | Hyde Park                    | Tuesdays, 7:00PM       
 |[The Robinsons](mailto:burr.robinson@gmail.com)  |
 | Mariemont                    | Thursdays, 7:00PM      
