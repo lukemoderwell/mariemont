@@ -23,7 +23,9 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 | Madiera                   | Tuesdays, 6:00PM     | [The Huizengas](mailto:huizenb@gmail.com)      |
 | Loveland                | Tuesdays, 6:30PM    | [The Haynes](mailto:haynes.joel@gmail.com)     |
 | Mariemont                  | Tuesdays, 7:00PM     | [The Urbanskis](mailto:urbanskirob@yahoo.com) |
-| Indian Hill                  | Tuesdays, 7:00PM     | [The Cambrons](mailto:mikecambron43@gmail.com) |
+| Indian Hill              | Tuesdays, 7:00PM    | [The Cambrons](mailto:mikecambron43@gmail.com)    |
+
+
 | Hyde Park                  | Tuesdays, 7:00PM     | [The Robinsons](mailto:burr.robinson@gmail.com) |
 | Mariemont                 | Thursdays,
 7:00PM     | [The Ayers](mailto:matt@ayerquality.com) |
