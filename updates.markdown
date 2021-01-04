@@ -27,6 +27,10 @@ Click here for today's livestream of [Astonished: The Marvelous God](https://you
 
 * **2:00 p.m.** **Congregation meeting on Zoom**. Click this link for permission to join the meeting: [https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09](https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09)
 
+**FEBRUARY**
+
+**Saturday, 2/6** Women's Day Retreat
+
 **Here's what you may have missed...**
 
 Click here for our YouTube Channel to watch any videos you may have missed:
