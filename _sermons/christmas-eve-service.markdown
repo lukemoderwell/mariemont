@@ -1,5 +1,5 @@
 ---
-title: Christmas Eve Service
+title: Christmas Eve Service 2020
 date: 2020-12-24 08:17:00 -05:00
 sermon_date: 2020-12-24 08:00:00 -05:00
 speaker: Denis Beausejour
