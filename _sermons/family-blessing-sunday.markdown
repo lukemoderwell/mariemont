@@ -1,5 +1,5 @@
 ---
-title: Family Blessing Sunday 2021
+title: Family Blessing Sunday 2020
 date: 2020-12-27 09:07:00 -05:00
 sermon_date: 2020-12-27 00:00:00 -05:00
 speaker: Denis Beausejour
