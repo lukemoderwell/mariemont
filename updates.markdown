@@ -27,6 +27,10 @@ Click here for today's livestream of [Astonished: The Marvelous God](https://you
 
 * **2:00 p.m.** **Congregation meeting on Zoom**. Click this link for permission to join the meeting: [https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09](https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09)
 
+**Saturday, 1/16**
+
+* **8:00 a.m.** **Listening for Heaven's Sake** Click [here](http://www.equippingministries.org/) for course descriptions and to register. In person and Zoom options available. For more information contact Christine Wavle at [cwavle@equippingministries.org](cwavle@equippingministries.org).
+
 **FEBRUARY**
 
 **Saturday, 2/6**
