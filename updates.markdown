@@ -43,6 +43,9 @@ To attend in-person, please RSVP by January 23 to Paula Ayer, [ayerpaula@gmail.c
 
 If you are attending via live stream, please consider inviting friend or family member to participate with you.
 
+**Saturday, 2/6**
+
+* **8:00 a.m.** **Speaking the Truth in Love** Click [here](http://www.equippingministries.org/) for course descriptions and to register. In person and Zoom options available. For more information contact Christine Wavle at [cwavle@equippingministries.org](cwavle@equippingministries.org).
 
 **Here's what you may have missed...**
 
