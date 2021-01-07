@@ -47,7 +47,11 @@ If you are attending via live stream, please consider inviting friend or family 
 
 * **8:00 a.m.** **Speaking the Truth in Love** Click [here](http://www.equippingministries.org/) for course descriptions and to register. In person and Zoom options available. For more information contact Christine Wavle at [cwavle@equippingministries.org](cwavle@equippingministries.org).
 
-**Saturday, 2/6**
+**MARCH**
+
+**Saturday, 3/20**
+
+* **8:00 a.m.** **Renewing Your Mind** Click [here](http://www.equippingministries.org/) for course descriptions and to register. In person and Zoom options available. For more information contact Christine Wavle at [cwavle@equippingministries.org](cwavle@equippingministries.org).
 
 **Here's what you may have missed...**
 
