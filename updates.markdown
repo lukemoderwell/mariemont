@@ -20,12 +20,10 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **JANUARY**
 
-**Sunday, 1/3**
+**Sunday, 1/10**
 
-* **9:00 a.m.** **Astonished Journey Begins!**
-Click here for today's livestream of [Astonished: The Marvelous God](https://youtu.be/pXQppDxM89M)
-
-* **2:00 p.m.** **Congregation meeting on Zoom**. Click this link for permission to join the meeting: [https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09](https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09)
+* **9:00 a.m.** **Astonished!**
+Click here for today's livestream of Astonished: The Triune God [](https://youtu.be/CsBl9bRZoag)
 
 **Saturday, 1/16**
 
