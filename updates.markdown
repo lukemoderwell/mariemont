@@ -38,7 +38,7 @@ Click here for today's livestream of Astonished: The Triune God [](https://youtu
 **Saturday, 2/6**
 
 * **9:00 a.m.** Women's Day Retreat 
-“A Day with Beth Gukenberger,”
+“A Day with Beth Guckenberger,”
 In-person and live stream. Includes a box lunch for those attending in-person. No childcare provided.
 
 To attend in-person, please RSVP by January 23 to Paula Ayer, [ayerpaula@gmail.com](ayerpaula@gmail.com). Limited reservations are on a first-come first-served basis. Current limit is 50 due to COVID. 
