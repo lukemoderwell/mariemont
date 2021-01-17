@@ -20,18 +20,14 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **JANUARY**
 
-**Sunday, 1/10**
+**Sunday, 1/17**
 
 * **9:00 a.m.** **Astonished!**
-Click here for today's livestream of Astonished: The Triune God [](https://youtu.be/CsBl9bRZoag)
+Click here for today's livestream of [Astonished: The Self-Existent God](https://youtu.be/ect9I3elhUg)
 
-**Wednesday, 1/13**
+**Wednesday, 1/20**
 
-* **7:00 p.m.** Worship in the Auditorium at the Parish Center.
-
-**Saturday, 1/16**
-
-* **8:00 a.m.** **Listening for Heaven's Sake** Click [here](http://www.equippingministries.org/) for course descriptions and to register. In person and Zoom options available. For more information contact Christine Wavle at [cwavle@equippingministries.org](cwavle@equippingministries.org).
+* **7:00 p.m.** Prayer at the Parish Center in the Hearth Room.
 
 **FEBRUARY**
 
