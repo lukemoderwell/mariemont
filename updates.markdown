@@ -11,9 +11,6 @@ layout: page-no-hero
 
 ## Events
 
-We are having our semi-annual congregation meeting via Zoom from 2-3 PM on Sunday January 3. Ask for permission to join Zoom Meeting at this link:
-[https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09](https://us02web.zoom.us/j/86371411114?pwd=blREQTFTOWMrZU5CbmZNUkpwWjNFUT09)
-
 Here is the link for the [staff announcement](https://drive.google.com/file/d/1fimihQTCfrLdNmrFnf8OVGG2fBwtAJv7/view?usp=sharing)  which was made on 12/13/2020 regarding Dr. Jamie Moore becoming a co-senior pastor.
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
