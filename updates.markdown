@@ -30,13 +30,19 @@ Click here for today's livestream of [Astonished: The Self-Existent God](https:/
 
 **Saturday, 2/6**
 
-* **9:00 a.m.** Women's Day Retreat 
-“A Day with Beth Guckenberger,”
-In-person and live stream. Includes a box lunch for those attending in-person. No childcare provided.
+* **10:00 a.m.** Women's Day Retreat
 
-To attend in-person, please RSVP by January 23 to Paula Ayer, [ayerpaula@gmail.com](ayerpaula@gmail.com). Limited reservations are on a first-come first-served basis. Current limit is 50 due to COVID. 
+**Finding Shalom Amidst Chaos**
 
-If you are attending via live stream, please consider inviting friend or family member to participate with you.
+Have you been feeling anxious? Are you weary from the chaos the world has brought this past year? Our Women's Retreat, Finding Shalom Amidst Chaos, will be held Saturday, Feb. 6, 2021,  from 10:00 am to 3:30 pm. Beth Guckenberger will share eight ancient Hebrew words to help bring completeness and peace to our souls in this stormy time. 
+
+The retreat will be both in-person and live stream, similar to our Sunday services. It will be free of charge and includes a box lunch for those attending in-person. No childcare will be provided.
+
+We have about 25-30 more spaces available for our in-person event!!  Please RSVP, by January 23, to Paula Ayer, [ayerpaula@gmail.com](ayerpaula@gmail.com). Reservations will be on a first-come first-served basics. Feel free to invite a friend or a relative.
+
+If you would like to attend the retreat via live stream, we also need a reservation so you can receive details and information. RSVP, by January 23, to Paula Ayer, [ayerpaula@gmail.com](ayerpaula@gmail.com). Please consider inviting a friend or family member to participate with you, in your home, if you feel comfortable.
+
+Looking forward to being in His presence with you!
 
 **Saturday, 2/13**
 
