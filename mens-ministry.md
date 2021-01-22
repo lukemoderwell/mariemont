@@ -44,13 +44,13 @@ We are a fellowship of men seeking to forge a Christian Brotherhood by ordering 
 
 **Want to get connected, prayer or have a need?**
 
-Contact Rob Seetin@ Men@mariemontchurch.org
+Contact Rob Seetin at [men@mariemontchurch.org](men@mariemontchurch.org)
 
  
 
 **Current open Men’s small groups:**
 
-Thursday Morning Bible Study (Zoom): 6-7:15 am
+Thursday Morning Bible Study (Zoom): 6-7:15 a.m.
 
-Friday Morning Men’s Study: 6:30 am
+Friday Morning Men’s Study: 6:30 a.m.
 
