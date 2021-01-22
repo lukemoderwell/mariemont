@@ -4,7 +4,7 @@ date: 2016-11-13 15:40:00 -05:00
 permalink: "/mens-ministry/"
 position: 8
 bg_color: "#000000"
-hero_image: "/uploads/Men's%20MCC%20Logo%20wide.png"
+hero_image: "/uploads/menUnitedworn.gif"
 hasHero: true
 hasDownload: false
 hasForm: false
