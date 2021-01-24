@@ -22,7 +22,7 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 * **9:00 a.m.** **Astonished!**
 Click here for today's livestream of [Astonished: The Omnipresent God](https://youtu.be/b1vPsB58xGA)
 
-**Wednesday, 1/20**
+**Wednesday, 1/27**
 
 * **7:00 p.m.** Prayer at the Parish Center in the Hearth Room.
 
