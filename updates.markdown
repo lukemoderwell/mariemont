@@ -17,10 +17,10 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **JANUARY**
 
-**Sunday, 1/17**
+**Sunday, 1/24**
 
 * **9:00 a.m.** **Astonished!**
-Click here for today's livestream of [Astonished: The Self-Existent God](https://youtu.be/ect9I3elhUg)
+Click here for today's livestream of [Astonished: The Omnipresent God](https://youtu.be/b1vPsB58xGA)
 
 **Wednesday, 1/20**
 
