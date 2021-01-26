@@ -1,13 +1,14 @@
 ---
 title: Women's Ministry
 date: 2016-11-13 15:42:00 -05:00
-permalink: "/womens-ministry/"
+permalink: '/womens-ministry/'
 position: 9
-hero_image: "/uploads/womens-ministry.jpg"
+hero_image: '/uploads/womens-ministry.jpg'
 hasHero: true
 heading: Women's Ministry
 lead_in: Connecting, growing, and equipping the women of MCC.
 layout: page
+is_ministry: true
 ---
 
 The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another. Additionally, Women’s Ministries strives to help women mature in their faith by strengthening their bonds with one another.
@@ -30,7 +31,7 @@ Contact Teresa Earhart at 513-543-5362 or ttearhart@gmail.com.
 
 ### J.O.Y. Luncheon
 
-The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center on the second Wednesday of each month. Women 50 and older are welcome! We meet from 11:00 – 1:00 for Bible study followed by lunch. If you are not on the reservation list and would like to attend, please email Terri Cofskey at terri@mariemontchurch.org.  We always welcome those who haven’t made reservations, too!
+The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center on the second Wednesday of each month. Women 50 and older are welcome! We meet from 11:00 – 1:00 for Bible study followed by lunch. If you are not on the reservation list and would like to attend, please email Terri Cofskey at terri@mariemontchurch.org. We always welcome those who haven’t made reservations, too!
 
 ### Women’s Retreat
 
@@ -40,11 +41,11 @@ Mariemont Church Women’s Retreat is to help women grow in their faith by focus
 
 **Finding Shalom Amidst Chaos**
 
-Have you been feeling anxious? Are you weary from the chaos the world has brought this past year? Our Women's Retreat, Finding Shalom Amidst Chaos, will be held Saturday, Feb. 6, 2021,  from 10:00 am to 3:30 pm. Beth Guckenberger will share eight ancient Hebrew words to help bring completeness and peace to our souls in this stormy time. 
+Have you been feeling anxious? Are you weary from the chaos the world has brought this past year? Our Women's Retreat, Finding Shalom Amidst Chaos, will be held Saturday, Feb. 6, 2021, from 10:00 am to 3:30 pm. Beth Guckenberger will share eight ancient Hebrew words to help bring completeness and peace to our souls in this stormy time.
 
 The retreat will be both in-person and live stream, similar to our Sunday services. It will be free of charge and includes a box lunch for those attending in-person. No childcare will be provided.
 
-We have about 25-30 more spaces available for our in-person event!!  Please RSVP, by January 23, to Paula Ayer, ayerpaula@gmail.com. Reservations will be on a first-come first-served basics. Feel free to invite a friend or a relative.
+We have about 25-30 more spaces available for our in-person event!! Please RSVP, by January 23, to Paula Ayer, ayerpaula@gmail.com. Reservations will be on a first-come first-served basics. Feel free to invite a friend or a relative.
 
 If you would like to attend the retreat via live stream, we also need a reservation so you can receive details and information. RSVP, by January 23, to Paula Ayer, ayerpaula@gmail.com. Please consider inviting a friend or family member to participate with you, in your home, if you feel comfortable.
 
@@ -56,7 +57,7 @@ Everyone is encouraged to utilize their spiritual gifts and serve God in many ca
 
 ### The Family Shop
 
-For over 25 years, Women’s Ministries has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations. Volunteers use this clothing ministry as a means of reaching people by providing needed clothing and as opportunities arise, sharing the Gospel message. The proceeds of the sales are used to support Women’s Ministries, outreach to under-served women in the local community (ie. Prison Ministries – Ohio Reformatory for Women’s Tapestry and Kairos programs) and also for projects within the church. 
+For over 25 years, Women’s Ministries has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations. Volunteers use this clothing ministry as a means of reaching people by providing needed clothing and as opportunities arise, sharing the Gospel message. The proceeds of the sales are used to support Women’s Ministries, outreach to under-served women in the local community (ie. Prison Ministries – Ohio Reformatory for Women’s Tapestry and Kairos programs) and also for projects within the church.
 
 The Family Shop, located at the rear of the Parish Center, is open the second and fourth Saturdays of each month from 9 a.m. until noon.
 

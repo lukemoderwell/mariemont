@@ -7,7 +7,7 @@
 }
 
 .soft-top-half {
-  padding-top: .5rem !important;
+  padding-top: 0.5rem !important;
 }
 
 .push-bottom {
@@ -15,9 +15,21 @@
 }
 
 .push-bottom-half {
-  margin-bottom: .5rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
 .flush {
   margin: 0 !important;
+}
+
+[data-visually-hidden='true'] {
+  visibility: hidden;
+  opacity: 0;
+  width: 0;
+}
+
+[data-visually-hidden='false'] {
+  visibility: visible;
+  opacity: 1;
+  width: 100%;
 }

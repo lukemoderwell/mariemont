@@ -6,9 +6,11 @@
   z-index: 9999;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  border-bottom: 1px solid rgba(0, 0, 0, .1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 
-  .header_nav a {
+  .header_nav a,
+  .header_nav div {
+    font-family: $sans;
     display: inline-block;
     padding: 0 $unit-2;
     font-size: 18px;
@@ -23,7 +25,9 @@
   margin: 0 auto;
 
   @media (min-width: $large) {
-    display: block;
+    display: flex;
+    align-items: center;
+    width: 50%;
     opacity: 1;
   }
 }
@@ -116,10 +120,6 @@
   }
 }
 
-.header_nav a {
-  font-family: $sans;
-}
-
 .header_badge {
   display: none;
 
@@ -135,6 +135,24 @@
 
   &:hover {
     background-color: $color--green;
-    opacity: .9;
+    opacity: 0.9;
+  }
+}
+
+#ministries {
+  display: flex;
+  width: 100%;
+  min-width: 180px;
+  flex-direction: column;
+  padding: 1rem;
+  overflow-y: auto;
+  position: absolute;
+  top: 2rem;
+  left: -1rem;
+  background-color: $color--white;
+  filter: drop-shadow(0px 2px 8px rgba(0, 0, 0, 0.2));
+
+  a {
+    padding: 0.5rem 0.25rem;
   }
 }

@@ -11,13 +11,22 @@
       <a href="/about">About</a>
       <a href="/grow">Grow &amp; Serve</a>
       <a href="/media">Media</a>
+      <a href="/connect">Connect</a>
+      <a href="/updates">Events</a>
+      <div data-ministry-trigger style="position: relative; cursor: pointer">
+        Ministries ▾
+        <ul id="ministries" data-visually-hidden="true">
+          {% for page in site.pages %} {% if page.is_ministry == true %}
+          <a href="{{ page.permalink}}">{{page.title}}</a>
+          {% endif %} {% endfor %}
+        </ul>
+      </div>
       <a
+        style="color: #11338d"
         href="https://mariemontchurch.churchcenter.com/giving?open-in-church-center-modal=true"
       >
         Give</a
       >
-      <a href="/connect">Connect</a>
-      <a href="/updates">Events</a>
     </nav>
     {% include mobile-nav.html %}
     <a
@@ -29,10 +38,20 @@
     >
   </div>
   <script>
+    var ministryMenuTrigger = document.querySelector('[data-ministry-trigger]');
+    var ministryMenu = document.getElementById('ministries');
+    function toggleMinistryMenu() {
+      if (ministryMenu.dataset.visuallyHidden == 'true') {
+        ministryMenu.setAttribute('data-visually-hidden', 'false');
+      } else {
+        ministryMenu.setAttribute('data-visually-hidden', 'true');
+      }
+    }
+    ministryMenuTrigger.addEventListener('click', toggleMinistryMenu);
     function isStreaming() {
       const btns = document.querySelectorAll('[data-stream-btn');
       fetch(
-        'https://api.boxcast.com/channels/jabw5gnjrjjzitkrjjpq/broadcasts?q=timeframe:current'
+        'https://api.boxcast.com/channels/jabw5gnjrjjzitkrjjpq/broadcasts?q=timeframe:current',
       )
         .then((response) => response.json())
         .then((data) => {

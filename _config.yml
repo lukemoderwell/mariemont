@@ -36,6 +36,7 @@ defaults:
     path: ''
     type: pages
   values:
+    is_ministry: false
     bg_color: ''
     hero_image: ''
     hasHero: false
