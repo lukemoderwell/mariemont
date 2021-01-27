@@ -3,7 +3,6 @@ import Widget from '../Widget';
 import styles from './ListWidget.module.scss';
 
 export default function ListWidget({ data }) {
-  console.log(data);
   return (
     <Widget title="Most Viewed Videos">
       <ul className={styles.list}>

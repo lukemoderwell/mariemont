@@ -4,7 +4,6 @@ import Widget from '../Widget';
 import styles from './PieWidget.module.scss';
 
 export default function PieWidget({ data }) {
-  console.log(data);
   const defaultLabelStyle = {
     fontSize: '18px',
   };
@@ -15,8 +14,7 @@ export default function PieWidget({ data }) {
         data={data}
         height={300}
         width={300}
-        labelsStyle={defaultLabelStyle}
-      ></RadialChart>
+        labelsStyle={defaultLabelStyle}></RadialChart>
     </Widget>
   );
 }

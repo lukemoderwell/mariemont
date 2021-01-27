@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import styles from './Dashboard.module.scss';
 import Select from '../components/Select';
-import data from '../../data.json';
 import CoreMetricsWidget from '../components/CoreMetricsWidget';
 import PieWidget from '../components/PieWidget';
 import ListWidget from '../components/ListWidget';
@@ -10,8 +9,10 @@ export default function Dashboard() {
   const now = new Date().getTime();
   const dayMs = 86400 * 1000;
   const weekMs = dayMs * 7;
+  const [data, setData] = useState([]);
   const [end, setEnd] = useState(now - weekMs);
   const [previousEnd, setPreviousEnd] = useState(end - weekMs);
+  const [timestamp, setTimestamp] = useState('');
   const dateRangeOptions = [
     {
       label: '7 Days',
@@ -83,7 +84,7 @@ export default function Dashboard() {
         data.filter((item) => item.medium === 'youtube'),
         'views',
         now,
-        end,
+        end
       ),
       color: '#fc4739',
     },
@@ -93,7 +94,7 @@ export default function Dashboard() {
         data.filter((item) => item.medium === 'facebook'),
         'views',
         now,
-        end,
+        end
       ),
       color: '#4267b2',
     },
@@ -103,7 +104,7 @@ export default function Dashboard() {
     data,
     'average_view_duration',
     now,
-    end,
+    end
   );
 
   const minutes = Math.floor(averageViewDuration / 60);
@@ -115,7 +116,7 @@ export default function Dashboard() {
       value: countMetric(data, 'views', now, end),
       change: percentDifferent(
         countMetric(data, 'views', now, end),
-        countMetric(data, 'views', end, previousEnd),
+        countMetric(data, 'views', end, previousEnd)
       ),
     },
     {
@@ -123,7 +124,7 @@ export default function Dashboard() {
       value: countMetric(data, 'likes', now, end),
       change: percentDifferent(
         countMetric(data, 'likes', now, end),
-        countMetric(data, 'likes', end, previousEnd),
+        countMetric(data, 'likes', end, previousEnd)
       ),
     },
     {
@@ -131,47 +132,41 @@ export default function Dashboard() {
       value: countMetric(data, 'comments', now, end),
       change: percentDifferent(
         countMetric(data, 'comments', now, end),
-        countMetric(data, 'comments', end, previousEnd),
-      ),
-    },
-    {
-      title: 'Avg. View Percentage',
-      value: `${averageMetric(data, 'average_view_percentage', now, end)}%`,
-      change: percentDifferent(
-        averageMetric(data, 'average_view_percentage', now, end),
-        averageMetric(data, 'average_view_percentage', end, previousEnd),
-      ),
-    },
-    {
-      title: 'Avg. View Duration',
-      value: `${minutes}m ${seconds}s`,
-      change: percentDifferent(
-        averageMetric(data, 'average_view_duration', now, end),
-        averageMetric(data, 'average_view_duration', end, previousEnd),
+        countMetric(data, 'comments', end, previousEnd)
       ),
     },
   ];
 
   useEffect(() => {
     const closest = [...dateRangeOptions].sort(
-      (a, b) => Math.abs(end - a.value) - Math.abs(end - b.value),
+      (a, b) => Math.abs(end - a.value) - Math.abs(end - b.value)
     );
     setPreviousEnd(closest[0].previous);
   }, [end]);
 
-  return (
+  useEffect(() => {
+    const url = 'https://aws-dependencies.s3.us-east-2.amazonaws.com/data.json';
+    fetch(url)
+      .then((response) => response.json())
+      .then((stringifiedData) => {
+        setData(stringifiedData);
+        setTimestamp(
+          new Date(stringifiedData[0].date_published).toDateString()
+        );
+      })
+      .catch((error) => console.log(`Failed because: ${error}`));
+  }, []);
+
+  return data !== [] ? (
     <div className={styles.dashboard}>
       <header className={styles.header}>
         <h4 className={styles.title}>MCC Video Dashboard</h4>
-        <span className={styles.subtitle}>
-          {`updated ${new Date(data[0].date_published).toDateString()}`}
-        </span>
+        <span className={styles.subtitle}>{`updated ${timestamp}`}</span>
         <h4
           className={styles.date}
           style={{
             marginLeft: 'auto',
-          }}
-        >
+          }}>
           <Select
             label="Date Range"
             value={dateRangeOptions.find((item) => item.value === end)}
@@ -189,8 +184,7 @@ export default function Dashboard() {
             display: 'grid',
             gridTemplateColumns: '1fr 1fr',
             gridGap: '2rem',
-          }}
-        >
+          }}>
           <div>
             <PieWidget data={pieData} />
           </div>
@@ -198,12 +192,14 @@ export default function Dashboard() {
             <ListWidget
               data={topVideos.filter(
                 (video) =>
-                  video.date_published <= now && video.date_published >= end,
+                  video.date_published <= now && video.date_published >= end
               )}
             />
           </div>
         </div>
       </div>
     </div>
+  ) : (
+    <div>Loading</div>
   );
 }
