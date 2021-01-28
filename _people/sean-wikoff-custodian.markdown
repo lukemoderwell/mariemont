@@ -1,7 +1,7 @@
 ---
 title: Sean Wikoff, Custodian
 date: 2018-10-05 16:26:00 -04:00
-position: 0
+position: Custodian
 name: Sean Wikoff
 is_elder: false
 image: "/uploads/SeanWikoff.crop.jpg"

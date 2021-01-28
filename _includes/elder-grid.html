@@ -5,7 +5,9 @@
     <img class="media-img" src="{{ elder.image }}" />
     <div class="media-content">
       <h4 class="media-title">{{ elder.name }}</h4>
-      <h5 class="media-subtitle">{{ elder.position }}</h5>
+      {% if elder.position != null and elder.position != "" %}
+        <h5 class="media-subtitle">{{ elder.position }}</h5>
+      {% endif %}
       <p>{{ elder.content | markdownify }}</p>
     </div>
   </div>

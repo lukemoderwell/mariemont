@@ -1,7 +1,7 @@
 ---
 title: Rob Seetin
 date: 2018-09-24 10:08:00 -04:00
-position: 0
+position:
 name: Rob Seetin
 is_elder: true
 image: "/uploads/Seetins.crop.jpg"
