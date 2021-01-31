@@ -17,16 +17,16 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **JANUARY**
 
-**Sunday, 1/24**
+**Sunday, 1/31**
 
 * **9:00 a.m.** **Astonished!**
-Click here for today's livestream of [Astonished: The Omnipresent God](https://youtu.be/b1vPsB58xGA)
-
-**Wednesday, 1/27**
-
-* **7:00 p.m.** Prayer at the Parish Center in the Hearth Room.
+Click here for today's livestream of [Astonished: The Omniscient God](https://youtu.be/NmzuP3kvBw0)
 
 **FEBRUARY**
+
+**Wednesday, 2/3**
+
+* **7:00 p.m.** Prayer at the Parish Center in the Hearth Room.
 
 **Saturday, 2/6**
 
