@@ -38,7 +38,7 @@ Have you been feeling anxious? Are you weary from the chaos the world has brough
 
 The retreat will be both in-person and live stream, similar to our Sunday services. It will be free of charge and includes a box lunch for those attending in-person. No childcare will be provided.
 
-We have about 25-30 more spaces available for our in-person event!!  Please RSVP, by January 23, to Paula Ayer, [ayerpaula@gmail.com](ayerpaula@gmail.com). Reservations will be on a first-come first-served basics. Feel free to invite a friend or a relative.
+Please RSVP, by January 23, to Paula Ayer, [ayerpaula@gmail.com](ayerpaula@gmail.com). Reservations will be on a first-come first-served basics. Feel free to invite a friend or a relative.
 
 If you would like to attend the retreat via live stream, we also need a reservation so you can receive details and information. RSVP, by January 23, to Paula Ayer, [ayerpaula@gmail.com](ayerpaula@gmail.com). Please consider inviting a friend or family member to participate with you, in your home, if you feel comfortable.
 
