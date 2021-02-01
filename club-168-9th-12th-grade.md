@@ -5,8 +5,8 @@ permalink: "/club-168/"
 position: 13
 hero_image: "/uploads/denis-teaching.jpg"
 hasHero: true
-heading: Grades 9 through 12
-lead_in: Our goal is to serve God all the time.
+heading: Grades 7 through 12
+lead_in: Our goal is to love and serve God all the time.
 layout: page
 ---
 
