@@ -20,9 +20,11 @@ Did you know that the first youth pastor in the Christian church may have been J
 The main point we draw from this is that there is no junior Holy Spirit. The Father is happy to use anyone who makes themselves available for kingdom works; so when we look at our students, we see Disciples of Jesus with gifting, power, authority, and purpose as disciples of Jesus.
 
 **Coming to Our Meetings?**
+
 We meet on Sunday mornings immediately from 10:30 a.m. - 12:00 p.m. on the second floor of the Parish Center. A typical meeting consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
  
 We have students from the tri-state area who attend public, private, and home-schools. We also have some wonderful adult leaders who love Jesus, love students, and have a desire to see students walk more deeply and intentionally with Jesus.
 
 **Who Can Come?**
+
 Any 7th – 12th grade student no matter where you go to school. You don’t have to attend MCC to come, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
