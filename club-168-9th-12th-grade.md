@@ -1,5 +1,5 @@
 ---
-title: Club 168 (9th -12th Grade)
+title: Student Ministries (7th -12th Grade)
 date: 2017-03-19 19:51:00 -04:00
 permalink: "/club-168/"
 position: 13
@@ -16,12 +16,10 @@ Did you know that the first youth pastor in the Christian church may have been J
 
 The main point we draw from this here at MCC is that there is no junior Holy Spirit. The Father is happy to use anyone who makes themselves available for kingdom works; so when we look at our students, we see Disciples of Jesus with gifting, power, authority, and purpose as disciples of Jesus.
 
-Our Senior High Ministry is called Club 168. The 168 comes from the idea that there are 168 hours in a week, and we want to live for Christ all 168 hours, not just the few hours we are at Youth meetings or at Sunday morning community gatherings. The Scripture that speaks to this is  1 Thessalonians 5:16-18 --16 Always be joyful.--17 Never stop praying.--18 Be thankful in all circumstances, for this is God’s will for you who belong to Christ Jesus.
-
 **Coming to Our Meetings?**
-We meet on Sunday mornings immediately after the 9:00 service on the second floor of the Parish Center. A typical meeting consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
+We meet on Sunday mornings immediately from 10:30 a.m. - 12:00 p.m. on the second floor of the Parish Center. A typical meeting consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
  
 We have students from the tri-state area who attend public, private, and home-schools. We also have some wonderful adult leaders who love Jesus, love students, and have a desire to see students walk more deeply and intentionally with Jesus.
 
 **Who Can Come?**
-Any 9th – 12th grade student no matter where you go to school. You don’t have to attend MCC to come, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
+Any 7th – 12th grade student no matter where you go to school. You don’t have to attend MCC to come, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
