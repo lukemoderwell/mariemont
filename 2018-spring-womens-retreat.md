@@ -7,22 +7,20 @@ position: 10
 layout: page-no-hero
 ---
 
-## 2019 Spring Women's Retreat
-### Finding God's Treasures: Love, Joy, and Peace
+### 2021 Women’s Retreat
 
-<br/>
-<a href="/womens-retreat-signup" class="btn btn--small btn--primary">Sign Up Now</a>
+Mariemont Church Women’s Retreat is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
 
-Have you ever thought about sowing spiritual seeds? How is your spiritual garden growing? How beautifully
-could the “gardens” of our families, churches, and communities grow as we sow seeds of grace with our words,
-our works, and our walks?
+**February 6, 2021** is the date for this year's retreat.
 
-Please join us for our annual 2019 Women's Retreat. Our speaker, Kim Knight, will focus on how we can
-“cultivate” a life of worship and how we can “sow seeds” of grace with our words, our works and our daily walks. There will be time for learning, study, discussion, reflection, free time, and Holy Yoga.
+**Finding Shalom Amidst Chaos**
 
-We’ll begin with dinner on **Friday, March 2, at 6:15pm** (registration begins at 5 pm) and finish Saturday, March 3 by 4:00 pm. Our retreat will be nearby at the Jesuit Retreat Center in Milford, and the early bird cost is only $65 (if registered on or before February 4) or $85 (after February 4- Feb. 18). You’ll get three delicious meals,extra snacks, fun, great teaching, and comfortable lodging. Registration forms are available at the Connect Desk in the Parish Center or go to www.mariemontchurch.org (payment must be made separately). A limited number of spaces are available.
+Have you been feeling anxious? Are you weary from the chaos the world has brought this past year? Our Women's Retreat, Finding Shalom Amidst Chaos, will be held Saturday, Feb. 6, 2021, from 10:00 am to 3:30 pm. Beth Guckenberger will share eight ancient Hebrew words to help bring completeness and peace to our souls in this stormy time.
 
-Scholarships are available, upon request.
-For questions, contact Beth Swift at swiftclan@gmail.com.
+The retreat will be both in-person and live stream, similar to our Sunday services. It will be free of charge and includes a box lunch for those attending in-person. No childcare will be provided.
 
-Take time to “cultivate” your spiritual garden, to make new friends, to worship, and to draw closer to God. We hope you’ll join us!
+January 23 is the deadline to RSVP to Paula Ayer at ayerpaula@gmail.com. Reservations will be on a first-come first-served basics. Feel free to invite a friend or a relative.
+
+If you would like to attend the retreat via live stream, we also need a reservation so you can receive details and information. RSVP, by January 23, to Paula Ayer, ayerpaula@gmail.com. Please consider inviting a friend or family member to participate with you, in your home, if you feel comfortable.
+
+Looking forward to being in His presence with you!
