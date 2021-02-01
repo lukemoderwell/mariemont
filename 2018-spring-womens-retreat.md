@@ -1,5 +1,5 @@
 ---
-title: 2021 Spring Women's Retreat
+title: 2021 Women's Retreat
 date: 2018-01-18 10:19:00 -05:00
 permalink: "/2018-spring-womens-retreat/"
 published: false
