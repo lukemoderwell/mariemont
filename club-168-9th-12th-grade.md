@@ -5,7 +5,9 @@ permalink: "/club-168/"
 position: 13
 hero_image: "/uploads/denis-teaching.jpg"
 hasHero: true
-heading: Grades 7 through 12
+heading: |-
+  Student Ministries:
+  Grades 7 through 12
 lead_in: Mariemont church is committed to building the lives of teenagers in Cincinnati.
   We are a loving group of junior and senior high students with a passion for knowing
   Jesus better and helping our friends to know him too. Our goal is to love and serve
