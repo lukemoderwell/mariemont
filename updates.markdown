@@ -15,34 +15,13 @@ Here is the link for the [staff announcement](https://drive.google.com/file/d/1f
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
-**JANUARY**
-
-**Sunday, 1/31**
-
-* **9:00 a.m.** **Astonished!**
-Click here for today's livestream of [Astonished: The Omniscient God](https://youtu.be/NmzuP3kvBw0)
 
 **FEBRUARY**
 
-**Wednesday, 2/3**
+**Sunday, 2/7**
 
-* **7:00 p.m.** Prayer at the Parish Center in the Hearth Room.
-
-**Saturday, 2/6**
-
-* **10:00 a.m.** Women's Day Retreat
-
-**Finding Shalom Amidst Chaos**
-
-Have you been feeling anxious? Are you weary from the chaos the world has brought this past year? Our Women's Retreat, Finding Shalom Amidst Chaos, will be held Saturday, Feb. 6, 2021,  from 10:00 am to 3:30 pm. Beth Guckenberger will share eight ancient Hebrew words to help bring completeness and peace to our souls in this stormy time. 
-
-The retreat will be both in-person and live stream, similar to our Sunday services. It will be free of charge and includes a box lunch for those attending in-person. No childcare will be provided.
-
-Please RSVP, by January 23, to Paula Ayer, [ayerpaula@gmail.com](ayerpaula@gmail.com). Reservations will be on a first-come first-served basics. Feel free to invite a friend or a relative.
-
-If you would like to attend the retreat via live stream, we also need a reservation so you can receive details and information. RSVP, by January 23, to Paula Ayer, [ayerpaula@gmail.com](ayerpaula@gmail.com). Please consider inviting a friend or family member to participate with you, in your home, if you feel comfortable.
-
-Looking forward to being in His presence with you!
+* **9:00 a.m.** **Astonished!**
+Click here for today's livestream of [Astonished: The Suffering God](https://youtu.be/70m9KpUKwhM)
 
 **Wednesday 2/10**
 
