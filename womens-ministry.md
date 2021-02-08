@@ -60,8 +60,16 @@ Take Them A Meal is an outreach food ministry to MCC church members who are in n
 
 ### Tapestry of Love (Prison Ministry)
 
-Tapestry of Love is a ministry that reaches out to the women in Ohio prisons, especially those in the Tapestry program (www.compdrug.com/tc/tapestry) at the Ohio Reformatory for Women (ORW). Our mission is to encourage the women and show them the unconditional love of Jesus. Volunteers participate as spiritual role models who don't judge, but who encourage and love the women in prison no matter what they have done in their past. A prison visit may include making crafts, playing games, mentoring, praying with those asking for prayer, and providing basic needs through distributing toiletries or prepared food.
+Tapestry of Love is a ministry founded by Sheila Luther and Teresa Earhart. Our mission is to encourage the incarcerated women and show them the unconditional love of Jesus so they will know that through Jesus there is restoration and unconditional forgiveness for all who seek Him.
 
-We always accept donations of toiletries for women in the Tapestry program. Toiletries include: shampoo, conditioner, deodorant, body wash, bar soap, body lotion/cream, toothpaste, and toothbrushes. African-American shampoos and conditioners are also needed. No alcohol, no pump dispensers, no glass or aerosols. Bring items to the church office!
+During the pandemic, while the prisons remain closed to outside volunteers, we connect the incarcerated women in several ways including school supply mailings to their children. These children are often a forgotten population when their mothers go to prison and leave them behind in someone else's care. A first day of school without their mother or spending a holiday without mom is incredibly sad. Children can’t visit with their moms, the mothers long to reach out to their children, so we are connecting them through school supplies and Christmas gift mailings until the pandemic is over.
 
-If you are interested in attending a prison visit or would like more information about this ministry, contact Teresa Earhart at ttearhart@gmail.com.
+Caregivers of the children are another focus of our ministry. We show love to the caregivers and supporters of these children left behind. Additionally, we help women coming out of prison with clothing and other vital needs to successfully re-enter society.
+
+Sheila Luther, who spent 13 years in prison and the founder of Tapestry of Love, is the illustrator of a book titled, *How Mommy Found Her Way Home*. For more information and to support this children’s book go to [www.seednhope.com](www.seednhope.com).
+
+The mission of the Tapestry ministry is to show love and compassion to the “least of these” as the Bible tells us we must do in Matthew 25, “Whenever you do it for the *least of these*, you do it for me."
+
+Contact us with questions or for more information through Sheila at [sheila337@outlook.com](sheila337@outlook.com) or Teresa at [tteathart@gmail.com](tteathart@gmail.com). If you would like to support our ministry with your donation, send a check to Mariemont Community Church, 3908 Plainville Rd., 45227; with "Tapestry of Love," in the memo line.
+
+Colossians 2:12 "I want you woven into a tapestry of love, in touch with everything there is to know of God." 
