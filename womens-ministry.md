@@ -37,19 +37,12 @@ The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center
 
 Mariemont Church Women’s Retreat is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
 
-**February 6, 2021** is the date for this year's retreat.
 
-**Finding Shalom Amidst Chaos**
+**Finding Shalom Amidst Chaos** was our 2021 retreat. Beth Guckenberger shared seven ancient Hebrew words that helped bring completeness and peace to our souls in this stormy time.
 
-Have you been feeling anxious? Are you weary from the chaos the world has brought this past year? Our Women's Retreat, Finding Shalom Amidst Chaos, will be held Saturday, Feb. 6, 2021, from 10:00 am to 3:30 pm. Beth Guckenberger will share eight ancient Hebrew words to help bring completeness and peace to our souls in this stormy time.
+The retreat was both in-person and live streamed. You can access the three videos on Mariemont Church's YouTube channel [here (1)](https://youtu.be/p1MRw42YHRA), [here (2)](https://youtu.be/IHLUDYp1AUo), and [here (3)](https://youtu.be/b2SPeXkzX9c).
 
-The retreat will be both in-person and live stream, similar to our Sunday services. It will be free of charge and includes a box lunch for those attending in-person. No childcare will be provided.
-
-We have about 25-30 more spaces available for our in-person event!! Please RSVP, by January 23, to Paula Ayer, ayerpaula@gmail.com. Reservations will be on a first-come first-served basics. Feel free to invite a friend or a relative.
-
-If you would like to attend the retreat via live stream, we also need a reservation so you can receive details and information. RSVP, by January 23, to Paula Ayer, ayerpaula@gmail.com. Please consider inviting a friend or family member to participate with you, in your home, if you feel comfortable.
-
-Looking forward to being in His presence with you!
+Missed being in His presence with you...would love to have you join us next year!
 
 ### Serve
 
