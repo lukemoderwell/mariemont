@@ -23,7 +23,7 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 * **9:00 a.m.** **Astonished!**
 Click here for today's livestream of [Astonished: The Suffering God](https://youtu.be/70m9KpUKwhM)
 
-**Wednesday 2/10** **Worship has been cancelled tonight. Postponed to next week.**
+**Wednesday 2/10** **Worship has been CANCELLED tonight. Postponed to next week.**
 
 * **7:00 p.m.** **Wednesday Night Worship** at the Parish Center in the Auditorium. Contact: Paul Rasmussen at paul@mariemontchurch.org for more information.
 
