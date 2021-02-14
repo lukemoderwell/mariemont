@@ -25,8 +25,6 @@ Click here for today's livestream of [Astonished: The Suffering God](https://you
 
 **Wednesday 2/10** **Worship has been CANCELLED tonight. Postponed to next week.**
 
-* **7:00 p.m.** **Wednesday Night Worship** at the Parish Center in the Auditorium. Contact: Paul Rasmussen at paul@mariemontchurch.org for more information.
-
 **Saturday, 2/13**
 
 * **8:00 a.m.** **Speaking the Truth in Love** Click [here](http://www.equippingministries.org/) for course descriptions and to register. In person and Zoom options available. For more information contact Christine Wavle at [cwavle@equippingministries.org](cwavle@equippingministries.org).
