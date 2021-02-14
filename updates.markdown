@@ -18,16 +18,10 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **FEBRUARY**
 
-**Sunday, 2/7**
+**Sunday, 2/14**
 
 * **9:00 a.m.** **Astonished!**
-Click here for today's livestream of [Astonished: The Suffering God](https://youtu.be/70m9KpUKwhM)
-
-**Wednesday 2/10** **Worship has been CANCELLED tonight. Postponed to next week.**
-
-**Saturday, 2/13**
-
-* **8:00 a.m.** **Speaking the Truth in Love** Click [here](http://www.equippingministries.org/) for course descriptions and to register. In person and Zoom options available. For more information contact Christine Wavle at [cwavle@equippingministries.org](cwavle@equippingministries.org).
+Click here for today's livestream of [Astonished: The Loving God](https://youtu.be/mlzUdhTJidY)
 
 **Wednesday 2/17** 
 
@@ -38,6 +32,12 @@ Click here for today's livestream of [Astonished: The Suffering God](https://you
 **Saturday, 3/20**
 
 * **8:00 a.m.** **Renewing Your Mind** Click [here](http://www.equippingministries.org/) for course descriptions and to register. In person and Zoom options available. For more information contact Christine Wavle at [cwavle@equippingministries.org](cwavle@equippingministries.org).
+
+**APRIL**
+
+**Sunday, 4/4** **Resurrection Sunday** In-person services at 9:00 a.m. and 11:00 a.m. Livestream at 9:00 a.m.
+
+**Sunday, 4/11** **New Sermon Series in Colossians Begins**
 
 **Here's what you may have missed...**
 
