@@ -35,7 +35,7 @@ Click here for today's livestream of [Astonished: The Loving God](https://youtu.
 
 **APRIL**
 
-**Sunday, 4/4** **Resurrection Sunday** In-person services at 9:00 a.m. and 11:00 a.m. Livestream at 9:00 a.m.
+**Sunday, 4/4** **Resurrection Sunday** In-person services at 9:00 a.m. and 11:00 a.m. Livestream at 9:00 a.m. only.
 
 **Sunday, 4/11** **New Sermon Series in Colossians Begins**
 
