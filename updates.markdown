@@ -11,21 +11,19 @@ layout: page-no-hero
 
 ## Events
 
-Here is the link for the [staff announcement](https://drive.google.com/file/d/1fimihQTCfrLdNmrFnf8OVGG2fBwtAJv7/view?usp=sharing)  which was made on 12/13/2020 regarding Dr. Jamie Moore becoming a co-senior pastor.
-
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
 
 **FEBRUARY**
 
-**Sunday, 2/14**
+**Sunday, 2/**21
 
 * **9:00 a.m.** **Astonished!**
-Click here for today's livestream of [Astonished: The Loving God](https://youtu.be/mlzUdhTJidY)
+Click here for today's livestream of [Astonished: The Holy God](https://youtu.be/NgP5z9P-kik)
 
-**Wednesday 2/17** 
+**Wednesday 2/24** 
 
-* **7:00 p.m.** **Wednesday Night Worship** at the Parish Center in the Auditorium. Contact: Paul Rasmussen at paul@mariemontchurch.org for more information.
+* **7:00 p.m.** **Wednesday Night Prayer** at the Parish Center in the Hearth Room.
 
 **MARCH**
 
