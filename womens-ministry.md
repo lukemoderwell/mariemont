@@ -66,7 +66,7 @@ During the pandemic, while the prisons remain closed to outside volunteers, we c
 
 Caregivers of the children are another focus of our ministry. We show love to the caregivers and supporters of these children left behind. Additionally, we help women coming out of prison with clothing and other vital needs to successfully re-enter society.
 
-Sheila Luther, who spent 13 years in prison and the founder of Tapestry of Love, is the illustrator of a book titled, *How Mommy Found Her Way Home*. For more information and to support this children’s book go to [www.seednhope.com](www.seednhope.com).
+Sheila Luther, who spent 13 years in prison and the founder of Tapestry of Love, is the illustrator of a book titled, *How Mommy Found Her Way Home*. For more information and to support this children’s book go to [www.seednhope.com](https://seed hope.com/).
 
 The mission of the Tapestry ministry is to show love and compassion to the “least of these” as the Bible tells us we must do in Matthew 25, “Whenever you do it for the *least of these*, you do it for me."
 
