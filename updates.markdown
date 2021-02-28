@@ -16,16 +16,20 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **FEBRUARY**
 
-**Sunday, 2/**21
+**Sunday, 2/28**
 
 * **9:00 a.m.** **Astonished!**
-Click here for today's livestream of [Astonished: The Holy God](https://youtu.be/NgP5z9P-kik)
+Click here for today's livestream of [Astonished: The Omnipotent God](https://youtu.be/E0C8Qt3jw7A)
 
-**Wednesday 2/24** 
+**MARCH**
+
+**Wednesday 3/3** 
 
 * **7:00 p.m.** **Wednesday Night Prayer** at the Parish Center in the Hearth Room.
 
-**MARCH**
+**Wednesday 3/10** 
+
+* **7:00 p.m.** **Wednesday Night Worship** at the Parish Center in the Auditorium.
 
 **Saturday, 3/20**
 
