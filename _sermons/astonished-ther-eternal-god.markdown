@@ -1,5 +1,5 @@
 ---
-title: 'Astonished: Ther Eternal God'
+title: 'Astonished: The Eternal God'
 date: 2021-03-07 08:56:00 -05:00
 series: Astonished
 week: 10
