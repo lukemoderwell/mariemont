@@ -14,14 +14,12 @@ layout: page-no-hero
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
 
-**FEBRUARY**
+**MARCH**
 
-**Sunday, 2/28**
+**Sunday, 3/7**
 
 * **9:00 a.m.** **Astonished!**
-Click here for today's livestream of [Astonished: The Omnipotent God](https://youtu.be/E0C8Qt3jw7A)
-
-**MARCH**
+Click here for today's livestream of Astonished: [The Eternal God](https://youtu.be/xyFqwbIbGic)
 
 **Wednesday 3/3** 
 
