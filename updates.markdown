@@ -16,18 +16,14 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **MARCH**
 
-**Sunday, 3/7**
+**Sunday, 3/14**
 
 * **9:00 a.m.** **Astonished!**
-Click here for today's livestream of Astonished: [The Eternal God](https://youtu.be/xyFqwbIbGic)
+Click here for today's livestream of Astonished: [The Beautiful God](https://youtu.be/yFrAc74uOF4) 
 
-**Wednesday 3/3** 
+**Wednesday 3/17** 
 
 * **7:00 p.m.** **Wednesday Night Prayer** at the Parish Center in the Hearth Room.
-
-**Wednesday 3/10** 
-
-* **7:00 p.m.** **Wednesday Night Worship** at the Parish Center in the Auditorium.
 
 **Saturday, 3/20**
 
