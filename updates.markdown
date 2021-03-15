@@ -36,6 +36,8 @@ Click here for today's livestream of Astonished: [The Beautiful God](https://you
 
 **Sunday, 4/4** **Resurrection Sunday** In-person services begin at 9:00 a.m. and 11:00 a.m. Livestream at 9:00 a.m. only.
 
+**Wednesday, 4/7** **Wednesday Prayer** at the Parish Center 7:00-8:00 p.m. in the Hearth Room. Join us to pray together and be encouraged.
+
 **Sunday, 4/11** **New Sermon Series in Colossians Begins** 
 A surprisingly relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only.
 
