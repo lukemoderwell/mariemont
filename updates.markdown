@@ -41,7 +41,7 @@ Click here for today's livestream of Astonished: [The Beautiful God](https://you
 
 **Wednesday, 4/7**
 
-**Wednesday Prayer** at the Parish Center 7:00-8:00 p.m. in the Hearth Room. Join us to pray together and be encouraged.
+**7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Join us to pray together and be encouraged.
 
 **Sunday, 4/11**
 
