@@ -13,7 +13,6 @@ layout: page-no-hero
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
-
 **MARCH**
 
 **Sunday, 3/14**
@@ -29,11 +28,18 @@ Click here for today's livestream of Astonished: [The Beautiful God](https://you
 
 * **8:00 a.m.** **Renewing Your Mind** Click [here](http://www.equippingministries.org/) for course descriptions and to register. In person and Zoom options available. For more information contact Christine Wavle at [cwavle@equippingministries.org](cwavle@equippingministries.org).
 
+**Sunday, 3/28**
+
+* We will have baptisms during the service. Please contact Jamie Moore at jamie@mariemontchurch.org if you are interested in baptism.
+
 **APRIL**
 
-**Sunday, 4/4** **Resurrection Sunday** In-person services at 9:00 a.m. and 11:00 a.m. Livestream at 9:00 a.m. only.
+**Sunday, 4/4** **Resurrection Sunday** In-person services begin at 9:00 a.m. and 11:00 a.m. Livestream at 9:00 a.m. only.
 
-**Sunday, 4/11** **New Sermon Series in Colossians Begins**
+**Sunday, 4/11** **New Sermon Series in Colossians Begins** 
+A surprisingly relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only.
+
+**Wednesday, 4/14** **Wednesday Worship** at the Parish Center Auditorium from 7:00-8:00 p.m. Worship with us and be refreshed!
 
 **Here's what you may have missed...**
 
