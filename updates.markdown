@@ -46,6 +46,7 @@ Click here for today's livestream of Astonished: [The Beautiful God](https://you
 **Sunday, 4/11**
 
 **New Sermon Series in Colossians Begins** 
+
 **9:00 and 11:00 a.m. (Note the added service time)** 
 A surprisingly relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only.
 
