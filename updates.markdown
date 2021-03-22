@@ -26,9 +26,16 @@ Click here for today's livestream of Astonished: [The Jealous God ](https://yout
 
 **Sunday, 3/28**
 
-* We will have baptisms during the service. Please contact Jamie Moore at jamie@mariemontchurch.org if you are interested in baptism.
+* **We will have baptisms during the service.** Please contact Jamie Moore at jamie@mariemontchurch.org if you are interested in baptism.
+
+* We will follow up our budget surplus giving with a special missions offering for the ongoing ministry expenses of our partners, many of whom have been impacted by reduced giving in the pandemic. Each member of our congregation will have the opportunity to make an incremental gift and designate it for one or more specific missionaries. If you have any questions, contact mark@mariemontchurch.org.
+
 
 **APRIL**
+
+**Friday and Saturday, 4/2-3**
+
+**Spring Work Days** Pull weeds and restore the edge on flower and shrub beds at the Parish Center and Chapel.
 
 **Sunday, 4/4**
 
@@ -38,6 +45,10 @@ Click here for today's livestream of Astonished: [The Jealous God ](https://yout
 **Wednesday, 4/7**
 
 **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Join us to pray together and be encouraged.
+
+**Friday and Saturday, 4/9-10**
+
+**Spring Work Days** Spread 21 yards of mulch onto flower and shrub beds at the Parish Center and Chapel.
 
 **Sunday, 4/11**
 
