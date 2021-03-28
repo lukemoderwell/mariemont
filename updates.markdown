@@ -15,23 +15,17 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **MARCH**
 
-**Sunday, 3/21**
-
-* **9:00 a.m.** **Astonished!**
-Click here for today's livestream of Astonished: [The Jealous God ](https://youtu.be/GDX46QAygMo)
-
-**Wednesday 3/24** 
-
-* **7:00 p.m.** **Wednesday Night Prayer** at the Parish Center in the Hearth Room.
-
 **Sunday, 3/28**
 
-* **We will have baptisms during the service.** Please contact Jamie Moore at jamie@mariemontchurch.org if you are interested in baptism.
-
-* We will follow up our budget surplus giving with a special missions offering for the ongoing ministry expenses of our partners, many of whom have been impacted by reduced giving in the pandemic. Each member of our congregation will have the opportunity to make an incremental gift and designate it for one or more specific missionaries. If you have any questions, contact mark@mariemontchurch.org.
+* **9:00 a.m.** **Astonished!**
+Click here for today's livestream of Astonished: [The Missional God](https://youtu.be/LOMn4jgdiAA)
 
 
 **APRIL**
+
+**Wednesday 4/1** 
+
+* **7:00 p.m.** **Wednesday Night Prayer** at the Parish Center in the Hearth Room.
 
 **Friday and Saturday, 4/2-3**
 
