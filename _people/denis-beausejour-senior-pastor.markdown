@@ -1,7 +1,7 @@
 ---
-title: Denis Beausejour, Senior Pastor
+title: Denis Beausejour, Co-Senior Pastor
 date: 2018-10-05 11:31:00 -04:00
-position: 0
+position: Co-Senior Pastor
 name: Denis Beausejour
 is_elder: false
 image: "/uploads/beausejour.jpg"
