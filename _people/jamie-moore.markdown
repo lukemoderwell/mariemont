@@ -1,5 +1,5 @@
 ---
-title: Jamie Moore, Co-Senior Pastor
+title: Jamie Moore
 date: 2019-08-07 14:01:00 -04:00
 position: Co-Senior Pastor
 name: Jamie Moore
