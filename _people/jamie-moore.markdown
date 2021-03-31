@@ -1,7 +1,7 @@
 ---
 title: Jamie Moore, Co-Senior Pastor
 date: 2019-08-07 14:01:00 -04:00
-position: Discipleship and Family Pastor
+position: Co-Senior Pastor
 name: Jamie Moore
 is_elder: true
 image: "/uploads/0.jpg"
