@@ -1,7 +1,7 @@
 ---
 title: Terri Cofskey, Part-time Administrator
 date: 2018-10-05 16:27:00 -04:00
-position: Part-Time Administrator
+position: Part-time Administrator
 name: Terri Cofskey
 image: "/uploads/John%20and%20Terri.crop.jpg"
 ---
