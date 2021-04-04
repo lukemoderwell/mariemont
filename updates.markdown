@@ -13,15 +13,13 @@ layout: page-no-hero
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
-**MARCH**
-
-**Sunday, 3/28**
-
-* **9:00 a.m.** **Astonished!**
-Click here for today's livestream of Astonished: [The Missional God](https://youtu.be/LOMn4jgdiAA)
-
 
 **APRIL**
+
+**Sunday 4/4** 
+
+* **9:00 a.m.** **Astonished!**
+Click here for today's livestream of Astonished:[ The Victorious God](https://youtu.be/bbBhdFN99CU://)
 
 **Wednesday 4/1** 
 
