@@ -18,21 +18,11 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Sunday 4/4** 
 
-* **9:00 a.m.** **Astonished!**
-Click here for today's livestream of Astonished:[ The Victorious God](https://youtu.be/bbBhdFN99CU://)
+* **9:00 a.m. and 11:00 a.m.** (Note the added service time)**
 
-**Wednesday 4/1** 
-
-* **7:00 p.m.** **Wednesday Night Prayer** at the Parish Center in the Hearth Room.
-
-**Friday and Saturday, 4/2-3**
-
-**Spring Work Days** Pull weeds and restore the edge on flower and shrub beds at the Parish Center and Chapel.
-
-**Sunday, 4/4**
-
-**9:00 and 11:00 a.m. (Note the added service time)**
 **Resurrection Sunday** In-person services begin at 9:00 a.m. and 11:00 a.m. Livestream at 9:00 a.m. only.
+**Astonished!**
+Click here for today's livestream of Astonished:[ The Victorious God](https://youtu.be/bbBhdFN99CU://) 
 
 **Wednesday, 4/7**
 
@@ -47,7 +37,7 @@ Click here for today's livestream of Astonished:[ The Victorious God](https://yo
 **New Sermon Series in Colossians Begins** 
 
 **9:00 and 11:00 a.m. (Note the added service time)** 
-A surprisingly relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only.
+**Truth: Grounded in Christ** is a relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 10:30 a.m. during April.
 
 **Wednesday, 4/14**
 
