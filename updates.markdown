@@ -16,22 +16,6 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **APRIL**
 
-**Sunday 4/4** 
-
-* **9:00 a.m. and 11:00 a.m.** (Note the added service time)**
-
-**Resurrection Sunday** In-person services begin at 9:00 a.m. and 11:00 a.m. Livestream at 9:00 a.m. only.
-**Astonished!**
-Click here for today's livestream of Astonished:[ The Victorious God](https://youtu.be/bbBhdFN99CU://) 
-
-**Wednesday, 4/7**
-
-**7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Join us to pray together and be encouraged.
-
-**Friday and Saturday, 4/9-10**
-
-**Spring Work Days** Spread 21 yards of mulch onto flower and shrub beds at the Parish Center and Chapel.
-
 **Sunday, 4/11**
 
 **New Sermon Series in Colossians Begins** 
