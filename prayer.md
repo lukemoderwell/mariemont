@@ -43,7 +43,7 @@ On Sundays at the conclusion of each service, there are prayer teams at the fron
 
 The Pastor Care Team makes personal visits in groups of two.  Team members want to effectively minister the love, grace, and mercy of Jesus Christ and bring the kingdom of God into each personal encounter.  Please contact Donna Painter for more information and to make an appointment at donna@mariemontchurch.org
 
-Separately, Donna Painter offers inner healing prayer sessions, called "Soul Care," by appointment only at the church to any member seeking help with unhealed emotional issues.  Another member of the team will also be present.   Please contact Donna Painter to make an appointment at donna@mariemontchurch.org
+Separately, Marianne Beausejour offers inner healing prayer sessions, called "Soul Care," by appointment only at the church to any member seeking help with unhealed emotional issues.  Another member of the team will also be present.   Please contact Marianne Beausejour to make an appointment at mebeau@gmail.com.
 
 
 **Prayer Requests** 
