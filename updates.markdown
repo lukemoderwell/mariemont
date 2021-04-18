@@ -17,7 +17,9 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Sunday, 4/18**
 
-**New Sermon Series in Colossians** 
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message: [**Truth:Grounded in Christ Week 2**](https://youtu.be/iQtZS23_W7g)
+
+**Sermon Series in Colossians** 
 
 **9:00 and 11:00 a.m. (Note the added service time)** 
 **Truth: Grounded in Christ** is a relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 10:30 a.m. during April.
