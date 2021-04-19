@@ -1,5 +1,5 @@
 ---
-title: 'Truth: Grounded in Christ'
+title: 'Truth: Grounded in Christ Introduction'
 date: 2021-04-11 09:04:00 -04:00
 series: 'Truth: Grounded in Christ'
 week: 1
