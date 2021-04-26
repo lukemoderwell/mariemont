@@ -28,6 +28,13 @@ Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join th
 
 * **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room.  Pray with us and be encouraged!
 
+**MAY**
+
+**Sunday, 5/23**
+
+**2:00-3:00 p.m.** **Congregational Zoom Meeting**
+Link to join will be posted when available.
+
 **Here's what you may have missed...**
 
 Click here for our YouTube Channel to watch any videos you may have missed:
