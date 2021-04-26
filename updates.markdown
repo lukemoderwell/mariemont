@@ -22,7 +22,7 @@ Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join th
 **Truth: Grounded in Christ Sermon Series in Colossians** 
 
 **9:00 and 11:00 a.m. (Note the added service time)** 
-**Truth: Grounded in Christ** is a relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 10:30 a.m. during April.
+**Truth: Grounded in Christ** is a relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service.
 
 **Wednesday, 4/28**
 
