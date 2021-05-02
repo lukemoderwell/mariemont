@@ -16,7 +16,7 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 **Truth: Grounded in Christ Sermon Series in Colossians** 
 
 **9:00 and 11:00 a.m. (Note the added service time)** 
-**Truth: Grounded in Christ** is a relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service.
+**Truth: Grounded in Christ** is a relevant sermon series in Colossians about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service.
 
 **MAY**
 
