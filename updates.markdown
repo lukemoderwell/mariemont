@@ -13,18 +13,18 @@ layout: page-no-hero
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
+**Truth: Grounded in Christ Sermon Series in Colossians** 
+
+**9:00 and 11:00 a.m. (Note the added service time)** 
+**Truth: Grounded in Christ** is a relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service.
+
 **MAY**
 
 **Sunday, 5/2**
 
 Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians:The Glorious Gospel**](https://youtu.be/srs5HqjtH4A)
 
-**Truth: Grounded in Christ Sermon Series in Colossians** 
-
-**9:00 and 11:00 a.m. (Note the added service time)** 
-**Truth: Grounded in Christ** is a relevant sermon series about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service.
-
-**Wednesday, 4/28**
+**Wednesday, 5/5**
 
 * **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room.  Pray with us and be encouraged!
 
