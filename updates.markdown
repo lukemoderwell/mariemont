@@ -13,11 +13,11 @@ layout: page-no-hero
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
-**APRIL**
+**MAY**
 
-**Sunday, 4/25**
+**Sunday, 5/2**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians:Truth, Glorious and Worthy**](https://youtu.be/vtQmVuZRJS4)
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians:The Glorious Gospel**](https://youtu.be/srs5HqjtH4A)
 
 **Truth: Grounded in Christ Sermon Series in Colossians** 
 
@@ -27,8 +27,6 @@ Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join th
 **Wednesday, 4/28**
 
 * **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room.  Pray with us and be encouraged!
-
-**MAY**
 
 **Sunday, 5/23**
 
