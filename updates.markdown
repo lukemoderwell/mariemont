@@ -35,6 +35,12 @@ Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join th
 **2:00-3:00 p.m.** **Congregational Zoom Meeting**
 Link to join will be posted when available.
 
+Brandon Snow Spiritual Resume:
+https://docs.google.com/document/d/1biVEFqFgNCpZP7oNQw7MuQtKBA--X_o5/edit
+
+John Treas Spiritual Resume:
+https://docs.google.com/document/d/1MVUeJcT7bnvHUyrREoXdsvm3Sw-f8xK3/edit
+
 **Here's what you may have missed...**
 
 Click here for our YouTube Channel to watch any videos you may have missed:
