@@ -11,6 +11,8 @@ layout: page-no-hero
 
 ## Events
 
+Here is a 6-minute [transition update](https://youtu.be/gadUQC0MWII) from Denis and Jamie.
+
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
 **Truth: Grounded in Christ Sermon Series in Colossians** 
