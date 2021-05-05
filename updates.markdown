@@ -35,11 +35,11 @@ Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join th
 **2:00-3:00 p.m.** **Congregational Zoom Meeting**
 Link to join will be posted when available.
 
-Brandon Snow Spiritual Resume:
-https://docs.google.com/document/d/1biVEFqFgNCpZP7oNQw7MuQtKBA--X_o5/edit
+Church Family, the elders are pleased to recommend two new elders - Brandon Snow and John Treas. We are recommending that the congregation affirm these men at the May 23 Congregation Meeting. Please let any current elder know if you have any questions! Each of their spiritual resumes are posted below:
 
-John Treas Spiritual Resume:
-https://docs.google.com/document/d/1MVUeJcT7bnvHUyrREoXdsvm3Sw-f8xK3/edit
+[Brandon Snow Spiritual Resume](https://docs.google.com/document/d/1biVEFqFgNCpZP7oNQw7MuQtKBA--X_o5/edit)
+
+[John Treas Spiritual Resume](https://docs.google.com/document/d/1MVUeJcT7bnvHUyrREoXdsvm3Sw-f8xK3/edit)
 
 **Here's what you may have missed...**
 
