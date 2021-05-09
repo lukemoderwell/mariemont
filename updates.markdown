@@ -22,11 +22,11 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **MAY**
 
-**Sunday, 5/2**
+**Sunday, 5/9**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians:The Glorious Gospel**](https://youtu.be/srs5HqjtH4A)
+Happy Mother's Day! Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians:Truth-Christ in You**](http://https://youtu.be/iV0MGZZ0iro)
 
-**Wednesday, 5/5**
+**Wednesday, 5/12**
 
 * **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room.  Pray with us and be encouraged!
 
