@@ -24,16 +24,23 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Sunday, 5/9**
 
-Happy Mother's Day! Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians:Truth-Christ in You**](http://https://youtu.be/iV0MGZZ0iro)
+Happy Mother's Day! Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians: Truth:Christ in You**](http://https://youtu.be/iV0MGZZ0iro)
 
 **Wednesday, 5/12**
 
-* **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room.  Pray with us and be encouraged!
+* **7:00-8:00 p.m.** **Wednesday Worship** at the Parish Center in the Auditorium.  Worship and pray with us and be encouraged!
 
 **Sunday, 5/23**
 
 **2:00-3:00 p.m.** **Congregational Zoom Meeting**
-Link to join will be posted when available.
+
+Click to [Join Zoom Meeting](https://us02web.zoom.us/j/81746690981?pwd=U0dHblBxdFNEUXpkWkp5aklmVU9uUT09) on May 23rd at 2:00 p.m.
+
+Copy and paste this link in your browser if you prefer:
+https://us02web.zoom.us/j/81746690981?pwd=U0dHblBxdFNEUXpkWkp5aklmVU9uUT09
+
+Meeting ID: 817 4669 0981
+Passcode: 123496
 
 Church Family, the elders are pleased to recommend two new elders - Brandon Snow and John Treas. We are recommending that the congregation affirm these men at the May 23 Congregation Meeting. Please let any current elder know if you have any questions! Each of their spiritual resumes are posted below:
 
