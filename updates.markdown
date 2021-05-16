@@ -22,13 +22,15 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **MAY**
 
-**Sunday, 5/9**
+**Sunday, 5/16**
 
-Happy Mother's Day! Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians: Truth:Christ in You**](http://https://youtu.be/iV0MGZZ0iro)
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians: Truth:Living in Christ**](https://youtu.be/_UR2rBcGUKo)
 
-**Wednesday, 5/12**
+Books and resources for families: https://docs.google.com/document/d/1ZgwbhtpwwH7omxM8Q1f25BUxpZkl-pIMeEYEA09TMm4/edit                                                                                                                                                                      Michael Beausejour’s family action plan: https://docs.google.com/document/d/1XyAGQJGgtShA0uhYkkvGdILKPQDPdIz6OTjDcZ_8MxM/edit
 
-* **7:00-8:00 p.m.** **Wednesday Worship** at the Parish Center in the Auditorium.  Worship and pray with us and be encouraged!
+**Wednesday, 5/19**
+
+* **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Come pray with us and be encouraged!
 
 **Sunday, 5/23**
 
