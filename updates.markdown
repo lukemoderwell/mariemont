@@ -22,17 +22,9 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **MAY**
 
-**Sunday, 5/16**
-
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians: Truth:Living in Christ**](https://youtu.be/_UR2rBcGUKo)
-
-Books and resources for families: https://docs.google.com/document/d/1ZgwbhtpwwH7omxM8Q1f25BUxpZkl-pIMeEYEA09TMm4/edit                                                                                                                                                                      Michael Beausejour’s family action plan: https://docs.google.com/document/d/1XyAGQJGgtShA0uhYkkvGdILKPQDPdIz6OTjDcZ_8MxM/edit
-
-**Wednesday, 5/19**
-
-* **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Come pray with us and be encouraged!
-
 **Sunday, 5/23**
+
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians: Truth: Don't Should on Me, I'm Free**](https://youtu.be/6gjfKSPfTw4)
 
 **2:00-3:00 p.m.** **Congregational Zoom Meeting**
 
@@ -49,6 +41,12 @@ Church Family, the elders are pleased to recommend two new elders - Brandon Snow
 [Brandon Snow Spiritual Resume](https://docs.google.com/document/d/1biVEFqFgNCpZP7oNQw7MuQtKBA--X_o5/edit)
 
 [John Treas Spiritual Resume](https://docs.google.com/document/d/1MVUeJcT7bnvHUyrREoXdsvm3Sw-f8xK3/edit)
+
+Books and resources for families: https://docs.google.com/document/d/1ZgwbhtpwwH7omxM8Q1f25BUxpZkl-pIMeEYEA09TMm4/edit                                                                                                                                                                      Michael Beausejour’s family action plan: https://docs.google.com/document/d/1XyAGQJGgtShA0uhYkkvGdILKPQDPdIz6OTjDcZ_8MxM/edit
+
+**Wednesday, 5/26**
+
+* **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Come pray with us and be encouraged!
 
 **Here's what you may have missed...**
 
