@@ -16,6 +16,7 @@ Last Wednesday, Governor Mike DeWine announced that effective on June 2nd, all t
 Effective June 6, MCC will transition to a mask optional protocol. We will keep seating distanced and continue to encourage frequent hand sanitizing to maximize safety. We will update you promptly about added children’s ministry offerings, coffee, and Lite Bites as volunteers from these ministries return to active duty. We will continue streaming the 9 a.m. service for those not yet ready to return.
 
 The pandemic has been a major challenge. For those who could not worship in person for various reasons, I want you to know your leaders shared a deep compassion that we were separated. We look forward to a Spirit-filled reunion whenever you feel comfortable returning to worship in-person. We thank Jesus for preserving us and providing the vaccines.
+
 Here is a 6-minute [transition update](https://youtu.be/gadUQC0MWII) from Denis and Jamie.
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
