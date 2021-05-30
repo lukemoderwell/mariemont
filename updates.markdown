@@ -28,9 +28,9 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **MAY**
 
-**Sunday, 5/23**
+**Sunday, 5/30**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [**Colossians: Truth: Don't Should on Me, I'm Free**](https://youtu.be/6gjfKSPfTw4)
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message **[Colossians: Truth: Living for Christ](https://www.youtube.com/embed/HhpEsIkzpp8) **
 
 **2:00-3:00 p.m.** **Congregational Zoom Meeting**
 
@@ -50,7 +50,7 @@ Church Family, the elders are pleased to recommend two new elders - Brandon Snow
 
 Books and resources for families: https://docs.google.com/document/d/1ZgwbhtpwwH7omxM8Q1f25BUxpZkl-pIMeEYEA09TMm4/edit                                                                                                                                                                      Michael Beausejour’s family action plan: https://docs.google.com/document/d/1XyAGQJGgtShA0uhYkkvGdILKPQDPdIz6OTjDcZ_8MxM/edit
 
-**Wednesday, 5/26**
+**Wednesday, 6/2**
 
 * **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Come pray with us and be encouraged!
 
