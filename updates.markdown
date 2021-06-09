@@ -26,35 +26,19 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 **9:00 and 11:00 a.m. (Note the added service time)** 
 **Truth: Grounded in Christ** is a relevant sermon series in Colossians about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service.
 
-**MAY**
+**JUNE**
 
 **Sunday, 6/6**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message **[Colossians: Truth: Grounded in Christ](https://youtu.be/-SS_YATgJkg)**
-
-**2:00-3:00 p.m.** **Congregational Zoom Meeting**
-
-Click to [Join Zoom Meeting](https://us02web.zoom.us/j/81746690981?pwd=U0dHblBxdFNEUXpkWkp5aklmVU9uUT09) on May 23rd at 2:00 p.m.
-
-Copy and paste this link in your browser if you prefer:
-https://us02web.zoom.us/j/81746690981?pwd=U0dHblBxdFNEUXpkWkp5aklmVU9uUT09
-
-Meeting ID: 817 4669 0981
-Passcode: 123496
-
-Church Family, the elders are pleased to recommend two new elders - Brandon Snow and John Treas. We are recommending that the congregation affirm these men at the May 23 Congregation Meeting. Please let any current elder know if you have any questions! Each of their spiritual resumes are posted below:
-
-[Brandon Snow Spiritual Resume](https://docs.google.com/document/d/1biVEFqFgNCpZP7oNQw7MuQtKBA--X_o5/edit)
-
-[John Treas Spiritual Resume](https://docs.google.com/document/d/1MVUeJcT7bnvHUyrREoXdsvm3Sw-f8xK3/edit)
-
-Books and resources for families: https://docs.google.com/document/d/1ZgwbhtpwwH7omxM8Q1f25BUxpZkl-pIMeEYEA09TMm4/edit                                                                                                                                                                      Michael Beausejour’s family action plan: https://docs.google.com/document/d/1XyAGQJGgtShA0uhYkkvGdILKPQDPdIz6OTjDcZ_8MxM/edit
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message **[Colossians: Truth or Consequences](https://youtu.be/-SS_YATgJkg)**
 
 **Wednesday, 6/9**
 
-* **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Come pray with us and be encouraged!
+* **7:00-8:00 p.m.** **Wednesday Worship** at the Parish Center in the Auditorium. Come worship with us and be encouraged!
 
 **Here's what you may have missed...**
+
+Books and resources for families: https://docs.google.com/document/d/1ZgwbhtpwwH7omxM8Q1f25BUxpZkl-pIMeEYEA09TMm4/edit                                                                                                                                                                      Michael Beausejour’s family action plan: https://docs.google.com/document/d/1XyAGQJGgtShA0uhYkkvGdILKPQDPdIz6OTjDcZ_8MxM/edit
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
