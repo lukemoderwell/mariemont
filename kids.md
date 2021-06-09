@@ -1,11 +1,13 @@
 ---
 title: Kids
 date: 2016-10-18 20:18:00 -04:00
-permalink: "/kids/"
+permalink: '/kids/'
 position: 6
 is_ministry: true
-hero_image: "/uploads/kids-club.jpg"
+hero_image: '/uploads/kids-club.jpg'
 hasHero: true
+hero_cta_link: 'https://mariemontchurch.churchcenter.com/people/forms/161980'
+hero_cta_text: 'Kids Registration 2021'
 hasDownload: false
 heading: Children's Ministry
 lead_in: We're committed to raising up strong, spiritually healthy children.
@@ -37,8 +39,6 @@ Upper Elementary (4th–6th grades)—Room 103
 
 **Pick-Up**
 
-Be sure to keep your parent badge for pick up after the service. 
+Be sure to keep your parent badge for pick up after the service.
 
-It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our Children’s Ministry director Leslie Seetin at leslie@mariemontchurch.org. 
-
-
+It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our Children’s Ministry director Leslie Seetin at leslie@mariemontchurch.org.

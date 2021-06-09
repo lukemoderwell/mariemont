@@ -44,6 +44,15 @@ button,
   }
 }
 
+.btn--tertiary {
+  background: $color-mcc-orange;
+  color: $color--white;
+
+   &:hover {
+    background: darken($color-mcc-orange, 10%);
+  }
+}
+
 .footer_btn {
   width: 100%;
   margin-top: 20px;
