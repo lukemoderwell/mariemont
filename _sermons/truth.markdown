@@ -1,5 +1,5 @@
 ---
-title: 'Truth:'
+title: 'Truth: Grounded in Christ'
 date: 2021-06-13 09:02:00 -04:00
 series: Colossians
 week: 10
