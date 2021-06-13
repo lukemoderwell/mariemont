@@ -1,5 +1,5 @@
 ---
-title: 'Truth: Grounded in Christ'
+title: 'Truth: Thankful Kids of God''s Family'
 date: 2021-06-13 09:02:00 -04:00
 series: Colossians
 week: 10
