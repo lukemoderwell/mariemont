@@ -30,7 +30,7 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Sunday, 6/13**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Colossians: Truth](https://youtu.be/rt3_pwG6R1A)
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Truth:Thankful Kids of God's Family](https://youtu.be/rt3_pwG6R1A)
 
 **Wednesday, 6/16**
 
