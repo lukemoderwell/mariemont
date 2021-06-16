@@ -14,31 +14,36 @@ lead_in: We're committed to raising up strong, spiritually healthy children.
 layout: page
 ---
 
-**Kids at Mariemont Church**
+**Mariemont Church Kids!**
 
-Mariemont Church is committed to raising up strong, spiritually healthy children. From 6 months to 6th grade, we are empowering families to lead children in developing their own faith in Christ and to put that faith into action.
+Mariemont Church is committed to raising up strong, spiritually healthy children. From 6 months to 6th grade, we are empowering families to lead children in developing their own faith in Christ and to live out their faith in very real ways!
 
-Jesus said, “Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.” (Matthew 19:14)
+‘In the last days, God says, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your young men will see visions, your old men will dream dreams.’    Acts 2:17
 
-**Check-In Process**
+**Sunday Morning Check-In Process**
 
-Stop at the Welcome Desk on the Lower Level, fill out a registration form, receive security name badges, and walk with your child to their classroom. A friendly supervisor is on hand to help you find your way.
+***NEW!**  You can check in from your breakfast table (if you actually make it there before church!) or from your car!  Open the Church Center App and click on the “check-in” tab.  Tap each child who will be attending When you arrive show it to the Kids Supervisor, and the tags will print!
 
-**First Service**
+**Is this your first time? ** Welcome!  Come to the Check-In Desk on the Lower Level.  Signs (and children’s voices) will direct you to the correct spot.  You can also park around back and enter through the back door with an awning (closer to the tennis courts).   
+Receive security name badges, and walk with your child to their classroom. A friendly supervisor is on hand to help you find your way.
 
-Nursery (6-23 months)—Room 107
-2-year-olds and 3-year-olds (potty training not necessary)—Room 105
+**Current Class Offerings**
 
-**Second Service**
+As we are able, we will be adding classes.  Check back to see what’s going on!
+ 
+**First Service** 9:00-10:20
+Nursery (6-35 months) - Room 107
+Kids Church (36 months - 6th grade) - Room 102
 
-Nursery (6-23 months)—Room 107
-2-year-olds and 3-year-olds (potty training not necessary)—Room 105
-PreKindergarten–Kindergarten—Room 104
-Early Elementary (1st–3rd grades)—Room 102
-Upper Elementary (4th–6th grades)—Room 103
+**Second Service** 11:00-12:20
+Nursery (6-35 months) - Room 107
 
 **Pick-Up**
-
 Be sure to keep your parent badge for pick up after the service.
 
-It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our Children’s Ministry director Leslie Seetin at leslie@mariemontchurch.org.
+***For the families that consider MCC their home, be ready to engage with our kids Sunday mornings!  We need greeters, teachers, teaching assistants, nursery care along with an outreach dreamers!
+Beyond Sundays
+
+Activities for families to connect, grow and have fun together are coming!  We’ll keep you posted!
+
+It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our MCC Kids Interim Director Katie Smith at [katie@mariemontchurch.org](katie@mariemontchurch.org).
