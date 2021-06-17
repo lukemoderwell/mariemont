@@ -25,6 +25,11 @@ layout: default
         <a href="{{ page.hero_cta_link }}" class="btn btn--tertiary"
           >{{page.hero_cta_text}}</a
         >
+        {% if page.title == 'Kids' %}
+          <a class="btn btn--secondary" href="https://mariemontchurch.churchcenter.com/people/forms/261664">
+          Register to Volunteer
+          </a>
+        {% endif %}
       </div>
       {% endif %} {% if page.title == 'Grow' %}
       <div class="page_heroButtonGroup">
