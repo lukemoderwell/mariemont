@@ -28,11 +28,11 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **JUNE**
 
-**Sunday, 6/13**
+**Sunday, 6/20**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Truth:Thankful Kids of God's Family](https://youtu.be/rt3_pwG6R1A)
+Happy Father's Day! Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Truth: [Family Built to Last](https://youtu.be/rt3_pwG6R1A)]
 
-**Wednesday, 6/16**
+**Wednesday, 6/23**
 
 * **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Come pray with us and be encouraged!
 
