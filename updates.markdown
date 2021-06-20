@@ -11,7 +11,7 @@ layout: page-no-hero
 
 ## Events
 
-Last Wednesday, Governor Mike DeWine announced that effective on June 2nd, all the pandemic health orders that have been issued by his government would be rescinded. He said that the people of Ohio had done their job and that with a proven vaccine available to all aged 12 and up, it was now time to transition back to individual responsibility for health care decisions.
+Governor Mike DeWine announced that effective on June 2nd, all the pandemic health orders that have been issued by his government would be rescinded. He said that the people of Ohio had done their job and that with a proven vaccine available to all aged 12 and up, it was now time to transition back to individual responsibility for health care decisions.
 
 Effective June 6, MCC will transition to a mask optional protocol. We will keep seating distanced and continue to encourage frequent hand sanitizing to maximize safety. We will update you promptly about added children’s ministry offerings, coffee, and Lite Bites as volunteers from these ministries return to active duty. We will continue streaming the 9 a.m. service for those not yet ready to return.
 
