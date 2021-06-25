@@ -70,6 +70,6 @@ Sheila Luther, who spent 13 years in prison and the founder of Tapestry of Love,
 
 The mission of the Tapestry ministry is to show love and compassion to the “least of these” as the Bible tells us we must do in Matthew 25, “Whenever you do it for the *least of these*, you do it for me."
 
-Contact us with questions or for more information through Sheila at [sheila337@outlook.com](sheila337@outlook.com) or Teresa at [tteathart@gmail.com](tteathart@gmail.com). If you would like to support our ministry with your donation, send a check to Mariemont Community Church, 3908 Plainville Rd., 45227; with "Tapestry of Love," in the memo line.
+Contact us with questions or for more information through Sheila at [sheila337@outlook.com](sheila337@outlook.com) or Teresa at [ttearhart@gmail.com](ttearhart@gmail.com). If you would like to support our ministry with your donation, send a check to Mariemont Community Church, 3908 Plainville Rd., 45227; with "Tapestry of Love," in the memo line.
 
 Colossians 2:12 "I want you woven into a tapestry of love, in touch with everything there is to know of God." 
