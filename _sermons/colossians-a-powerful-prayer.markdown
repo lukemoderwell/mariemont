@@ -1,5 +1,5 @@
 ---
-title: 'Colossians: A Powerful Prayer'
+title: 'Truth: A Powerful Prayer'
 date: 2021-04-18 08:56:00 -04:00
 series: 'Truth: Grounded in Christ'
 week: 2
