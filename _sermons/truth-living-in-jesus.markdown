@@ -2,7 +2,7 @@
 title: 'Truth: Living in Jesus'
 date: 2021-05-16 09:00:00 -04:00
 series: Colossians
-week: 5
+week: 6
 sermon_date: 2021-05-16 09:00:00 -04:00
 speaker: Denis and Michael Beausejour
 video_url: https://www.youtube.com/embed/_UR2rBcGUKo
