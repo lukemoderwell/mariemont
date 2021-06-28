@@ -1,5 +1,5 @@
 ---
-title: 'Colossians: The Glorious Gospel'
+title: 'Truth: The Glorious Gospel'
 date: 2021-05-02 08:54:00 -04:00
 series: Colossians
 week: 3
