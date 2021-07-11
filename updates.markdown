@@ -21,20 +21,20 @@ Here is a 6-minute [transition update](https://youtu.be/gadUQC0MWII) from Denis 
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
-**Truth: Grounded in Christ Sermon Series in Colossians** 
+**Footsteps of Paul: A Journey with Jesus** 
 
 **9:00 and 11:00 a.m. (Note the added service time)** 
-**Truth: Grounded in Christ** is a relevant sermon series in Colossians about truth, fake news, and hope. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service.
+**Footsteps of Paul** is a two-week sermon series about Paul's missionary journeys. Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service.
 
 **JUNE**
 
-**Sunday, 6/27**
+**Sunday, 7/11**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Truth: Prayer and Mission](https://youtu.be/Ta77paovm18)
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Footsteps of Paul: A Journey with Jesus](https://youtu.be/0TKJRYvZolg)
 
-**Wednesday, 6/30**
+**Wednesday, 7/14**
 
-* **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Come pray with us and be encouraged!
+* **7:00-8:00 p.m.** **Wednesday Worship** at the Parish Center in the Auditorium. Come worship with us and be encouraged!
 
 **Here's what you may have missed...**
 
