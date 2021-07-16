@@ -1,7 +1,7 @@
 ---
 title: Following Jesus Together
-permalink: '/followjesus/'
-hero_image: 'https://images.unsplash.com/photo-1439396874305-9a6ba25de6c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1780&q=80'
+permalink: "/followjesus/"
+hero_image: https://images.unsplash.com/photo-1439396874305-9a6ba25de6c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1780&q=80
 hasHero: true
 heading: Following Jesus Together
 lead_in: Practical and challenging resources to help your walk with Christ.
