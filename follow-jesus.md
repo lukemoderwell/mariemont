@@ -18,12 +18,12 @@ layout: page
 
 ### What's included:
 
-- 20 pages of practical, challenging web-based content
+- 25 pages of practical, challenging web-based content
 
 - Every section has an email address for questions and counsel
 
 - 20 two-minute videos with Denis and Marianne
 
-- Use as a tune-up, a small group study, for teaching someone
+- Use as a tune-up, a small group study, for 1:1
 
 <a href="https://docs.google.com/document/d/17cntNQUV1fhIJrxlSNeoEjmkyX7B3F5lZUQqlawzSao/edit?pli=1" target="_blank" class="btn btn--primary">Click here to get started</a>
