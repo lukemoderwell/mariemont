@@ -14,7 +14,7 @@ layout: page
 
 #2 Six elementary teachings to get started well.
 
-3# Seven practical skills for every disciple.
+#3 Seven practical skills for every disciple.
 
 ### What's included:
 
