@@ -28,13 +28,13 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **JUNE**
 
-**Sunday, 7/11**
+**Sunday, 7/18**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Footsteps of Paul: A Journey with Jesus](https://youtu.be/0TKJRYvZolg)
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Footsteps of Paul: A Journey with Jesus](https://youtu.be/2T-Ds6Cvdao)
 
-**Wednesday, 7/14**
+**Wednesday, 7/21**
 
-* **7:00-8:00 p.m.** **Wednesday Worship** at the Parish Center in the Auditorium. Come worship with us and be encouraged!
+* **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Come pray with us and be blessed and encouraged!
 
 **Here's what you may have missed...**
 
