@@ -28,7 +28,7 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Sunday, 7/25**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Exiles: Seeking a Home: Intro](https://youtu.be/ZyHe74BVEOQ)
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Exiles: Seeking a Home](https://youtu.be/ZyHe74BVEOQ)
 
 **Wednesday, 7/28**
 
