@@ -22,15 +22,15 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 **Exiles: Seeking a Home** 
 
 **9:00 and 11:00 a.m. (Note the added service time)** 
-**Exiles** is a 7-week sermon series studying the character of individuals who are often called "strangers and exiles" (Hebrews 11:13). Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service.
+**Exiles** is a 7-week sermon series studying the character of individuals who are often called "strangers and exiles" (Hebrews 11:13). Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service in the Youth Room.
 
-**JULY**
+**AUGUST**
 
-**Sunday, 7/25**
+**Sunday, 8/1**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Exiles: Seeking a Home](https://youtu.be/ZyHe74BVEOQ)
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Exiles: Seeking a Home: Abraham](https://youtu.be/uw1QQdFb11U)
 
-**Wednesday, 7/28**
+**Wednesday, 8/4**
 
 * **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Come pray with us and be blessed and encouraged!
 
