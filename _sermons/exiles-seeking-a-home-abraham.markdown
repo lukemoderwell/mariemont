@@ -1,7 +1,7 @@
 ---
 title: 'Exiles: Seeking a Home: Abraham'
 date: 2021-08-01 08:58:00 -04:00
-series: Exiles
+series: 'Exiles: Seeking a Home'
 week: 2
 sermon_date: 2021-08-01 09:00:00 -04:00
 speaker: Louis Arnold
