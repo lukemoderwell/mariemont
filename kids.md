@@ -42,8 +42,8 @@ Nursery (6-35 months) - Room 107
 Be sure to keep your parent badge for pick up after the service.
 
 ***For the families that consider MCC their home, be ready to engage with our kids Sunday mornings!  We need greeters, teachers, teaching assistants, nursery care along with an outreach dreamers!
-Beyond Sundays
 
+**Beyond Sundays**
 Activities for families to connect, grow and have fun together are coming!  We’ll keep you posted!
 
 It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our MCC Kids Interim Director Katie Smith at [katie@mariemontchurch.org](katie@mariemontchurch.org).
