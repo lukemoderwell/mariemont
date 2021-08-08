@@ -26,16 +26,9 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **AUGUST**
 
-**Sunday, 8/1**
+**Sunday, 8/8**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Exiles: Seeking a Home: Abraham](https://youtu.be/uw1QQdFb11U)
-
-**Wednesday, 8/4**
-* **7:00-8:00 p.m.** **Wednesday Prayer** at the Parish Center in the Hearth Room. Come pray with us and be blessed and encouraged!
-
-**Sunday, 8/8** 
-Exiles: Joseph
-And we will celebrate communion!
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Exiles: Seeking a Home: Joseph]We are celebrating communion today.(https://youtu.be/zXJ4br8mKTQ)
 
 **Wednesday, 8/11** 
 **7:00-8:00 p.m.** **Prayer and Worship Night **
