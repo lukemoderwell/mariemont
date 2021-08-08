@@ -32,7 +32,7 @@ Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join th
 
 **Wednesday, 8/11** 
 **7:00-8:00 p.m.** **Prayer and Worship Night **
-Join us as we encounter Jesus in worship!
+Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
 **Sunday, 8/15 **
 **Exiles: Shadrach, Meshach, and Abednago**
