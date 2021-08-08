@@ -48,7 +48,7 @@ And we will celebrate communion!
 Exile Series Finale!
 
 **Sunday, 9/5 **
-**Family Fall Kickoff and Picnic**
+**Family Fall Kickoff Picnic**
 10:00am - One Family Sharing Service
 11:30am - Picnic in the Back Parking Lot with a Food Truck!
 
