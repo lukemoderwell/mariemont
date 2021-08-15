@@ -26,17 +26,15 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **AUGUST**
 
-**Sunday, 8/8**
+**Sunday, 8/15**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message [Exiles: Seeking a Home: Joseph]We are celebrating communion today.(https://youtu.be/zXJ4br8mKTQ)
+Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message Exiles: [Seeking a Home: Shadrach, Meshach, and Adbednego](https://youtu.be/fcHW2tZY5D4) 
 
-**Wednesday, 8/11** 
+Today is the Prayer Walk! Come back at 4:30 p.m. for our Mariemont Prayer Walk.
+
+**Wednesday, 8/18** 
 **7:00-8:00 p.m.** **Prayer and Worship Night **
 Join us in the Parish Center Auditorium as we encounter Jesus in worship!
-
-**Sunday, 8/15 **
-**Exiles: Shadrach, Meshach, and Abednago**
-Come back at 4:30 p.m. for our Mariemont Prayer Walk
 
 **Sunday, 8/22 **
 **Exiles: Daniel**
