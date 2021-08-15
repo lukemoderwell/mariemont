@@ -28,9 +28,9 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Sunday, 8/15**
 
-Welcome to Sunday Worship Live Stream Service at 9:00 a.m. Click here to join the message Exiles: [Seeking a Home: Shadrach, Meshach, and Adbednego](https://youtu.be/fcHW2tZY5D4) 
+**Welcome to Sunday Worship** Live Stream Service at 9:00 a.m. Click here to join the message Exiles: [Seeking a Home: Shadrach, Meshach, and Adbednego](https://youtu.be/fcHW2tZY5D4) 
 
-Today is the Prayer Walk! Come back at 4:30 p.m. for our Mariemont Prayer Walk.
+**Today is the Prayer Walk**! Come back at 4:30 p.m. for our Mariemont Prayer Walk.
 
 **Wednesday, 8/18** 
 **7:00-8:00 p.m.** **Prayer and Worship Night **
