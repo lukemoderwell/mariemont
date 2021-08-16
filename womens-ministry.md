@@ -11,7 +11,12 @@ lead_in: Connecting, growing, and equipping the women of MCC.
 layout: page
 ---
 
-The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another. Additionally, Women’s Ministries strives to help women mature in their faith by strengthening their bonds with one another.
+The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another. Additionally, Women’s Ministries strives to help women mature in their faith by strengthening the bonds with one another.
+
+**Monday, September 13, 2021**
+
+**Join us for our Fall Kick-Off** at 6:30 p.m. at the Parish Center. The speaker will be Samya Johnson from Call of Love Ministries. She will share her story, as well as, her passion and love for those of the Muslim faith. Dessert and beverages provided.
+**No childcare** available for this event.
 
 ## Equipping
 
@@ -19,15 +24,31 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 ### Joy In The Morning
 
-For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30am in the Emery Room of the Parish Center during the school year, providing application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. Fall studies are: "Judges" by Jen Wilken, "The Story: Getting to the Heart of God" DVD Series, and a study of the book of John. Loving childcare is available. Contact Barb Leonard at 513-404-7434 or tombarbleonard@gmail.com
+For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30am in the Emery Room of the Parish Center during the school year. It offers application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. 
 
-Childcare starts at 9:15 and goes until 11:15. Sign up is required. Contact Barb Leonard tfleo@cinci.rr.com.
+**Tuesday, Sept. 14** Fall studies begin.
+
+Study Offerings Include:
+•*A Study of Exodus*
+•*Making disciples and being missional--even
+without the spiritual gift of evangelism*
+•*God of Deliverance: A Study of Exodus 1-18*, by
+Jen Wilken
+
+If you know of anyone who might be available to babysit, please contact, Barb Leonard, tombarbleonard@gmail.com.
+
+Childcare, if available, starts at 9:15 and goes until 11:15. Sign up is required. Cost for childcare will be $50 per semester for the first child and $5 for each additional child.
 
 ### Evening Joy
 
-Evening Joy meets on the 1st and 3rd Monday evenings during the school year, from 7:00-8:30PM in the Baker Room of the Parish Center. Winter semester study resumes January 6, 2020 and continues the study In His Image--10 Ways God Calls Us to Reflect His Character by Jen Wilkin. Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
+**Monday, September 20, 2021** Fall study begins and continues to meet the 1st and 3rd Mondays through January from 7:00-8:30 p.m. in the Emery Room of the Parish Center during the school year.
 
-Contact Teresa Earhart at 513-543-5362 or [ttearhart@gmail.com](ttearhart@gmail.com).
+The study fall semester will be:
+—*The Women of the Bible Speak: The Wisdom of 16 Women and their Lessons for Today*, by Shannon Bream
+
+Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
+
+Contact: Paula Ayer ayerpaula@gmail.com or Teresa Earhart at 513-543-5362 or [ttearhart@gmail.com](ttearhart@gmail.com).
 
 ### J.O.Y. Luncheon
 
@@ -37,12 +58,12 @@ The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center
 
 Mariemont Church Women’s Retreat is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
 
+**Save the Date** for the 2022 Women’s Retreat, February 4-5, at the Jesuit Retreat Center. Would love to have you join us next year!
 
 **Finding Shalom Amidst Chaos** was our 2021 retreat. Beth Guckenberger shared seven ancient Hebrew words that helped bring completeness and peace to our souls in this stormy time.
 
 The retreat was both in-person and live streamed. You can access the three videos on Mariemont Church's YouTube channel [here (1)](https://youtu.be/p1MRw42YHRA), [here (2)](https://youtu.be/IHLUDYp1AUo), and [here (3)](https://youtu.be/b2SPeXkzX9c).
 
-Missed being in His presence with you...would love to have you join us next year!
 
 ### Serve
 
