@@ -3,6 +3,7 @@ title: Student Ministries (7th -12th Grade)
 date: 2017-03-19 19:51:00 -04:00
 permalink: "/club-168/"
 position: 13
+is_ministry: true
 hero_image: "/uploads/denis-teaching.jpg"
 hasHero: true
 heading: |-
