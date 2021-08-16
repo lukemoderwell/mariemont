@@ -44,6 +44,20 @@ Be sure to keep your parent badge for pick up after the service.
 ***For the families that consider MCC their home, be ready to engage with our kids Sunday mornings!  We need greeters, teachers, teaching assistants, nursery care along with an outreach dreamers!
 
 **Beyond Sundays**
-Activities for families to connect, grow and have fun together are coming!  We’ll keep you posted!
+
+**September 5, 2021**:  MCC’s Fall Kick-Off Family Picnic! 
+Okay, this IS on a Sunday but it’s a very different kind of Sunday.  After the 10:00 service, join us for a picnic - get to know new people, hang out with old friends.  Jorge’s Tacos Foodtruck and Street Pops will be there! Pay ahead to “Mariemont Church” through Venmo or cash on the day.
+
+• $10 tickets for the meal: 3 tacos (or one cheese quesadilla) and Al Fresco.
+• $3 tickets for gourmet popsicles.
+
+Invite your friends and neighbors. Kids can play in the field and jungle gym behind the church!
+ 
+**October 31, 2021**:  It’s-Not-a-Halloween-Party Party!
+Kids and parents dress up, hay rides, pumpkins, homemade chili, candy and a bonfire!  What fun!  More details to come...
+
+**December 4, 2021**:  Christmas Spectacular!
+MCC is right in the middle of the action for Mariemont’s Annual Tree Lighting!  Carols will be sung, kids will laugh, the church will be alive with activity! 
+
 
 It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our MCC Kids Interim Director Katie Smith at [katie@mariemontchurch.org](katie@mariemontchurch.org).
