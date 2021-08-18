@@ -33,8 +33,8 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 **Today is the Prayer Walk**! Come back at 4:30 p.m. for our Mariemont Prayer Walk.
 
 **Wednesday, 8/18** 
-**7:00-8:00 p.m.** **Prayer and Worship Night **
-Join us in the Parish Center Auditorium as we encounter Jesus in worship!
+**7:00-8:00 p.m.** **Prayer Night **
+Join us in the Parish Center Hearth Room as we encounter Jesus in prayer!
 
 **Sunday, 8/22 **
 **Exiles: Daniel**
