@@ -3,13 +3,13 @@ title: Men's Ministry
 date: 2016-11-13 15:40:00 -05:00
 permalink: "/mens-ministry/"
 position: 8
+is_ministry: true
 bg_color: "#000000"
 hero_image: "/uploads/menUnitedwornwide-e0979c.gif"
 hasHero: true
 hasDownload: false
 hasForm: false
 layout: page
-is_ministry: true
 ---
 
 We are a fellowship of men seeking to forge a Christian Brotherhood by ordering our lives under the comprehensive rule of God so that we can conquer life’s battles shoulder to shoulder.
@@ -48,4 +48,4 @@ Contact Rob Seetin at [men@mariemontchurch.org](men@mariemontchurch.org)
 
 Thursday Morning Bible Study (Zoom): 6-7:15 a.m.
 
-Friday Morning Men’s Study: 6:30 a.m.
+Friday Morning Men’s Study: 6:30 a.m. Beginning a study of Daniel on 8/20/21. Join us any time!
