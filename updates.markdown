@@ -21,34 +21,32 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Exiles: Seeking a Home** 
 
-**9:00 and 11:00 a.m. (Note the added service time)** 
-**Exiles** is a 7-week sermon series studying the character of individuals who are often called "strangers and exiles" (Hebrews 11:13). Join us in person at 9:00 and 11:00 a.m. Livestream at 9:00 a.m. only. Children's classes at 9:00 a.m. Youth meet at 12:30 p.m. immediately following the 11:00 a.m. service in the Youth Room.
+**9:00 and 11:00am** 
+**Exiles** is a 7-week sermon series studying the character of individuals who are often called "strangers and exiles" (Hebrews 11:13). Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
 **AUGUST**
 
 **Sunday, 8/22 **
 
-**Welcome to Sunday Worship** Live Stream Service at 9:00 a.m. Click here to join the message [Exiles: Seeking a Home: Daniel](https://youtu.be/x6hxhZYzkjU)
+**Welcome to Sunday Worship** Live Stream Service at 9:00am Click here to join the message [Exiles: Seeking a Home: Daniel](https://youtu.be/x6hxhZYzkjU)
 We are celebrating communion. Connect Class during 1st Service.
 
 **Wednesday, 8/25** 
-**7:00-8:00 p.m.** **Prayer Night **
+**7:00-8:00pm** **Prayer Night **
 Join us in the Parish Center Hearth Room as we encounter Jesus in prayer!
 
-**Sunday, 8/29 **
-**Exiles: Disciples**
-Exile Series Finale!
+**Sunday, 8/29**
+**Exiles: Disciples** Exile Series Finale!
 
-**Sunday, 9/5 **
+**Sunday, 9/5**
 **Family Fall Kickoff Picnic**
-10:00am - One Family Sharing Service
-11:30am - Picnic in the Back Parking Lot with a Food Truck!
 
-**Sunday, 9/12 ** 
-**Vision Sunday**
+**10:00am** - One Family Sharing Service
+**11:30am** - Picnic in the Back Parking Lot with a Food Truck!
 
-**Monday, 9/13 **
-**Women's Ministry Kickoff** 6:30 p.m. in the Emery Room of the Parish Center
+**Sunday, 9/12** **Vision Sunday**
+
+**Monday, 9/13** **Women's Ministry Kickoff** 6:30 p.m. in the Emery Room of the Parish Center
 
 **Here's what you may have missed...**
 
