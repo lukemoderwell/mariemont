@@ -26,20 +26,14 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **AUGUST**
 
-**Sunday, 8/15**
+**Sunday, 8/22 **
 
-**Welcome to Sunday Worship** Live Stream Service at 9:00 a.m. Click here to join the message Exiles: [Seeking a Home: Shadrach, Meshach, and Adbednego](https://youtu.be/fcHW2tZY5D4) 
+**Welcome to Sunday Worship** Live Stream Service at 9:00 a.m. Click here to join the message [Exiles: Seeking a Home: Daniel](https://youtu.be/x6hxhZYzkjU)
+We are celebrating communion. Connect Class during 1st Service.
 
-**Today is the Prayer Walk**! Come back at 4:30 p.m. for our Mariemont Prayer Walk.
-
-**Wednesday, 8/18** 
+**Wednesday, 8/25** 
 **7:00-8:00 p.m.** **Prayer Night **
 Join us in the Parish Center Hearth Room as we encounter Jesus in prayer!
-
-**Sunday, 8/22 **
-**Exiles: Daniel**
-Connect Class during 1st Service
-And we will celebrate communion!
 
 **Sunday, 8/29 **
 **Exiles: Disciples**
@@ -49,6 +43,12 @@ Exile Series Finale!
 **Family Fall Kickoff Picnic**
 10:00am - One Family Sharing Service
 11:30am - Picnic in the Back Parking Lot with a Food Truck!
+
+**Sunday, 9/12 ** 
+**Vision Sunday**
+
+**Monday, 9/13 **
+**Women's Ministry Kickoff** 6:30 p.m. in the Emery Room of the Parish Center
 
 **Here's what you may have missed...**
 
