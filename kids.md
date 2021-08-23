@@ -32,10 +32,13 @@ Receive security name badges, and walk with your child to their classroom. A fri
 As we are able, we will be adding classes.  Check back to see what’s going on!
  
 **First Service** 8:55-10:20
-Nursery (6-35 months) - Room 107
+
+Nursery (6-35 months) - Room 107 
+
 Kids Church (36 months - 6th grade) - Room 102
 
 **Second Service** 10:55-12:20
+
 Nursery (6-35 months) - Room 107
 
 **Pick-Up**
