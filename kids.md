@@ -61,5 +61,4 @@ Kids and parents dress up, hay rides, pumpkins, homemade chili, candy and a bonf
 **December 4, 2021**:  Christmas Spectacular!
 MCC is right in the middle of the action for Mariemont’s Annual Tree Lighting!  Carols will be sung, kids will laugh, the church will be alive with activity! 
 
-
 It’s our privilege to serve you and your family. If you have any questions or needs, please don’t hesitate to ask. You can contact our MCC Kids Interim Director Katie Smith at [katie@mariemontchurch.org](katie@mariemontchurch.org).
