@@ -26,23 +26,22 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **AUGUST**
 
-**Sunday, 8/22 **
+**Sunday, 8/29 **
 
-**Welcome to Sunday Worship** Live Stream Service at 9:00am Click here to join the message [Exiles: Seeking a Home: Daniel](https://youtu.be/x6hxhZYzkjU)
-We are celebrating communion. Connect Class during 1st Service.
+**Welcome to Sunday Worship** Live Stream Service at 9:00am Click here to join the final message in the series. [Exiles: Seeking a Home: The Early Church ](http://https://youtu.be/4EqWKPCuf0I).
 
-**Wednesday, 8/25** 
+**Wednesday, 9/1** 
 **7:00-8:00pm** **Prayer Night **
 Join us in the Parish Center Hearth Room as we encounter Jesus in prayer!
-
-**Sunday, 8/29**
-**Exiles: Disciples** Exile Series Finale!
 
 **Sunday, 9/5**
 **Family Fall Kickoff Picnic**
 
 **10:00am** - One Family Sharing Service
 **11:30am** - Picnic in the Back Parking Lot with a Food Truck!
+
+**Wednesday, 9/8**
+New Prayer and Worship night format starting weekly @ 7pm, featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
 **Sunday, 9/12** **Vision Sunday**
 
