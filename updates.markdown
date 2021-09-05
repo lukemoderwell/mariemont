@@ -19,17 +19,16 @@ Here is a 6-minute [transition update](https://youtu.be/gadUQC0MWII) from Denis 
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
 
-**Exiles: Seeking a Home** 
 
 **9:00 and 11:00am** 
-**Exiles** is a 7-week sermon series studying the character of individuals who are often called "strangers and exiles" (Hebrews 11:13). Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
+**Exiles** was a 7-week sermon series studying the character of individuals who are often called "strangers and exiles" (Hebrews 11:13). Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
 **SEPTEMBER**
 
 **Sunday, 9/5**
 **Please note the time!There is only one service today at 10:00 a.m.!**
 
-**10:00am** - **One** Family Sharing Service **Welcome to Sunday Worship** Live Stream Service at 10:00am Click to join today's sharing service.
+**10:00am** - **One** Family Sharing Service **Welcome to Sunday Worship** Live Stream Service at 10:00am Click to join today's [sharing service](https://youtu.be/mpjtxKxIMPQ).
 
 **11:30am** - Family Fall Kickoff Picnic follows the 10:00 a.m. service in the Back Parking Lot with a Food Truck!
 
