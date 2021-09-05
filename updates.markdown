@@ -24,24 +24,21 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 **9:00 and 11:00am** 
 **Exiles** is a 7-week sermon series studying the character of individuals who are often called "strangers and exiles" (Hebrews 11:13). Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**AUGUST**
-
-**Sunday, 8/29 **
-
-**Welcome to Sunday Worship** Live Stream Service at 9:00am Click here to join the final message in the series. [Exiles: Seeking a Home: The Early Church ](http://https://youtu.be/4EqWKPCuf0I).
-
-**Wednesday, 9/1** 
-**7:00-8:00pm** **Prayer Night **
-Join us in the Parish Center Hearth Room as we encounter Jesus in prayer!
+**SEPTEMBER**
 
 **Sunday, 9/5**
 **Please note the time!There is only one service today at 10:00 a.m.!**
 
-**10:00am** - **One** Family Sharing Service
+**10:00am** - **One** Family Sharing Service **Welcome to Sunday Worship** Live Stream Service at 10:00am Click to join today's sharing service.
+
 **11:30am** - Family Fall Kickoff Picnic follows the 10:00 a.m. service in the Back Parking Lot with a Food Truck!
 
-**Wednesday, 9/8**
-New Prayer and Worship night format starting weekly @ 7pm, featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
+
+**Wednesday, 9/8** 
+**7:00-8:00pm** **Worship Night **
+Join us in the Parish Center Auditorium as we encounter Jesus in worship!
+
+New Prayer and Worship night format starting weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
 **Sunday, 9/12** **Vision Sunday**
 
