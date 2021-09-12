@@ -25,21 +25,18 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **SEPTEMBER**
 
-**Sunday, 9/5**
-**Please note the time!There is only one service today at 10:00 a.m.!**
+**Sunday, 9/12**
 
-**10:00am** - **One** Family Sharing Service **Welcome to Sunday Worship** Live Stream Service at 10:00am Click to join today's [sharing service](https://youtu.be/mpjtxKxIMPQ).
+**9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's [Vision Sunday](https://youtu.be/2SRby-Ebymg).
 
 **11:30am** - Family Fall Kickoff Picnic follows the 10:00 a.m. service in the Back Parking Lot with a Food Truck!
 
 
-**Wednesday, 9/8** 
+**Wednesday, 9/15** 
 **7:00-8:00pm** **Worship Night **
 Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
 New Prayer and Worship night format starting weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
-
-**Sunday, 9/12** **Vision Sunday**
 
 **Monday, 9/13** **Women's Ministry Kickoff** 6:30 p.m. in the Emery Room of the Parish Center
 
