@@ -6,7 +6,6 @@ position: 6
 is_ministry: true
 hero_image: "/uploads/kids-club.jpg"
 hasHero: true
-hero_cta_link: https://mariemontchurch.churchcenter.com/people/forms/161980
 hero_cta_text: Kids Registration 2021
 hasDownload: false
 heading: Children's Ministry
