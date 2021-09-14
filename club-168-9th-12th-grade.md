@@ -1,5 +1,5 @@
 ---
-title: Student Ministries (7th -12th Grade)
+title: Acts 29 Student Ministries (7th -12th Grade)
 date: 2017-03-19 19:51:00 -04:00
 permalink: "/club-168/"
 position: 13
@@ -24,9 +24,6 @@ The main point we draw from this is that there is no junior Holy Spirit. The Fat
 
 **Coming to Our Meetings?**
 
-**Sunday, September 5** 
-We will join the church out back for games and picnic today! See you there.
-
 We meet on Sunday mornings immediately after the 11:00 service from 12:30 a.m. - 2:00 p.m. on the second floor of the Parish Center. A typical meeting consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
  
 We have students from the tri-state area who attend public, private, and home-schools. We also have some wonderful adult leaders who love Jesus, love students, and have a desire to see students walk more deeply and intentionally with Jesus.
@@ -34,3 +31,7 @@ We have students from the tri-state area who attend public, private, and home-sc
 **Who Can Come?**
 
 Any 7th – 12th grade student no matter where you go to school. You don’t have to attend MCC to come, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
+
+**Sunday, September 19**  
+
+**Acts 29** MCC Youth (7-12 grade) will be meeting from 4:00-8:00 this Sunday at Pastor Jamie’s home at 1143 White Pine Ct., Cincinnati 45255 for a cookout and some fun. Bring your favorite snack and drink to share! Contact Bailey Moore with any questions at 513.226.7559.
