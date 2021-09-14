@@ -29,16 +29,19 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's [Vision Sunday](https://youtu.be/2SRby-Ebymg).
 
-**11:30am** - Family Fall Kickoff Picnic follows the 10:00 a.m. service in the Back Parking Lot with a Food Truck!
-
-
 **Wednesday, 9/15** 
 **7:00-8:00pm** **Worship Night **
 Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
 New Prayer and Worship night format starting weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Monday, 9/13** **Women's Ministry Kickoff** 6:30 p.m. in the Emery Room of the Parish Center
+**Sunday, 9/19**  
+
+**4:00-8:00pm** **Acts 29** MCC Youth (7-12 grade) will be meeting at Pastor Jamie’s House for a cookout and some fun. Bring your favorite snack and drink to share!
+
+Address: 1143 White Pine Ct., Cincinnati 45255
+
+Contact: Bailey Moore 513.226.7559 with questions.
 
 **Here's what you may have missed...**
 
