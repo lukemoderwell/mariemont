@@ -21,7 +21,7 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 
 **9:00 and 11:00am** 
-**Exiles** was a 7-week sermon series studying the character of individuals who are often called "strangers and exiles" (Hebrews 11:13). Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
+**Gifted and Going for It** is our new sermon series studying the  Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
 **SEPTEMBER**
 
