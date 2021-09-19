@@ -27,7 +27,7 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Sunday, 9/19**
 
-**9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's sermon on [Gifted and Going for It.](https://youtu.be/mrfS9q5W83Q)
+**9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's sermon on [Gifted and Going for It: Intro](https://youtu.be/mrfS9q5W83Q)
 
 **4:00-8:00pm** **Acts 29** MCC Youth (7-12 grade) will be meeting at Pastor Jamie’s House for a cookout and some fun. Bring your favorite snack and drink to share! Address: 1143 White Pine Ct., Cincinnati 45255
 Contact: Bailey Moore 513.226.7559 with questions.
