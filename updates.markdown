@@ -14,7 +14,7 @@ layout: page-no-hero
 Our COVID management plan continues as follows:
 
 1. Vaccines are proving very effective in limiting severe consequences, but they are not preventing all infection.
-2. Sanitize hands often. Keep a 6 ft distance, especially indoors.
+2. Sanitize hands often. Keep a 6 ft. distance, especially indoors.
 3. Use masks to add protection if you want it. (Masks optional at MCC)
 4. Don’t come to church if you have a fever or feel sick.
 5. Stay away if you know you were exposed - quarantine if you get symptoms or until you know you tested negative.
