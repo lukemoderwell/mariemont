@@ -29,7 +29,7 @@ So far there is zero spread at MCC through our worship services, meetings, or ou
 
 Please let us know if you have any questions or need any specific guidance.
 
-MCC Elders
+~The MCC Elders
 
 MCC has transitioned to a mask optional protocol. We will keep seating distanced and continue to encourage frequent hand sanitizing to maximize safety. We will update you promptly about added children’s ministry offerings, coffee, and Lite Bites as volunteers from these ministries return to active duty. We will continue streaming the 9 a.m. service for those not yet ready to return.
 
