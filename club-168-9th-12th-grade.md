@@ -20,7 +20,7 @@ layout: page
 
 **Sunday, September 19**  
 
-**Acts 29** MCC Youth (7-12 grade) will be meeting from 4:00-8:00 this Sunday at Pastor Jamie’s home at 1143 White Pine Ct., Cincinnati 45255 for a cookout and some fun. Bring your favorite snack and drink to share! Contact Bailey Moore with any questions at 513.226.7559.
+**Acts 29** MCC Youth (7-12 grade) will be meeting from 4:00-8:00 **today** at Pastor Jamie’s home at 1143 White Pine Ct., Cincinnati 45255 for a cookout and some fun. Bring your favorite snack and drink to share! Contact Bailey Moore with any questions at 513.226.7559.
 
 ### What We Believe About Students
 
