@@ -9,7 +9,7 @@ heading: What's happening at MCC
 layout: page-no-hero
 ---
 
-## Events
+## Events and Announcements
 
 Our COVID management plan continues as follows:
 
