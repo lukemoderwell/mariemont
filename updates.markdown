@@ -11,6 +11,26 @@ layout: page-no-hero
 
 ## Events
 
+Our Covid management plan continues as follows:
+
+1. Vaccines are proving very effective in limiting severe consequences, but they are not preventing all infection.
+2. Sanitize hands often. Keep a 6 ft distance, especially indoors.
+3. Use masks to add protection if you want it. (Masks optional at MCC)
+4. Don’t come to church if you have a fever or feel sick.
+5. Stay away if you know you were exposed - quarantine if you get symptoms or until you know you tested negative.
+6. Let us know if you get Covid and we will follow the State’s health department protocol with people you may have contacted at MCC.
+7. So far the risk for children under 12 is extremely low.
+
+No one has contracted COVID from MCC meetings. Several people have advised us on items number 4/5 above and followed our guidance.
+
+The people that we know who got COVID got it somewhere else.
+
+So far there is zero spread at MCC through our worship services, meetings, or our pre-school ministry.
+
+Please let us know if you have any questions or need any specific guidance.
+
+MCC Elders
+
 MCC has transitioned to a mask optional protocol. We will keep seating distanced and continue to encourage frequent hand sanitizing to maximize safety. We will update you promptly about added children’s ministry offerings, coffee, and Lite Bites as volunteers from these ministries return to active duty. We will continue streaming the 9 a.m. service for those not yet ready to return.
 
 The pandemic has been a major challenge. For those who could not worship in person for various reasons, I want you to know your leaders shared a deep compassion that we were separated. We look forward to a Spirit-filled reunion whenever you feel comfortable returning to worship in-person. We thank Jesus for preserving us and providing the vaccines.
