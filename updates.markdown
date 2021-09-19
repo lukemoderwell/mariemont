@@ -11,7 +11,7 @@ layout: page-no-hero
 
 ## Events
 
-Our Covid management plan continues as follows:
+Our COVID management plan continues as follows:
 
 1. Vaccines are proving very effective in limiting severe consequences, but they are not preventing all infection.
 2. Sanitize hands often. Keep a 6 ft distance, especially indoors.
