@@ -13,18 +13,13 @@ layout: page
 
 The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another. Additionally, Women’s Ministries strives to help women mature in their faith by strengthening the bonds with one another.
 
-**Monday, September 13, 2021**
-
-**Join us for our Fall Kick-Off** at 6:30 p.m. at the Parish Center. The speaker will be Samya Johnson from Call of Love Ministries. She will share her story, as well as, her passion and love for those of the Muslim faith. Dessert and beverages provided.
-**No childcare** available for this event.
-
 ## Equipping
 
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
 ### Joy In The Morning
 
-For over 20 years, this study has been held on Tuesday mornings from 9:15-11:30am in the Emery Room of the Parish Center during the school year. It offers application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. 
+For over 20 years, this study has been held on Tuesday mornings beginning *September 14, 2021* from 9:15-11:30am in the Emery Room of the Parish Center during the school year. It offers application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. 
 
 **Tuesday, Sept. 14** Fall studies begin.
 
