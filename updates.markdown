@@ -18,7 +18,7 @@ Our COVID management plan continues as follows:
 3. Use masks to add protection if you want it. (Masks optional at MCC)
 4. Don’t come to church if you have a fever or feel sick.
 5. Stay away if you know you were exposed, and quarantine if you get symptoms or until you know you tested negative.
-6. Let us know if you get COVID and we will follow the State’s health department protocol with people you may have contacted at MCC.
+6. Let us know if you get COVID and we will follow the State’s health department protocol with people you may have come in contact with at MCC.
 7. So far the risk for children under 12 is extremely low.
 
 No one has contracted COVID from MCC meetings. Several people have advised us on items number 4/5 above and followed our guidance.
