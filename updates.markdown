@@ -21,13 +21,13 @@ Our COVID management plan continues as follows:
 6. Let us know if you get COVID and we will follow the State’s health department protocol with people you may have come in contact with at MCC.
 7. So far the risk for children under 12 is extremely low.
 
-No one has contracted COVID from MCC meetings. Several people have advised us on items number 4/5 above and followed our guidance.
+-No one has contracted COVID from MCC meetings. Several people have advised us on items number 4/5 above and followed our guidance.
 
-The people that we know who have had COVID were exposed somewhere else.
+-The people that we know who have had COVID were exposed somewhere else.
 
-So far there is zero spread at MCC through our worship services, meetings, or our pre-school ministry.
+-So far there is zero spread at MCC through our worship services, meetings, or our pre-school ministry.
 
-Please let us know if you have any questions or need any specific guidance.
+-Please let us know if you have any questions or need any specific guidance.
 
 ~The MCC Elders
 
