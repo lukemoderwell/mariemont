@@ -21,15 +21,17 @@ Our COVID management plan continues as follows:
 6. Let us know if you get COVID and we will follow the State’s health department protocol with people you may have come in contact with at MCC.
 7. So far the risk for children under 12 is extremely low.
 
--No one has contracted COVID from MCC meetings. Several people have advised us on items number 4/5 above and followed our guidance.
+* No one has contracted COVID from MCC meetings. Several people have advised us on items number 4/5 above and followed our guidance.
 
--The people that we know who have had COVID were exposed somewhere else.
+* The people that we know who have had COVID were exposed somewhere else.
 
--So far there is zero spread at MCC through our worship services, meetings, or our pre-school ministry.
+* So far there is zero spread at MCC through our worship services, meetings, or our pre-school ministry.
 
--Please let us know if you have any questions or need any specific guidance.
+* If you have questions about COVID virus, testing, protocol or vaccines, please call or see your primary care physician.
 
-~The MCC Elders
+* Please let us know if you have any MCC questions or need any specific guidance. Send your questions to Terri Cofskey at terri@mariemontchurch.org, and she will direct your questions to appropriate staff.
+
+**~The MCC Elders**
 
 MCC has transitioned to a mask optional protocol. We will keep seating distanced and continue to encourage frequent hand sanitizing to maximize safety. We will update you promptly about added children’s ministry offerings, coffee, and Lite Bites as volunteers from these ministries return to active duty. We will continue streaming the 9 a.m. service for those not yet ready to return.
 
