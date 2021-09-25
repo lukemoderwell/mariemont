@@ -11,6 +11,8 @@ layout: page-no-hero
 
 ## Events and Announcements
 
+Please click for the [Steven Carpenter Memorial Service](https://youtu.be/Tt9Qc6eU1Jo).live streamed today, Saturday, September 25, 2021 at 10:00 a.m. 
+
 Our COVID management plan continues as follows:
 
 1. Vaccines are proving very effective in limiting severe consequences, but they are not preventing all infection.
