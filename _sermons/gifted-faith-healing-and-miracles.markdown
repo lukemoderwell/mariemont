@@ -1,5 +1,5 @@
 ---
-title: 'Gifted: Faith, Healing, and Miracles'
+title: 'Gifted and Going for It: Faith, Healing, and Miracles'
 date: 2021-10-03 08:53:00 -04:00
 series: Gifted and Going for It
 week: 3
