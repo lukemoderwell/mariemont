@@ -32,7 +32,7 @@ Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 New Prayer and Worship night format starting weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
 **Sunday, 10/24** 
-We will have baptisms this Sunday. Anyone interested, please contact Jamie Moore at jamie@mariemontchurch.org.
+  We will have baptisms this Sunday. Anyone interested, please contact Jamie Moore at jamie@mariemontchurch.org.
 
 **Here's what you may have missed...**
 
