@@ -19,7 +19,7 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 **9:00 and 11:00am** 
 **Gifted and Going for It** is our new sermon series studying Spiritual Gifts. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**SEPTEMBER**
+**OCTOBER**
 
 **Sunday, 10/10**
 
