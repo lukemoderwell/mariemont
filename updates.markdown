@@ -21,18 +21,19 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **SEPTEMBER**
 
-**Sunday, 10/3**
+**Sunday, 10/10**
 
-**9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's sermon on [Gifted and Going for It: Faith, Healing, and Miracles](https://youtu.be/8MXwINMEM9U)
+**9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's sermon on Gifted and Going for It: Baptism in the Spirit (or Filling with the Spirit) 
 
-**Wednesday, 10/6** 
+**Wednesday, 10/13** 
 **7:00-8:00pm** **Worship Night **
 Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
 New Prayer and Worship night format starting weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Sunday, 10/24** 
-  We will have baptisms this Sunday. Anyone interested, please contact Jamie Moore at jamie@mariemontchurch.org.
+**Sunday, 10/31** 
+Flying Pig Sunday! There is only one Service at 11:00 a.m.
+We will have baptisms this Sunday at the 11:00 a.m. service. Anyone interested, please contact Jamie Moore at jamie@mariemontchurch.org.
 
 **Here's what you may have missed...**
 
