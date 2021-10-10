@@ -23,7 +23,7 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **Sunday, 10/10**
 
-**9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's sermon on Gifted and Going for It: Baptism in the Spirit (or Filling with the Spirit) 
+**9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's sermon on [Gifted and Going for It: Baptism in the Spirit (or Filling with the Spirit) ](https://youtu.be/nA8o9MldUlo)
 
 **Wednesday, 10/13** 
 **7:00-8:00pm** **Worship Night **
