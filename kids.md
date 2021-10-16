@@ -8,7 +8,7 @@ hero_image: "/uploads/kids-club.jpg"
 hasHero: true
 hero_cta_text: Kids Registration 2021
 hasDownload: false
-heading: Children's Ministry
+heading: Kid's Ministry
 lead_in: We're committed to raising up strong, spiritually healthy children.
 layout: page
 ---
