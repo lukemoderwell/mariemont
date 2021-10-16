@@ -34,7 +34,7 @@ Nursery (6-35 months) - Room 107
 Preschool (3-5 year olds) - Room 105
 Elementary (K-6th grade) - Room 103
 
-**Second Service: 10:55-12:20 **
+**Second Service: 10:55-12:20**
 Nursery (6-35 months) - Room 107
 Kids Church (36 months - 6th grade) - Room 103
 Pick-Up Be sure to keep your parent badge for pick up after the service.
