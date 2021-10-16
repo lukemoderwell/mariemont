@@ -1,5 +1,5 @@
 ---
-title: Kids
+title: Kingdom Kids
 date: 2016-10-18 20:18:00 -04:00
 permalink: "/kids/"
 position: 6
