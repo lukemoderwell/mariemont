@@ -21,11 +21,11 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **OCTOBER**
 
-**Sunday, 10/10**
+**Sunday, 10/17**
 
-**9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's sermon on [Gifted and Going for It: Baptism in the Spirit (or Filling with the Spirit)](https://youtu.be/nA8o9MldUlo)
+**9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's sermon on [Gifted and Going for It](https://youtu.be/EP0jEs6llnc)
 
-**Wednesday, 10/13** 
+**Wednesday, 10/20** 
 **7:00-8:00pm** **Worship Night **
 Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
