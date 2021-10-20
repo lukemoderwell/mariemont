@@ -31,9 +31,23 @@ Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
 New Prayer and Worship night format starting weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Sunday, 10/31** 
+**Sunday, 10/31**
 Flying Pig Sunday! There is only one Service at 11:00 a.m.
 We will have baptisms this Sunday at the 11:00 a.m. service. Anyone interested, please contact Jamie Moore at jamie@mariemontchurch.org.
+
+Flying Pig Volunteer Signup
+
+Sunday (10/31), in lieu of the 9:00am service, we have an opportunity to "cheer" the Flying Pig runners while listening to Anna and the Deeper Well play! For info and signup:
+
+1. Click here: https://flyingpigmarathon.volunteerlocal.com/volunteer/?id=56142  
+2. Enter the following password in the small box & click "submit password": mariemontcomchurch
+3. Check that the small box next to the highlighted time frame is check marked
+4. Enter the required information
+5. Click the "Sign Up To Volunteer" button to submit your information
+
+For other questions, please contact David McMillen (david@mcmillen.com) or Mark Simes (mark@mariemontchurch.org). 
+
+
 
 **Here's what you may have missed...**
 
