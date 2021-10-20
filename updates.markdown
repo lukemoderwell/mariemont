@@ -39,7 +39,7 @@ Flying Pig Volunteer Signup
 
 Sunday (10/31), in lieu of the 9:00am service, we have an opportunity to "cheer" the Flying Pig runners while listening to Anna and the Deeper Well play! For info and signup:
 
-1. Click here: https://flyingpigmarathon.volunteerlocal.com/volunteer/?id=56142  
+1. Click here: [Volunteer for the Flying Pig](https://flyingpigmarathon.volunteerlocal.com/volunteer/?id=56142)
 2. Enter the following password in the small box & click "submit password": mariemontcomchurch
 3. Check that the small box next to the highlighted time frame is check marked
 4. Enter the required information
