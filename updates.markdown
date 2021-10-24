@@ -31,8 +31,11 @@ Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
 New Prayer and Worship night format starting weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
+**Thursday, 10/28** 
+**7:00-9:00 p.m.** **Happy Birthday Prayer Canopy!** Come celebrate the 2-year anniversary of praying together at Anderson United Methodist Church on Beechmont Avenue across from Anderson Towne Center.
+
 **Sunday, 10/31**
-Flying Pig Sunday! There is only one Service at 11:00 a.m.
+**Flying Pig Sunday!** There is only one Service at 11:00 a.m.
 We will have baptisms this Sunday at the 11:00 a.m. service. Anyone interested, please contact Jamie Moore at jamie@mariemontchurch.org.
 
 Flying Pig Volunteer Signup
