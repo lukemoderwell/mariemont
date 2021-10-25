@@ -35,10 +35,10 @@ New Prayer and Worship night format starting weekly @ 7:00 p.m., featuring worsh
 **7:00-9:00 p.m.** **Happy Birthday Prayer Canopy!** Come celebrate the 2-year anniversary of praying together at Anderson United Methodist Church on Beechmont Avenue across from Anderson Towne Center.
 
 **Sunday, 10/31**
-**Flying Pig Sunday!** There is only one Service at 11:00 a.m.
+**Flying Pig Sunday!** **There is only one Service at 11:00 a.m.**
 We will have baptisms this Sunday at the 11:00 a.m. service. Anyone interested, please contact Jamie Moore at jamie@mariemontchurch.org.
 
-Flying Pig Volunteer Signup
+**Flying Pig Volunteer Signup**
 
 Sunday (10/31), in lieu of the 9:00am service, we have an opportunity to "cheer" the Flying Pig runners while listening to Anna and the Deeper Well play! For info and signup:
 
