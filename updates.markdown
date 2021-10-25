@@ -21,11 +21,11 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **OCTOBER**
 
-**Sunday, 10/23**
+**Sunday, 10/24**
 
 **9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's sermon on [Gifted and Going for It: United in Diversity](https://youtu.be/hGUcsia1oNc)
 
-**Wednesday, 10/26** 
+**Wednesday, 10/27** 
 **7:00-8:00pm** **Worship Night **
 Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
