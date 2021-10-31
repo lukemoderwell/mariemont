@@ -21,35 +21,20 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **OCTOBER**
 
-**Sunday, 10/24**
+**Sunday, 10/31**
 
-**9:00 & 11:00am** - **Welcome to Sunday Worship** Live Stream Service at 9:00am Click to join today's sermon on [Gifted and Going for It: United in Diversity](https://youtu.be/hGUcsia1oNc)
+**9:00 & 11:00am** - **Flying Pig Sunday!** **There is only one Service at 11:00 a.m.**
+We are having baptisms this Sunday at the 11:00 a.m. service. 
 
-**Wednesday, 10/27** 
+**Welcome to Sunday Worship** Live Stream Service at 11:00am Click to join today's sermon on [Gifted and Going for It: Love is the Greatest!](https://youtu.be/hyvjf0mFnuo)
+
+**November**
+
+**Wednesday, 11/3** 
 **7:00-8:00pm** **Worship Night **
 Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
 New Prayer and Worship night format starting weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
-
-**Thursday, 10/28** 
-**7:00-9:00 p.m.** **Happy Birthday Prayer Canopy!** Come celebrate the 2-year anniversary of praying together at Anderson United Methodist Church on Beechmont Avenue across from Anderson Towne Center.
-
-**Sunday, 10/31**
-**Flying Pig Sunday!** **There is only one Service at 11:00 a.m.**
-We will have baptisms this Sunday at the 11:00 a.m. service. Anyone interested, please contact Jamie Moore at jamie@mariemontchurch.org.
-
-**Flying Pig Volunteer Signup**
-
-Sunday (10/31), in lieu of the 9:00am service, we have an opportunity to "cheer" the Flying Pig runners while listening to Anna and the Deeper Well play! For info and signup:
-
-1. Click here: [Volunteer for the Flying Pig](https://flyingpigmarathon.volunteerlocal.com/volunteer/?id=56142)
-2. Enter the following password in the small box & click "submit password": mariemontcomchurch
-3. Check that the small box next to the highlighted time frame is check marked
-4. Enter the required information
-5. Click the "Sign Up To Volunteer" button to submit your information
-
-For other questions, please contact David McMillen (david@mcmillen.com) or Mark Simes (mark@mariemontchurch.org). 
-
 
 
 **Here's what you may have missed...**
