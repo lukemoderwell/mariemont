@@ -46,7 +46,7 @@ Contact Rob Seetin at [men@mariemontchurch.org](men@mariemontchurch.org)
 
 **Current open Men’s small groups:**
 
-Thursday Morning Bible Study (Zoom): 6-7:15 a.m. Contact Rob Seetin at [men@mariemontchurch.org](men@mariemontchurch.org)
+Thursday Morning Bible Study (Zoom): 6-7:15 a.m. 
 
 
 Friday Morning Men’s Study: 6:30 a.m. Beginning a study of the book TRUSTING GOD by Jerry Bridges for about 10 weeks.
