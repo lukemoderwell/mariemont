@@ -8,8 +8,11 @@ heading: Learning to live and love in the Presence of Jesus.
 layout: home
 ---
 
-**There is only one service on Sunday, October 31 at 11:00 a.m.** Hope to see you there!
 
-> We’re partnering with Vanderbloemen Search Group in our search for a Next Generation Pastor. Apply here https://www.vanderbloemen.com/job/mariemont-community-church-next-generation-pastor
+
+> We’re partnering with Vanderbloemen Search Group in our search for a Next Generation Pastor.
+
+
+Apply here https://www.vanderbloemen.com/job/mariemont-community-church-next-generation-pastor
 
 
