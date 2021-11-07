@@ -19,22 +19,25 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 **9:00 and 11:00am** 
 **Gifted and Going for It** is our new sermon series studying Spiritual Gifts. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**OCTOBER**
+**NOVEMBER**
 
-**Sunday, 10/31**
+**Sunday, 11/7**
 
 **9:00 & 11:00am** - **Flying Pig Sunday!** **There is only one Service at 11:00 a.m.**
 We are having baptisms this Sunday at the 11:00 a.m. service. 
 
-**Welcome to Sunday Worship** Live Stream Service at 11:00am Click to join today's sermon on [Gifted and Going for It: Love is the Greatest!](https://youtu.be/hyvjf0mFnuo)
+**Welcome to Sunday Worship** Live Stream Service at 11:00am Click to join today's sermon on [Gifted and Going for It: Prophecy](https://youtu.be/En1KPMbbmlE)
 
-**November**
+**Wednesday, 11/10**
 
-**Wednesday, 11/3** 
 **7:00-8:00pm** **Worship Night **
 Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
-New Prayer and Worship night format starting weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
+Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
+
+**Sunday, 11/21**
+
+7:00-8:00 p.m. Family Thanksgiving Hymn Sing
 
 
 **Here's what you may have missed...**
