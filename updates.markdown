@@ -35,10 +35,13 @@ Join us in the Parish Center Auditorium as we encounter Jesus in worship!
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
+**Saturday, 11/20**
+
+8:00-11:30 a.m. Leaf Blowing at the Parish Center and Chapel. Come at 8:00 a.m. for Coffee, chocolate milk, and donuts on the Parish Center Porch. We will pray and launch at 8:25 a.m. beginning at the Parish Center. Bring your leaf blower, work gloves, hearing protection, safety glasses and dress warmly! 
+
 **Sunday, 11/21**
 
-7:00-8:00 p.m. Family Thanksgiving Hymn Sing
-
+7:00-8:00 p.m. Family Thanksgiving Hymn Sing in the Parish Center Auditorium. A great way to prepare for Thanksgiving. Steve Schwandner will lead worship on the piano and Sue Ferrell will accompany on he violin. Children welcome. 
 
 **Here's what you may have missed...**
 
