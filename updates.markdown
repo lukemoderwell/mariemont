@@ -21,14 +21,14 @@ Here is the link for the [Created for Worship Declarations Handout](https://driv
 
 **NOVEMBER**
 
-**Sunday, 11/7**
+**Sunday, 11/14**
 
 **9:00 & 11:00am** - **Flying Pig Sunday!** **There is only one Service at 11:00 a.m.**
 We are having baptisms this Sunday at the 11:00 a.m. service. 
 
-**Welcome to Sunday Worship** Live Stream Service at 11:00am Click to join today's sermon on [Gifted and Going for It: Prophecy](https://youtu.be/En1KPMbbmlE)
+**Welcome to Sunday Worship** Live Stream Service at 11:00am Click to join today's sermon on Gifted and [Going for It: Prophecy in Practice (https://youtu.be/w9yViRZkyds) 
 
-**Wednesday, 11/10**
+**Wednesday, 11/17**
 
 **7:00-8:00pm** **Worship Night **
 Join us in the Parish Center Auditorium as we encounter Jesus in worship!
@@ -41,7 +41,14 @@ Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, i
 
 **Sunday, 11/21**
 
-7:00-8:00 p.m. Family Thanksgiving Hymn Sing in the Parish Center Auditorium. A great way to prepare for Thanksgiving. Steve Schwandner will lead worship on the piano and Sue Ferrell will accompany on he violin. Children welcome. 
+7:00-8:00 p.m. Family Thanksgiving Hymn Sing in the Parish Center Auditorium. A great way to prepare for Thanksgiving. Steve Schwandner will lead worship on the piano and Sue Ferrell will accompany on he violin. Children welcome.
+
+**DECEMBER**
+
+**Saturday, 12/4**
+
+Tree Lighting in Mariemont - We will have music and a photo opportunity on the porch of the Parish Center.
+
 
 **Here's what you may have missed...**
 
