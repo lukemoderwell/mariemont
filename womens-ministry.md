@@ -53,7 +53,7 @@ The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center
 
 Mariemont Church Women’s Retreat is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
 
-**Save the Date** for the 2022 Women’s Retreat, February 4-5, at the Jesuit Retreat Center. Would love to have you join us next year!
+**Save the Date** for the 2022 Women’s Retreat, February 4-5, at the Jesuit Retreat Center. The speaker will be our own Liz Baker. Would love to have you join us next year!
 
 **Finding Shalom Amidst Chaos** was our 2021 retreat. Beth Guckenberger shared seven ancient Hebrew words that helped bring completeness and peace to our souls in this stormy time.
 
