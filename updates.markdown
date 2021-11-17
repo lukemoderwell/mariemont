@@ -31,7 +31,9 @@ We are having baptisms this Sunday at the 11:00 a.m. service.
 **Wednesday, 11/17**
 
 **7:00-8:00pm** **Worship Night **
-Join us in the Parish Center Auditorium as we encounter Jesus in worship!
+Join us in the Parish Center Auditorium as we encounter Jesus in worship! Teams of experienced lay people from all over Cincinnati are coming to share the gift of prophecy with our MCC family! Please encourage your small groups to come and receive prophetic ministry.
+
+As we have been learning on Sunday mornings, we are strongly encouraged (i.e. commanded) to pursue gifts, especially prophecy. Some of our MCC family have very little experience with this particular gift, so tomorrow night will be a GREAT OPPORTUNITY to learn and grow.
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
