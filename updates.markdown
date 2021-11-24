@@ -11,6 +11,26 @@ layout: page-no-hero
 
 ## Events and Announcements
 
+Our **COVID Management Plan** continues as follows:
+
+1. Vaccines are proving very effective in limiting severe consequences, but they are not preventing all infection.
+2. Sanitize hands often. Keep a 6 ft. distance, especially indoors.
+3. Use masks to add protection if you want it. (Masks optional at MCC)
+4. Don’t come to church if you have a fever or feel sick.
+5. Stay away if you know you were exposed, and quarantine if you get symptoms or until you know you have tested negative.
+6. Let us know if you get COVID and we will follow the State’s health department protocol with people you may have come in contact with at MCC.
+7. So far the risk for children under 12 is extremely low.
+
+* No one has contracted COVID from MCC meetings. Several people have advised us on items number 4/5 above and followed our guidance.
+
+* The people that we know who have had COVID were exposed somewhere else.
+
+* So far there is zero spread at MCC through our worship services, meetings, or our pre-school ministry.
+
+* If you have questions about COVID virus, testing, protocol or vaccines, please call or see your primary care physician.
+
+* Please let us know if you have any MCC questions or need any specific guidance. Send your questions to Terri Cofskey at terri@mariemontchurch.org, and she will direct your questions to appropriate staff.
+
 Here is a 6-minute [transition update](https://youtu.be/gadUQC0MWII) from Denis and Jamie.
 
 Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
@@ -44,26 +64,6 @@ Tree Lighting in Mariemont - We will have music and a photo opportunity on the p
 
 
 **Here's what you may have missed...**
-
-Our COVID management plan continues as follows:
-
-1. Vaccines are proving very effective in limiting severe consequences, but they are not preventing all infection.
-2. Sanitize hands often. Keep a 6 ft. distance, especially indoors.
-3. Use masks to add protection if you want it. (Masks optional at MCC)
-4. Don’t come to church if you have a fever or feel sick.
-5. Stay away if you know you were exposed, and quarantine if you get symptoms or until you know you have tested negative.
-6. Let us know if you get COVID and we will follow the State’s health department protocol with people you may have come in contact with at MCC.
-7. So far the risk for children under 12 is extremely low.
-
-* No one has contracted COVID from MCC meetings. Several people have advised us on items number 4/5 above and followed our guidance.
-
-* The people that we know who have had COVID were exposed somewhere else.
-
-* So far there is zero spread at MCC through our worship services, meetings, or our pre-school ministry.
-
-* If you have questions about COVID virus, testing, protocol or vaccines, please call or see your primary care physician.
-
-* Please let us know if you have any MCC questions or need any specific guidance. Send your questions to Terri Cofskey at terri@mariemontchurch.org, and she will direct your questions to appropriate staff.
 
 **~The MCC Elders**
 
