@@ -11,29 +11,28 @@ layout: page-no-hero
 
 ## Events and Announcements
 
-Our **COVID Management Plan** continues as follows:
+**MCC Updated COVID management plan as of 11-24-22:**
 
-1. Vaccines are proving very effective in limiting severe consequences, but they are not preventing all infection.
-2. Sanitize hands often. Keep a 6 ft. distance, especially indoors.
-3. Use masks to add protection if you want it. (Masks optional at MCC)
-4. Don’t come to church if you have a fever or feel sick.
-5. Stay away if you know you were exposed, and quarantine if you get symptoms or until you know you have tested negative.
-6. Let us know if you get COVID and we will follow the State’s health department protocol with people you may have come in contact with at MCC.
-7. So far the risk for children under 12 is extremely low.
+1. Vaccines are proving safe and very effective in limiting severe consequences,
+but still allowing some infection and spread. Even minor symptoms may be
+Covid.
+2. Rapid test kits are a great weapon to help you assess minor symptoms and to
+decide about attending gatherings or not.
+3. Sanitize hands often. Keep a 6 ft. distance, especially indoors.
+4. Use masks to add protection if you want it. (Masks optional and welcome at
+MCC)
+5. Don’t come to worship if you have a fever or feel sick - even minor symptoms!
+6. If you were exposed to someone who tested positive for Covid, use the rapid
+tests before attending any gathering. Quarantine if you get symptoms. Call your
+doctor.
+7. If you have any questions about COVID, testing protocol, or vaccines, please
+check first with your primary care physician.
+8. Let us know if you get COVID so we can pray and help you communicate as
+needed.
+9. Please address any questions to Terri Cofskey at terri@mariemontchurch.org,
+and she will direct you to the appropriate staff.
 
-* No one has contracted COVID from MCC meetings. Several people have advised us on items number 4/5 above and followed our guidance.
-
-* The people that we know who have had COVID were exposed somewhere else.
-
-* So far there is zero spread at MCC through our worship services, meetings, or our pre-school ministry.
-
-* If you have questions about COVID virus, testing, protocol or vaccines, please call or see your primary care physician.
-
-* Please let us know if you have any MCC questions or need any specific guidance. Send your questions to Terri Cofskey at terri@mariemontchurch.org, and she will direct your questions to appropriate staff.
-
-Here is a 6-minute [transition update](https://youtu.be/gadUQC0MWII) from Denis and Jamie.
-
-Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
+**~The MCC Elders**
 
 **Sunday Schedule**
 **9:00 and 11:00am** 
@@ -65,7 +64,10 @@ Tree Lighting in Mariemont - We will have music and a photo opportunity on the p
 
 **Here's what you may have missed...**
 
-**~The MCC Elders**
+Here is a 6-minute [transition update](https://youtu.be/gadUQC0MWII) from Denis and Jamie.
+
+Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
+
 
 MCC has transitioned to a mask optional protocol. We will keep seating distanced and continue to encourage frequent hand sanitizing to maximize safety. We will update you promptly about added children’s ministry offerings, coffee, and Lite Bites as volunteers from these ministries return to active duty. We will continue streaming the 9 a.m. service for those not yet ready to return.
 
