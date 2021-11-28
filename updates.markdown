@@ -13,12 +13,12 @@ layout: page-no-hero
 
 **MCC Updated COVID management plan as of 11-24-22:**
 
-* Vaccines are proving safe and very effective in limiting severe consequences, but still allowing some infection and spread. Even minor symptoms may be Covid.
+* Vaccines are proving safe and very effective in limiting severe consequences, but still allowing some infection and spread. Even minor symptoms may be COVID.
 * Rapid test kits are a great weapon to help you assess minor symptoms and to decide about attending gatherings or not.
 * Sanitize hands often. Keep a 6 ft. distance, especially indoors.
 * Use masks to add protection if you want it. (Masks optional and welcome at MCC)
 * Don’t come to worship if you have a fever or feel sick - even minor symptoms!
-* If you were exposed to someone who tested positive for Covid, use the rapid tests before attending any gathering. Quarantine if you get symptoms. Call your doctor.
+* If you were exposed to someone who tested positive for COVID, use the rapid tests before attending any gathering. Quarantine if you get symptoms. Call your doctor.
 * If you have any questions about COVID, testing protocol, or vaccines, please check first with your primary care physician.
 * Let us know if you get COVID so we can pray and help you communicate as needed.
 * Please address any questions to Terri Cofskey at terri@mariemontchurch.org, and she will direct you to the appropriate staff.
