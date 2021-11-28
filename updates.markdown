@@ -31,18 +31,17 @@ layout: page-no-hero
 
 **NOVEMBER**
 
-**Sunday, 11/21**
+**Sunday, 11/28**
 
-**Welcome to Sunday Worship** Live Stream Service at 11:00am Click to join today's sermon on [Gifted and Going for It: Tongues and Interpretation](https://youtu.be/U9FyYuG9ClM) 
+**Welcome to Sunday Worship** Live Stream Service at 11:00am Click to join today's sermon on [Gifted and Going for It: Sharing Sunday (2)](https://youtu.be/8UDzRXots-Q)
 
-**Wednesday, 11/24**
+**DECEMBER**
+
+**Wednesday, 12/1**
 
 **7:00-8:00pm** **Worship Night **
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
-
-
-**DECEMBER**
 
 **Saturday, 12/4**
 
