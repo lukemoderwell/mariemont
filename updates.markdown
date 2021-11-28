@@ -26,6 +26,7 @@ layout: page-no-hero
 **~The MCC Elders**
 
 **Sunday Schedule**
+
 **9:00 and 11:00am** 
 **Gifted and Going for It** is our new sermon series studying Spiritual Gifts. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
@@ -33,7 +34,7 @@ layout: page-no-hero
 
 **Sunday, 11/28**
 
-**Welcome to Sunday Worship** Live Stream Service at 11:00am Click to join today's sermon on [Gifted and Going for It: Sharing Sunday (2)](https://youtu.be/8UDzRXots-Q)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Sharing Sunday (2)](https://youtu.be/8UDzRXots-Q)
 
 **DECEMBER**
 
