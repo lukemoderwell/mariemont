@@ -1,5 +1,5 @@
 ---
-title: 'Gifted and Going for It: Sharing Sunday (2)'
+title: 'Gifted and Going for It: Sharing Sunday'
 date: 2021-11-28 08:58:00 -05:00
 series: Gifted and Going for It
 week: 11
