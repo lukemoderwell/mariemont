@@ -39,7 +39,7 @@ layout: default
     <div class="home_intro">
       <div>
         <h1>{{ page.heading }}</h1>
-        <p>{{ page.content }}</p>
+        {{ page.content | markdownify }}
         <div class="home_buttonGroup">
           <!-- <a href="{{ current_sermon.brochure_file }}" class="btn btn--secondary">Latest Update</a> -->
           <a href="/about" class="btn btn--primary">Learn More</a>
