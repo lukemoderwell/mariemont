@@ -8,8 +8,6 @@ heading: Learning to live and love in the Presence of Jesus.
 layout: home
 ---
 
-We’re partnering with Vanderbloemen Search Group in our search for a Next Generation Pastor. 
-
-[Apply here](https://www.vanderbloemen.com/job/mariemont-community-church-next-generation-pastor).
+We’re partnering with Vanderbloemen Search Group in our search for a Next Generation Pastor. [Apply here](https://www.vanderbloemen.com/job/mariemont-community-church-next-generation-pastor).
 
 
