@@ -28,25 +28,19 @@ layout: page-no-hero
 **Sunday Schedule**
 
 **9:00 and 11:00am** 
-**Gifted and Going for It** is our new sermon series studying Spiritual Gifts. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
-
-**NOVEMBER**
-
-**Sunday, 11/28**
-
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Sharing Sunday (2)](https://youtu.be/8UDzRXots-Q)
+**Gifted and Going for It** is our sermon series focusing Spiritual Gifts. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
 **DECEMBER**
 
-**Wednesday, 12/1**
+**Sunday, 12/5**
+
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and [Going for It: Order in Worship](https://youtu.be/N9uU-LXTcYU)
+
+**Wednesday, 12/8**
 
 **7:00-8:00pm** **Worship Night **
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
-
-**Saturday, 12/4**
-
-Tree Lighting in Mariemont - We will have music and a photo opportunity on the porch of the Parish Center.
 
 **Sunday, 12/12**
 
