@@ -48,7 +48,7 @@ Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, i
 
 **Friday, 12/24**
 
-**Christmas Eve Services** at the Parish Center at 3:00, 4:00, and 5:00 p.m.
+**Christmas Eve Services** at the Parish Center at 3:00, 4:00, and 5:00 p.m. Children are welcome!
 
 **Here's what you may have missed...**
 
