@@ -32,17 +32,18 @@ layout: page-no-hero
 
 **DECEMBER**
 
-**Wednesday, 12/8**
-
-**7:00-8:00pm** **Worship Night **
-
-Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
 **Sunday, 12/12**
 
 9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Denis Beausejour on [Gifted and Going for It: Apostolic Ministry Gifting](https://youtu.be/2YkeQeIBvHw)
 
 7:00-8:00 p.m. Family Thanksgiving Hymn Sing in the Parish Center Auditorium. A great way to prepare for Thanksgiving. Steve Schwandner will lead worship on the piano and Sue Ferrell will accompany on he violin. Children welcome.
+
+**Wednesday, 12/15**
+
+**7:00-8:00pm** **Worship Night **
+
+Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
 **Friday, 12/24**
 
