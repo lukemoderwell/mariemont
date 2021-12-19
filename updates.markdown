@@ -38,7 +38,7 @@ layout: page-no-hero
 
 **Wednesday, 12/22**
 
-**7:00-8:00pm** **NO Worship Night Tonight**
+**7:00-8:00pm**  **### NO Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
