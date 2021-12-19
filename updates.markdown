@@ -34,11 +34,11 @@ layout: page-no-hero
 
 **Sunday, 12/19**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Denis Beausejour on Gifted and Going for It:Prophetic Ministry Gifting
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Denis Beausejour on [Gifted and Going for It:Prophetic Ministry Gifting](https://youtu.be/LhgNmw6fnVs)
 
 **Wednesday, 12/22**
 
-**7:00-8:00pm** **Worship Night **
+**7:00-8:00pm** **NO Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
