@@ -32,14 +32,11 @@ layout: page-no-hero
 
 **DECEMBER**
 
+**Sunday, 12/19**
 
-**Sunday, 12/12**
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Denis Beausejour on Gifted and Going for It:Prophetic Ministry Gifting
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Denis Beausejour on [Gifted and Going for It: Apostolic Ministry Gifting](https://youtu.be/2YkeQeIBvHw)
-
-7:00-8:00 p.m. Family Thanksgiving Hymn Sing in the Parish Center Auditorium. A great way to prepare for Thanksgiving. Steve Schwandner will lead worship on the piano and Sue Ferrell will accompany on he violin. Children welcome.
-
-**Wednesday, 12/15**
+**Wednesday, 12/22**
 
 **7:00-8:00pm** **Worship Night **
 
