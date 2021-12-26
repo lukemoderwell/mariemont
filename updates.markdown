@@ -36,15 +36,11 @@ layout: page-no-hero
 
 9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Jamie Moore on [Gifted and Going for It: Dreams and Interpretation](https://youtu.be/sp258sIAJYE)
 
-**Wednesday, 12/22**
+**Wednesday, 12/229**
 
-**7:00-8:00pm**  **### NO Worship Night Tonight**
+**7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
-
-**Friday, 12/24**
-
-**Christmas Eve Services** at the Parish Center at 3:00, 4:00, and 5:00 p.m. Children are welcome!
 
 **Here's what you may have missed...**
 
