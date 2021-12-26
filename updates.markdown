@@ -36,7 +36,7 @@ layout: page-no-hero
 
 9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Jamie Moore on [Gifted and Going for It: Dreams and Interpretation](https://youtu.be/sp258sIAJYE)
 
-**Wednesday, 12/229**
+**Wednesday, 12/29**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
