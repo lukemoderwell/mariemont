@@ -32,9 +32,9 @@ layout: page-no-hero
 
 **DECEMBER**
 
-**Sunday, 12/19**
+**Sunday, 12/26**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Denis Beausejour on [Gifted and Going for It:Prophetic Ministry Gifting](https://youtu.be/LhgNmw6fnVs)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Jamie Moore on [Gifted and Going for It: Dreams and Interpretation](https://youtu.be/sp258sIAJYE)
 
 **Wednesday, 12/22**
 
