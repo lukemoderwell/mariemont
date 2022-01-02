@@ -11,7 +11,7 @@ layout: page-no-hero
 
 ## Events and Announcements
 
-**MCC Updated COVID management plan as of 11-24-22:**
+**MCC Updated COVID management plan as of 11-24-21:**
 
 * Vaccines are proving safe and very effective in limiting severe consequences, but still allowing some infection and spread. Even minor symptoms may be COVID.
 * Rapid test kits are a great weapon to help you assess minor symptoms and to decide about attending gatherings or not.
@@ -30,15 +30,17 @@ layout: page-no-hero
 **9:00 and 11:00am** 
 **Gifted and Going for It** is our sermon series focusing Spiritual Gifts. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**DECEMBER**
+**JANUARY**
 
-**Sunday, 12/26**
+**Sunday, 1/2**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Jamie Moore on [Gifted and Going for It: Dreams and Interpretation](https://youtu.be/sp258sIAJYE)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Jamie Moore on [New Year Sunday: What is the Father Saying?](https://youtu.be/E6gzDjbyDhA)
 
-**Wednesday, 12/29**
+Here is the link to the Survey: 
 
-**7:00-8:00pm**  **There is NO Worship Night Tonight**
+**Wednesday, 1/5**
+
+**7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
