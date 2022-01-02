@@ -36,7 +36,7 @@ layout: page-no-hero
 
 9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Jamie Moore on [New Year Sunday: What is the Father Saying?](https://youtu.be/E6gzDjbyDhA)
 
-**MCC Discipleship Survey** 
+**MCC Discipleship Survey** -  
 Click to access the [Survey](https://www.surveymonkey.com/r/MCCSurvey2022).
 
 **Wednesday, 1/5**
