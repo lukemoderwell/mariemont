@@ -21,7 +21,7 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 For over 20 years, this study has been held on Tuesday mornings beginning *September 14, 2021* from 9:15-11:30am in the Emery Room of the Parish Center during the school year. It offers application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. 
 
-**Tuesday, Sept. 14** Fall studies begin.
+**Tuesday, Sept. 14** Fall studies began.
 
 Study Offerings Include:
 •*A Study of Exodus*
@@ -36,9 +36,9 @@ Childcare, if available, starts at 9:15 and goes until 11:15. Sign up is require
 
 ### Evening Joy
 
-**Monday, September 20, 2021** Fall study begins and continues to meet the 1st and 3rd Mondays through January from 7:00-8:30 p.m. in the Emery Room of the Parish Center during the school year.
+**Monday, January 3, 2022** Winter study begins and continues to meet the 1st and 3rd Mondays through January from 7:00-8:30 p.m. in the Emery Room of the Parish Center during the school year.
 
-The study fall semester will be:
+The winter semester will be:
 —*The Women of the Bible Speak: The Wisdom of 16 Women and their Lessons for Today*, by Shannon Bream
 
 Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
@@ -53,7 +53,18 @@ The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center
 
 Mariemont Church Women’s Retreat is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
 
-**Save the Date** for the 2022 Women’s Retreat, February 4-5, at the Jesuit Retreat Center. The speaker will be our own Liz Baker. Would love to have you join us next year!
+
+**Women's Retreat** 
+
+**February 4-5, 2022**
+
+Join us for our 2022 retreat, **Jesus is Better than...**, at the Jesuit Spiritual Retreat Center in Milford, Ohio. Our own Liz Baker will be speaking on the goodness and sufficiency of Christ from Hebrews Chapter 10.
+
+Registration: $80 ($30 per person will be defrayed from Women’s Ministry). Registration begins Jan. 1 and ends Jan. 23, 2022. Methods of Payment: Cash, check to MCC with Women’s Retreat on the memo line, or Venmo Paula Ayer.
+
+Registration forms are available at the connect desk. Please give BOTH registration form and $$ to Paula Ayer, leave it at the Connect Desk or mail it to MCC. Scholarships Available (upon request)
+
+**Contact: Paula Ayer ayerpaula@gmail.com**
 
 **Finding Shalom Amidst Chaos** was our 2021 retreat. Beth Guckenberger shared seven ancient Hebrew words that helped bring completeness and peace to our souls in this stormy time.
 
