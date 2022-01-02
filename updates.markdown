@@ -47,7 +47,15 @@ Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, i
 
 **FEBRUARY**
 
+**Friday & Saturday, 2/4-2/5**
 
+**Women's Retreat** Join us for our 2022 retreat **Jesus is Better than...** at the Jesuit Spiritual Retreat Center in Milford, Ohio. Liz Baker will be speaking on the goodness and sufficiency of Christ from Hebrews Chapter 10.
+
+Registration: $80 ($30 per person will be defrayed from Women’s Ministry). Registration begins Jan. 1 and ends Jan. 23, 2022. Methods of Payment: Cash, check to MCC with Women’s Retreat on the memo line, or Venmo Paula Ayer.
+
+Please give BOTH registration form and $$ to Paula Ayer, leave it at the Connect Desk or mail it to MCC. Scholarships Available (upon request)
+
+**Contact: Paula Ayer ayerpaula@gmail.com**
 
 **Here's what you may have missed...**
 
