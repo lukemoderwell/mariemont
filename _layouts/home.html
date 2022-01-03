@@ -43,6 +43,9 @@ layout: default
         <div class="home_buttonGroup">
           <!-- <a href="{{ current_sermon.brochure_file }}" class="btn btn--secondary">Latest Update</a> -->
           <a href="/about" class="btn btn--primary">Learn More</a>
+          {% if hero_cta_link != blank %}
+            <a style="margin-left: 20px" href="{{ page.hero_cta_link }}" target="_blank" class="btn btn--tertiary">{{ page.hero_cta_text }}</a>
+          {% endif %}
         </div>
       </div>
       <!-- <div style="text-align: center;>
