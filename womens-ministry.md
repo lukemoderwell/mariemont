@@ -43,7 +43,7 @@ The winter semester will be:
 
 Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
 
-Contact: Paula Ayer ayerpaula@gmail.com or Teresa Earhart at 513-543-5362 or [ttearhart@gmail.com](ttearhart@gmail.com).
+Contact: Paula Ayer ayerpaula@gmail.com or Teresa Earhart at [ttearhart@gmail.com](ttearhart@gmail.com).
 
 ### J.O.Y. Luncheon
 
