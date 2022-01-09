@@ -32,14 +32,14 @@ layout: page-no-hero
 
 **JANUARY**
 
-**Sunday, 1/2**
+**Sunday, 1/9**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Jamie Moore on [New Year Sunday: What is the Father Saying?](https://youtu.be/E6gzDjbyDhA)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Jamie Moore on [Gifted and Going for It: The Evangelistic Ministry](https://youtu.be/edJm6NzgDwk)
 
 **MCC Discipleship Survey** -  
 Click to access the [Survey](https://www.surveymonkey.com/r/MCCSurvey2022).
 
-**Wednesday, 1/5**
+**Wednesday, 1/12**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
