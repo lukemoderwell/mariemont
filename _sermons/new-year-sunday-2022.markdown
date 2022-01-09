@@ -1,5 +1,5 @@
 ---
-title: New Year Sunday 2022
+title: 'Gifted: New Year Sunday 2022'
 date: 2022-01-02 08:54:00 -05:00
 series: Gifted and Going for It
 week: 16
