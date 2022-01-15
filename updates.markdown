@@ -13,6 +13,7 @@ layout: page-no-hero
 
 ### **We will have in-person services Sunday, 1/16/22**
 
+
 **MCC Updated COVID management plan as of 11-24-21:**
 
 * Vaccines are proving safe and very effective in limiting severe consequences, but still allowing some infection and spread. Even minor symptoms may be COVID.
