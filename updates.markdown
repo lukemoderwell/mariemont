@@ -11,7 +11,7 @@ layout: page-no-hero
 
 ## Events and Announcements
 
-# **We will have in-person services Sunday, 1/16/22**
+## **We will have in-person services Sunday, 1/16/22**
 
 **MCC Updated COVID management plan as of 11-24-21:**
 
