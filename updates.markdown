@@ -71,6 +71,14 @@ Please give BOTH registration form and $$ to Paula Ayer, leave it at the Connect
 
 **MARCH**
 
+**Friday, Saturday, Sunday 3/4-3/6**
+
+**Gifted and Going for It Conference**
+
+"Equipping Spiritual Gifts" featuring author and pastor, Dr. Jack Deere. Conference will be 
+live at Mariemont Church and streamed online. Click [here](https://www.eventbrite.com/e/gifted-and-going-for-it-conference-tickets-244608790477) to register.
+
+
 **Here's what you may have missed...**
 
 Here is a 6-minute [transition update](https://youtu.be/gadUQC0MWII) from Denis and Jamie.
