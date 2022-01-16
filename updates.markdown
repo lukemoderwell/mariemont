@@ -65,6 +65,8 @@ Please give BOTH registration form and $$ to Paula Ayer, leave it at the Connect
 
 **Contact: Paula Ayer ayerpaula@gmail.com**
 
+**MARCH**
+
 **Here's what you may have missed...**
 
 Here is a 6-minute [transition update](https://youtu.be/gadUQC0MWII) from Denis and Jamie.
