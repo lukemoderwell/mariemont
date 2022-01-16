@@ -11,7 +11,7 @@ layout: page-no-hero
 
 ## Events and Announcements
 
-### **We will have in-person services 9:00 and 11:00 a.m. on Sunday, 1/16/22**
+### **We are having in-person worship services 9:00 and 11:00 a.m. today, Sunday, 1/16/22 Children's Ministry will be streamed online due to COVID**
 
 
 
@@ -36,14 +36,18 @@ layout: page-no-hero
 
 **JANUARY**
 
-**Sunday, 1/9**
+**Sunday, 1/16**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Jamie Moore on [Gifted and Going for It: The Evangelistic Ministry](https://youtu.be/edJm6NzgDwk)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon by Jamie Moore on [Gifted and Going for It: The Shepherding Ministry](https://youtu.be/x7zlf71CWG0)
 
-**MCC Discipleship Survey** -  
+**MCC Discipleship Survey** - Please participate in the survey this month!
 Click to access the [Survey](https://www.surveymonkey.com/r/MCCSurvey2022).
 
-**Wednesday, 1/12**
+**Tuesday, 1/20** 
+
+**1:30pm** Live worship online.
+
+**Wednesday, 1/19**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
