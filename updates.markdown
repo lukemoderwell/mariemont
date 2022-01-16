@@ -43,7 +43,7 @@ layout: page-no-hero
 **MCC Discipleship Survey** - Please participate in the survey this month!
 Click to access the [Survey](https://www.surveymonkey.com/r/MCCSurvey2022).
 
-**Tuesday, 1/20** 
+**Tuesday, 1/18** 
 
 **1:30pm** Live worship online.
 
@@ -52,6 +52,10 @@ Click to access the [Survey](https://www.surveymonkey.com/r/MCCSurvey2022).
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
+
+**Thursday, 1/20** 
+
+**1:30pm** Live worship online.
 
 **FEBRUARY**
 
