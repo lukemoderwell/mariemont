@@ -38,7 +38,7 @@ Upper Elem. (3rd-6th grade) - 3rd floor, Room 311
 
 **Pick-Up**:  Be sure to keep your parent badge for pick up after the service.
 
-***For the families that consider MCC their home, be ready to engage with our kids Sunday mornings! We need greeters, teachers, teaching assistants, nursery care along with outreach dreamers!  Our goal is 100% volunteer participation from each of our families!
+*******For the families that consider MCC their home, be ready to engage with our kids Sunday mornings! We need greeters, teachers, teaching assistants, nursery care along with outreach dreamers!  Our goal is 100% volunteer participation from each of our families!
 
 **Beyond Sundays**
 
