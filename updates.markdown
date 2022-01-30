@@ -32,28 +32,28 @@ layout: page-no-hero
 
 **JANUARY**
 
-**Sunday, 1/23**
+**Sunday, 1/30**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: The Teaching Ministry](https://youtu.be/IMqkQrWW-O8)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Testimonies and Sharing](https://youtu.be/G_k6EbsgTyo)
 
 **MCC Discipleship Survey** - Please participate in the survey this month!
 Click to access the [Survey](https://www.surveymonkey.com/r/MCCSurvey2022).
 
-**Tuesday, 1/25** 
+**FEBRUARY**
+
+**Tuesday, 2/1** 
 
 **1:30pm** Live worship online.
 
-**Wednesday, 1/26**
+**Wednesday, 2/2**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 1/27** 
+**Thursday, 1/3** 
 
 **1:30pm** Live worship online.
-
-**FEBRUARY**
 
 **Friday & Saturday, 2/4-2/5**
 
