@@ -62,14 +62,14 @@ Women’s Retreat Join us for our 2022 retreat Jesus is Better than… at the Ma
 
 For those registered for the retreat, check-in begins at 7:00 pm on Friday. The retreat runs from 9 am-4 pm on Saturday. If you have not registered for the retreat, we are live-streaming the event. You can access the live-stream feed from the MCC church website or with the following links.
 
-Session One Live Stream starts at 7:30 pm
-Youtube: https://youtu.be/O_DDbT_FwNM
+**Session One** Live Stream starts at 7:30 pm
+Youtube: [https://youtu.be/O_DDbT_FwNM](https://youtu.be/O_DDbT_FwNM)
 
-Sessions Two Live Stream starts at 9:30 am
-Youtube: https://youtu.be/tHBm9DEpVyQ
+**Sessions Two** Live Stream starts at 9:30 am
+Youtube: [https://youtu.be/tHBm9DEpVyQ](https://youtu.be/tHBm9DEpVyQ)
 
-Session Three Live Stream starts at 1:00 pm
-Youtube: https://youtu.be/glyBwy3QUTg
+**Session Three** Live Stream starts at 1:00 pm
+Youtube: [https://youtu.be/glyBwy3QUTg](https://youtu.be/glyBwy3QUTg)
 
 We look forward to seeing you!
 
