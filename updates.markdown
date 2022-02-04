@@ -11,6 +11,8 @@ layout: page-no-hero
 
 ## Events and Announcements
 
+### No Women's Retreat this weekend!! The Women's Retreat has been postponed until February 18-19! 
+
 **MCC Updated COVID management plan as of 11-24-21:**
 
 * Vaccines are proving safe and very effective in limiting severe consequences, but still allowing some infection and spread. Even minor symptoms may be COVID.
@@ -55,7 +57,8 @@ Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, i
 
 **1:30pm** Live worship online.
 
-**Friday & Saturday, 2/4-2/5**
+### DATE CHANGE!
+**Friday & Saturday, 2/18-2/19** ****
 
 Women’s Retreat Join us for our 2022 retreat Jesus is Better than… at the Mariemont Church Parish Center in Mariemont, Ohio, located at 3908 Plainville Road. Liz Baker will be speaking on the goodness and sufficiency of Christ from Hebrews Chapter 10.
 
