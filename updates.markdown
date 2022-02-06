@@ -11,7 +11,7 @@ layout: page-no-hero
 
 ## Events and Announcements
 
-### No Women's Retreat this weekend!! The Women's Retreat has been postponed until February 18-19! 
+### The Women's Retreat is still happening! It has been postponed until February 18-19! 
 
 **MCC Updated COVID management plan as of 11-24-21:**
 
@@ -32,28 +32,27 @@ layout: page-no-hero
 **9:00 and 11:00am** 
 **Gifted and Going for It** is our sermon series focusing Spiritual Gifts. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**JANUARY**
+**FEBRUARY**
 
-**Sunday, 1/30**
+**Sunday, 2/6**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Testimonies and Sharing](https://youtu.be/G_k6EbsgTyo)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Serving
+](https://youtu.be/zH0iv1F5IeI)
 
 **MCC Discipleship Survey** - Please participate in the survey this month!
 Click to access the [Survey](https://www.surveymonkey.com/r/MCCSurvey2022).
 
-**FEBRUARY**
-
-**Tuesday, 2/1** 
+**Tuesday, 2/8** 
 
 **1:30pm** Live worship online.
 
-**Wednesday, 2/2**
+**Wednesday, 2/9**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 1/3** 
+**Thursday, 1/10** 
 
 **1:30pm** Live worship online.
 
