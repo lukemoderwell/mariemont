@@ -56,7 +56,7 @@ Mariemont Church Women’s Retreat is to help women grow in their faith by focus
 
 **Women's Retreat** 
 
-**Friday & Saturday, 2/4-2/5**
+**Friday & Saturday, 2/18-2/19**
 
 Women’s Retreat Join us for our 2022 retreat Jesus is Better than… at the Mariemont Church Parish Center in Mariemont, Ohio, located at 3908 Plainville Road. Liz Baker will be speaking on the goodness and sufficiency of Christ from Hebrews Chapter 10.
 
