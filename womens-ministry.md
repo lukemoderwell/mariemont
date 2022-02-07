@@ -54,7 +54,7 @@ The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center
 Mariemont Church Women’s Retreat is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
 
 
-**Women's Retreat** 
+**Women's Retreat** **New Dates!**
 
 **Friday & Saturday, 2/18-2/19**
 
