@@ -83,6 +83,23 @@ If you have any questions, please contact Paula Ayer.
 "Equipping Spiritual Gifts" featuring author and pastor, Dr. Jack Deere. Conference will be 
 live at Mariemont Church and streamed online. Click [here](https://www.eventbrite.com/e/gifted-and-going-for-it-conference-tickets-244608790477) to register.
 
+**APRIL**
+
+Starting April 24 for 6 weeks, we will study Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
+Denis will share highlights from almost two decades of ministry in Mariemont.
+
+How did the Bible come to life in miracles of healing, prophecies, missions work, and individual transformation? But God!
+
+How did a self-centered global business executive become a pastor? But God!
+
+How did a little church in a little Village develop an amazing international ministry to tens of thousands? But God!
+
+How did we renovate two historical buildings requiring an impossible $5 million budget, when our budget was only $500K? But God!
+
+How did one congregation build wonderful relationships with others and help the regions’ churches to work together? But God!
+
+Denis will share highlights of our spiritual history and challenge us to become even more like Jesus.
+
 
 **Here's what you may have missed...**
 
