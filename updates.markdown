@@ -73,8 +73,9 @@ If you have any questions, please contact Paula Ayer.
 
 **Contact: Paula Ayer ayerpaula@gmail.com**
 
-**Wednesday 2/23** - Training and practice with Rusty Geverdt
-Come and be encouraged in the practicalities of life in the Spirit!
+**Wednesday 2/23**
+
+**7:00-8:00pm**  **Training Night Tonight** Training and practice with Rusty Geverdt. Come and be encouraged in the practicalities of life in the Spirit!
 
 **MARCH**
 
