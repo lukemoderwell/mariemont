@@ -48,12 +48,11 @@ layout: page-no-hero
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 1/117** 
+**Thursday, 2/17** 
 
 **1:30pm** Live worship online.
 
-### DATE CHANGE!
-**Friday & Saturday, 2/18-2/19** ****
+**Friday & Saturday, 2/18-2/19** **Date Change!**
 
 Women’s Retreat Join us for our 2022 retreat Jesus is Better than… at the Mariemont Church Parish Center in Mariemont, Ohio, located at 3908 Plainville Road. Liz Baker will be speaking on the goodness and sufficiency of Christ from Hebrews Chapter 10.
 
@@ -73,6 +72,9 @@ We look forward to seeing you!
 If you have any questions, please contact Paula Ayer.
 
 **Contact: Paula Ayer ayerpaula@gmail.com**
+
+**Wednesday 2/23** - Training and practice with Rusty Geverdt
+Come and be encouraged in the practicalities of life in the Spirit!
 
 **MARCH**
 
