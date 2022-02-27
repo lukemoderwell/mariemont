@@ -61,7 +61,18 @@ live at Mariemont Church and streamed online. Click [here](https://www.eventbrit
 
 **APRIL**
 
-Starting April 24 for 6 weeks, we will study Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
+**Sunday, 4/3** Gifted and Going for It Series Finale
+
+**Sunday, 4/10** Palm Sunday 
+
+**Sunday, 4/17** - Easter Sunday
+
+Chef Michael will prepare his famous smoked salmon bagels!
+
+**Sunday, 4/24 - 5/29** **But God!**
+
+New sermon series studying Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
+
 Denis will share highlights from almost two decades of ministry in Mariemont.
 
 How did the Bible come to life in miracles of healing, prophecies, missions work, and individual transformation? But God!
