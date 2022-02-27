@@ -32,29 +32,27 @@ layout: page-no-hero
 **9:00 and 11:00am** 
 **Gifted and Going for It** is our sermon series focusing Spiritual Gifts. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00am Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**FEBRUARY**
+**MARCH**
 
-**Sunday, 2/20**
+**Sunday, 2/27**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Giving](https://youtu.be/UDnFiyhOaJE)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Leadership ](https://youtu.be/I6MTo8cHd7Q)
 
-**Tuesday, 2/22** 
+**Tuesday, 3/1** 
 
 **1:30pm** Live worship online.
 
-**Wednesday, 2/23**
+**Wednesday, 3/2**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 1/24** 
+**Thursday, 3/3** 
 
 **1:30pm** Live worship online.
 
-**MARCH**
-
-**Friday, Saturday, Sunday 3/4-3/6**
+**Friday, Saturday, Sunday, 3/4-3/6**
 
 **Gifted and Going for It Conference**
 
