@@ -31,7 +31,9 @@ Some class offerings may vary from week to week.  If you are on the family updat
 Nursery (6-35 months) - Room 107 
 Preschool (3-5 year olds) - Room 105 
 Elementary (K-6th grade) - Room 103
-Second Service: 10:55-12:20 
+
+**Second Service: 10:55-12:20**
+
 Nursery (6-35 months) - Room 107 
 Kids Church (36 months - 6th grade) - Room 103 
 Upper Elem. (3rd-6th grade) - 3rd floor, Room 311
