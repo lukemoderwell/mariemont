@@ -34,7 +34,7 @@ layout: page-no-hero
 
 **MARCH**
 
-**Sunday, 3/5**
+**Sunday, 3/6**
 
 9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Jack Deere](https://youtu.be/gCuvrDtEzzs)
 
