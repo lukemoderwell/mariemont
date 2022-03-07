@@ -34,30 +34,23 @@ layout: page-no-hero
 
 **MARCH**
 
-**Sunday, 2/27**
+**Sunday, 3/5**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Leadership ](https://youtu.be/I6MTo8cHd7Q)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Jack Deere](https://youtu.be/gCuvrDtEzzs)
 
-**Tuesday, 3/1** 
+**Tuesday, 3/8** 
 
 **1:30pm** Live worship online.
 
-**Wednesday, 3/2**
+**Wednesday, 3/9**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 3/3** 
+**Thursday, 3/10** 
 
 **1:30pm** Live worship online.
-
-**Friday, Saturday, Sunday, 3/4-3/6**
-
-**Gifted and Going for It Conference**
-
-"Equipping Spiritual Gifts" featuring author and pastor, Dr. Jack Deere. Conference will be 
-live at Mariemont Church and streamed online. Click [here](https://www.eventbrite.com/e/gifted-and-going-for-it-conference-tickets-244608790477) to register.
 
 **APRIL**
 
