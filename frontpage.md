@@ -5,8 +5,8 @@ permalink: "/"
 position: 0
 hero_image: "/uploads/Gifted.png"
 hasHero: true
-hero_cta_link: https://www.surveymonkey.com/r/MCCSurvey2022
-hero_cta_text: Take Survey
+hero_cta_link: https://www.vanderbloemen.com/job/mariemont-community-church-next-generation-pastor
+hero_cta_text: Apply Here
 heading: Learning to live and love in the Presence of Jesus.
 layout: home
 ---
