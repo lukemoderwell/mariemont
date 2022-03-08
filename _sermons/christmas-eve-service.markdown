@@ -1,7 +1,6 @@
 ---
 title: Christmas Eve Service 2020
 date: 2020-12-24 08:17:00 -05:00
-published: false
 sermon_date: 2020-12-24 08:00:00 -05:00
 speaker: Denis Beausejour
 audio_file: https://mccsermonaudio.s3.us-east-2.amazonaws.com/Advent+2020+Promise+of+Hope/Christmas+Eve.mp3
