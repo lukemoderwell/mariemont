@@ -47,7 +47,7 @@ Contact: Paula Ayer ayerpaula@gmail.com or Teresa Earhart at [ttearhart@gmail.co
 
 ### J.O.Y. Luncheon
 
-The J.O.Y. (Just Older Youth) Luncheon is in the Emery Room of the Parish Center on the second Wednesday of each month. Women 50 and older are welcome! We meet from 11:00 – 1:00 for Bible study followed by lunch. If you are not on the reservation list and would like to attend, please email Terri Cofskey at terri@mariemontchurch.org. We always welcome those who haven’t made reservations, too!
+The J.O.Y. (Just Older Youth) Luncheon is not meeting at this time. We will post new times when the luncheon resumes.
 
 ### Women’s Retreat
 
