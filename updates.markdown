@@ -34,21 +34,22 @@ layout: page-no-hero
 
 **MARCH**
 
-**Sunday, 3/6**
+**Sunday, 3/13**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Jack Deere](https://youtu.be/gCuvrDtEzzs)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on Gifted[ and Going for It: Mercy
+](https://youtu.be/KwtVc43izus)
 
-**Tuesday, 3/8** 
+**Tuesday, 3/15** 
 
 **1:30pm** Live worship online.
 
-**Wednesday, 3/9**
+**Wednesday, 3/16**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 3/10** 
+**Thursday, 3/17** 
 
 **1:30pm** Live worship online.
 
