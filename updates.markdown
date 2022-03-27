@@ -34,22 +34,21 @@ layout: page-no-hero
 
 **MARCH**
 
-**Sunday, 3/20**
+**Sunday, 3/27**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Hospitality
-](https://youtu.be/9x4vV9obShg)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Sharing Sunday](https://youtu.be/zjgm5b73rDU)
 
-**Tuesday, 3/22** 
+**Tuesday, 3/29** 
 
 **1:30pm** Live worship online.
 
-**Wednesday, 3/23**
+**Wednesday, 3/30**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 3/24** 
+**Thursday, 3/31** 
 
 **1:30pm** Live worship online.
 
