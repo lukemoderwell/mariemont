@@ -11,22 +11,6 @@ layout: page-no-hero
 
 ## Events and Announcements
 
-### The Women's Retreat is still happening! It has been postponed until February 18-19! 
-
-**MCC Updated COVID management plan as of 11-24-21:**
-
-* Vaccines are proving safe and very effective in limiting severe consequences, but still allowing some infection and spread. Even minor symptoms may be COVID.
-* Rapid test kits are a great weapon to help you assess minor symptoms and to decide about attending gatherings or not.
-* Sanitize hands often. Keep a 6 ft. distance, especially indoors.
-* Use masks to add protection if you want it. (Masks optional and welcome at MCC)
-* Don’t come to worship if you have a fever or feel sick - even minor symptoms!
-* If you were exposed to someone who tested positive for COVID, use the rapid tests before attending any gathering. Quarantine if you get symptoms. Call your doctor.
-* If you have any questions about COVID, testing protocol, or vaccines, please check first with your primary care physician.
-* Let us know if you get COVID so we can pray and help you communicate as needed.
-* Please address any questions to Terri Cofskey at terri@mariemontchurch.org, and she will direct you to the appropriate staff.
-
-**~The MCC Elders**
-
 **Sunday Schedule**
 
 **9:00 and 11:00am** 
@@ -79,19 +63,6 @@ How did we renovate two historical buildings requiring an impossible $5 million 
 How did one congregation build wonderful relationships with others and help the regions’ churches to work together? But God!
 
 Denis will share highlights of our spiritual history and challenge us to become even more like Jesus.
-
-
-**Here's what you may have missed...**
-
-Here is a 6-minute [transition update](https://youtu.be/gadUQC0MWII) from Denis and Jamie.
-
-Here is the link for the [Created for Worship Declarations Handout](https://drive.google.com/file/d/1bCTQeDUK1bBI30rwqdyiVlecur89yNSl/view?usp=sharing)
-
-MCC has transitioned to a mask optional protocol. We will keep seating distanced and continue to encourage frequent hand sanitizing to maximize safety. We will update you promptly about added children’s ministry offerings, coffee, and Lite Bites as volunteers from these ministries return to active duty. We will continue streaming the 9 a.m. service for those not yet ready to return.
-
-The pandemic has been a major challenge. For those who could not worship in person for various reasons, I want you to know your leaders shared a deep compassion that we were separated. We look forward to a Spirit-filled reunion whenever you feel comfortable returning to worship in-person. We thank Jesus for preserving us and providing the vaccines.
-
-Books and resources for families: https://docs.google.com/document/d/1ZgwbhtpwwH7omxM8Q1f25BUxpZkl-pIMeEYEA09TMm4/edit                                                                                                                                                                      Michael Beausejour’s family action plan: https://docs.google.com/document/d/1XyAGQJGgtShA0uhYkkvGdILKPQDPdIz6OTjDcZ_8MxM/edit
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
