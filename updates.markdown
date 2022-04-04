@@ -38,11 +38,17 @@ Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, i
 
 **Sunday, 4/10** Palm Sunday 
 
-**Sunday, 4/17** - Easter Sunday
+**Sunday, 4/17**  Easter Sunday
 
 Chef Michael will prepare his famous smoked salmon bagels!
 
 **Sunday, 4/24 - 5/29** **But God!**
+
+**MAY**
+
+**Sunday, 5/1** **Flying Pig Sunday**
+
+There will be only one service at 11:00am.
 
 New sermon series studying Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
 
