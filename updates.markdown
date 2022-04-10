@@ -18,27 +18,24 @@ layout: page-no-hero
 
 **APRIL**
 
-**Sunday, 4/3 **
+**Sunday, 4/10 **
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's sermon on [Gifted and Going for It: Fan Your Gift into Flame](http://https://youtu.be/VIwH9_0f3a0)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's [Palm Sunday sermon](https://youtu.be/nQA3R5ndVJ4).
 
-**Tuesday, 4/5 ** 
-
+**Tuesday, 4/12 ** 
 **1:30pm** Live worship online.
 
-**Wednesday, 4/6**
+**Wednesday, 4/13**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 4/7** 
+**Thursday, 4/14** 
 
 **1:30pm** Live worship online.
 
-**Sunday, 4/10** Palm Sunday 
-
-**Sunday, 4/17**  Easter Sunday
+**Sunday, 4/17**  **Easter Sunday**
 
 Chef Michael will prepare his famous smoked salmon bagels!
 
