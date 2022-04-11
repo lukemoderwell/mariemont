@@ -22,6 +22,15 @@ layout: page-no-hero
 
 9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's [Palm Sunday sermon](https://youtu.be/nQA3R5ndVJ4).
 
+To help us enter deeply into the most amazing story in the history of the world, I encouraged us to adopt a specific Bible reading plan this week in preparation for Resurrection Sunday:
+
+Monday - Psalm 113, Matthew 26-28
+Tuesday - Psalm 114, Mark 14-16
+Wednesday - Psalm 115, Luke 22-24
+Thursday - Psalm 116, John 13-15
+Friday - Psalm 117, John 16-18
+Saturday - Psalm 118, John 19-21
+
 **Tuesday, 4/12 ** 
 **1:30pm** Live worship online.
 
