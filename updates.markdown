@@ -22,6 +22,8 @@ layout: page-no-hero
 
 9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's [Resurrection Sunday sermon](https://youtu.be/oXMES5wMSUk://)
 
+Join us for Lite Bites and Chef Michael's famous smoked salmon!
+
 **Tuesday, 4/19** 
 **1:30pm** Live worship online.
 
