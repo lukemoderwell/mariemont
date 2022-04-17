@@ -18,29 +18,20 @@ layout: page-no-hero
 
 **APRIL**
 
-**Sunday, 4/10 **
+**Sunday, 4/17 **
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's [Palm Sunday sermon](https://youtu.be/nQA3R5ndVJ4).
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's [Resurrection Sunday sermon](https://youtu.be/oXMES5wMSUk://)
 
-To help us enter deeply into the most amazing story in the history of the world, I encouraged us to adopt a specific Bible reading plan this week in preparation for Resurrection Sunday:
-
-Monday - Psalm 113, Matthew 26-28
-Tuesday - Psalm 114, Mark 14-16
-Wednesday - Psalm 115, Luke 22-24
-Thursday - Psalm 116, John 13-15
-Friday - Psalm 117, John 16-18
-Saturday - Psalm 118, John 19-21
-
-**Tuesday, 4/12 ** 
+**Tuesday, 4/19** 
 **1:30pm** Live worship online.
 
-**Wednesday, 4/13**
+**Wednesday, 4/20**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 4/14** 
+**Thursday, 4/21** 
 
 **1:30pm** Live worship online.
 
