@@ -35,9 +35,6 @@ Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, i
 
 **1:30pm** Live worship online.
 
-**Sunday, 4/17**  **Easter Sunday**
-
-Chef Michael will prepare his famous smoked salmon bagels!
 
 **Sunday, 4/24 - 5/29** **But God!**
 
