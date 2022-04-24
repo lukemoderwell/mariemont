@@ -24,6 +24,8 @@ layout: page-no-hero
 
 Join us for Lite Bites brought to you by the fourth through sixth grade class.
 
+The family shop will be open for you to browse during Lite Bites.
+
 **Tuesday, 4/26** 
 **1:30pm** Live worship online.
 
