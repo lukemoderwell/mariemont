@@ -44,7 +44,9 @@ Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, i
 
 There will be only one service at 11:00am. 
 
-New sermon series studying Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
+Denis' Final Sermon Series Begins 4/24.
+
+The series studies Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
 
 Denis will share highlights from almost two decades of ministry in Mariemont.
 
