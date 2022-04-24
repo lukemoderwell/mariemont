@@ -18,33 +18,31 @@ layout: page-no-hero
 
 **APRIL**
 
-**Sunday, 4/17 **
+**Sunday, 4/24 **
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's [Resurrection Sunday sermon](https://youtu.be/oXMES5wMSUk://)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: What a God!](https://youtu.be/xGXqDOaVgig)
 
-Join us for Lite Bites and Chef Michael's famous smoked salmon!
+Join us for Lite Bites brought to you by the fourth through sixth grade class.
 
-**Tuesday, 4/19** 
+**Tuesday, 4/26** 
 **1:30pm** Live worship online.
 
-**Wednesday, 4/20**
+**Wednesday, 4/27**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 4/21** 
+**Thursday, 4/28** 
 
 **1:30pm** Live worship online.
 
-
-**Sunday, 4/24 - 5/29** **But God!**
 
 **MAY**
 
 **Sunday, 5/1** **Flying Pig Sunday**
 
-There will be only one service at 11:00am.
+There will be only one service at 11:00am. 
 
 New sermon series studying Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
 
