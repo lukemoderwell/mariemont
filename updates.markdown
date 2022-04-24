@@ -39,12 +39,32 @@ Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, i
 
 **1:30pm** Live worship online.
 
+**Saturday, 4/30**
+
+**9:00 -11:00am** Men's Meeting with Denis at MCC
+
 
 **MAY**
 
 **Sunday, 5/1** **Flying Pig Sunday**
 
-There will be only one service at 11:00am. 
+There will be only one service at 11:00am.
+
+**Sunday, 5/8**
+
+Mother's Day
+
+
+**Saturday, 5/7**
+
+**9:00 -11:00am** Women's Meeting with Marianne at MCC
+
+**Saturday, 5/14**
+
+**9:00 -11:00am** Family Meeting with Marianne and Denis at MCC
+
+
+
 
 Denis' Final Sermon Series Begins 4/24.
 
