@@ -14,59 +14,9 @@ layout: page-no-hero
 **Sunday Schedule**
 
 **9:00 and 11:00am** 
-**Gifted and Going for It** is our sermon series focusing Spiritual Gifts. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
+**But God** is our sermon series focusing on Paul’s last letters to his proteges Timothy and Titus. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**APRIL**
-
-**Sunday, 4/24 **
-
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: What a God!](https://youtu.be/xGXqDOaVgig)
-
-Join us for Lite Bites brought to you by the fourth through sixth grade class.
-
-The family shop will be open for you to browse during Lite Bites until 11:30am.
-
-**Tuesday, 4/26** 
-**1:30pm** Live worship online.
-
-**Wednesday, 4/27**
-
-**7:00-8:00pm**  **Worship Night Tonight**
-
-Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
-
-**Thursday, 4/28** 
-
-**1:30pm** Live worship online.
-
-**Saturday, 4/30**
-
-**9:00 -11:00am** Men's Meeting with Denis at MCC
-
-
-**MAY**
-
-**Sunday, 5/1** **Flying Pig Sunday**
-
-There will be only one service at 11:00am.
-
-**Sunday, 5/8**
-
-Mother's Day
-
-
-**Saturday, 5/7**
-
-**9:00 -11:00am** Women's Meeting with Marianne at MCC
-
-**Saturday, 5/14**
-
-**9:00 -11:00am** Family Meeting with Marianne and Denis at MCC
-
-
-
-
-Denis' Final Sermon Series Begins 4/24.
+Denis' Final Sermon Series 
 
 The series studies Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
 
@@ -83,6 +33,43 @@ How did we renovate two historical buildings requiring an impossible $5 million 
 How did one congregation build wonderful relationships with others and help the regions’ churches to work together? But God!
 
 Denis will share highlights of our spiritual history and challenge us to become even more like Jesus.
+
+**May**
+
+**Sunday, 5/1 ** **Flying Pig Sunday**
+
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: The Kingdom Gospel](https://youtu.be/PAvf0IIc9bk)
+
+Join us for Lite Bites brought to you by 
+
+**Tuesday, 5/3**
+
+**1:30pm** Live worship online.
+
+**Wednesday, 5/4**
+
+**7:00-8:00pm**  **Worship Night Tonight**
+
+Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
+
+**Thursday, 5/4** 
+
+**1:30pm** Live worship online.
+
+**Saturday, 5/7**
+
+**9:00 -11:00am** Women's Meeting with Marianne at MCC in the Emory Room
+
+**Sunday, 5/8**
+
+Mother's Day
+
+
+**Saturday, 5/14**
+
+**9:00 -11:00am** Family Meeting with Marianne and Denis at MCC
+
+
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
