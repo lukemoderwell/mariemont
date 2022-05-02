@@ -16,7 +16,7 @@ layout: page-no-hero
 **9:00 and 11:00am** 
 **But God** is our sermon series focusing on Paul’s last letters to his proteges Timothy and Titus. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-Denis' Final Sermon Series 
+**Denis' Final Sermon Series **
 
 The series studies Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
 
