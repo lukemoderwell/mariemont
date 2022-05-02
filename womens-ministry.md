@@ -36,7 +36,7 @@ Childcare, if available, starts at 9:15 and goes until 11:15. Sign up is require
 
 ### Evening Joy
 
-**Monday, January 3, 2022** Winter study begins and continues to meet the 1st and 3rd Mondays through January from 7:00-8:30 p.m. in the Emery Room of the Parish Center during the school year.
+**Monday, January 3, 2022** Winter study begins and continues to meet the 1st and 3rd Mondays through May from 7:00-8:30 p.m. in the Emery Room of the Parish Center during the school year.
 
 The winter semester will be:
 —*The Women of the Bible Speak: The Wisdom of 16 Women and their Lessons for Today*, by Shannon Bream
