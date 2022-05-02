@@ -38,9 +38,11 @@ Denis will share highlights of our spiritual history and challenge us to become 
 
 **Sunday, 5/1 ** **Flying Pig Sunday**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: The Kingdom Gospel](https://youtu.be/PAvf0IIc9bk)
+The church has left the building! Join us! We are at the six points intersection of Plainville and Murray Ave. We have the official Flying Pig Bacon Station, live music, a prayer and healing tent, and kid's activities with a bounce house, face painting, and "Pin the Nose on the Pig." Denis will bring a brief message at 10:45 a.m. 
 
-Join us for Lite Bites brought to you by 
+For those of you who missed the live stream on Friday afternoon, the sermon can be accessed at the link below or subscribe to our YouTube channel. 
+
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: The Kingdom Gospel](https://youtu.be/PAvf0IIc9bk)
 
 **Tuesday, 5/3**
 
