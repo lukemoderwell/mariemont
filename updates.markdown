@@ -40,9 +40,12 @@ Denis will share highlights of our spiritual history and challenge us to become 
 
 The church has left the building! Join us! We are at the six points intersection of Plainville and Murray Ave. We have the official Flying Pig Bacon Station, live music, a prayer and healing tent, and kid's activities with a bounce house, face painting, and "Pin the Nose on the Pig." Denis will bring a brief message at 10:45 a.m. 
 
-For those of you who missed the live stream on Friday afternoon, the sermon can be accessed at the link below or subscribe to our YouTube channel. 
+For those of you who missed the live stream on Friday afternoon, the sermon can be accessed at the link below or subscribe to our YouTube channel.
 
 9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: The Kingdom Gospel](https://youtu.be/PAvf0IIc9bk)
+
+Click here for our YouTube Channel to watch any videos you may have missed:
+[https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
 **Tuesday, 5/3**
 
@@ -71,10 +74,6 @@ Mother's Day
 
 **9:00 -11:00am** Family Meeting with Marianne and Denis at MCC
 
-
-
-Click here for our YouTube Channel to watch any videos you may have missed:
-[https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
