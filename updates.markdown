@@ -36,43 +36,30 @@ Denis will share highlights of our spiritual history and challenge us to become 
 
 **May**
 
-**Sunday, 5/1 ** **Flying Pig Sunday**
+**Sunday, 5/8 ** **Happy Mother's Day!**
 
-The church has left the building! Join us! We are at the six points intersection of Plainville and Murray Ave. We have the official Flying Pig Bacon Station, live music, a prayer and healing tent, and kid's activities with a bounce house, face painting, and "Pin the Nose on the Pig." Denis will bring a brief message at 10:45 a.m. 
-
-For those of you who missed the live stream on Friday afternoon, the sermon can be accessed at the link below or subscribe to our YouTube channel.
-
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: The Kingdom Gospel](https://youtu.be/PAvf0IIc9bk)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: Word and Spirit](https://youtu.be/xuBUtJXXDPk)
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 5/3**
+**Tuesday, 5/10**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 5/4**
+**Wednesday, 5/11**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 5/4** 
+**Thursday, 5/12** 
 
 **1:30pm** Live worship online.
 
-**Saturday, 5/7**
-
-**9:00 -11:00am** Women's Meeting with Marianne at MCC in the Emory Room
-
-**Sunday, 5/8**
-
-Mother's Day
-
-
 **Saturday, 5/14**
 
-**9:00 -11:00am** Family Meeting with Marianne and Denis at MCC
+**9:00 -11:00am** Family Meeting with Denis and Marianne at MCC in the Emery Room
 
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
