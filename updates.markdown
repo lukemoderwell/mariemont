@@ -61,6 +61,19 @@ Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, i
 
 **9:00 -11:00am** Family Meeting with Denis and Marianne at MCC in the Emery Room
 
+**Sunday, 5/15** 
+
+**10:15-11:30am** Family Shop Special Sale - Please come downstairs and check out the Family Shop!
+
+**Sunday, 5/22** 
+
+**6:30-8:30pm** Worship and Prayer at New Life Temple
+
+**Saturday, 6/4**
+
+**5:00pm** **Beausejour Retirement Party**
+We will celebrate Denis and Marianne's faithful service to the Kingdom of God and our MCC family on Saturday evening at MCC. 
+
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
