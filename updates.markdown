@@ -36,34 +36,29 @@ Denis will share highlights of our spiritual history and challenge us to become 
 
 **May**
 
-**Sunday, 5/8 ** **Happy Mother's Day!**
+**Sunday, 5/15 **
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: Word and Spirit](https://youtu.be/xuBUtJXXDPk)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: But God: [Family of God](https://youtu.be/xM0_Rl6cMYs)
+
+**10:15-11:30am** Family Shop Special Sale - Please come downstairs and check out the Family Shop!
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 5/10**
+**Tuesday, 5/17**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 5/11**
+**Wednesday, 5/18**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 5/12** 
+**Thursday, 5/19** 
 
 **1:30pm** Live worship online.
 
-**Saturday, 5/14**
-
-**9:00 -11:00am** Family Meeting with Denis and Marianne at MCC in the Emery Room
-
-**Sunday, 5/15** 
-
-**10:15-11:30am** Family Shop Special Sale - Please come downstairs and check out the Family Shop!
 
 **Sunday, 5/22** 
 
