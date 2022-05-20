@@ -27,8 +27,6 @@ The main point we draw from this is that there is no junior Holy Spirit. The Fat
 
 **Coming to Our Meetings?**
 
-**Sunday, October 31** We are cheering for the Flying Pig at 8:30 a.m. and then attending the 11:00 a.m. service. There will be NO group meeting after the service.
-
 We meet on Sunday mornings immediately after the 11:00 service from 12:30 p.m. - 2:00 p.m. on the second floor of the Parish Center. A typical meeting consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
  
 We have students from the tristate area who attend public, private, and home-schools. We also have some wonderful adult leaders who love Jesus, love students, and have a desire to see students walk more deeply and intentionally with Jesus.
