@@ -16,6 +16,9 @@ lead_in: Mariemont church is committed to building the lives of teenagers in Cin
 layout: page
 ---
 
+**## Take Note**
+**This Sunday Acts 29 Student Ministry (7-12th) will meet in the lobby of the church after second service to go have lunch at 50 West. Students should bring $10.00 each to cover their lunch. We will be back at the church by Approximately 2:10**
+
 ### What We Believe About Students
 
 Did you know that the first youth pastor in the Christian church may have been Jesus. What a lot of people don’t know about Jesus’ original 12 disciples, is that it’s quite possible 11 of the 12 of them were teenagers, or at least younger than 20 based on the absence of paying the temple tax mentioned in Matthew 17. The fact that they were following a Rabbi and Jesus’ reference to them as “little ones” or little children” in Matthew 11, Luke 10, and John 13 support that they were youth.
