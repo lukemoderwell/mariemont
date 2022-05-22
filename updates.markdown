@@ -36,33 +36,30 @@ Denis will share highlights of our spiritual history and challenge us to become 
 
 **May**
 
-**Sunday, 5/15 **
+**Sunday, 5/22 **
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: But God: [Family of God](https://youtu.be/xM0_Rl6cMYs)
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: Living on Mission ](https://youtu.be/RagveZUQO-E)
 
-**10:15-11:30am** Family Shop Special Sale - Please come downstairs and check out the Family Shop!
+**6:30-8:30pm** Worship and Prayer at New Life Temple
+
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 5/17**
+**Tuesday, 5/24**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 5/18**
+**Wednesday, 5/25**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
 Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 5/19** 
+**Thursday, 5/26** 
 
 **1:30pm** Live worship online.
 
-
-**Sunday, 5/22** 
-
-**6:30-8:30pm** Worship and Prayer at New Life Temple
 
 **Saturday, 6/4**
 
