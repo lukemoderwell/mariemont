@@ -19,7 +19,7 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 ### Joy In The Morning
 
-For over 20 years, this study has been held on Tuesday mornings beginning *September 14, 2021* from 9:15-11:30am in the Emery Room of the Parish Center during the school year. It offers application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. 
+For over 20 years, this study has been held on Tuesday mornings. It begins *September 13, 2022* from 9:15-11:30am in the Emery Room of the Parish Center during the school year. It offers application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. 
 
 **Tuesday, Sept. 14** Fall studies began.
 
