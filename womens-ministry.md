@@ -19,9 +19,12 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 ### Joy In The Morning
 
-For over 20 years, this study has been held on Tuesday mornings. It begins *September 13, 2022* from 9:15-11:30am in the Emery Room of the Parish Center during the school year. It offers application-oriented Bible Study for women. Fellowship time builds relationships and trust among the broad range of women who attend. 
+For over 20 years, this study has been held on Tuesday mornings. 
 
-**Tuesday, Sept. 14** Fall studies began.
+**Monday, Sept. 12, 2022** Hi Ladies of MCC...Please save the date for our Fall Women's Potluck, Sept. 12, 2022, from 6:30-8:30 pm. Our own Sheila Rutkowski Luther will be our speaker, from Tapestry of Love Ministry. All women are welcome!! It is a great event to meet others and get to know others better.  Stay tuned for more details.
+
+
+**Tuesday, Sept. 13** Fall studies began.
 
 Study Offerings Include:
 •*A Study of Exodus*
