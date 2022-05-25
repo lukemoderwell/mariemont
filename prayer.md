@@ -21,7 +21,7 @@ Every Wednesday night anyone interested in praying together meets 7:00-8:00pm in
 
 **Prayer Chain**
 
-When someone has a need for prayer we would love to be involved.  We have many people who will lift you, your family, and your concerns to the Lord.  We appreciate updates and hearing of answered prayers so that we can give praises to the Lord for His grace.  It also builds our faith to hear all the ways the Lord is working through our prayer.
+When someone has a need for prayer we would love to be involved.  We have many people who will lift you, your family, and any concerns to the Lord.  We appreciate updates and hearing of answered prayers so that we can give praises to the Lord for His grace.  It also builds our faith to hear all the ways the Lord is working through our prayer.
 
 Please direct your email to Amy Taylor at theamytaylor@gmail.com, and she will alert the team.  If you would prefer to call, please call Terri Cofskey at the church and leave a message, if she is not available.  Terri's number is (513) 271-4376 ext.104.
 
