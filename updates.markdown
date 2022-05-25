@@ -65,11 +65,22 @@ Prayer and Worship night format @ 7:00 p.m., featuring worship, prayer, interces
 
 **1:30pm** Live worship online.
 
+**Sunday, 5/29**  BUT GOD! Week Six - Enjoying God - 9 & 11 am. Memorial Day weekend - we will give thanks for those who gave their lives for our freedom.
 
 **Saturday, 6/4**
 
 **5:00pm** **Beausejour Retirement Party**
-We will celebrate Denis and Marianne's faithful service to the Kingdom of God and our MCC family on Saturday evening at MCC. 
+We will celebrate Denis and Marianne's faithful service to the Kingdom of God and our MCC family on Saturday evening at MCC.
+
+**Sunday, 6/5** **Gifted and Going for It** - 9 & 11 am: We will focus on our four priorities in June - on Pentecost Sunday, we will focus on being a church where everyone shares their gifts in the power of the Spirit.
+
+**Sunday, 6/12**  **Show Us Who You Are** - 9 & 11 am: We will focus on pursuing our great triune God in worship - and we will celebrate communion.
+
+**Sunday, 6/19**  **Father's Day** - 9 & 11 am: Jamie and Denis will have a transition Q&A with the congregation. We will also bless our dads. 
+
+**Sunday, 6/26** **Congregation Meeting at 10 AM** - We will have two abbreviated worship services (9-9:55 and 11-11:55) so we can have our annual congregation business meeting between 10-10:30 and Lite Bites fellowship between 10:30-11. We will vote on new elders and the new constitution being recommended by the Elder Council. 
+
+**Sunday, 7/3**  **Identity Series Kick-Off** - Jamie will start a new summer and fall series focused on knowing and relying on the Identity provided by our Creator and Redeemer God.
 
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
