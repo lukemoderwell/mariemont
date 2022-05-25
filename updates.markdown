@@ -54,7 +54,12 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
-Prayer and Worship night format weekly @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
+Tonight - Prayer and Worship Gathering at 7pm
+Join us for worship, prayer, and ministry time. Kids welcome!
+
+**Note:** Mid-week **summer worship** will be on the first Wednesday of every month only - **June 1, July 6, and August 3.**
+
+Prayer and Worship night format @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
 **Thursday, 5/26** 
 
