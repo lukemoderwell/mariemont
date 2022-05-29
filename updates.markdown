@@ -20,7 +20,7 @@ layout: page-no-hero
 
 The series studies Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
 
-Denis will share highlights from almost two decades of ministry in Mariemont.
+Denis shares highlights from almost two decades of ministry in Mariemont.
 
 How did the Bible come to life in miracles of healing, prophecies, missions work, and individual transformation? But God!
 
@@ -36,21 +36,18 @@ Denis will share highlights of our spiritual history and challenge us to become 
 
 **May**
 
-**Sunday, 5/22 **
+**Sunday, 5/29** **BUT GOD! Week Six - Memorial Day Weekend**
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: Living on Mission ](https://youtu.be/RagveZUQO-E)
-
-**6:30-8:30pm** Worship and Prayer at New Life Temple
-
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: Enjoying God](https://youtu.be/gUhRFCoLJcE)  -  -   Memorial Day Weekend Remembrance - We will give thanks for those who gave their lives for our freedom.
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 5/24**
+**Tuesday, 5/31**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 5/25**
+**Wednesday, 6/1**
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
@@ -61,11 +58,9 @@ Join us for worship, prayer, and ministry time. Kids welcome!
 
 Prayer and Worship night format @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
-**Thursday, 5/26** 
+**Thursday, 6/2** 
 
 **1:30pm** Live worship online.
-
-**Sunday, 5/29**  BUT GOD! Week Six - Enjoying God - 9 & 11 am. Memorial Day weekend - we will give thanks for those who gave their lives for our freedom.
 
 **Saturday, 6/4**
 
