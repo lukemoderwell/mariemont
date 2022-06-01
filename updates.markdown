@@ -16,27 +16,10 @@ layout: page-no-hero
 **9:00 and 11:00am** 
 **But God** is our sermon series focusing on Paul’s last letters to his proteges Timothy and Titus. Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**Denis' Final Sermon Series **
-
-The series studies Paul’s last letters to his proteges Timothy and Titus, filled with wisdom for life today.
-
-Denis shares highlights from almost two decades of ministry in Mariemont.
-
-How did the Bible come to life in miracles of healing, prophecies, missions work, and individual transformation? But God!
-
-How did a self-centered global business executive become a pastor? But God!
-
-How did a little church in a little Village develop an amazing international ministry to tens of thousands? But God!
-
-How did we renovate two historical buildings requiring an impossible $5 million budget, when our budget was only $500K? But God!
-
-How did one congregation build wonderful relationships with others and help the regions’ churches to work together? But God!
-
-Denis will share highlights of our spiritual history and challenge us to become even more like Jesus.
 
 **May**
 
-**Sunday, 5/29** **BUT GOD! Week Six - Memorial Day Weekend**
+**Sunday, 5/29** 
 
 9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: Enjoying God](https://youtu.be/gUhRFCoLJcE)  -  -   Memorial Day Weekend Remembrance - We will give thanks for those who gave their lives for our freedom.
 
@@ -51,10 +34,10 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **7:00-8:00pm**  **Worship Night Tonight**
 
-Tonight - Prayer and Worship Gathering at 7pm
-Join us for worship, prayer, and ministry time. Kids welcome!
+**Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month - **June 1, July 6, and August 3**.
 
-**Note:** Mid-week **summer worship** will be on the first Wednesday of every month only - **June 1, July 6, and August 3.**
+Prayer and Worship Gathering at 7pm
+Join us for worship, prayer, and ministry time. Kids welcome!
 
 Prayer and Worship night format @ 7:00 p.m., featuring worship, prayer, intercession, communion, prophetic prayer, healing prayer, testimonies, and opportunities to pray for one another in Body ministry. We will focus the flow of every week’s meeting as the Spirit leads and moves - this will be the Lord’s time to dwell with us and do what He wants!
 
