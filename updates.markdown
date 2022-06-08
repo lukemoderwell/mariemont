@@ -32,7 +32,7 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **Wednesday, 6/8** NO WORSHIP AT MCC TONIGHT
 
-**Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month - **June 1, July 6, and August 3**.
+**Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month - **July 6, and August 3**.
 
 **Thursday, 6/9** 
 
@@ -45,6 +45,9 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 **Sunday, 6/26** **Congregation Meeting at 10 AM** - We will have two abbreviated worship services (9-9:55 and 11-11:55) so we can have our annual congregation business meeting between 10-10:30 and Lite Bites fellowship between 10:30-11. We will vote on new elders and the new constitution being recommended by the Elder Council. 
 
 **Sunday, 7/3**  **Identity Series Kick-Off** - Jamie will start a new summer and fall series focused on knowing and relying on the Identity provided by our Creator and Redeemer God.
+
+**Wednesday, July 6**  Prayer and Worship Gathering at 7pm.
+Join us for worship, prayer, and ministry time. Kids welcome!
 
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
