@@ -19,26 +19,24 @@ layout: page-no-hero
 
 **May**
 
-**Sunday, 6/5** 
+**Sunday, 6/12** 
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [But God: Gifted and Going for It: Pentecost.] **Gifted and Going for It** - 9 & 11 am: We will focus on our four priorities in June - on Pentecost Sunday, we will focus on being a church where everyone shares their gifts in the power of the Spirit.
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Show Us Who You Are **Gifted and Going for It**](https://youtu.be/iXT6WvRRNCQ) - 9 & 11 am: We will focus on our four priorities in June. We will focus on pursuing our great triune God in worship - and we will celebrate communion.
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 6/7**
+**Tuesday, 6/14**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 6/8** NO WORSHIP AT MCC TONIGHT
+**Wednesday, 6/15** NO WORSHIP AT MCC TONIGHT
 
 **Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month - **July 6, and August 3**.
 
-**Thursday, 6/9** 
+**Thursday, 6/16** 
 
 **1:30pm** Live worship online.
-
-**Sunday, 6/12**  **Show Us Who You Are** - 9 & 11 am: We will focus on pursuing our great triune God in worship - and we will celebrate communion.
 
 **Sunday, 6/19**  **Father's Day** - 9 & 11 am: Jamie and Denis will have a transition Q&A with the congregation. We will also bless our dads. 
 
