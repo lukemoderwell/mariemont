@@ -19,7 +19,7 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 | Northern Kentucky               | Mondays, 6:30PM    | [The Treases](mailto:aaronrgrs7@gmail.com)     |
 | Madison Place                   | Mondays, 6:30PM     | [The Belangers](mailto:chefbelanger@hotmail.com) |
 | College & Career (Madisonville)| Mondays, 7:00PM    | [The Georges](mailto:georgem3@mail.uc.edu)     |
-| Joy In The Evening (MCC)     |1&3 Mondays, 7:00PM    | [Teresa Earhart](mailto:ttearhart@gmail.com) [Paula Ayer](mailto:ayerpaula@gmail.com) |
+| Joy In The Evening (MCC)     |1&3 Mondays, 7:00PM    | [Teresa Earhart](mailto:ttearhart@gmail.com)/ [Paula Ayer](mailto:ayerpaula@gmail.com) |
 | Joy In The Morning (MCC)     |Tuesdays, 9:00AM   | [Barb Leonard](mailto:tfleo@cinci.rr.com)  |
 | Loveland                | Tuesdays, 6:30PM    | [The Haynes](mailto:haynes.joel@gmail.com)     |
 | Indian Hill              | Tuesdays, 7:00PM    | [The Cambrons](mailto:mikecambron43@gmail.com)    |
