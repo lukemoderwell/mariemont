@@ -21,7 +21,7 @@ layout: page-no-hero
 
 **Sunday, 6/12** 
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Show Us Who You Are **Gifted and Going for It**](https://youtu.be/iXT6WvRRNCQ) - 9 & 11 am: We will focus on our four priorities in June. We will focus on pursuing our great triune God in worship - and we will celebrate communion.
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Show Us Who You Are **Gifted and Going for It**](https://youtu.be/iXT6WvRRNCQ) - We will focus on our four priorities in June. We will focus on pursuing our great triune God in worship - and we will celebrate communion.
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
