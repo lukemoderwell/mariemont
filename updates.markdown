@@ -30,7 +30,7 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **1:30pm** Live worship online.
 
-**Wednesday, 6/15** NO WORSHIP AT MCC TONIGHT
+**Wednesday, 6/15**  NO WORSHIP AT MCC TONIGHT
 
 **Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month - **July 6, and August 3**.
 
