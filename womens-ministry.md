@@ -17,11 +17,13 @@ The vision of the Mariemont Church Women’s Ministry is to encourage women of a
 
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
-**Monday, Sept. 12, 2022** Hi Ladies of MCC...Please save the date for our Fall Women's Potluck, Sept. 12, 2022, from 6:30-8:30 pm. Our own Sheila Rutkowski Luther will be our speaker, from Tapestry of Love Ministry. All women are welcome!! It is a great event to meet others and get to know others better.  Stay tuned for more details.
+**Monday, Sept. 12, 2022**
+
+Hi Ladies of MCC...Please save the date for our Fall Women's Potluck, Sept. 12, 2022, from 6:30-8:30 pm. Our own Sheila Rutkowski Luther will be our speaker, from Tapestry of Love Ministry. All women are welcome!! It is a great event to meet others and get to know others better.  Stay tuned for more details.
 
 ### Joy In The Morning
 
-For over 20 years, this study has been held on Tuesday mornings.
+For over 20 years, this study has been held on Tuesday mornings 9:15-11:30am.
 
 **Tuesday, Sept. 13** Fall studies began.
 
