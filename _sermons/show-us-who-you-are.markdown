@@ -1,5 +1,5 @@
 ---
-title: Show Us Who You Are
+title: 'Renewing Our Priorities: Show Us Who You Are'
 date: 2022-06-12 08:54:00 -04:00
 series: Four Pillars of MCC
 week: 2
