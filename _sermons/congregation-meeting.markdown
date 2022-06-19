@@ -1,5 +1,5 @@
 ---
-title: Congregation Meeting
+title: Congregation Meeting 2019
 date: 2019-06-18 21:21:00 -04:00
 position: 59
 series: Congregation Meeting
