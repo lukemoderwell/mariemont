@@ -1,5 +1,5 @@
 ---
-title: 'Renewing Our Priorities: Week 3'
+title: 'Renewing Our Priorities: Q&A with Denis and Jamie'
 date: 2022-06-19 09:00:00 -04:00
 series: Renewing Our Priorities
 week: 3
