@@ -16,6 +16,13 @@ lead_in: Mariemont church is committed to building the lives of teenagers in Cin
 layout: page
 ---
 
+**Please Read!** 
+
+Acts 29 will **NOT** be meeting at 12:30 on Sundays in the months of June and July, however Raz will be contacting families about some fun outings, and some discipleship opportunities.
+
+Also keep an eye out for our yearly Acts 29 kick off pool party in August. Date TBD.
+
+
 ### What We Believe About Students
 
 Did you know that the first youth pastor in the Christian church may have been Jesus. What a lot of people don’t know about Jesus’ original 12 disciples, is that it’s quite possible 11 of the 12 of them were teenagers, or at least younger than 20 based on the absence of paying the temple tax mentioned in Matthew 17. The fact that they were following a Rabbi and Jesus’ reference to them as “little ones” or little children” in Matthew 11, Luke 10, and John 13 support that they were youth.
