@@ -1,5 +1,5 @@
 ---
-title: Sharing/Testimony Sunday
+title: 'Building Strong Families: Sharing/Testimony Sunday'
 date: 2019-04-19 15:45:00 -04:00
 position: 52
 series: Building Strong Families
