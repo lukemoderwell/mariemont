@@ -46,10 +46,8 @@ Pick-Up:  Be sure to keep your parent badge for pick up after the service.
 ***For the families that consider MCC their home, be ready to engage with our kids Sunday mornings! We need greeters, teachers, teaching assistants, nursery care along with outreach dreamers!  Our goal is 100% volunteer participation from each of our families!
 
 **Beyond Sundays** 
-Here at Mariemont Church, we deeply value community.  In order for our families to experience deeper relationships between parents, church members and our children, we create space for engagement outside of Sunday mornings.  
-**June **
-18 - Pickle Ball Night Out (Cincinnati Country Club)
--for parents and volunteers involved in Kingdom Kids!  
+Here at Mariemont Church, we deeply value community.  In order for our families to experience deeper relationships between parents, church members and our children, we create space for engagement outside of Sunday mornings.
+ 
 
 **July **
 04 - Pre-fireworks Meet-up for popsicles and popcorn!
@@ -58,6 +56,7 @@ TBD - Family Picnic and Pool Party (Mariemont Pool)
 	-for all MCC women! A night of laughter and connecting deeply
 
 **August**
+
 TBD - Sunday Night Family Dinner
 	-for all MCC families to come hang out together!
 
