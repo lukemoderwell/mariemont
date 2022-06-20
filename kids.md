@@ -49,9 +49,12 @@ Pick-Up:  Be sure to keep your parent badge for pick up after the service.
 Here at Mariemont Church, we deeply value community.  In order for our families to experience deeper relationships between parents, church members and our children, we create space for engagement outside of Sunday mornings.
  
 
-**July **
+**July** 
+
 04 - Pre-fireworks Meet-up for popsicles and popcorn!
+
 TBD - Family Picnic and Pool Party (Mariemont Pool)
+
 31 - Backyard Bubbly at Jacki’s
 	-for all MCC women! A night of laughter and connecting deeply
 
