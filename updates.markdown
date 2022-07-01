@@ -26,21 +26,23 @@ layout: page-no-hero
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 6/28**
+**Tuesday, 7/5**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 6/29**  NO WORSHIP AT MCC TONIGHT
+**Wednesday, 7/6** JOIN US FOR WORSHIP AT MCC TONIGHT
 
-**Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month - **July 6, and August 3**.
+**Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month - **July 6 - TONIGHT, and August 3**.
 
-**Thursday, 6/30** 
+**Thursday, 7/7** 
 
 **1:30pm** Live worship online.
 
-**Sunday, 6/26** **Congregation Meeting at 10 AM** - We will have two abbreviated worship services (9-9:55 and 11-11:55) so we can have our annual congregation business meeting between 10-10:30 and Lite Bites fellowship between 10:30-11. We will vote on new elders and the new constitution being recommended by the Elder Council. 
 
-**Sunday, 7/3**  **Identity Series Kick-Off** - Jamie will start a new summer and fall series focused on knowing and relying on the Identity provided by our Creator and Redeemer God.
+**Sunday, July 3**  **Identity Series Kick-Off** - Jamie will start a new summer and fall series focused on knowing and relying on the Identity provided by our Creator and Redeemer God.
+
+**Monday, July 4**  Popcorn and Popsicles at the Playground, 7:30pm
+Come celebrate the 4th of July with the Mariemont Community!
 
 **Wednesday, July 6**  Prayer and Worship Gathering at 7pm.
 Join us for worship, prayer, and ministry time. Kids welcome!
