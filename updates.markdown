@@ -17,11 +17,11 @@ layout: page-no-hero
 **Renewing Our Priorities** is our sermon series.  Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
 
-**June**
+**July**
 
-**Sunday, 6/26** 
+**Sunday, 7/3** 
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Renewing Our Priorities **Who's Next?**](https://youtu.be/L-y3CUtYlnU) Jamie will share about the priority of Who's Next? Who are you mentoring to follow you in the Kingdom? The congregational meeting will immediately follow the first service at 10:00 a.m.
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Identity: Who Defines me?](https://youtu.be/wB47PLj_lOs)  Jamie will begin our Identity Series. 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
