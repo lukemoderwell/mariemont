@@ -6,6 +6,6 @@ week: 1
 sermon_date: 2022-07-03 09:00:00 -04:00
 speaker: Jamie Moore
 video_url: https://www.youtube.com/embed/wB47PLj_lOs
-thumbnail_image: "/uploads/Mariemont%20Church%20Priorities.jpg"
+thumbnail_image: "/uploads/Identity%20Image.jpg"
 ---
 
