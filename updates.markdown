@@ -21,7 +21,7 @@ layout: page-no-hero
 
 **Sunday, 7/3** 
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Identity: Who Defines me?](https://youtu.be/wB47PLj_lOs)  Jamie will begin our Identity Series. 
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Identity: Who Defines Me?](https://youtu.be/wB47PLj_lOs)  Jamie will begin our Identity Series. 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
@@ -38,15 +38,17 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **1:30pm** Live worship online.
 
+**Sunday, July 10** - Identity Week 2: Temples of the Living God - we continue our series on Identity. We will also celebrate communion.
 
-**Sunday, July 3**  **Identity Series Kick-Off** - Jamie will start a new summer and fall series focused on knowing and relying on the Identity provided by our Creator and Redeemer God.
+**Sunday, July 17** - Identity Week 3 - we continue our series on Identity.
 
-**Monday, July 4**  Popcorn and Popsicles at the Playground, 7:30pm
-Come celebrate the 4th of July with the Mariemont Community!
+**Sunday, July 24** - Missionary Partner Message: Moran Rosenblit - join us for worship as Moran from "Hope for Israel" shares with us the Word of the Lord! We will also celebrate communion.
 
-**Wednesday, July 6**  Prayer and Worship Gathering at 7pm.
-Join us for worship, prayer, and ministry time. Kids welcome!
+**Sunday, July 31** - Sharing Sunday! - Come ready to share with the Mariemont Church family what Jesus is teaching you in this season (1 Cor 14:26-32). What are you learning about your identity in Him right now?
 
+**Wednesday, August 3** - Prayer and Worship Gathering at 7pm - Join us for worship, prayer, and ministry time. Kids welcome!
+
+**Sunday, August 7** - Identity Week 4 - We continue our series on Identity.
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
