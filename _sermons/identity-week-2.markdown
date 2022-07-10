@@ -1,5 +1,5 @@
 ---
-title: 'Identity: Week 2'
+title: 'Identity: Temples of the Living God'
 date: 2022-07-10 09:00:00 -04:00
 series: Identity
 week: 2
