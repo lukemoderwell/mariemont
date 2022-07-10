@@ -19,22 +19,22 @@ layout: page-no-hero
 
 **July**
 
-**Sunday, 7/3** 
+**Sunday, 7/10** 
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Identity: Who Defines Me?](https://youtu.be/wB47PLj_lOs)  Jamie will begin our Identity Series. 
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Identity: Temples Of the Living God](https://youtu.be/_oNCUpaheLk)  Jamie is leading our Identity Series. 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 7/5**
+**Tuesday, 7/12**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 7/6** JOIN US FOR WORSHIP AT MCC TONIGHT
+**Wednesday, 7/13** NEXT WORSHIP IS AUGUST 3TH
 
 **Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month - **July 6 - TONIGHT, and August 3**.
 
-**Thursday, 7/7** 
+**Thursday, 7/14** 
 
 **1:30pm** Live worship online.
 
