@@ -21,7 +21,7 @@ layout: page-no-hero
 
 **Sunday, 7/10** 
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Identity: Temples Of the Living God](https://youtu.be/_oNCUpaheLk)  Jamie is leading our Identity Series. 
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Identity: Temples Of the Living God](https://youtu.be/_oNCUpaheLk)  Jamie is leading our Identity Series. We are celebrating Communion today.
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
@@ -37,8 +37,6 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 **Thursday, 7/14** 
 
 **1:30pm** Live worship online.
-
-**Sunday, July 10** - Identity Week 2: Temples of the Living God - we continue our series on Identity. We will also celebrate communion.
 
 **Sunday, July 17** - Identity Week 3 - we continue our series on Identity.
 
