@@ -32,7 +32,7 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **Wednesday, 7/20** NEXT WORSHIP IS AUGUST 3TH
 
-**Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month - **July 6 - TONIGHT, and August 3**.
+**Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month next one is August 3**.
 
 **Thursday, 7/21** 
 
