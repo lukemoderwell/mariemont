@@ -19,32 +19,33 @@ layout: page-no-hero
 
 **July**
 
-**Sunday, 7/10** 
+**Sunday, 7/17** 
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Identity: Temples Of the Living God](https://youtu.be/_oNCUpaheLk)  Jamie is leading our Identity Series. We are celebrating Communion today.
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Identity: Week 3](https://youtu.be/iNKReVm-iEs). Jamie Moore is leading our Identity Series.
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 7/12**
+**Tuesday, 7/19**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 7/13** NEXT WORSHIP IS AUGUST 3TH
+**Wednesday, 7/20** NEXT WORSHIP IS AUGUST 3TH
 
 **Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month - **July 6 - TONIGHT, and August 3**.
 
-**Thursday, 7/14** 
+**Thursday, 7/21** 
 
 **1:30pm** Live worship online.
 
-**Sunday, July 17** - Identity Week 3 - we continue our series on Identity.
 
-**Sunday, July 24** - Missionary Partner Message: Moran Rosenblit - join us for worship as Moran from "Hope for Israel" shares with us the Word of the Lord! We will also celebrate communion.
+**Sunday, July 24** - Partner Message: Moran Rosenblit - join us for worship as Moran from "Hope for Israel" shares with us the Word of the Lord! We will also celebrate communion.
 
 **Sunday, July 31** - Sharing Sunday! - Come ready to share with the Mariemont Church family what Jesus is teaching you in this season (1 Cor 14:26-32). What are you learning about your identity in Him right now?
 
 **Wednesday, August 3** - Prayer and Worship Gathering at 7pm - Join us for worship, prayer, and ministry time. Kids welcome!
+
+**Saturday, August 6** - Kingdom Kids Pool Party 4:00-7:00pm at Mariemont Pool. Dinner will be provided. $10:00/family.
 
 **Sunday, August 7** - Identity Week 4 - We continue our series on Identity.
 
