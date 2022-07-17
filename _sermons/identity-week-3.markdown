@@ -1,5 +1,5 @@
 ---
-title: 'Identity: Week 3'
+title: 'Identity: Righteous Ambassadors'
 date: 2022-07-17 08:55:00 -04:00
 series: Identity
 week: 3
