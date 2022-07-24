@@ -19,26 +19,25 @@ layout: page-no-hero
 
 **July**
 
-**Sunday, 7/17** 
+**Sunday, 7/24** 
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Identity: Week 3](https://youtu.be/iNKReVm-iEs). Jamie Moore is leading our Identity Series.
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Moran Rosenblit ](https://youtu.be/DpZVEBnznVY) Partner Message: Moran Rosenblit - join us for worship as Moran from "Hope for Israel" shares with us the Word of the Lord! We will also celebrate communion.
+
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 7/19**
+**Tuesday, 7/26**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 7/20** NEXT WORSHIP IS AUGUST 3TH
+**Wednesday, 7/27** NEXT WORSHIP IS AUGUST 3TH
 
 **Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month next one is August 3**.
 
-**Thursday, 7/21** 
+**Thursday, 7/28** 
 
 **1:30pm** Live worship online.
-
-**Sunday, July 24** - Partner Message: Moran Rosenblit - join us for worship as Moran from "Hope for Israel" shares with us the Word of the Lord! We will also celebrate communion.
 
 **Sunday, July 31** - Sharing Sunday! - Come ready to share with the Mariemont Church family what Jesus is teaching you in this season (1 Cor 14:26-32). What are you learning about your identity in Him right now?
 
