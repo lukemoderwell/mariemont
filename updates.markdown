@@ -23,7 +23,6 @@ layout: page-no-hero
 
 9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Moran Rosenblit ](https://youtu.be/DpZVEBnznVY) Partner Message: Moran Rosenblit - join us for worship as Moran from "Hope for Israel" shares with us the Word of the Lord! We will also celebrate communion.
 
-
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
