@@ -19,32 +19,28 @@ layout: page-no-hero
 
 **July**
 
-**Sunday, 7/24** 
+**Sunday, 7/31** 
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: [Moran Rosenblit ](https://youtu.be/DpZVEBnznVY) Partner Message: Moran Rosenblit - join us for worship as Moran from "Hope for Israel" shares with us the Word of the Lord! We will also celebrate communion.
+9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: **Sharing Sunday!** - Come ready to share with the Mariemont Church family what Jesus is teaching you in this season (1 Cor 14:26-32). What are you learning about your identity in Him right now?
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 7/26**
+**Tuesday, 8/2**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 7/27** NEXT WORSHIP IS AUGUST 3TH
+**Wednesday, 8/3** TONIGHT! Prayer and Worship Gathering at 7pm - Join us for worship, prayer, and ministry time. Kids welcome!
 
 **Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month next one is August 3**.
 
-**Thursday, 7/28** 
+**Thursday, 8/4** 
 
 **1:30pm** Live worship online.
 
-**Sunday, July 31** - Sharing Sunday! - Come ready to share with the Mariemont Church family what Jesus is teaching you in this season (1 Cor 14:26-32). What are you learning about your identity in Him right now?
-
-**Wednesday, August 3** - Prayer and Worship Gathering at 7pm - Join us for worship, prayer, and ministry time. Kids welcome!
-
 **Saturday, August 6** - Kingdom Kids Pool Party 4:00-7:00pm at Mariemont Pool. Dinner will be provided. $10:00/family.
 
-**Sunday, August 7** - Identity Week 4 - We continue our series on Identity.
+**Sunday, August 7** - Identity Week 4 - Jamie Moore continues our series on Identity.
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
