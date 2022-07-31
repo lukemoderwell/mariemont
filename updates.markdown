@@ -26,6 +26,8 @@ layout: page-no-hero
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
+**August**
+
 **Tuesday, 8/2**
 
 **1:30pm** Live worship online.
