@@ -11,9 +11,10 @@ layout: page-no-hero
 
 ## Events and Announcements
 
-**Sunday Schedule**
+**Weekly Sunday Schedule**
 
 **9:00 and 11:00am** 
+
 **Identity** is our sermon series.  Join us in person at 9:00 and 11:00am Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
 
@@ -21,7 +22,11 @@ layout: page-no-hero
 
 **Sunday, 7/31** 
 
-9:00am **Welcome to Sunday Worship** Live Stream Service Click to join today's service: **Sharing Sunday!** - Come ready to share with the Mariemont Church family what Jesus is teaching you in this season (1 Cor 14:26-32). What are you learning about your identity in Him right now?
+**9:00am **
+
+**Welcome to Sunday Worship Live Stream Service** Click to join today's service: **Sharing Sunday!** - Come ready to share with the Mariemont Church family what Jesus is teaching you in this season (1 Cor 14:26-32). What are you learning about your identity in Him right now?
+
+
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
