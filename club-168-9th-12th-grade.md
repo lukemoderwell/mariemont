@@ -18,9 +18,9 @@ layout: page
 
 **Please Read!** 
 
-Acts 29 will **NOT** be meeting at 12:30 on Sundays in the months of June and July, however Raz will be contacting families about some fun outings, and some discipleship opportunities.
+Acts 29 kick off pool party at the Barnhill's on Saturday, August, 20, 2022 from 4:00pm until...Details to follow.
 
-Also keep an eye out for our yearly Acts 29 kick off pool party in August. Date TBD.
+Acts 29 will **NOT** be meeting at 12:30 on Sundays in the months of June and July, however Raz will be contacting families about some fun outings, and some discipleship opportunities.
 
 
 ### What We Believe About Students
