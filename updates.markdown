@@ -46,7 +46,7 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **1:30pm** Live worship online.
 
-**Saturday, August 6** - Kingdom Kids Pool Party 4:00-7:00pm at Mariemont Pool. Dinner will be provided. $10:00/family.
+**Saturday, August 6** - Kingdom Kids Pool Party 4:00-7:00pm at Mariemont Pool. Dinner will be provided. $10.00/family.
 
 **Sunday, August 7** - Identity Week 4 - Jamie Moore continues our series on Identity.
 
