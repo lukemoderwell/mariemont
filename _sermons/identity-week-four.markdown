@@ -1,5 +1,5 @@
 ---
-title: Identity - Week Four
+title: Identity - Free from Condemnation
 date: 2022-08-07 09:08:00 -04:00
 series: Identity
 week: 4
