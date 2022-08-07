@@ -19,34 +19,30 @@ layout: page-no-hero
 
 Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**July**
+**August**
 
-**Sunday, 7/31** 
+**Sunday, 8/7** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person** : [**Sharing Sunday!**](https://youtu.be/I-Ya_RGslgs) - Come ready to share with the Mariemont Church family what Jesus is teaching you in this season (1 Corinthians 14:26-32). What are you learning about your identity in Him right now?
+Click to join today's **9:00am Live Stream and In-person** : [**Identity- Week 4**](https://youtu.be/emwnjqFoOCo) Join us for the continuation of Identity Series! 
 
-**11:00am In-person Service**: Come ready to share with the Mariemont Church family what Jesus is teaching you in this season (1 Corinthians 14:26-32). What are you learning about your identity in Him right now?
+**11:00am In-person Service**: 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**August**
-
-**Tuesday, 8/2**
+**Tuesday, 8/9**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 8/3** TONIGHT! Prayer and Worship Gathering at 7pm - Join us for worship, prayer, and ministry time. Kids welcome!
+**Wednesday, 8/10** No worship tonight.
 
-**Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month next one is August 3**.
+**Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month. Stay tuned for the resuming of weekly worship in the fall.
 
-**Thursday, 8/4** 
+**Thursday, 8/11** 
 
 **1:30pm** Live worship online.
-
-**Saturday, August 6** - Kingdom Kids Pool Party 4:00-7:00pm at Mariemont Pool. Dinner will be provided. $10.00/family.
 
 **Sunday, August 7** - Identity Week 4 - Jamie Moore continues our series on Identity.
 
