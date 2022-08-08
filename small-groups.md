@@ -14,7 +14,7 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 
 | Location                     | Time                 | Host                                              |
 | ---------------------------  | :--------------------: | --------------------------------------------------|
-| MCC Library                  | 2&4 Sundays, 10:30AM    | [The Swifts](mailto:zekeswift@gmail.com)      |
+| MCC Library                  | Sundays, 11:00AM    | [The Swifts](mailto:zekeswift@gmail.com)      |
 | Madiera                   | Mondays, 6:00PM     | [The Huizengas](mailto:huizenb@gmail.com)      |
 | Northern Kentucky               | Mondays, 6:30PM    | [The Treases](mailto:aaronrgrs7@gmail.com)     |
 | Madison Place                   | Mondays, 6:30PM     | [The Belangers](mailto:chefbelanger@hotmail.com) |
