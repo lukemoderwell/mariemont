@@ -46,6 +46,12 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **Sunday, August 7** - Identity Week 4 - Jamie Moore continues our series on Identity.
 
+**September**
+
+**Monday, 9/12** **Women's Fall Kickoff** from 6:30-8:30 p.m. at Mariemont Church. 
+
+**Tuesday, 9/13** Joy in the Morning Fall studies begin. 11:15 a.m. at Mariemont Church.
+
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
