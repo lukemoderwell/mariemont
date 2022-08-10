@@ -30,11 +30,8 @@ For over 20 years, this study has been held on Tuesday mornings 9:15-11:30am.
 **Tuesday, Sept. 13** Fall studies began.
 
 Study Offerings Include:
-•*A Study of Exodus*
-•*Making disciples and being missional--even
-without the spiritual gift of evangelism*
-•*God of Deliverance: A Study of Exodus 1-18*, by
-Jen Wilken
+Fall studies are: **Sermon on the Mount** by Jen Wilken 
+**Study of Matthew** led by Liz Baker
 
 If you know of anyone who might be available to babysit, please contact, Barb Leonard, tombarbleonard@gmail.com.
 
@@ -42,10 +39,10 @@ Childcare, if available, starts at 9:15 and goes until 11:15. Sign up is require
 
 ### Evening Joy
 
-**Monday, January 3, 2022** Winter study begins and continues to meet the 1st and 3rd Mondays through May from 7:00-8:30 p.m. in the Emery Room of the Parish Center during the school year.
+**Monday, September 19, 2022** Fall study begins and continues to meet the 1st and 3rd Mondays through May from 7:00-8:30 p.m. in the Emery Room of the Parish Center during the school year.
 
-The spring semester will be:
-A brief study on Spiritual Gifts. You will need to take a spiritual gifts survey. Contact Teresa or Paula at the contact information below.
+The fall semester will be:
+A book study on Friendship with God, by Jamie Moore. Contact Teresa or Paula at the contact information below.
 
 Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
 
