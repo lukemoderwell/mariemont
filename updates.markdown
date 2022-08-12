@@ -44,9 +44,18 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **1:30pm** Live worship online.
 
-**Sunday, August 7** - Identity Week 4 - Jamie Moore continues our series on Identity.
+**Sunday, 8/14**  Identity Series Week 5 - we continue our our mini-series through Romans 8. We will also celebrate communion.
+
+**Sunday, 8/21** Identity Series Week 6 - we continue with our mini-series through Romans 8. We will also have a special time of prayer for schools, students, and teachers all over the tristate area!
+
+**Sunday 8/28** Identity Series Week 7 - we continue our mini-series through Romans 8. We will also celebrate communion.
 
 **September**
+
+**Sunday, 9/4** Continuation of Identity Series - Week 8
+
+**Wednesday, 9/7** Prayer and Worship Gathering at 7 p.m.
+Join us for worship, prayer, and ministry time. Kids welcome!
 
 **Monday, 9/12** **Women's Fall Kickoff** from 6:30-8:30 p.m. at Mariemont Church. 
 
