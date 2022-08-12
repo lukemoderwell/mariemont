@@ -30,12 +30,15 @@ For over 20 years, this study has been held on Tuesday mornings 9:15-11:30am.
 **Tuesday, Sept. 13** Fall studies begin at 9:15 a.m.
 
 Study Offerings Include:
-Fall studies are: **Sermon on the Mount** by Jen Wilken 
-**Study of Matthew** led by Liz Baker
 
-If you know of anyone who might be available to babysit, please contact, Barb Leonard, tombarbleonard@gmail.com.
+1. Sermon on the Mount, by Jen Wilkins
+2. Discovery study on the book of Matthew led by Liz Baker
+3. “Seasons of God-Spirals of Life” and “Calm Woman in Turbulent 
+   Times,” by Barbara Mouser.
 
-Childcare, if available, starts at 9:15 and goes until 11:15. Sign up is required. Cost for childcare will be $50 per semester for the first child and $5 for each additional child.
+We are exploring the possibility of having childcare for children of preschool age and under and want to find out if any of you are interested in using a sitter. The cost would be $5 per child per session (13 weeks) so $65 per child for the fall semester. **Please email me as soon as possible if you are interested.** My email address is [tombarbleonard@gmail.com](tombarbleonard@gmail.com).
+
+If you know of anyone who might be available to babysit, please contact, Barb Leonard, [tombarbleonard@gmail.com.](tombarbleonard@gmail.com)
 
 ### Evening Joy
 
