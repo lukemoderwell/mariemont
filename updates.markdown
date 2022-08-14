@@ -44,6 +44,10 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **1:30pm** Live worship online.
 
+**Saturday, 8/20**
+
+**Acts 29 Student Ministry Pool Party** contact paul@mariemontchurch.org for more information.
+
 **Sunday, 8/21** Identity Series Week 6 - we continue with our mini-series through Romans 8. We will also have a special time of prayer for schools, students, and teachers all over the tristate area!
 
 **Sunday 8/28** Identity Series Week 7 - we continue our mini-series through Romans 8. We will also celebrate communion.
