@@ -21,30 +21,28 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **August**
 
-**Sunday, 8/7** 
+**Sunday, 8/14** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person** : [**Identity- Week 4**](https://youtu.be/emwnjqFoOCo) Join us for the continuation of Identity Series! 
+Click to join today's **9:00am Live Stream and In-person** : [**Identity - Adopted**](https://youtu.be/QFpTD0mJoJI) Join us for the continuation of Identity Series with a mini-series through Romans 8. We will also celebrate communion.
 
 **11:00am In-person Service**: 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 8/9**
+**Tuesday, 8/16**
 
 **1:30pm** Live worship online.
 
-**Wednesday, 8/10** No worship tonight.
+**Wednesday, 8/17** No worship tonight.
 
 **Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month. Stay tuned for the resuming of weekly worship in the fall.
 
-**Thursday, 8/11** 
+**Thursday, 8/18** 
 
 **1:30pm** Live worship online.
-
-**Sunday, 8/14**  Identity Series Week 5 - we continue our our mini-series through Romans 8. We will also celebrate communion.
 
 **Sunday, 8/21** Identity Series Week 6 - we continue with our mini-series through Romans 8. We will also have a special time of prayer for schools, students, and teachers all over the tristate area!
 
