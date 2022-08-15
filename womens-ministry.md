@@ -31,10 +31,10 @@ For over 20 years, this study has been held on Tuesday mornings 9:15-11:30am.
 
 Study Offerings Include:
 
-1. Sermon on the Mount, by Jen Wilkins
+1. *Sermon on the Mount*, by Jen Wilkins
 2. Discovery study on the book of Matthew led by Liz Baker
-3. “Seasons of God-Spirals of Life” and “Calm Woman in Turbulent 
-   Times,” by Barbara Mouser.
+3. *Seasons of God-Spirals of Life* and *Calm Woman in Turbulent 
+   Times*, by Barbara Mouser.
 
 We are exploring the possibility of having childcare for children of preschool age and under and want to find out if any of you are interested in using a sitter. The cost would be $5 per child per session (13 weeks) so $65 per child for the fall semester. **Please email me as soon as possible if you are interested.** My email address is [tombarbleonard@gmail.com](tombarbleonard@gmail.com).
 
@@ -45,7 +45,7 @@ If you know of anyone who might be available to babysit, please contact, Barb Le
 **Monday, September 19, 2022** Fall study begins and continues to meet the 1st and 3rd Mondays through May from 7:00-8:30 p.m. in the Emery Room of the Parish Center during the school year.
 
 The fall semester will be:
-A book study on Friendship with God, by Jamie Moore. Contact Teresa or Paula at the contact information below.
+A book study on *Friendship with God*, by Jamie Moore. Contact Teresa or Paula at the contact information below.
 
 Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
 
