@@ -25,7 +25,7 @@ Hi Ladies of MCC...Please save the date for our Fall Women's Potluck, Sept. 12, 
 
 For over 20 years, this study has been held on Tuesday mornings 9:15-11:30am.
 
-* **Fall Kickoff** is Monday Sept. 12 from 6:30-8:30 p.m.
+* **Fall Potluck** is Monday Sept. 12 from 6:30-8:30 p.m. All women welcome!
 
 **Tuesday, Sept. 13** Fall studies begin at 9:15 a.m.
 
