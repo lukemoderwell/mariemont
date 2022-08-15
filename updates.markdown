@@ -50,7 +50,9 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **Acts 29 Student Ministry Pool Party** Contact paul@mariemontchurch.org for more information.
 
-**Sunday, 8/21** Identity Series Week 6 - we continue with our mini-series through Romans 8. We will also have a special time of prayer for schools, students, and teachers all over the tristate area!
+**Sunday, 8/21** Identity Series Week 6 - We continue with our mini-series through Romans 8. **There is no Lite Bites today.**
+
+**10:30 - 10:50 a.m.** Mariemont Elementary Soccer Field area. Rain or Shine! We will have a special time of prayer for schools, students, and teachers in the tristate area! 
 
 **Sunday 8/28** Identity Series Week 7 - we continue our mini-series through Romans 8. We will also celebrate communion.
 
