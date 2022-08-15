@@ -54,7 +54,7 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **10:30 - 10:50 a.m.** Mariemont Elementary Soccer Field area. Rain or Shine! We will have a special time of prayer for schools, students, and teachers in the tristate area! 
 
-**Sunday 8/28** Identity Series Week 7 - we continue our mini-series through Romans 8. We will also celebrate communion.
+**Sunday 8/28** Identity Series Week 7 - We continue our mini-series through Romans 8. We will also celebrate communion.
 
 **September**
 
