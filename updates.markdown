@@ -34,19 +34,21 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **Tuesday, 8/16**
 
-**1:30pm** Live worship online.
+**10:00am** Live worship online.
 
-**Wednesday, 8/17** No worship tonight.
+**Wednesday, 8/17** **No worship tonight.**
 
-**Note:** Mid-week summer worship will ONLY be on the first Wednesday of the month. Stay tuned for the resuming of weekly worship in the fall.
+**10:00am** Live worship online.
+
+**Note:** Stay tuned for the resuming of weekly worship in the fall.
 
 **Thursday, 8/18** 
 
-**1:30pm** Live worship online.
+**1:00pm** Live worship online.
 
 **Saturday, 8/20**
 
-**Acts 29 Student Ministry Pool Party** contact paul@mariemontchurch.org for more information.
+**Acts 29 Student Ministry Pool Party** Contact paul@mariemontchurch.org for more information.
 
 **Sunday, 8/21** Identity Series Week 6 - we continue with our mini-series through Romans 8. We will also have a special time of prayer for schools, students, and teachers all over the tristate area!
 
