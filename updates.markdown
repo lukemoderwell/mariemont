@@ -61,7 +61,7 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 **Wednesday, 9/7** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Monday, 9/12** **Women's Fall Kickoff** from 6:30-8:30 p.m. at Mariemont Church. 
+**Monday, 9/12** **Women's Fall Potluck** from 6:30-8:30 p.m. at Mariemont Church. All women are encouraged to attend. We are looking forward to seeing you there!
 
 **Tuesday, 9/13** Joy in the Morning Fall studies begin. 11:15 a.m. at Mariemont Church.
 
