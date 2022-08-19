@@ -21,30 +21,16 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **August**
 
-**Sunday, 8/14** 
+**Sunday, 8/21** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person** : [**Identity - Adopted**](https://youtu.be/QFpTD0mJoJI) Join us for the continuation of Identity Series with a mini-series through Romans 8. We will also celebrate communion.
+Click to join today's **9:00am Live Stream and In-person** : **Identity - Loved by God, the Father** Join us for the continuation of Identity Series with a mini-series through Romans 8. **There is no Lite Bites today.**
 
 **11:00am In-person Service**: 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
-
-**Tuesday, 8/16**
-
-**10:00am** Live worship online.
-
-**Wednesday, 8/17** **No worship tonight.**
-
-**10:00am** Live worship online.
-
-**Note:** Stay tuned for the resuming of weekly worship in the fall.
-
-**Thursday, 8/18** 
-
-**1:00pm** Live worship online.
 
 **Saturday, 8/20**
 
@@ -53,6 +39,20 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 **Sunday, 8/21** Identity Series Week 6 - We continue with our mini-series through Romans 8. **There is no Lite Bites today.**
 
 **10:30 - 10:50 a.m.** **Prayer for Schools** at the Mariemont Elementary Soccer Field area. Rain or Shine! We will have a special time of prayer for schools, students, and teachers in the tristate area. 
+
+**Tuesday, 8/23**
+
+**10:00am** Live worship online.
+
+**Wednesday, 8/24** **No worship tonight.**
+
+**10:00am** Live worship online.
+
+**Note:** Stay tuned for the resuming of weekly worship in the fall.
+
+**Thursday, 8/25** 
+
+**10:00am** Live worship online.
 
 **Sunday 8/28** Identity Series Week 7 - We continue our mini-series through Romans 8. We will also celebrate communion.
 
@@ -66,6 +66,8 @@ Join us for worship, prayer, and ministry time. Kids welcome!
 **Monday, 9/12** **Women's Fall Potluck** from 6:30-8:30 p.m. at Mariemont Church. All women are encouraged to attend. We are looking forward to seeing you there!
 
 **Tuesday, 9/13** Joy in the Morning Fall studies begin. 11:15 a.m. at Mariemont Church.
+
+**Monday, 9/19** Joy in the Evening study begins. 7:00 p.m. at Mariemont Church.
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
