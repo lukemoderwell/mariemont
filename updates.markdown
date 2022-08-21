@@ -25,7 +25,7 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person** : **Identity - Loved by God, the Father** Join us for the continuation of Identity Series with a mini-series through Romans 8. **There is no Lite Bites today.**
+Click to join today's **9:00am Live Stream and In-person** : [**Identity - Loved by God, the Father**](https://youtu.be/36-1iWnQIHo) Join us for the continuation of Identity Series with a mini-series through Romans 8. **There is no Lite Bites today.**
 
 **11:00am In-person Service**: 
 
