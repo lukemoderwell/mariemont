@@ -25,13 +25,15 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person** : [**Identity - Loved by God, the Father**](https://youtu.be/36-1iWnQIHo) Join us for the continuation of Identity Series with a mini-series through Romans 8. **There is no Lite Bites today.**
+Click to join today's **9:00am Live Stream and In-person** : **Identity - Loved by God, the Father** Join us for the continuation of Identity Series with a mini-series through Romans 8. **There is no Lite Bites today.**
 
 **11:00am In-person Service**: 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
+
+**Sunday, 8/21** Identity Series Week 6 - We continue with our mini-series through Romans 8. **There is no Lite Bites today.**
 
 **10:30 - 10:50 a.m.** **Prayer for Schools** at the Mariemont Elementary Soccer Field area. Rain or Shine! We will have a special time of prayer for schools, students, and teachers in the tristate area. 
 
