@@ -46,8 +46,6 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **10:00am** Live worship online.
 
-**Sunday 8/28** Identity Series Week 7 - We will also celebrate communion.
-
 **September**
 
 **Sunday, 9/4** Continuation of Identity Series - Week 8
