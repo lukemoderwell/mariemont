@@ -19,39 +19,29 @@ layout: page-no-hero
 
 Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**August**
+**September**
 
-**Sunday, 8/28** 
+**Sunday, 9/4** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person** : [**Identity - Week 7**](https://youtu.be/n4SSQ7H4pvM) Join us for the continuation of Identity Series. We continue our mini-series through Romans 8.  We are celebrating communion today.
+Click to join today's **9:00am Live Stream and In-person** : [**Identity - Week 8**](https://youtu.be/rkBhQHHxczU) Join us for the continuation of Identity Series. We continue our mini-series through Romans 8.
 
 **11:00am In-person Service**: 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 8/30**
+**Tuesday, 9/6**
 
 **10:00am** Live worship online.
-
-**Wednesday, 8/31** **No worship tonight.**
-
-**10:00am** Live worship online.
-
-**Note:** Stay tuned for the resuming of weekly worship in the fall.
-
-**Thursday, 9/1** 
-
-**10:00am** Live worship online.
-
-**September**
-
-**Sunday, 9/4** Continuation of Identity Series - Week 8
 
 **Wednesday, 9/7** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
+
+**Thursday, 9/8** 
+
+**10:00am** Live worship online.
 
 **Monday, 9/12** **Women's Fall Potluck** from 6:30-8:30 p.m. at Mariemont Church. All women are encouraged to attend. We are looking forward to seeing you there!
 
