@@ -1,5 +1,5 @@
 ---
-title: 'Identity: Week 8'
+title: 'Identity: Groaning for Glory'
 date: 2022-09-04 09:02:00 -04:00
 series: Identity
 week: 8
