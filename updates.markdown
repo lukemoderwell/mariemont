@@ -21,11 +21,11 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **September**
 
-**Sunday, 9/4** 
+**Sunday, 9/11** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person** : [**Identity - Week 8**](https://youtu.be/rkBhQHHxczU) Join us for the continuation of Identity Series. We continue our mini-series through Romans 8.
+Click to join today's **9:00am Live Stream and In-person** : [**Identity - Week 9: Endgame**](https://youtu.be/9odh2k6ia0c) Join us for the continuation of Identity Series. We continue our mini-series through Romans 8. We are celebrating communion today.
 
 **11:00am In-person Service**: 
 
