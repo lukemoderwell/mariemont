@@ -27,29 +27,27 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 Click to join today's **9:00am Live Stream and In-person** : [**Identity - Week 9: Endgame**](https://youtu.be/9odh2k6ia0c) Join us for the continuation of Identity Series. We continue our mini-series through Romans 8. We are celebrating communion today.
 
+Connect Class will be led by Steve and Judi Cesler during the 9:00 a.m. service. If you know of someone looking for more info about MC, please encourage them to come. Email stevecesler@gmail.com for more info.
+
 **11:00am In-person Service**: 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 9/6**
-
-**10:00am** Live worship online.
-
-**Wednesday, 9/7** Prayer and Worship Gathering at 7 p.m.
-Join us for worship, prayer, and ministry time. Kids welcome!
-
-**Thursday, 9/8** 
-
-**10:00am** Live worship online.
-
-**Sunday, 9/11** - Identity Week 9 - we continue our series on Identity, with our mini-series through Romans 8. We will also celebrate communion.
-
-Connect Class will be led by Steve and Judi Cesler during the 9:00 a.m. service. If you know of someone looking for more info about MC, please encourage them to come. Email stevecesler@gmail.com for more info.
-
 **Monday, 9/12** **Women's Fall Potluck** from 6:30-8:30 p.m. at Mariemont Church. All women are encouraged to attend. We are looking forward to seeing you there!
 
-**Tuesday, 9/13** Joy in the Morning Fall studies begin. 11:15 a.m. at Mariemont Church.
+**Tuesday, 9/13**
+
+**10:00am** Live worship online.
+
+**11:15am** Joy in the Morning Fall studies begin at Mariemont Church.
+
+**Wednesday, 9/14** Prayer and Worship Gathering at 7 p.m.
+Join us for worship, prayer, and ministry time. Kids welcome!
+
+**Thursday, 9/15** 
+
+**10:00am** Live worship online.
 
 **Sunday, 9/18** Identity Week 10 - We continue our series on Identity, with our mini-series through Romans 8. The Connect Class will be led again by Steve and Judi Cesler during the 9:00 a.m. service.
 
