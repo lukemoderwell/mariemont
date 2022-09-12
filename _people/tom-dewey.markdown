@@ -2,7 +2,7 @@
 title: Tom Dewey
 date: 2018-09-24 10:01:00 -04:00
 name: Tom Dewey
-is_elder: true
+is_elder: false
 image: "/uploads/Tom%20and%20Jane.crop.jpg"
 ---
 
