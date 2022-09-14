@@ -53,3 +53,21 @@ Upper Elementary (4th-6th grade) - 3rd floor, Room 311
 Here at Mariemont Church, we deeply value community.  In order for our families to experience deeper relationships between parents, church members and our children, we create space for engagement outside of Sunday mornings.  
 
 **Calendar**
+
+**October 2, 12:30pm**:  Church Fall Party after second service!  
+In our very own backyard at the Elementary School playground.  Bring a side or dessert to share!
+
+**October 16, 6:00pm**: Wine Night for the Gals
+Join us at Jacki’s home - bring a bottle of wine, beer or a snack to share!  Open for all MC women and their friends!
+
+**October 29, 4:30pm**: It’s-Not-A-Halloween-Party Party!
+Enjoy a huge bonfire, hay rides, candy, and lots of fun activities for kids!  Chris and Amy Taylor’s house in Amelia - totally worth the drive!
+
+**November 12, 4:30pm**: Pickleball Tournament!
+This is for anyone involved in Kingdom Kids as long as you are an ADULT!  Get a babysitter and join in the fun! 
+
+**December 3, 5:30pm**: Mariemont Luminaria on the Porch!
+There are lots of things to do on this night in our community and Mariemont Church on the porch is a hot spot!  Join us for live music, fresh popcorn, hot chocolate - fun times all around!
+
+**All details are subject to change (except for Luminaria).  If you would like to keep up to date on all things Kingdom Kids, let me know and I’ll put you on the email list!
+Contact Katie Smith at 513-205-8539 or katie@mariemontchurch.org.  I’d love to hear from you!
