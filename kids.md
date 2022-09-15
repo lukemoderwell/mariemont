@@ -9,7 +9,7 @@ hasHero: true
 hero_cta_text: Kids Registration 2021
 hasDownload: false
 heading: Kid's Ministry
-lead_in: We're committed to raising up strong, spiritually healthy children.
+lead_in: " Jesus loves your kids, and He wants them to experience it!\n"
 layout: page
 ---
 
