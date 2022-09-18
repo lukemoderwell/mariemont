@@ -21,15 +21,15 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **September**
 
-**Sunday, 9/11** 
+**Sunday, 9/18** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person** : [**Identity - Week 9: Endgame**](https://youtu.be/9odh2k6ia0c) Join us for the continuation of Identity Series. We continue our mini-series through Romans 8. We are celebrating communion today.
+Click to join today's **9:00am Live Stream and In-person** : [**Identity - Week 10** ](https://youtu.be/yUx-5E2l3Mo)Join us for the continuation of Identity Series.
 
 Connect Class will be led by Steve and Judi Cesler during the 9:00 a.m. service. If you know of someone looking for more info about MC, please encourage them to come. Email stevecesler@gmail.com for more info.
 
-**11:00am In-person Service**: Join in the auditorium for the continuation of Identity Series. We continue our mini-series through Romans 8. We are celebrating communion today.
+**11:00am In-person Service**: Join in the auditorium for the continuation of Identity Series. 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
