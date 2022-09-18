@@ -34,24 +34,20 @@ Connect Class will be led by Steve and Judi Cesler during the 9:00 a.m. service.
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Monday, 9/12** **Women's Fall Potluck** from 6:30-8:30 p.m. at Mariemont Church. All women are encouraged to attend. We are looking forward to seeing you there!
+**Monday, 9/19** Joy in the Evening study begins. 7:00 p.m. at Mariemont Church.
 
-**Tuesday, 9/13**
+**Tuesday, 9/20**
 
 **10:00am** Live worship online.
 
 **11:15am** Joy in the Morning Fall studies begin at Mariemont Church.
 
-**Wednesday, 9/14** Prayer and Worship Gathering at 7 p.m.
+**Wednesday, 9/121** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday, 9/15** 
+**Thursday, 9/22** 
 
 **10:00am** Live worship online.
-
-**Sunday, 9/18** Identity Week 10 - We continue our series on Identity, with our mini-series through Romans 8. The Connect Class will be led again by Steve and Judi Cesler during the 9:00 a.m. service.
-
-**Monday, 9/19** Joy in the Evening study begins. 7:00 p.m. at Mariemont Church.
 
 **Sunday, 9/25** Sharing Sunday!! Please prepare to share what you are learning about your identity in Christ during our sharing service! We will also celebrate communion.
 
