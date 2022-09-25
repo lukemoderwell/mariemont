@@ -25,31 +25,26 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person: [**Sharing Sunday**](https://youtu.be/G0jP-wfj1l4). Join us for the continuation of Identity Series.
+Click to join today's **9:00am Live Stream and In-person: [**Sharing Sunday**](https://youtu.be/G0jP-wfj1l4). Join us for the continuation of Identity Series. We are celebrating communion.
 
-Connect Class will be led by Steve and Judi Cesler during the 9:00 a.m. service. If you know of someone looking for more info about MC, please encourage them to come. Email stevecesler@gmail.com for more info.
 
-**11:00am In-person Service**: Join in the auditorium for the continuation of Identity Series. 
+**11:00am In-person Service**: Join in the auditorium for the  Identity Series Sharing Sunday. 
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Monday, 9/19** Joy in the Evening study begins. 7:00 p.m. at Mariemont Church.
-
-**Tuesday, 9/20**
+**Tuesday, 9/27**
 
 **10:00am** Live worship online.
 
-**11:15am** Joy in the Morning Fall studies begin at Mariemont Church.
+**9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesday, 9/121** Prayer and Worship Gathering at 7 p.m.
+**Wednesday, 9/28** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday, 9/22** 
+**Thursday, 9/29** 
 
 **10:00am** Live worship online.
-
-**Sunday, 9/25** Sharing Sunday!! Please prepare to share what you are learning about your identity in Christ during our sharing service! We will also celebrate communion.
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
