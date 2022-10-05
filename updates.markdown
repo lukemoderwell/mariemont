@@ -45,7 +45,16 @@ Join us for worship, prayer, and ministry time. Kids welcome!
 
 **10:00am** Live worship online.
 
+**Sunday, 10/10** - THIS COMING SUNDAY - Identity Week 12: we continue our series on Identity. We will also celebrate communion.
+
+**Sunday, 10/16** - Identity Week 13: we continue our series on Identity.
+
+**Sunday, 10/23** - Identity Week 14: we continue our series on Identity. We will also celebrate communion.
+
+**Saturday, 10/29** - It's-NOT-A-Halloween-Party! 4-7pm at the Taylor's Compound. RSVP to katie@mariemontchurch.org 
+
+**Sunday, 10/30** - Sharing Sunday!! Please prepare to share what you are learning about your identity in Christ during our sharing service!
+
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
 If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
-
