@@ -21,31 +21,34 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **October**
 
-**Sunday, 10/2** 
+**Sunday, 10/9** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person: [**Identity: Workmanship**](https://youtu.be/kbpL-ToZ23g). Join us for the continuation of Identity Series. We are celebrating communion.
+Click to join today's **9:00am Live Stream and In-person: **Identity: Workmanship**. Join us for Week 12 as we continue the Identity Series. We are celebrating communion.
 
-**11:00am In-person Service**: Join in the auditorium for the  Identity Series Sharing Sunday. 
+**11:00am In-person Service**: Join in the auditorium for the  Identity Series Sharing Sunday.
+
+**12:30pm Alpha Begins!**
+• In the Youth Room
+• Encounter Jesus!
+• Alpha creates space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.
 
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 10/4**
+**Tuesday, 10/11**
 
 **10:00am** Live worship online.
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesday, 10/5** Prayer and Worship Gathering at 7 p.m.
+**Wednesday, 10/12** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday, 10/6** 
+**Thursday, 10/13** 
 
 **10:00am** Live worship online.
-
-**Sunday, 10/10** - THIS COMING SUNDAY - Identity Week 12: we continue our series on Identity. We will also celebrate communion.
 
 **Sunday, 10/16** - Identity Week 13: we continue our series on Identity.
 
