@@ -18,9 +18,10 @@ layout: page
 
 **Please Read!** 
 
-Acts 29 kick off pool party at the Barnhill's on Saturday, August, 20, 2022 from 4:00pm until...Details to follow.
-
-Acts 29 Student Ministries will resume on August 21st.
+**Sunday, October, 9, 2022 at 12:30pm Alpha Begins!**
+• In the Youth Room
+• Encounter Jesus!
+• Alpha creates space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.
 
 ### What We Believe About Students
 
