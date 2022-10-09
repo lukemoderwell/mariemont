@@ -25,7 +25,7 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person: **Identity: Workmanship**. Join us for Week 12 as we continue the Identity Series. We are celebrating communion.
+Click to join today's **9:00am Live Stream and In-person: [**Identity: Workmanship**](https://youtu.be/wrOF_qqmNnA). Join us for Week 12 as we continue the Identity Series. We are celebrating communion.
 
 **11:00am In-person Service**: Join in the auditorium for the  Identity Series Sharing Sunday.
 
