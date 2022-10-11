@@ -39,7 +39,7 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **Tuesday, 10/11**
 
-**10:00am** Live worship online.
+**9:00am** Live worship online.
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
@@ -49,6 +49,10 @@ Join us for worship, prayer, and ministry time. Kids welcome!
 **Thursday, 10/13** 
 
 **10:00am** Live worship online.
+
+**Saturday, 10/15**
+
+Men's Breakfast with basic breakfast food...eggs, bacon, juice and coffee. Come to help determine the focus of Men's Ministry for the coming year. Scott Hobart will lead a presentation and discussion on "The Art of Influence," practical behaviors to be Salt & Light. Men from New Mission Missionary Baptist Church will be joining us.  
 
 **Sunday, 10/16** - Identity Week 13: we continue our series on Identity.
 
