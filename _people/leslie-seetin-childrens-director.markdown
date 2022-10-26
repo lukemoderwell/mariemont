@@ -1,7 +1,7 @@
 ---
 title: Katie Smith, Director of Kingdom Kids
 date: 2018-10-05 16:34:00 -04:00
-position: Children's Ministry Director
+position: Director of Kingdom Kids
 name: Katie Smith
 image: "/uploads/FEG02639.jpg"
 ---
