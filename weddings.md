@@ -6,7 +6,7 @@ position: 15
 layout: page-no-hero
 ---
 
-### To book the chapel for weddings, please fill out our [online wedding application](/wedding-form). 
+### To book the chapel for weddings, please fill out our [online wedding inquiry](/wedding-form). 
 
 ## Eligibility
 We receive many requests for the use of the Memorial Chapel for weddings. Members of Mariemont Community Church and people who regularly attend MCC receive priority in booking weddings, as well as residents of the Village of Mariemont and former residents and members. Other requests will be considered as availability allows.
