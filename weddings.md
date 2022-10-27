@@ -19,7 +19,7 @@ God instituted marriage as a committed relationship between one man and one woma
 
 ### Wedding Ceremony
 Mariemont Church pastors or others who have been approved by the Council of Elders may officiate at weddings in the Memorial Chapel. Your officiating pastor will meet with you to help plan your ceremony and approve all service details.
-Once your date is approved you will receive a packet of information. (Additional approval is required for if you are using another officiant). Contact us if you have any questions. Weddings are scheduled by the Church Administrator. After your date has been approved, the receipt of one half the fee and your signed Wedding Data Sheet will secure your date on our calendar.
+Once the officiant has been chosen, we can discuss your date choice, then you will receive an email with additional information and forms. (Additional approval is required for if you are using another officiant). Contact us if you have any questions. Weddings are scheduled by the Church Administrator. After your date has been approved, the receipt of one half the fee and your signed Wedding Data Sheet will secure your date on our calendar.
 
 ### Fees
 Please contact Terri Cofskey, part-time Administrator, with questions. Send an email inquiry to terri@mariemontchurch.org.
