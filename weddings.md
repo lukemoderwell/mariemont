@@ -9,7 +9,7 @@ layout: page-no-hero
 ### To book the chapel for weddings, please fill out our [online wedding inquiry](/wedding-form). 
 
 ## Eligibility
-We receive many requests for the use of the Memorial Chapel for weddings. Members of Mariemont Community Church and people who regularly attend MCC receive priority in booking weddings, as well as residents of the Village of Mariemont and former residents and members. Other requests will be considered as availability allows.
+We receive many requests for the use of the Memorial Chapel for weddings. Members of Mariemont Church and people who regularly attend MCC receive priority in booking weddings, as well as residents of the Village of Mariemont and former residents and members. Other requests will be considered as availability allows.
 
 ### Premarital Counseling
 Marital satisfaction and longevity are greatest for couples who purposefully prepare for marriage. For this reason, we require couples to complete a four to six month, comprehensive marriage preparation process with a mentoring couple. Wedding dates should be planned to allow adequate time for this important step. If you are not being married by a Mariemont Community Church pastor, your officiant may do your premarital counseling. All couples are required to go through premarital counseling before their wedding.
