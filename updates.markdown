@@ -25,7 +25,7 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream: Sharing Sunday!! Please prepare to share what you are learning about your identity in Christ during our sharing service!
+Click to join today's **9:00am [Live Stream: Sharing Sunday!! ](https://youtu.be/-E9LD3VzEq0)Please prepare to share what you are learning about your identity in Christ during our sharing service!
 
 
 **11:00am In-person Service**: Join in the auditorium for the  Identity Series Sharing Sunday.
