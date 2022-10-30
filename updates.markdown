@@ -21,11 +21,12 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **October**
 
-**Sunday, 10/23** 
+**Sunday, 10/30** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream and In-person: [**Identity: Light**].(https://youtu.be/ZFGhDCeTms4) Join us for Week 14 as we continue the Identity Series. We are celebrating communion.
+Click to join today's **9:00am Live Stream and In-person: Sharing Sunday!! Please prepare to share what you are learning about your identity in Christ during our sharing service!
+
 
 **11:00am In-person Service**: Join in the auditorium for the  Identity Series Sharing Sunday.
 
@@ -37,22 +38,18 @@ Click to join today's **9:00am Live Stream and In-person: [**Identity: Light**].
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 10/25**
+**Tuesday, 11/1**
 
 **9:00am** Live worship online.
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesday, 10/26** Prayer and Worship Gathering at 7 p.m.
+**Wednesday, 11/3** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday, 10/27** 
+**Thursday, 11/4** 
 
 **10:00am** Live worship online.
-
-**Saturday, 10/29** - It's-NOT-A-Halloween-Party! 4-7pm at the Taylor's Compound. RSVP to katie@mariemontchurch.org 
-
-**Sunday, 10/30** - Sharing Sunday!! Please prepare to share what you are learning about your identity in Christ during our sharing service!
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
