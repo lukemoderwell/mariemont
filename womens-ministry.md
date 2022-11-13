@@ -28,8 +28,7 @@ Study Offerings Include:
 
 1. *Sermon on the Mount*, by Jen Wilkins
 2. Discovery study on the book of Matthew led by Liz Baker
-3. *Seasons of God-Spirals of Life* and *Calm Woman in Turbulent 
-   Times*, by Barbara Mouser.
+3. *Seasons of God-Spirals of Life* and *Calm Woman in Turbulent Times*, by Barbara Mouser.
 
 We are exploring the possibility of having childcare for children of preschool age and under and want to find out if any of you are interested in using a sitter. The cost would be $5 per child per session (13 weeks) so $65 per child for the fall semester. **Please email me as soon as possible if you are interested.** My email address is [tombarbleonard@gmail.com](tombarbleonard@gmail.com).
 
