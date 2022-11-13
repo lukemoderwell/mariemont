@@ -21,13 +21,13 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **November**
 
-**Sunday, 11/6** 
+**Sunday, 11/13** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am [Live Stream: Identity - Community](https://youtu.be/a95ed0jnfzI). Please prepare to share what you are learning about your identity in Christ during our sharing service!
+Click to join today's **9:00am [Live Stream: Identity - Priorities.](https://youtu.be/bgd6fzUe5l0) Please prepare to share what you are learning about your identity in Christ during our sharing service!
 
-**11:00am In-person Service**: Join in the auditorium for the  Identity Series Sharing Sunday.
+**11:00am In-person Service**: Join in the auditorium for the  Identity Series. We are celebrating communion.
 
 **12:30pm Youth Alpha Continues!**
 • In the Youth Room
@@ -37,18 +37,18 @@ Click to join today's **9:00am [Live Stream: Identity - Community](https://youtu
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 11/8**
+**Tuesday, 11/15**
 
-**9:00am** Live worship online.
+**9:00am** Live worship in person and online.
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesday, 11/9** Prayer and Worship Gathering at 7 p.m.
+**Wednesday, 11/16** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday, 11/10** 
+**Thursday, 11/17** 
 
-**10:00am** Live worship online.
+**10:00am** Live worship in person and online.
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
