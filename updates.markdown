@@ -21,11 +21,11 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **November**
 
-**Sunday, 11/13** 
+**Sunday, 11/20** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am [Live Stream: Identity - Priorities.](https://youtu.be/bgd6fzUe5l0) Please prepare to share what you are learning about your identity in Christ during our sharing service!
+Click to join today's **9:00am Live Stream: [Identity Finale - Boss. ](https://youtu.be/jkeqM6T0zGg) Please prepare to share what you are learning about your identity in Christ during our sharing service!
 
 **11:00am In-person Service**: Join in the auditorium for the  Identity Series. We are celebrating communion.
 
@@ -37,20 +37,18 @@ Click to join today's **9:00am [Live Stream: Identity - Priorities.](https://you
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 11/15**
+**Tuesday, 11/22**
 
 **9:00am** Live worship in person and online.
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesday, 11/16** Prayer and Worship Gathering at 7 p.m.
+**Wednesday, 11/23** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday, 11/17** 
+**Thursday, 11/24** Happy Thanksgiving!
 
 **10:00am** Live worship in person and online.
-
-Sunday, 11/20 - Identity Week 17 (Finale): We finish our series on Identity. We will also celebrate Mark and Holly Simes during LiteBites and in worship with prayer. Come and congratulate Mark's good and faithful service as he retires as Director of Ministry.
 
 Sunday, 11/27 - Advent Week 1: Advent Season begins! We prepare our hearts for the coming of Christ! We will also celebrate communion.
 
