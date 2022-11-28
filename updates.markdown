@@ -52,7 +52,7 @@ Join us for worship, prayer, and ministry time. Kids welcome!
 
 **10:00am** Live worship in person and online.
 
-Saturday, 12/3 - Mariemont Village Christmas Luminaria and Tree Lighting: Party on the front porch of MC with live Christmas music, hot cocoa bar, photo-op on Santa's Sleigh, and a time to engage the village with the love of Jesus!
+Saturday, 12/3 - Mariemont Village Christmas Luminaria and Tree Lighting: Party on the front porch of MC with live Christmas music, hot cocoa bar, photo-op on Santa's Sleigh, and a time to engage the village with the love of Jesus! If you are able to help with set-up/tear-down or other activities, please reach out to mike@mariemontchurch.org
 
 Sunday, 12/4 - Advent Week 2: Advent Season continues as we prepare our hearts for the coming of Christ!
 
