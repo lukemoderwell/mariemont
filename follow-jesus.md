@@ -11,7 +11,7 @@ layout: page
 <iframe width="600" height="338" allowfullscreen  src="https://www.youtube.com/embed/LiVZoXjTIFY?autoplay=0&fs=1&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0">
 </iframe>
 
-### Welcome to MCC's new resource library. Here we will try to help in three key areas:
+### Welcome to MC's new resource library. Here we will try to help in three key areas:
 
 #1 Who is Jesus and what is his message?
 
