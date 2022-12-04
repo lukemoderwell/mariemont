@@ -19,13 +19,13 @@ layout: page-no-hero
 
 Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**November**
+**December**
 
-**Sunday, 11/27** 
+**Sunday, 12/4** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream: [Advent Week 1](https://youtu.be/5F4OPyFLvrQ).  Advent Season begins! We prepare our hearts for the coming of Christ! We will also celebrate communion.
+Click to join today's **9:00am Live Stream: [Advent Week 2](https://youtu.be/rhpD1wVdl_g).  Advent Season begins! We prepare our hearts for the coming of Christ! We will also celebrate communion.
 
 **11:00am In-person Service**: Join in the auditorium for the  Identity Series. We are celebrating communion.
 
@@ -37,24 +37,22 @@ Click to join today's **9:00am Live Stream: [Advent Week 1](https://youtu.be/5F4
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 11/29**
+**Tuesday, 12/6**
 
 **9:00am** Live worship in person and online.
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesday, 11/30** Prayer and Worship Gathering at 7 p.m.
+**Wednesday, 12/7** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
 **December**
 
-**Thursday, 12/1** 
+**Thursday, 12/8** 
 
 **10:00am** Live worship in person and online.
 
-**Saturday, 12/3**  Mariemont Village Christmas Luminaria and Tree Lighting: Party on the front porch of MC with live Christmas music, hot cocoa bar, photo-op on Santa's Sleigh, and a time to engage the village with the love of Jesus! If you are able to help with set-up/tear-down or other activities, please reach out to mike@mariemontchurch.org
-
-**Sunday, 12/4** Advent Week 2: Advent Season continues as we prepare our hearts for the coming of Christ!
+**Saturday, 12/3**  Mariemont Village Christmas Luminaria and Tree Lighting: Party on the front porch of MC with live Christmas music, hot cocoa bar, photo-op on Santa's Sleigh was a success! Thanks to all who came out to celebrate with us!
 
 **Sunday, 12/11** Advent Week 3: We continue the Advent Season and prepare our hearts for the coming of Christ! We will also celebrate communion.
 
