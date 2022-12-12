@@ -5,7 +5,13 @@ permalink: "/"
 position: 0
 hero_image: "/uploads/Advent%201%2011.27.22.jpg"
 hasHero: true
-heading: Learning to live and love in the Presence of Jesus.
+heading: |-
+  Christmas Eve Services
+  4:00 & 5:00 p.m. at the Parish Center Auditorium
+  3908 Plainville Road, 45227
+  No Services on Christmas Day - Merry Christmas!
+
+  Learning to live and love in the Presence of Jesus.
 layout: home
 ---
 
