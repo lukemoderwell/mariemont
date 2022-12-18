@@ -25,7 +25,7 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream: [Advent 2022 Week 4](https://youtu.be/i7Dh2x9vT9k) . We prepare our hearts for the coming of Christ! 
+Click to join today's **9:00am Live Stream: [Advent 2022 Week 4: The Word Made Flesh](https://youtu.be/i7Dh2x9vT9k) . We prepare our hearts for the coming of Christ! 
 
 **11:00am In-person Service**: Join in the auditorium for the 2022 Advent Series.
 
