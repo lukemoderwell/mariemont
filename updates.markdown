@@ -15,19 +15,19 @@ layout: page-no-hero
 
 **Services are in person at 9:00am and 11:00am** The 9 a.m. service is also live-streamed.
 
-**Identity** is our current sermon series.
+**Advent** is our current sermon series.
 
 Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
 **December**
 
-**Sunday, 12/11** 
+**Sunday, 12/18** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream: [Advent 2022 Week 3](https://youtu.be/fZNkxqZTY1A). We prepare our hearts for the coming of Christ! We will also celebrate communion.
+Click to join today's **9:00am Live Stream: [Advent 2022 Week 4](https://youtu.be/i7Dh2x9vT9k) . We prepare our hearts for the coming of Christ! 
 
-**11:00am In-person Service**: Join in the auditorium for the 2022 Advent Series. We will also celebrate communion.
+**11:00am In-person Service**: Join in the auditorium for the 2022 Advent Series.
 
 **12:30pm Youth Alpha Continues!**
 • In the Youth Room
@@ -37,20 +37,18 @@ Click to join today's **9:00am Live Stream: [Advent 2022 Week 3](https://youtu.b
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 12/13**
+**Tuesday, 12/20**
 
 **9:00am** Live worship in person and online.
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesday, 12/14** Prayer and Worship Gathering at 7 p.m.
+**Wednesday, 12/21** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday, 12/15** 
+**Thursday, 12/22** 
 
 **10:00am** Live worship in person and online.
-
-**Sunday,12/18** Advent Week 4: we continue the Advent Season and prepare our hearts for the coming of Christ!
 
 **Saturday 12/24** Christmas Eve: Carols, Candlelight, and the Christmas Story at 4pm and 5pm, at the Parish Center.
 
