@@ -2,7 +2,7 @@
 title: Mike Brownfield, Director of Operations
 date: 2022-11-02 20:41:00 -04:00
 name: Mike Brownfield
-image: "/uploads/IMG_20180704_095859100.jpg"
+image: "/uploads/mike-renee.jpg"
 position: Director of Operations
 ---
 
