@@ -1,5 +1,5 @@
 ---
-title: Mariemont Community Church
+title: Mariemont Church
 timezone: America/New_York
 collections:
   people:
@@ -57,7 +57,7 @@ defaults:
     is_elder: false
     image: ''
     position: ''
-email: mark@mariemontchurch.org
+email: mike@mariemontchurch.org
 description: We are a growing community of families in East Cincinnati united by our
   commitment to follow Jesus.
 baseurl: 
