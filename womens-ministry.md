@@ -38,7 +38,7 @@ If you know of anyone who might be available to babysit, please contact, Barb Le
 
 **Mondays, 7:00 p.m.** Fall study is under way and continues to meet the 1st and 3rd Mondays through May from 7:00-8:30 p.m. in the Emery Room of the Parish Center during the school year.
 
-The fall semester will be:
+The semester study will be:
 A book study on *Friendship with God*, by Jamie Moore. Contact Teresa or Paula at the contact information below.
 
 Come meet with other women for fellowship, discussion, and to grow deeper in your faith.
@@ -53,12 +53,17 @@ The J.O.Y. (Just Older Youth) Luncheon is not meeting at this time. We will post
 
 Mariemont Church Women’s Retreat is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
 
-Women’s Retreat:
-* Overnight Retreat at Jesuit Center Feb 3-4, 2023 in the Arrupe Building
-* Arrupe Building Houses 54 Women
-* Focus on Sabbath Rest, Guided Prayer, Worship, Prayer Teams, Etc.
+**Women’s Retreat:**
 
-We look forward to seeing you!
+* Overnight Retreat at Jesuit Center **Feb 3-4, 2023 **in the Arrupe Building
+
+* Arrupe Building Houses 54 Women
+
+* Focus is Practicing Rest on Sabbath Rest, Guided Prayer, Worship, Prayer Teams, Etc.
+
+* $80.00 - Cash, check, or Venmo @MariemontChurch
+
+We look forward to seeing you soon!
 
 If you have any questions, please contact Paula Ayer.
 
