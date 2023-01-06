@@ -19,7 +19,7 @@ layout: page-no-hero
 
 Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
-**December**
+**January**
 
 **Sunday, 1/8** 
 
