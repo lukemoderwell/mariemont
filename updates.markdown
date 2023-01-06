@@ -21,13 +21,13 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **December**
 
-**Sunday, 12/18** 
+**Sunday, 1/8** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream: [Advent 2022 Week 4: The Word Made Flesh](https://youtu.be/i7Dh2x9vT9k) . We prepare our hearts for the coming of Christ! 
+Click to join today's **9:00am Live Stream: . We prepare our hearts for the coming of Christ! 
 
-**11:00am In-person Service**: Join in the auditorium for the 2022 Advent Series.
+**11:00am In-person Service**: Join in the auditorium for the 2023 John Series.
 
 **12:30pm Youth Alpha Continues!**
 • In the Youth Room
@@ -37,22 +37,18 @@ Click to join today's **9:00am Live Stream: [Advent 2022 Week 4: The Word Made F
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 12/20**
+**Tuesday, 1/10**
 
 **9:00am** Live worship in person and online.
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesday, 12/21** Prayer and Worship Gathering at 7 p.m.
+**Wednesday, 1/11** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday, 12/22** 
+**Thursday, 1/12** 
 
 **10:00am** Live worship in person and online.
-
-**Saturday 12/24** Christmas Eve: Carols, Candlelight, and the Christmas Story at 4pm and 5pm, at the Parish Center.
-
-**Sunday, 12/25** Christmas Day: No Services! Merry Christmas!
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
 
