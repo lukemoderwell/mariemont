@@ -25,7 +25,7 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream: [John Series](https://youtu.be/o8H7vj3QoIk).
+Click to join today's **9:00am Live Stream: [Jesus: Week 1 of John Series](https://youtu.be/o8H7vj3QoIk).
 
 **11:00am In-person Service**: Join in the auditorium for the 2023 John Series.
 
