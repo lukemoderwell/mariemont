@@ -15,7 +15,7 @@ layout: page-no-hero
 
 **Services are in person at 9:00am and 11:00am** The 9 a.m. service is also live-streamed.
 
-**Advent** is our current sermon series.
+**John** is our current sermon series.
 
 Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 12:30pm immediately following the 11:00 a.m. service in the Youth Room.
 
