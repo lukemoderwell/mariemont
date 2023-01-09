@@ -61,7 +61,7 @@ Mariemont Church Women’s Retreat is to help women grow in their faith by focus
 
 * Focus is Practicing Rest on Sabbath Rest, Guided Prayer, Worship, Prayer Teams, Etc.
 
-* $80.00 - Cash, check, or Venmo @PaulaAyer
+* $80.00 - Cash, check, or Venmo @Paula-Ayer-1
 
 We look forward to seeing you soon!
 
