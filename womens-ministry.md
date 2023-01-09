@@ -61,18 +61,13 @@ Mariemont Church Women’s Retreat is to help women grow in their faith by focus
 
 * Focus is Practicing Rest on Sabbath Rest, Guided Prayer, Worship, Prayer Teams, Etc.
 
-* $80.00 - Cash, check, or Venmo @MariemontChurch
+* $80.00 - Cash, check, or Venmo @PaulaAyer
 
 We look forward to seeing you soon!
 
 If you have any questions, please contact Paula Ayer.
 
 **Contact: Paula Ayer ayerpaula@gmail.com**
-
-**Finding Shalom Amidst Chaos** was our 2021 retreat. Beth Guckenberger shared seven ancient Hebrew words that helped bring completeness and peace to our souls in this stormy time.
-
-The retreat was both in-person and live streamed. You can access the three videos on Mariemont Church's YouTube channel [here (1)](https://youtu.be/p1MRw42YHRA), [here (2)](https://youtu.be/IHLUDYp1AUo), and [here (3)](https://youtu.be/b2SPeXkzX9c).
-
 
 ### Serve
 
