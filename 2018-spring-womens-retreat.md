@@ -2,6 +2,7 @@
 title: 2023 Women's Retreat
 date: 2018-01-18 10:19:00 -05:00
 permalink: "/2018-spring-womens-retreat/"
+published: false
 position: 10
 is_ministry: false
 hero_image: "/uploads/Screenshot%202023-01-12%20at%202.27.19%20PM.png"
