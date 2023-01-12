@@ -27,7 +27,7 @@ Kingdom Kids is a place where our kids are given the opportunity to encounter an
 
 **Is this your first time?** Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s voices) will direct you to the correct spot. You can also park around the back of the building and enter through the Kids Entrance with the awning (closer to the tennis courts). Receive security name badges, and walk with your child to their classroom. A friendly Supervisor is on hand to help you find your way.
 
-**2022 Class Offerings**
+**2023 Class Offerings**
 
 **First Service** 
 Nursery (0-35 months) - Room 107
@@ -54,20 +54,11 @@ Here at Mariemont Church, we deeply value community.  In order for our families 
 
 **Calendar**
 
-**October 2, 12:30pm**:  Church Fall Party after second service!  
-In our very own backyard at the Elementary School playground.  Bring a side or dessert to share!
+JANUARY 2023
 
-**October 16, 6:00pm**: Wine Night for the Gals
-Join us at Jacki’s home - bring a bottle of wine, beer or a snack to share!  Open for all MC women and their friends!
+22:  Ice Skating at 50West
 
-**October 29, 4:30pm**: It’s-Not-A-Halloween-Party Party!
-Enjoy a huge bonfire, hay rides, candy, and lots of fun activities for kids!  Chris and Amy Taylor’s house in Amelia - totally worth the drive!
+For anyone involved with Kingdom Kids and for the WHOLE family!  The whole rink is ours from 4-5pm.  Stay longer to hang out without worrying about breaking your ankles! This event is FREE although food is on your own tab.  Thanks to Elizabeth Wood for organizing!
 
-**November 12, 4:30pm**: Pickleball Tournament!
-This is for anyone involved in Kingdom Kids as long as you are an ADULT!  Get a babysitter and join in the fun! 
-
-**December 3, 5:30pm**: Mariemont Luminaria on the Porch!
-There are lots of things to do on this night in our community and Mariemont Church on the porch is a hot spot!  Join us for live music, fresh popcorn, hot chocolate - fun times all around!
-
-**All details are subject to change (except for Luminaria).  If you would like to keep up to date on all things Kingdom Kids, let me know and I’ll put you on the email list!
+**All details are subject to change.  If you would like to keep up to date on all things Kingdom Kids, let me know and I’ll put you on the email list!
 Contact Katie Smith at 513-205-8539 or katie@mariemontchurch.org.  I’d love to hear from you!
