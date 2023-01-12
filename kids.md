@@ -56,7 +56,7 @@ Here at Mariemont Church, we deeply value community.  In order for our families 
 
 **JANUARY 2023**
 
-22:  Ice Skating at 50West
+22:  4:00-5:00 p.m. **Ice Skating at 50West **
 
 For anyone involved with Kingdom Kids and for the WHOLE family!  The whole rink is ours from 4-5pm.  Stay longer to hang out without worrying about breaking your ankles! This event is FREE although food is on your own tab.  Thanks to Elizabeth Wood for organizing!
 
