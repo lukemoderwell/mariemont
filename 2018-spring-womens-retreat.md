@@ -19,7 +19,7 @@ Mariemont Church Women’s Retreat is to help women grow in their faith by focus
 
 **Practicing Rest in the Lord**
 
-Here is the link to download the registration form: /uploads/2023%20Registration%20Form%20Fillable%20(1)%20(1).pdf
+Click to download the [**registration form**](/uploads/2023%20Registration%20Form%20Fillable%20(1)%20(1).pdf).
 
 January 23 is the deadline to RSVP to Paula Ayer at ayerpaula@gmail.com. Reservations will be on a first-come first-served basics. Feel free to invite a friend or a relative.
 
