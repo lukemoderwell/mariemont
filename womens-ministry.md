@@ -57,6 +57,8 @@ Mariemont Church Women’s Retreat is to help women grow in their faith by focus
 
 * Overnight Retreat at Jesuit Center **Feb 3-4, 2023 **in the Arrupe Building
 
+Click to download the [**Registration Form**](Click to download the [**registration form**](/uploads/2023%20Registration%20Form%20Fillable%20(1)%20(1).pdf).). (or go to the Women's retreat sign-up link on the ministry tab.) 
+
 * Arrupe Building Houses 54 Women
 
 * Focus is Practicing Rest on Sabbath Rest, Guided Prayer, Worship, Prayer Teams, Etc.
