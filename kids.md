@@ -54,7 +54,7 @@ Here at Mariemont Church, we deeply value community.  In order for our families 
 
 **Calendar**
 
-JANUARY 2023
+**JANUARY 2023**
 
 22:  Ice Skating at 50West
 
