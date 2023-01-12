@@ -5,6 +5,7 @@ permalink: "/2018-spring-womens-retreat/"
 published: false
 position: 10
 hero_image: "/uploads/Screenshot%202023-01-12%20at%202.27.19%20PM.png"
+hasHero: true
 download:
   file: "/uploads/2023%20Registration%20Form%20Fillable%20(1)%20(1).pdf"
 layout: page-no-hero
