@@ -5,7 +5,7 @@ series: John
 week: 2
 sermon_date: 2023-01-15 09:00:00 -05:00
 speaker: Jamie Moore
-video_url: https://www.youtube.com/live/Q878undyyMg?feature=share
+video_url: https://www.youtube.com/embed/Q878undyyMg
 thumbnail_image: "/uploads/disruption-sermon%20Large.png"
 ---
 
