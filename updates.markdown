@@ -21,11 +21,11 @@ Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at
 
 **January**
 
-**Sunday, 1/8** 
+**Sunday, 1/15** 
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream: [Jesus: Week 1 of John Series](https://youtu.be/o8H7vj3QoIk).
+Click to join today's **9:00am Live Stream: Jesus: Week 2 of John Series
 
 **11:00am In-person Service**: Join in the auditorium for the 2023 John Series.
 
@@ -37,16 +37,16 @@ Click to join today's **9:00am Live Stream: [Jesus: Week 1 of John Series](https
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 1/10**
+**Tuesday, 1/17**
 
 **9:00am** Live worship in person and online.
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesday, 1/11** Prayer and Worship Gathering at 7 p.m.
+**Wednesday, 1/18** Prayer and Worship Gathering at 7 p.m.
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday, 1/12** 
+**Thursday, 1/19** 
 
 **10:00am** Live worship in person and online.
 
