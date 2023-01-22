@@ -62,11 +62,9 @@ If you need assistance please reach out to us at [help@mariemontchurch.org](http
 
 **Women’s Retreat:**
 
-* Overnight Retreat at Jesuit Center **Feb 3-4, 2023** in the Arrupe Building
+* Overnight Retreat at Jesuit Center **Feb 3-4, 2023**
 
 Click to download the [**Registration Form**](Click to download the [**registration form**](/uploads/2023%20Registration%20Form%20Fillable%20(1)%20(1).pdf).). (or go to the Women's retreat sign-up link on the ministry tab.) 
-
-* Arrupe Building Houses 54 Women
 
 * Focus is Practicing Rest on Sabbath Rest, Guided Prayer, Worship, Prayer Teams, Etc.
 
