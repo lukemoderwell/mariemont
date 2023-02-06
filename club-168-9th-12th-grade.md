@@ -20,9 +20,9 @@ layout: page
 
 **Sundays at 11:00 am Youth Alpha is happening!**
 
-• In the Youth Room
+`• In the Youth Room
 • Encounter Jesus!
-• Alpha creates space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.
+• Alpha creates space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.`
 
 ### What We Believe About Students
 
