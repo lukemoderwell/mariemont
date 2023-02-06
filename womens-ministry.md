@@ -53,19 +53,6 @@ The J.O.Y. (Just Older Youth) Luncheon is not meeting at this time. We will post
 
 Mariemont Church Women’s Retreat is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
 
-**Women’s Retreat:**
-
-* Overnight Retreat at Jesuit Center **Feb 3-4, 2023 **in the Arrupe Building
-
-Click to download the [**Registration Form**](Click to download the [**registration form**](/uploads/2023%20Registration%20Form%20Fillable%20(1)%20(1).pdf).). (or go to the Women's retreat sign-up link on the ministry tab.) 
-
-* Arrupe Building Houses 54 Women
-
-* Focus is Practicing Rest on Sabbath Rest, Guided Prayer, Worship, Prayer Teams, Etc.
-
-* $80.00 - Cash, check, or Venmo @Paula-Ayer-1
-
-We look forward to seeing you soon!
 
 If you have any questions, please contact Paula Ayer.
 
