@@ -16,7 +16,7 @@ lead_in: Mariemont church is committed to building the lives of teenagers in Cin
 layout: page
 ---
 
-### Sunday Morning Youth Meetings
+### Sunday Morning Youth
 
 **Sundays at 11:00 am Youth Alpha is happening!**
 • In the Youth Room
