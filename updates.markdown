@@ -9,15 +9,15 @@ heading: What's Happening at MCC
 layout: page-no-hero
 ---
 
-## Events and Announcements
+##Events and Announcements
 
 **Weekly Sunday Schedule**
 
-**Services are in person at 9:00am and 11:00am** The 9 a.m. service is also live-streamed on YouTube and Facebook.
+**Services are in person at 9:00am and 11:00am** The 9am service is also live-streamed on YouTube and Facebook.
 
 **John** is our current sermon series.
 
-Livestream at 9:00am only. Children's classes at 9:00 and 11:00am. Youth meet at 11:00 am during the 11:00 a.m. service in the Youth Room.
+Livestream at 9am only. Children's classes at 9am and 11am. Youth meet at 11am during the 11am service in the Youth Room.
 
 **February**
 
@@ -43,14 +43,14 @@ Click here for our YouTube Channel to watch any videos you may have missed:
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesday, 1/25** Prayer and Worship Gathering at 7 p.m.
+**Wednesdays** Prayer and Worship Gathering at 7:00 - 8:30pm
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday, 1/26** 
+**Thursday** 
 
-**10:00am** Live worship in person and online.
+**10:00am - 11:00am** Live worship in person and online.
 
-**May 7** The Flying Pig Bacon Station Outreach! No services today. Church will be outside along the marathon path!  Super fun stuff for our kids to do and a time to engage with our community!
+**May 7** The Flying Pig Bacon Station Outreach! **No services today.** Church will be outside along the marathon path!  Super fun stuff for our kids to do and a time to engage with our community!
 
 **March 11-12** Family event coming up!  Details coming SOON!
 
