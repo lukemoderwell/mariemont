@@ -2,6 +2,7 @@
 title: Women's Retreat Signup
 date: 2018-11-28 10:28:00 -05:00
 permalink: "/womens-retreat-signup/"
+published: false
 position: 11
 is_ministry: true
 hero_image: "/uploads/Screenshot%202023-01-12%20at%202.27.19%20PM.png"
