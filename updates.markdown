@@ -39,8 +39,6 @@ Click to join today's **9:00am Live Stream: [Jesus: Old and New Temples
 Click here for our YouTube Channel to watch any videos you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
-**Tuesday, 1/24**
-
 **9:00am** Live worship in person and online.
 
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
@@ -52,9 +50,13 @@ Join us for worship, prayer, and ministry time. Kids welcome!
 
 **10:00am** Live worship in person and online.
 
-If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [terri@mariemontchurch.org](http://terri@mariemontchurch.org) and we will reply ASAP.
+**March 11-12** Family event coming up!  Details coming SOON!
 
-If you need assistance please reach out to us at [help@mariemontchurch.org](http://help@mariemontchurch.org)
+**May 7** The Flying Pig Bacon Station Outreach! No services today. Church will be outside along the marathon path!  Super fun stuff for our kids to do and a time to engage with our community!
+
+If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [nancy@mariemontchurch.org](http://nancy@mariemontchurch.org) and we will reply ASAP.
+
+If you need assistance please reach out to us at [info@mariemontchurch.org](http://info@mariemontchurch.org)
 
 
 
