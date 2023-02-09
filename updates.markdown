@@ -50,9 +50,9 @@ Join us for worship, prayer, and ministry time. Kids welcome!
 
 **10:00am** Live worship in person and online.
 
-**March 11-12** Family event coming up!  Details coming SOON!
-
 **May 7** The Flying Pig Bacon Station Outreach! No services today. Church will be outside along the marathon path!  Super fun stuff for our kids to do and a time to engage with our community!
+
+**March 11-12** Family event coming up!  Details coming SOON!
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [nancy@mariemontchurch.org](http://nancy@mariemontchurch.org) and we will reply ASAP.
 
