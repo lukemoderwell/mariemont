@@ -17,7 +17,7 @@ layout: page-no-hero
 <div id="mc_embed_signup">
 <form action="//mariemontchurch.us4.list-manage.com/subscribe/post?u=44594b4e79df4aa51a8918830&amp;id=4ab825b0c1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to get MCC weekly updates!</h2>
+	<h2>Subscribe to get Mariemont Churh weekly updates!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
