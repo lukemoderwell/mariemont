@@ -10,5 +10,5 @@ layout: home
 ---
 
 
-
+> Learning to live freely and lightly with Jesus.
 
