@@ -10,5 +10,5 @@ layout: home
 ---
 
 "Are you tired? Worn out? Burned out on religion? ... Keep company with me and you'll learn to live freely and lightly."  
-- Jesus (Matt. 11:28-30)
+                                        - Jesus (Matt. 11:28-30)
 
