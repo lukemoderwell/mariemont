@@ -9,7 +9,7 @@ heading: What's Happening at MCC
 layout: page-no-hero
 ---
 
-##Events and Announcements
+## Events and Announcements
 
 **Weekly Sunday Schedule**
 
