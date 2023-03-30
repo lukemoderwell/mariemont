@@ -63,7 +63,7 @@ Here at Mariemont Church, we deeply value community.  In order for our families 
 
 ### **May 2023**
 
-*** May 7 - Church at the Flying Pig.** Join us for our 10th Annual Bacon Station Extravaganza! Activities for the kids and lots and lots of bacon to hand out to runners!
+*** May 7 - Church at the Flying Pig.** Join us for our 10th Annual Bacon Station Extravaganza! Activities for the kids and lots and lots of bacon to hand out to runners! The Church is Leaving the Building!
 
 **Note**: All details are subject to change (and often do!). If you would like to keep up-to-date on all things Kingdom Kids, contact Katie Smith at 513-205-8539 or katie@mariemontchurch.org and she'll put you on her Kingdom Kids email list. She'd love to hear from you!  
 
