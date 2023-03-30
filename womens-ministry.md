@@ -49,7 +49,7 @@ Information about the 2024 Retreat will be posted here, when available.
 Contact: Teresa Earhart -  ttearhart@gmail.com
 
 
-# Serve
+## Connect and Serve
 
 Everyone is encouraged to utilize their spiritual gifts and serve God in many capacities in the church, whether in the office, teaching children, worship team, or many other areas. There are several specific areas of service:
 
