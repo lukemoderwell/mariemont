@@ -59,5 +59,5 @@ Here at Mariemont Church, we deeply value community.  In order for our families 
 
 ### **April 2023**
 
-**April 16 - Baby Dedications during the services.** Contact Katie Smith at katie@mariemontchurch.org to sign up or receive more information.
+*** April 16 - Baby Dedications during the services.** Contact Katie Smith at katie@mariemontchurch.org to sign up or receive more information.
 
