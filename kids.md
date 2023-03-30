@@ -36,17 +36,21 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 * **Early Elementary** (1st-3rd grade) - Room 103
 
 
+
+
 ### **11:00 Service**
 * **Nursery** (0-35 months) - Room 107
 * **Pre-K & Kindergarten** (3-6 year olds) - Room 105
 * **Early Elementary** (1st-3rd grade) - Room 103
 * **Upper Elementary** (4th-6th grade) - 3rd floor, Room 311
 
-**Pick-Up**:  Be sure to keep your parent badge for pick up after the service.
+
+
+**Pick-Up**:  Be sure to keep your parent badge for pick up after the service. To be kind to our teachers and child care helpers, we try to make sure kids are picked up by 10:20 a.m. after the 9:00 Service, and picked up by 12:20 p.m. after the 11:00 service.  Sometimes the Spirit leads and the service is not yet over by those times, but people will understand if you sneak out quietly before it's over.  You can return to the service with your child!
 
 Note: Sometimes due to circumstances we cannot control, we need to cancel a class on Sunday mornings.  Check with the Connect Desk in the Main Floor Lobby or the Welcome Center on the Lower/1st Floor to find out if your class has been cancelled.
 
-***For the families that consider MCC their home, be ready to engage with our kids Sunday mornings! We need greeters, teachers, teaching assistants, nursery care along with outreach dreamers!  Our goal is 100% volunteer participation from each of our families!
+***For the families that consider Mariemont Church their home, be ready to engage with our kids Sunday mornings! We need greeters, teachers, teaching assistants, nursery care along with outreach dreamers!  Our goal is 100% volunteer participation from each of our families!
 
 **Beyond Sundays**
 Here at Mariemont Church, we deeply value community.  In order for our families to experience deeper relationships between parents, church members and our children, we create space for engagement outside of Sunday mornings.  
