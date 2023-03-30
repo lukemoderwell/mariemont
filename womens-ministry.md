@@ -48,11 +48,6 @@ The 2023 Retreat was held on February 3-4 at the Jesuit Spiritual Center in Milf
 Information about the 2024 Retreat will be posted here, when available.
 Contact: Teresa Earhart -  ttearhart@gmail.com
 
-### Women’s Retreat
-
-Mariemont Church Women’s Retreat is to help women grow in their faith by focusing on a topic and building relationships among women. The retreat environment enables connections, trust and deeper sharing among the women.
-
-If you have any questions, please contact Paula Ayer at ayerpaula@gmail.com.
 
 # Serve
 
