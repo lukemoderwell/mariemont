@@ -24,7 +24,7 @@ Kingdom Kids is a place where our kids are given the opportunity to encounter an
 
 **‘In the last days, God says, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your young men will see visions, your old men will dream dreams.’ Acts 2:17**
 
-#### Is this your first time?
+**#### Is this your first time?**
 Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s voices) will direct you to the correct spot. You can also park around the back of the building and enter through the Kids Entrance with the awning (closer to the tennis courts). Receive security name badges, and walk with your child to their classroom. A friendly Supervisor is on hand to help you find your way.
 
 ## 2023 Sunday Morning Class Offerings
