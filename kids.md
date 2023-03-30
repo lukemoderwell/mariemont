@@ -14,6 +14,7 @@ layout: page
 ---
 
 ## Welcome to Kingdom Kids!
+![Kingdom K Logo.png](/uploads/Kingdom%20K%20Logo.png)
 
 Kingdom Kids is a place where our kids are given the opportunity to encounter and know Jesus so they can be empowered by the Spirit to bring the Kingdom of God to those around them.
 
@@ -30,9 +31,9 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 
 
 **9:00 Service** 
-* Nursery (0-35 months) - Room 107
-* Pk&K (3-6 year olds) - Room 105
-* Early Elementary (1st-3rd grade) - Room 103
+* **Nursery** (0-35 months) - Room 107
+* **Pre-K & Kindergarten** (3-6 year olds) - Room 105
+* **Early Elementary** (1st-3rd grade) - Room 103
 
 
 **11:00 Service**
