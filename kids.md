@@ -13,7 +13,6 @@ lead_in: " Jesus loves your kids, and He wants them to experience it!\n"
 layout: page
 ---
 
-
 ![Untitled design.png](/uploads/Untitled%20design.png)
 ## Welcome to Kingdom Kids!
 
