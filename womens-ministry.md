@@ -22,7 +22,6 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 For over 20 years, this study has been held on Tuesday mornings 9:15-11:30am.
 
-Fall studies begin on Tuesdays at 9:15 a.m.
 
 Study Offerings Include:
 
