@@ -13,10 +13,15 @@ layout: page-no-hero
 
 **Sunday**
 
-**Services are in person at 9:00am and 11:00am** 
-The 9am service is also live-streamed on YouTube and Facebook.
-
 **The Book of John** is our current sermon series.
+
+**9:00 a.m. Service in the Sanctuary** 
+The 9am service is also live-streamed on YouTube and [Facebook](https://www.facebook.com/mariemontchurch).
+
+**9:00 a.m. Kingdom Kids, for infants through grade 6.  
+
+**11:00 a.m. Service in the Sanctuary**
+
 
 Livestream at 9am only. Children's classes at 9am and 11am. Youth meet at 11am during the 11am service in the Youth Room.
 
