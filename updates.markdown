@@ -9,7 +9,7 @@ heading: What's Happening at MCC
 layout: page-no-hero
 ---
 
-## Events and Announcements
+## Weekly Schedule
 
 **Weekly Sunday Schedule**
 
@@ -20,7 +20,7 @@ The 9am service is also live-streamed on YouTube and Facebook.
 
 Livestream at 9am only. Children's classes at 9am and 11am. Youth meet at 11am during the 11am service in the Youth Room.
 
-**February**
+**March**
 
 **Sunday, 2/12** 
 
@@ -33,6 +33,7 @@ Click to join today's **9:00am Live Stream: [Jesus: Old and New Temples
 **TIME CHANGE**
 
 **11:10 am Youth Alpha Continues!** 
+
 • In the Youth Room
 • Encounter Jesus!
 • Alpha creates space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.
