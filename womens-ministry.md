@@ -35,6 +35,19 @@ We are exploring the possibility of having childcare for children of preschool a
 If you know of anyone who might be available to babysit, please contact, Barb Leonard, [tombarbleonard@gmail.com.](tombarbleonard@gmail.com)
 
 ### Evening Joy
+1st & 3rd Mondays, 7:00-8:30 PM
+Come and meet with other women for fellowship and discussion, and to grow deeper in your faith. 
+The current study, Friendship with God, by Pastor Jamie Moore, began in September 2022 and continues through May 2023. 
+Contact: Paula Ayer - ayerpaula@gmail.com
+
+### Annual Women’s Retreat
+The goals of the Women’s Retreat are to provide an opportunity for women to grow in their faith and to connect and build relationships with other women. Retreat dates are typically in early-to-mid February. 
+The 2023 Retreat was held on February 3-4 at the Jesuit Spiritual Center in Milford, Ohio. The topic was Practicing Rest in the Lord.
+Information about the 2024 Retreat will be posted here, when available. 
+Contact: Teresa Earhart -  ttearhart@gmail.com
+
+
+
 
 **Mondays, 7:00 p.m.** Fall study is under way and continues to meet the 1st and 3rd Mondays through May from 7:00-8:30 p.m. in the Emery Room of the Parish Center during the school year.
 
