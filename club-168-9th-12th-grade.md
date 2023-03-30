@@ -29,7 +29,11 @@ Next Chapter offers space for honest conversation around some of life’s bigges
 
 **Sundays at 11:00 am!**
 * In the 3RD floor Youth Room
-* Encounter Jesus!
+
+**Thursdays at 7:00 pm!**
+* In the 3RD floor Youth Room
+
+
 
 ### What We Believe About Students
 
