@@ -30,7 +30,7 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 ## 2023 Sunday Morning Class Offerings
 
 
-**9:00 Service** 
+## **9:00 Service** 
 * **Nursery** (0-35 months) - Room 107
 * **Pre-K & Kindergarten** (3-6 year olds) - Room 105
 * **Early Elementary** (1st-3rd grade) - Room 103
