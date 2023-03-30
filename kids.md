@@ -13,7 +13,7 @@ lead_in: " Jesus loves your kids, and He wants them to experience it!\n"
 layout: page
 ---
 
-# Welcome to Mariemont Church’s Kingdom Kids!
+# Welcome to Kingdom Kids!
 
 Kingdom Kids is a place where our kids are given the opportunity to encounter and know Jesus so they can be empowered by the Spirit to bring the Kingdom of God to those around them.
 
