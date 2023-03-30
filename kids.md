@@ -13,7 +13,7 @@ lead_in: " Jesus loves your kids, and He wants them to experience it!\n"
 layout: page
 ---
 
-![Untitled design.png](/uploads/Untitled%20design.png)
+![Kingdom Kids Logo (300 × 300 px).png](/uploads/Kingdom%20Kids%20Logo%20(300%20%C3%97%20300%20px).png)
 ## Welcome to Kingdom Kids!
 
 Kingdom Kids is a place where our kids are given the opportunity to encounter and know Jesus so they can be empowered by the Spirit to bring the Kingdom of God to those around them.
