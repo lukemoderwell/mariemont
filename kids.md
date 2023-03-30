@@ -55,7 +55,7 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 For the families that consider Mariemont Church their home, be ready to engage with our kids Sunday mornings! We need greeters, teachers, teaching assistants, nursery care along with outreach dreamers!  Our goal is 100% volunteer participation from each of our families!
 
 ##  Beyond Sundays
-Here at Mariemont Church, we deeply value community.  In order for our families to experience deeper relationships between parents, church members and our children, we create space for engagement outside of Sunday mornings.  Watch this space for news about Kingdom Kids gatherings and events.
+Here at Mariemont Church, we deeply value community.  In order for our families to experience deeper relationships between parents, church members, and our children, we create space for engagement outside of Sunday mornings.  Watch this space for news about Kingdom Kids gatherings and events.
 
 ### **April 2023**
 
