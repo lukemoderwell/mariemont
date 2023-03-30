@@ -36,6 +36,7 @@ If you know of anyone who might be available to babysit, please contact, Barb Le
 1st & 3rd Mondays, 7:00-8:30 PM
 Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
 The current study, Friendship with God, by Pastor Jamie Moore, began in September 2022 and continues through May 2023.
+
 Contact: Paula Ayer - ayerpaula@gmail.com
 
 ### Annual Women’s Retreat
