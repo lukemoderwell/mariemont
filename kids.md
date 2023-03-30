@@ -17,11 +17,9 @@ layout: page
 
 Kingdom Kids is a place where our kids are given the opportunity to encounter and know Jesus so they can be empowered by the Spirit to bring the Kingdom of God to those around them.
 
-*Our kids get to know God as Father, Friend and Savior.
-
-*We surround our kids with adults who love Jesus and who love them.
-
-*We have FUN!
+* Our kids get to know God as Father, Friend and Savior.
+* We surround our kids with adults who love Jesus and who love them.
+* We have FUN!
 
 ‘In the last days, God says, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your young men will see visions, your old men will dream dreams.’ Acts 2:17
 
