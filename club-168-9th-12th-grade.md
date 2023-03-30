@@ -18,7 +18,7 @@ layout: page
 
 ### Sunday Morning Youth
 
-**Sundays at 11:00 am Youth Alpha is happening!**
+**Sundays at 11:00 am!**
 
 `• In the Youth Room
 • Encounter Jesus!
