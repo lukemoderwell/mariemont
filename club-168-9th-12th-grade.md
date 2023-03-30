@@ -35,7 +35,9 @@ Next Chapter offers space for honest conversation around some of life’s bigges
 * In the 3RD floor Youth Room
 
 
-
+**Fourth Friday Night Hangouts at 7:00 pm!**
+* In the 3RD floor Youth Room or sometimes elsewhere
+* Every 4th Friday of the month
 
 ### What We Believe About Students
 
