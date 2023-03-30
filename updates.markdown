@@ -11,7 +11,7 @@ layout: page-no-hero
 
 ## Weekly Schedule
 
-**Weekly Sunday Schedule**
+**Sunday**
 
 **Services are in person at 9:00am and 11:00am** 
 The 9am service is also live-streamed on YouTube and Facebook.
