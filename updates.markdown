@@ -11,7 +11,7 @@ layout: page-no-hero
 
 ## Weekly Schedule
 
-**Sunday**
+**SUNDAY**
 
 **The Book of John** is our current sermon series.
 
@@ -25,9 +25,8 @@ The 9am service is also live-streamed on YouTube and [Facebook](https://www.face
 
 Livestream at 9am only. Children's classes at 9am and 11am. Youth meet at 11am during the 11am service in the Youth Room.
 
-**March**
 
-**Sunday, 2/12** 
+
 
 **Welcome to Sunday Worship Service** 
 
