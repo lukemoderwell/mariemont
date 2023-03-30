@@ -45,7 +45,7 @@ Did you know that the first youth pastor in the Christian church may have been J
 
 The main point we draw from this is that there is no junior Holy Spirit. The Father is happy to use anyone who makes themselves available for kingdom works; so when we look at our students, we see Disciples of Jesus with gifting, power, authority, and purpose as disciples of Jesus.
 
-### **Coming to Our Meetings?**
+### **What are our meetings like?**
 
 We meet on Sunday mornings immediately after the 11:00 service from 12:30 p.m. - 2:00 p.m. on the second floor of the Parish Center. A typical meeting consists of food and drinks, some fun games, worship, sharing, and small group breakouts. Many times in these small groups students will encourage, listen to, and pray for each other.
  
