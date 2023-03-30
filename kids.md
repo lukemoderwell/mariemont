@@ -44,6 +44,8 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 
 **Pick-Up**:  Be sure to keep your parent badge for pick up after the service.
 
+Note: Sometimes due to circumstances we cannot control, we need to cancel a class on Sunday mornings.  Check with the Connect Desk in the Main Floor Lobby or the Welcome Center on the Lower/1st Floor to find out if your class has been cancelled.
+
 ***For the families that consider MCC their home, be ready to engage with our kids Sunday mornings! We need greeters, teachers, teaching assistants, nursery care along with outreach dreamers!  Our goal is 100% volunteer participation from each of our families!
 
 **Beyond Sundays**
