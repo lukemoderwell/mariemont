@@ -34,13 +34,10 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 * Early Elementary (1st-3rd grade) - Room 103
 
 **11:00 Service**
-Nursery (0-35 months) - Room 107
-
-Pk&K (3-6 year olds) - Room 105
-
-Early Elementary (1st-3rd grade) - Room 103
-
-Upper Elementary (4th-6th grade) - 3rd floor, Room 311
+* Nursery (0-35 months) - Room 107
+* Pk&K (3-6 year olds) - Room 105
+* Early Elementary (1st-3rd grade) - Room 103
+* Upper Elementary (4th-6th grade) - 3rd floor, Room 311
 
 **Pick-Up**:  Be sure to keep your parent badge for pick up after the service.
 
