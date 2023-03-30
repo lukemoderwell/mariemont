@@ -25,6 +25,8 @@ Next Chapter offers space for honest conversation around some of life’s bigges
 * LEARNING!
 * GROWING IN RELATIONSHIP WITH JESUS!
 
+### When do we meet?
+
 **Sundays at 11:00 am!**
 
 * In the 3RD floor Youth Room
