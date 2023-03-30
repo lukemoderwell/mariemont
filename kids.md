@@ -13,7 +13,7 @@ lead_in: " Jesus loves your kids, and He wants them to experience it!\n"
 layout: page
 ---
 
-**Welcome to Mariemont Church’s Kingdom Kids!**
+## Welcome to Mariemont Church’s Kingdom Kids!
 
 Kingdom Kids is a place where our kids are given the opportunity to encounter and know Jesus so they can be empowered by the Spirit to bring the Kingdom of God to those around them.
 
@@ -28,14 +28,12 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 
 ## 2023 Class Offerings
 
-**First Service** 
-Nursery (0-35 months) - Room 107
+**9:00 Service** 
+* Nursery (0-35 months) - Room 107
+* Pk&K (3-6 year olds) - Room 105
+* Early Elementary (1st-3rd grade) - Room 103
 
-Pk&K (3-6 year olds) - Room 105
- 
-Early Elementary (1st-3rd grade) - Room 103
-
-**Second Service**
+**11:00 Service**
 Nursery (0-35 months) - Room 107
 
 Pk&K (3-6 year olds) - Room 105
