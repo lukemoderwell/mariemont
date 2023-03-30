@@ -28,6 +28,7 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 
 ## 2023 Class Offerings
 
+
 **9:00 Service** 
 * Nursery (0-35 months) - Room 107
 * Pk&K (3-6 year olds) - Room 105
