@@ -36,7 +36,7 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 * **Early Elementary** (1st-3rd grade) - Room 103
 
 
-**11:00 Service**
+### **11:00 Service**
 * **Nursery** (0-35 months) - Room 107
 * **Pre-K & Kindergarten** (3-6 year olds) - Room 105
 * **Early Elementary** (1st-3rd grade) - Room 103
