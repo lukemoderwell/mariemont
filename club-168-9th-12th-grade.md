@@ -16,7 +16,7 @@ lead_in: Mariemont church is committed to building the lives of teenagers in Cin
 layout: page
 ---
 
-### NEXT CHAPTER YOUTH GATHERINGS
+### NEXT CHAPTER YOUTH GROUP
 Next Chapter offers space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.
 
 **Key values for gatherings?**
