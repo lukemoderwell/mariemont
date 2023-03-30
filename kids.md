@@ -14,7 +14,7 @@ layout: page
 ---
 
 
-![Kingdom K Logo.png](/uploads/Kingdom%20K%20Logo.png)
+![Untitled design.png](/uploads/Untitled%20design.png)
  ## Welcome to Kingdom Kids!
 
 Kingdom Kids is a place where our kids are given the opportunity to encounter and know Jesus so they can be empowered by the Spirit to bring the Kingdom of God to those around them.
