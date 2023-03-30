@@ -20,7 +20,7 @@ layout: page
 
 **Sundays at 11:00 am!**
 
-`• In the Youth Room
+`• In the 3RD floor Youth Room
 • Encounter Jesus!
 • Next Chapter offers space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.`
 
