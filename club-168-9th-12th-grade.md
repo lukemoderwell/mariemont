@@ -17,12 +17,18 @@ layout: page
 ---
 
 ### NEXT CHAPTER YOUTH GATHERINGS
+Next Chapter offers space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.
+
+**Key values for gatherings?**
+* FUN!
+* COMMUNITY!
+* LEARNING!
+* GROWING IN RELATIONSHIP WITH JESUS!
 
 **Sundays at 11:00 am!**
 
-`• In the 3RD floor Youth Room
-• Encounter Jesus!
-• Next Chapter offers space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.`
+* In the 3RD floor Youth Room
+* Encounter Jesus!
 
 ### What We Believe About Students
 
