@@ -13,9 +13,10 @@ layout: page-no-hero
 
 **Weekly Sunday Schedule**
 
-**Services are in person at 9:00am and 11:00am** The 9am service is also live-streamed on YouTube and Facebook.
+**Services are in person at 9:00am and 11:00am** 
+The 9am service is also live-streamed on YouTube and Facebook.
 
-**John** is our current sermon series.
+**The Book of John** is our current sermon series.
 
 Livestream at 9am only. Children's classes at 9am and 11am. Youth meet at 11am during the 11am service in the Youth Room.
 
