@@ -22,7 +22,7 @@ layout: page
 
 `• In the Youth Room
 • Encounter Jesus!
-• Alpha creates space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.`
+• Next Chapter offers space for honest conversation around some of life’s biggest questions, providing opportunity to connect and share ideas and opinions in a safe and caring environment.`
 
 ### What We Believe About Students
 
