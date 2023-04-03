@@ -1,5 +1,5 @@
 ---
-title: Acts 29 Student Ministries (7th -12th Grade)
+title: Next Chapter Youth Ministry
 date: 2017-03-19 19:51:00 -04:00
 permalink: "/club-168/"
 position: 13
