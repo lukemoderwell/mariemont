@@ -1,7 +1,7 @@
 ---
 title: Next Chapter Youth Ministry
 date: 2017-03-19 19:51:00 -04:00
-permalink: "/club-168/"
+permalink: "/youth-ministry/"
 position: 13
 is_ministry: true
 hero_image: "/uploads/denis-teaching.jpg"
