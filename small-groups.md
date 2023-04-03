@@ -12,8 +12,8 @@ layout: page
 
 To be a disciple of Jesus, we realize that we need to constantly grow. A practical way that happens around here is through small groups. We desire people to learn that being the church is not just worshiping for 1 hour on a Sunday morning, but it's seeking His Kingdom daily through community.
 
-| Location                     | Time                 | Host                                              |
-| ---------------------------  | :--------------------: | --------------------------------------------------|
+| Location                     | Time                 | Host         | Contact                                     |
+| ---------------------------  | :--------------------: | --------------------------------------------------| 
 | MC Library                  | Sundays, 11:00AM    | [The Swifts](mailto:zekeswift@gmail.com)      |
 | Madiera                   | Mondays, 6:00PM     | [The Huizengas](mailto:huizenb@gmail.com)      |
 | Northern Kentucky               | Mondays, 6:30PM    | [The Treases](mailto:aaronrgrs7@gmail.com)     |
