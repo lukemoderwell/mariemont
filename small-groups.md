@@ -14,6 +14,8 @@ To be a disciple of Jesus, we realize that we need to constantly grow. A practic
 
 Below are existing small groups that would love to welcome you.  Just contact the host to arrange a visit.  Or, if you have or want to start your own group, contact Paul Rasmussen at paul@mariemontchurch.org.  He'd also love to answer any questions you may have about each group.
 
+## SMALL GROUPS
+
 **Sundays**
 11:00AM-12:15PM, 4x/month: Mixed group; childcare available; MC-Library; Contact Zeke and Beth Swift: zekeswift@gmail.com
 
