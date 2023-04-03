@@ -73,11 +73,8 @@ layout: default
         </a>
         <div class="featSermon_desc">{{ current_sermon.content | markdownify | truncate: 140, '...' }}</div>
         {% if current_sermon.audio_file != '' %}
-        <audio controls preload src="{{ current_sermon.audio_file }}"></audio>
+          <audio controls preload src="{{ current_sermon.audio_file }}"></audio>
         {% endif %}
-        <a href="{{ current_sermon.brochure_file }}" class="featSermon_cta">Download Program</a> | <a href="/media"
-          class="featSermon_cta">See
-          All Sermons</a>
       </div>
     </section>
   </div>
