@@ -31,8 +31,9 @@ The current study, Friendship with God, by Pastor Jamie Moore, began in Septembe
 Contact: Paula Ayer - ayerpaula@gmail.com
 
 **Tuesdays**
-
-
+9:15-11:30am Morning Joy!
+Women's ministry's long-running Tuesday morning gathering. Child care available for $5 per child per session.
+Contact, Barb Leonard, [tombarbleonard@gmail.com.](tombarbleonard@gmail.com)
 
 **Tuesdays**
 7:00-8:30PM, 4x/month; Mixed group; Indian Hill and nearby; Contact Mike and Lissa Cambron: mikecambron43@gmail.com
