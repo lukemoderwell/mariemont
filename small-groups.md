@@ -12,6 +12,8 @@ layout: page
 
 To be a disciple of Jesus, we realize that we need to constantly grow. A practical way that happens around here is through small groups. We desire people to learn that being the church is not just worshiping for 1 hour on a Sunday morning, but it's seeking His Kingdom daily through community.
 
+Below are existing small groups that would love to welcome you.  Just contact the host to arrange a visit.  Or, if you have or want to start your own group, contact Paul Rasmussen at paul@mariemontchurch.org.  He'd also love to answer any questions you may have about each group.
+
 | Location                     | Time                 | Host         | Contact                                     |
 | ---------------------------  | :--------------------: | --------------------------------------------------| 
 | MC Library                  | Sundays, 11:00AM    | [The Swifts](mailto:zekeswift@gmail.com)      |
