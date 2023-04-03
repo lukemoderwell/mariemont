@@ -25,7 +25,7 @@ Below are existing small groups that would love to welcome you.  Just contact th
 
 **Mondays**
 1st & 3rd Mondays, 7:00-8:30 PM
-Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
+Evening Joy! Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
 The current study, Friendship with God, by Pastor Jamie Moore, began in September 2022 and continues through May 2023.
 
 Contact: Paula Ayer - ayerpaula@gmail.com
