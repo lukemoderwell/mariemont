@@ -18,7 +18,7 @@ layout: page-no-hero
 **9:00 a.m. Service in the Sanctuary** 
 The 9am service is also live-streamed on YouTube and [Facebook](https://www.facebook.com/mariemontchurch).
 
-**9:00 a.m. Kingdom Kids, for infants through grade 6.  
+**9:00 a.m. Kingdom Kids**, for infants through grade 6.  
 
 **11:00 a.m. Service in the Sanctuary**
 
