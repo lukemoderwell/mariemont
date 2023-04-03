@@ -24,6 +24,14 @@ Below are existing small groups that would love to welcome you.  Just contact th
 6:30-9:00 PM Weekly; 20s and 30s; Deer Park; Contact Michael and Faith George: Text/Call Michael George at 513-287-9748 or email at michael.george@kleingers.com
 
 **Mondays**
+1st & 3rd Mondays, 7:00-8:30 PM
+Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
+The current study, Friendship with God, by Pastor Jamie Moore, began in September 2022 and continues through May 2023.
+
+Contact: Paula Ayer - ayerpaula@gmail.com
+
+**Tuesdays**
+
 
 
 **Tuesdays**
