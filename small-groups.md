@@ -18,10 +18,10 @@ Below are existing small groups that would love to welcome you.  Just contact th
 11:00AM-12:15PM, 4x/month: Mixed group; childcare available; MC-Library; Contact Zeke and Beth Swift: zekeswift@gmail.com
 
 **Mondays**
-6:30-9:00PM, weekly; Mixed group; no childcare available; Madison Place Coffee Shop; Contact Michael and Judy Belanger: chefbelanger@hotmail.com
+6:30-9:00PM, weekly; Mixed group; no childcare available; Madison Place Coffee Shop in Mariemont; Contact Michael and Judy Belanger: chefbelanger@hotmail.com
 
 **Mondays**
-6:30-9:00 PM Weekly; 20s and 30s; Deer Park; Contact Michael and Faith George: Text/Call Michael at 513-287-9748 or email at michael.george@kleingers.com
+6:30-9:00 PM Weekly; 20s and 30s; Deer Park; Contact Michael and Faith George: Text/Call Michael George at 513-287-9748 or email at michael.george@kleingers.com
 
 **Tuesdays**
 7:00-8:30PM, 4x/month; Mixed group; Indian Hill and nearby; Contact Mike and Lissa Cambron: mikecambron43@gmail.com
