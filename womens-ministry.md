@@ -13,7 +13,7 @@ layout: page
 
 ## A Vision to Encourage and Equip
 
-The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another. Additionally, Women’s Ministries strives to help women mature in their faith by strengthening the bonds with one another.
+The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another. 
 
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible-based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
