@@ -59,7 +59,9 @@ Because a popular local chain of resale shops gives The Family Shop donations of
 
 In addition to those in the neighborhood around the church, it's a popular shopping spot for missionaries on furlough or those attending EMI (Equipping Ministries International) workshops.
 
-The Family Shop volunteers use this clothing ministry as a means of reaching people by providing needed clothing and, as opportunities arise, sharing the Gospel message. The proceeds of the sales are used to support the Women's ministry, support missionary organizations such Navigators and Cru, to outreach to under-served women in the local community (ie. Tapestry of Love Prison Ministries), and also fund projects within Mariemont Church.
+The Family Shop volunteers use this clothing ministry as a means of reaching people by providing needed clothing and, as opportunities arise, sharing the Gospel message. 
+
+The proceeds of the sales are used to support the Women's ministry, support missionary organizations such Navigators and Cru, to outreach to under-served women in the local community (ie. Tapestry of Love Prison Ministries), and also fund projects within Mariemont Church.
 
 The Family Shop, located on the North corner of the first floor (basement), is open the second and fourth Saturdays of each month from 10 a.m. until noon.  You can arrange a personal appointement between 8:30 and 10:00 a.m. by visiting facebook.com/mariemontcommunitychurch 
 
