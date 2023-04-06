@@ -46,7 +46,5 @@ Contact Tom Dewey at [dewdini@yahoo.com](dewdini@yahoo.com)
 
 **Current open Men’s small groups:**
 
-Thursday Morning Bible Study: 6-7:15 a.m. 
-
-Friday Morning Men’s Study: 6:30 a.m. Beginning a review of the book review the book *God’s Pursuit of Man*.
+Friday Morning Men’s Study: 6:30 a.m. Beginning a review of the book *God’s Pursuit of Man*.
 Join any time!
