@@ -65,14 +65,14 @@ The proceeds of the sales are used to support the Women's ministry, support miss
 
 The Family Shop, located on the North corner of the first floor (basement), is open the second and fourth Saturdays of each month from 10 a.m. until noon.  You can arrange a personal appointement between 8:30 and 10:00 a.m. by visiting facebook.com/mariemontcommunitychurch 
 
-### Take Them A Meal (Food Chain)
+### Take Them A Meal Food Ministry
 
-Take Them A Meal is an outreach food ministry to MC church members and attenders who are in need of meals on a temporary basis due to surgery, illness, newborns, bereavement, moving, etc.
+Take Them A Meal is an outreach food ministry to MC church members and attenders who are in need of meals on a temporary basis due to difficult life circumstances such as surgery, illness, newborns, bereavement, moving, etc.
 
 Those in need can contact:
 Samantha Treas at Samantha.treas@gmail.com or Lynn Robinson at lcrobbie5@gmail.com.
 
-Scheduling will be set up on the Internet through Takethemameal.com, and volunteers are advised of the specific needs and sign up accordingly. Three meals per week for two weeks are provided, but additional meals can be requested.
+Scheduling will be set up on the internet through TakeThemAMeal.com. Volunteers are advised of the specific needs and sign up accordingly. Three meals per week for two weeks are provided, but additional meals can be requested.
 
 ### Tapestry of Love Prison Ministry
 
