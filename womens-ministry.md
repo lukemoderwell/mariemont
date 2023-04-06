@@ -33,9 +33,10 @@ Childcare for children of preschool age and under is available for $5 per child 
 
 1st & 3rd Mondays, 7:00-8:30 PM
 Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
+
 The current study, Friendship with God, by Pastor Jamie Moore, began in September 2022 and continues through May 2023.
 
-Contact: Paula Ayer - ayerpaula@gmail.com
+Contact Paula Ayer at ayerpaula@gmail.com to learn more.
 
 ### Annual Women’s Retreat
 
