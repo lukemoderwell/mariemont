@@ -17,6 +17,8 @@ The vision of the Mariemont Church Women’s Ministry is to encourage women of a
 
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
+## Bible Study and Fellowship
+
 ### Joy In The Morning Bible Study and Fellowship
 
 For over 20 years, this study has been held on Tuesday mornings 9:15-11:30am.
