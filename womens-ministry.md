@@ -27,7 +27,7 @@ Study Offerings Include:
 * Discovery study on the book of Matthew led by Liz Baker
 * *Seasons of God-Spirals of Life* and *Calm Woman in Turbulent Times*, by Barbara Mouser.
 
-Childcare for children of preschool age and under is available for $5 per child per session (13 weeks) so $65 per child for the fall semester. **Please email me Barb Leonard if you are interested.** Her email address is [tombarbleonard@gmail.com](tombarbleonard@gmail.com).
+Childcare for children of preschool age and under is available for $5 per child per session (13 weeks) so $65 per child for the fall semester. **Please email Barb Leonard if you are interested.** Her email address is [tombarbleonard@gmail.com](tombarbleonard@gmail.com).
 
 If you know of anyone who might be available to babysit, please contact, Barb Leonard, [tombarbleonard@gmail.com.](tombarbleonard@gmail.com)
 
