@@ -54,7 +54,7 @@ Everyone is encouraged to utilize their spiritual gifts and serve God in many ca
 
 ### The Family Shop
 
-For over 25 years, Women’s Ministries has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations. 
+For over 25 years, the Mariemont Church Women’s Ministry has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations. 
 
 Because a popular local chain of resale shops gives The Family Shop donations of clothes and other things, the quality of items is often surprisingly good. 
 
