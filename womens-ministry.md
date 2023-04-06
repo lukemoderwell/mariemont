@@ -74,11 +74,11 @@ Samantha Treas at Samantha.treas@gmail.com or Lynn Robinson at lcrobbie5@gmail.c
 
 Scheduling will be set up on the Internet through Takethemameal.com, and volunteers are advised of the specific needs and sign up accordingly. Three meals per week for two weeks are provided, but additional meals can be requested.
 
-### Tapestry of Love (Prison Ministry)
+### Tapestry of Love Prison Ministry
 
-Tapestry of Love is a ministry founded by Sheila Luther, with Teresa Earhart as partner. Our mission is to encourage incarcerated women and show them the unconditional love of Jesus, so they will know that through Jesus, there is restoration and unconditional forgiveness for all who seek Him. This show of love and compassion to the "least of these" is clear in the Bible when Jesus said,  "Whenever you do it for the least of these, you do it for me." (Matthew 25:40)
+Tapestry of Love is a ministry founded by Sheila Luther, with Teresa Earhart as partner. The mission is to encourage incarcerated women and their children by showing them the unconditional love of Jesus. Our prayer is that they will learn that there is restoration and unconditional forgiveness for all who seek Him. Our motivation to serve these women is Jesus Himself. He made it clear that showing love and compassion to the "least of these" is important. "Whenever you do it for the least of these, you do it for me." (Matthew 25:40)
 
-We connect the incarcerated women to the outside world in several ways including school supply mailings to their children. These children are often a forgotten population when their mothers go to prison and leave them behind in someone else’s care. A first day of school without their mother, or spending a holiday without mom, is incredibly sad. Tapestry of Love connects the incarcerated mother, grandmother, or relative with these children not only through school supply mailings, but also with gift mailings at Christmas.  
+Tapestry of Love connects the incarcerated women to the outside world in several ways including school supply mailings to their children. These children are often a forgotten population when their mothers go to prison and leave them behind in someone else’s care. A first day of school without their mother, or spending a holiday without mom, is incredibly sad. Tapestry of Love connects the incarcerated mother, grandmother, or relative with these children not only through school supply mailings, but also with gift mailings at Christmas.  
 
 Caregivers of the children are another focus of our ministry. The Christmas mailings allow us to show love to the inmates' caregivers, supporters, and relatives. Additionally, we help women coming out of prison with clothing and other vital needs to successfully re-enter society. 
 
