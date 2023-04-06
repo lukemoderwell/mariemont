@@ -54,9 +54,11 @@ Everyone is encouraged to utilize their spiritual gifts and serve God in many ca
 
 ### The Family Shop
 
-For over 25 years, Women’s Ministries has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations. Volunteers use this clothing ministry as a means of reaching people by providing needed clothing and as opportunities arise, sharing the Gospel message. The proceeds of the sales are used to support Women’s Ministries, outreach to under-served women in the local community (ie. Prison Ministries – Ohio Reformatory for Women’s Tapestry and Kairos programs) and also for projects within the church.
+For over 25 years, Women’s Ministries has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations. A popular local chain of resale shops gives The Family Shop donations of clothes and other things.  There are a lot of good quality items. It's a popular shopping spot for missionaries on furlough or those attending EMI (Equipping Ministries International) workshops.
 
-The Family Shop, located at the rear of the Parish Center, is open the second and fourth Saturdays of each month from 9 a.m. until noon.
+Volunteers use this clothing ministry as a means of reaching people by providing needed clothing and as opportunities arise, sharing the Gospel message. The proceeds of the sales are used to support the Women's ministry, missionary organizations such Navigators and Cru, to outreach to under-served women in the local community (ie. Tapestry of Love Prison Ministries), and also for projects within the Mariemont Church.
+
+The Family Shop, located on the North corner of the first floor (basement), is open the second and fourth Saturdays of each month from 10 a.m. until noon.  You can arrange a personal appointement between 8:30 and 10:00 a.m. by visiting facebook.com/mariemontcommunitychurch 
 
 ### Take Them A Meal (Food Chain)
 
