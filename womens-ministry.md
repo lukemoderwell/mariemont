@@ -24,7 +24,6 @@ Sharing the goal of having every member grow through participation in Bible stud
 For over 20 years, this study has been held on Tuesday mornings 9:15-11:30am.
 
 Study Offerings Include:
-
 * *Sermon on the Mount*, by Jen Wilkins
 * Discovery study on the book of Matthew led by Liz Baker
 * *Seasons of God-Spirals of Life* and *Calm Woman in Turbulent Times*, by Barbara Mouser.
