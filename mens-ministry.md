@@ -42,11 +42,11 @@ We are a fellowship of men seeking to forge a Christian Brotherhood by ordering 
 
 **Want to get connected, prayer or have a need?**
 
-Contact Rob Seetin at [men@mariemontchurch.org](men@mariemontchurch.org)
+Contact Tom Dewey at [dewdini@yahoo.com](dewdini@yahoo.com)
 
 **Current open Men’s small groups:**
 
-Thursday Morning Bible Study (Zoom): 6-7:15 a.m. 
+Thursday Morning Bible Study: 6-7:15 a.m. 
 
 Friday Morning Men’s Study: 6:30 a.m. Beginning a review of the book review the book *God’s Pursuit of Man*.
 Join any time!
