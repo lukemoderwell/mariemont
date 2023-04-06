@@ -40,7 +40,7 @@ We are a fellowship of men seeking to forge a Christian Brotherhood by ordering 
 
 - Work heartily, as for the Lord not for men. (Col 3:23)
 
-**Want to get connected, prayer or have a need?**
+**Want to get connected, prayer, or have a need?**
 
 Contact Tom Dewey at [dewdini@yahoo.com](dewdini@yahoo.com)
 
