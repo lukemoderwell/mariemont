@@ -24,8 +24,11 @@ Sharing the goal of having every member grow through participation in Bible stud
 This study takes place on Tuesday mornings 9:15-11:30am in the Emery Room (Main/2nd Floor).
 
 Winter Semester **January 17 - May 9 Study Options** Include:
-1. Discovery Study on the book of Matthew led by Liz Baker. No homework required.
-2. Book “The Rest of God” by Mark Buchanan. Restoring your soul by restoring Sabbath- led by Jill Schellhause. Homework is to read one chapter a week.
+
+* Discovery Study on the book of Matthew led by Liz Baker. No homework required.
+
+* Book “The Rest of God” by Mark Buchanan. Restoring your soul by restoring Sabbath- led by Jill Schellhause. Homework is to read one chapter a week.
+
 
 Childcare for children of preschool age and under is available for $5 per child per week with prior notification to Barb Leonard at [tombarbleonard@gmail.com](tombarbleonard@gmail.com)
 
