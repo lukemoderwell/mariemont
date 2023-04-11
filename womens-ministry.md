@@ -23,7 +23,7 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 This study takes place on Tuesday mornings 9:15-11:30am in the Emery Room (Main/2nd Floor).
 
-Winter Semester **January 17 - May 9 Study Options** Include:
+**Winter Semester January 17 - May 9 Study Options Include**:
 
 * Discovery Study on the book of Matthew led by Liz Baker. No homework required.
 
@@ -34,7 +34,8 @@ Childcare for children of preschool age and under is available for $5 per child 
 
 ### Evening Joy
 
-1st & 3rd Mondays, 7:00-8:30 PM in the Emery Room (Main/2nd Floor)
+**1st & 3rd Mondays, 7:00-8:30 PM in the Emery Room (Main/2nd Floor)**
+
 Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
 
 The current study, Friendship with God, by Pastor Jamie Moore, began in September 2022 and continues through May 2023.
