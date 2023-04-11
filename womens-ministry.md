@@ -21,18 +21,17 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 ### Joy In The Morning
 
-For over 20 years, this study has been held on Tuesday mornings 9:15-11:30am.
+This study takes place on Tuesday mornings 9:15-11:30am in the Emery Room (Main/2nd Floor).
 
-Study Offerings Include:
-* *Sermon on the Mount*, by Jen Wilkins
-* Discovery study on the book of Matthew led by Liz Baker
-* *Seasons of God-Spirals of Life* and *Calm Woman in Turbulent Times*, by Barbara Mouser.
+Winter Semester **January 17 - May 9 Study Options** Include:
+1. Discovery Study on the book of Matthew led by Liz Baker. No homework required.
+2. Book “The Rest of God” by Mark Buchanan. Restoring your soul by restoring Sabbath- led by Jill Schellhause. Homework is to read one chapter a week.
 
-Childcare for children of preschool age and under is available for $5 per child per session (13 weeks) so $65 per child for the fall semester. Email Barb Leonard if you are interested or know of anyone who might be available to babysit. Her email address is [tombarbleonard@gmail.com](tombarbleonard@gmail.com).
+Childcare for children of preschool age and under is available for $5 per child per week with prior notification to Barb Leonard at [tombarbleonard@gmail.com](tombarbleonard@gmail.com)
 
 ### Evening Joy
 
-1st & 3rd Mondays, 7:00-8:30 PM
+1st & 3rd Mondays, 7:00-8:30 PM in the Emery Room (Main/2nd Floor)
 Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
 
 The current study, Friendship with God, by Pastor Jamie Moore, began in September 2022 and continues through May 2023.
