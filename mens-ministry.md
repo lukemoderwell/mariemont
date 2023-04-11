@@ -42,9 +42,9 @@ We are a fellowship of men seeking to forge a Christian Brotherhood by ordering 
 
 **Want to get connected, prayer, or have a need?**
 
-Contact Tom Dewey at [dewdini@yahoo.com](dewdini@yahoo.com)
+Contact Michael Cambron at mcambron@Bartlett1898.com for more information.
 
 **Current open Men’s small groups:**
 
-Friday Morning Men’s Study: 6:30 a.m. Beginning a review of the book *God’s Pursuit of Man*.
+Friday Morning Men’s Study: 6:30 a.m. Beginning a new study on *The Return of Jesus*.
 Join any time!
