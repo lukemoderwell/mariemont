@@ -1,7 +1,7 @@
 ---
 title: Terri Cofskey, Wedding and Chapel Coordinator
 date: 2018-10-05 16:27:00 -04:00
-position: Part-time Administrator
+position: Wedding and Chapel Coordinator
 name: Terri Cofskey
 image: "/uploads/John%20and%20Terri.crop.jpg"
 ---
