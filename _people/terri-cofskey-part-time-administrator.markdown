@@ -1,5 +1,5 @@
 ---
-title: Terri Cofskey, Part-time Administrator
+title: Terri Cofskey, Wedding and Chapel Coordinator
 date: 2018-10-05 16:27:00 -04:00
 position: Part-time Administrator
 name: Terri Cofskey
