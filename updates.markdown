@@ -67,6 +67,7 @@ Join us for worship, prayer, and ministry time. Kids welcome!
 Every Thursday morning from 10:00-11:00 a.m. in the auditorium. Come for a while or stay the whole time. (Weekly)
 
 **7:00-9:00 p.m. Next Chapter Youth Group**
+
 Teens gather in the 3rd floor Youth room for fun, games, food, and solid teaching for students grades 7-12. (Weekly)
 
 **FRIDAY** 
