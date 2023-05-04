@@ -16,7 +16,7 @@ layout: page
 ![Kingdom Kids Logo (300 × 300 px).png](/uploads/Kingdom%20Kids%20Logo%20(300%20%C3%97%20300%20px).png)
 ## Welcome to Kingdom Kids!
 
-Kingdom Kids is a place where our kids are given the opportunity to encounter and know Jesus so they can be empowered by the Spirit to bring the Kingdom of God to those around them.
+Kingdom Kids is a place where our kids (infants through grade 5) are given the opportunity to encounter and know Jesus so they can be empowered by the Spirit to bring the Kingdom of God to those around them.
 
 * Our kids get to know God as Father, Friend and Savior.
 * We surround our kids with adults who love Jesus and who love them.
@@ -42,7 +42,7 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 * **Nursery** (0-35 months) - Room 107
 * **Pre-Kindergarten** (3-6 year olds) - Room 105
 * **Early Elementary** (Kindergarten-3rd grade) - Room 103
-* **Upper Elementary** (4th-6th grade) - 3rd floor, Room 311
+* **Upper Elementary** (4th-5th grade) - 3rd floor, Room 311
 
 
 
