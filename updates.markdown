@@ -22,7 +22,7 @@ layout: page-no-hero
 Click to join today's 9:00 a.m. AND 11:00 a.m. Live Stream: [SUNDAY MORNING LIVE STREAM LINK](https://www.youtube.com/@MariemontChurch)
 
 **SUNDAY SERVICE TIMES (In person or Live Stream)**
-Join us every Sunday at 9:00 a.m. or 11:00 a.m. for worship services. We're currently studying the Book of John.
+Join us every Sunday at 9:00 a.m. or 11:00 a.m. for worship services. We're currently studying the **Book of John**.
 
 
 Click here for our YouTube Channel to watch any events you may have missed:
@@ -32,30 +32,24 @@ Click here for our YouTube Channel to watch any events you may have missed:
 
 **SUNDAY**
 
-**The Book of John** is our current sermon series.
-
 **9:00 a.m. Service in the Sanctuary** 
-The 9am service is also live-streamed on YouTube and [Facebook](https://www.facebook.com/mariemontchurch).
 
 **9:00 a.m. Kingdom Kids**, for infants through grade 6.  
 
 **11:00 a.m. Service in the Sanctuary**
 
+**11:00 a.m. Next Chapter Youth Group** for grades 7 through 12. 
 
-Livestream at 9am only. Children's classes at 9am and 11am. Youth meet at 11am during the 11am service in the Youth Room.
+**MONDAY**
 
-
-
-
-
-**9:00am** Live worship in person and online.
-
+**TUESDAY**
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
-**Wednesdays** Prayer and Worship Gathering at 7:00 - 8:30pm
+**WEDNESDAY** 
+**7:00 p.m. Wednesday Worship**
 Join us for worship, prayer, and ministry time. Kids welcome!
 
-**Thursday** 
+**THURSDAY** 
 
 **10:00am - 11:00am** Live worship in person and online.
 
