@@ -36,11 +36,13 @@ Click here for our YouTube Channel to watch any events you may have missed:
 
 **9:00 a.m. Service in the Sanctuary** 
 
-**9:00 a.m. Kingdom Kids**, for infants through grade 6.  
+**9:00 a.m. Kingdom Kids**, for infants through grade 5.  
 
 **11:00 a.m. Service in the Sanctuary**
 
-**11:00 a.m. Next Chapter Youth Group** for grades 7 through 12. 
+**11:00 a.m. Kingdom Kids**, for infants through grade 5.
+
+**11:00 a.m. Next Chapter Youth Group** for grades 6 through 12. 
 
 **MONDAY**
 
