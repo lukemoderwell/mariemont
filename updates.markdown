@@ -42,9 +42,11 @@ Click here for our YouTube Channel to watch any events you may have missed:
 
 **MONDAY**
 
+
+
 **TUESDAY**
 
-**9:15am** Morning Joy Women's Bible Study (Last week is May 9 until Fall.)
+**9:15am** Morning Joy Women's Bible Study** (Last week is May 9 until Fall.)
 
 **WEDNESDAY** 
 
