@@ -36,8 +36,7 @@ Livestream at 9am only. Children's classes at 9am and 11am. Youth meet at 11am d
 
 **Welcome to Sunday Worship Service** 
 
-Click to join today's **9:00am Live Stream: [Jesus: Old and New Temples
-](https://www.youtube.com/live/GFRPwIvF2OY?feature=share)
+Click to join today's **9:00am Live Stream: (https://www.youtube.com/@MariemontChurch)
 **11:00am In-person Service**: Join in the auditorium for the 2023 John Series.
 
 **11:00 am in the Youth Room** 
