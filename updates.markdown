@@ -43,9 +43,11 @@ Click here for our YouTube Channel to watch any events you may have missed:
 **MONDAY**
 
 **TUESDAY**
+
 **9:15am** Joy in the Morning Fall studies at Mariemont Church.
 
 **WEDNESDAY** 
+
 **7:00 p.m. Wednesday Worship**
 Join us for worship, prayer, and ministry time. Kids welcome!
 
