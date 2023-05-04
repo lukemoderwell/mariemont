@@ -72,6 +72,7 @@ Teens gather in the 3rd floor Youth room for fun, games, food, and solid teachin
 **FRIDAY** 
 
 **7:00-9:00 p.m. Next Chapter Youth Hangout**
+
 Teen hangout the last Friday of every month.
 
 
