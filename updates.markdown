@@ -44,7 +44,7 @@ Click here for our YouTube Channel to watch any events you may have missed:
 
 **TUESDAY**
 
-**9:15am** Joy in the Morning Fall studies at Mariemont Church.
+**9:15am** Morning Joy Women's Bible Study (Last week is May 9 until Fall.)
 
 **WEDNESDAY** 
 
