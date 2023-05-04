@@ -15,6 +15,23 @@ layout: page-no-hero
 
 **July Kingdom Kids Family Pool Party! Watch this space.**
 
+
+## Welcome to Sunday Worship Service
+
+Click to join today's **9:00 a.m. AND 11:00 a.m. Live Stream: [SUNDAY MORNING LIVE STREAM LINK](https://www.youtube.com/@MariemontChurch)
+
+
+**11:00am In-person Service**: Join in the auditorium for the 2023 John Series.
+
+**11:00 am in the Youth Room** 
+
+• In the Youth Room
+• Encounter Jesus!
+• Make friends and have fun!
+
+Click here for our YouTube Channel to watch any videos you may have missed:
+[https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
+
 ## Weekly Schedule
 
 **SUNDAY**
@@ -34,21 +51,6 @@ Livestream at 9am only. Children's classes at 9am and 11am. Youth meet at 11am d
 
 
 
-## Welcome to Sunday Worship Service
-
-Click to join today's **9:00am Live Stream: [SUNDAY MORNING LIVE STREAM LINK](https://www.youtube.com/@MariemontChurch)
-
-
-**11:00am In-person Service**: Join in the auditorium for the 2023 John Series.
-
-**11:00 am in the Youth Room** 
-
-• In the Youth Room
-• Encounter Jesus!
-• Make friends and have fun!
-
-Click here for our YouTube Channel to watch any videos you may have missed:
-[https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
 **9:00am** Live worship in person and online.
 
