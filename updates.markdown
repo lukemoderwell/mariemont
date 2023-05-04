@@ -20,6 +20,9 @@ layout: page-no-hero
 
 Click to join today's **9:00 a.m. AND 11:00 a.m. Live Stream: [SUNDAY MORNING LIVE STREAM LINK](https://www.youtube.com/@MariemontChurch)
 
+Or visit our services in person. 
+
+We're currently studying the Book of John.
 
 **11:00am In-person Service**: Join in the auditorium for the 2023 John Series.
 
