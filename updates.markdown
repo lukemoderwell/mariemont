@@ -11,6 +11,8 @@ layout: page-no-hero
 
 ## Upcoming Events
 
+**May 7 Flying Pig Bacon Station Outreach!** 
+Church will be outside along the marathon path!  Super fun stuff for our kids to do and a time to engage with our community!
 
 **June Pickleball Tournament for Kingdom Kids Parents and volunteers! Watch this space.**
 
@@ -42,11 +44,15 @@ Click here for our YouTube Channel to watch any events you may have missed:
 
 **MONDAY**
 
-
+**7:00 p.m. Joy in the Evening Women's Bible Study** (Every 1st and 3rd Monday.)
 
 **TUESDAY**
 
-**9:15am** Morning Joy Women's Bible Study** (Last week is May 9 until Fall.)
+**9:00-11:00 a.m. Tuesday Morning Worship**
+Every Tuesday morning from 9:00-11:00 a.m in the auditorium. Come for a while or stay the whole time. (Weekly)
+
+**9:15 a.m. Morning Joy Women's Bible Study** 
+(Last week is May 9 until Fall.)
 
 **WEDNESDAY** 
 
@@ -55,9 +61,18 @@ Join us for worship, prayer, and ministry time. Kids welcome!
 
 **THURSDAY** 
 
-**10:00am - 11:00am** Live worship in person and online.
+**10:00-11:00 a.m. Thursday Morning Worship**
+Every Thursday morning from 10:00-11:00 a.m. in the auditorium. Come for a while or stay the whole time. (Weekly)
 
-**May 7** The Flying Pig Bacon Station Outreach! **No services today.** Church will be outside along the marathon path!  Super fun stuff for our kids to do and a time to engage with our community!
+**7:00-9:00 p.m. Next Chapter Youth Group**
+Teens gather in the 3rd floor Youth room for fun, games, food, and solid teaching for students grades 7-12. (Weekly)
+
+**FRIDAY** 
+
+**7:00-9:00 p.m. Next Chapter Youth Hangout**
+Teen hangout the last Friday of every month.
+
+
 
 If you are new to our online church community, we would love to pray for you and help you get connected! Just send an email message to [nancy@mariemontchurch.org](http://nancy@mariemontchurch.org) and we will reply ASAP.
 
