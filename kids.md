@@ -57,13 +57,17 @@ For the families that consider Mariemont Church their home, be ready to engage w
 ##  Beyond Sundays
 Here at Mariemont Church, we deeply value community.  In order for our families to experience deeper relationships between parents, church members, and our children, we create space for engagement outside of Sunday mornings.  Watch this space for news about Kingdom Kids gatherings and events.
 
-### **April 2023**
-
-*** April 16 - Baby Dedications during the services.** Contact Katie Smith at katie@mariemontchurch.org to sign up or receive more information.
-
 ### **May 2023**
 
 *** May 7 - Church at the Flying Pig.** Join us for our 10th Annual Bacon Station Extravaganza! Activities for the kids and lots and lots of bacon to hand out to runners! The Church is Leaving the Building!
+
+### **June 2023**
+
+*** June Pickleball Tournament! Watch this space.** Contact Katie Smith at katie@mariemontchurch.org to sign up or receive more information.
+
+### **July 2023**
+
+*** July Kingdom Kids Family Pool Party! Watch this space.** 
 
 **Note**: All details are subject to change (and often do!). If you would like to keep up-to-date on all things Kingdom Kids, contact Katie Smith at 513-205-8539 or katie@mariemontchurch.org and she'll put you on her Kingdom Kids email list. She'd love to hear from you!  
 
