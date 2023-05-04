@@ -34,45 +34,49 @@ Click here for our YouTube Channel to watch any events you may have missed:
 
 **SUNDAY**
 
-**9:00 a.m. Service in the Sanctuary** 
+* **9:00 a.m. Service in the Sanctuary** 
 
-**9:00 a.m. Kingdom Kids**, for infants through grade 5.  
+* **9:00 a.m. Kingdom Kids**, for infants through grade 5.  
 
-**11:00 a.m. Service in the Sanctuary**
+* **11:00 a.m. Service in the Sanctuary**
 
-**11:00 a.m. Kingdom Kids**, for infants through grade 5.
+* **11:00 a.m. Kingdom Kids**, for infants through grade 5.
 
-**11:00 a.m. Next Chapter Youth Group** for grades 6 through 12. 
+* **11:00 a.m. Next Chapter Youth Group** for grades 6 through 12. 
 
 **MONDAY**
 
-**7:00 p.m. Joy in the Evening Women's Bible Study** (Every 1st and 3rd Monday.)
+* **7:00 p.m. Joy in the Evening Women's Bible Study**
+
+(Every 1st and 3rd Monday.)
 
 **TUESDAY**
 
-**9:00-11:00 a.m. Tuesday Morning Worship**
+* **9:00-11:00 a.m. Tuesday Morning Worship**
+
 Every Tuesday morning from 9:00-11:00 a.m in the auditorium. Come for a while or stay the whole time. (Weekly)
 
-**9:15 a.m. Morning Joy Women's Bible Study** 
+* **9:15 a.m. Morning Joy Women's Bible Study** 
+
 (Last week is May 9 until Fall.)
 
 **WEDNESDAY** 
 
-**7:00 p.m. Wednesday Worship**
+* **7:00 p.m. Wednesday Worship**
 Join us for worship, prayer, and ministry time. Kids welcome!
 
 **THURSDAY** 
 
-**10:00-11:00 a.m. Thursday Morning Worship**
+* **10:00-11:00 a.m. Thursday Morning Worship**
 Every Thursday morning from 10:00-11:00 a.m. in the auditorium. Come for a while or stay the whole time. (Weekly)
 
-**7:00-9:00 p.m. Next Chapter Youth Group**
+* **7:00-9:00 p.m. Next Chapter Youth Group**
 
 Teens gather in the 3rd floor Youth room for fun, games, food, and solid teaching for students grades 7-12. (Weekly)
 
 **FRIDAY** 
 
-**7:00-9:00 p.m. Next Chapter Youth Hangout**
+* **7:00-9:00 p.m. Next Chapter Youth Hangout**
 
 Teen hangout the last Friday of every month.
 
