@@ -26,7 +26,7 @@ Click to join today's 9:00 a.m. AND 11:00 a.m. Live Stream: [SUNDAY MORNING LIVE
 Join us every Sunday at 9:00 a.m. or 11:00 a.m. for worship services. We're currently studying the Book of John.
 
 
-Click here for our YouTube Channel to watch any videos you may have missed:
+Click here for our YouTube Channel to watch any events you may have missed:
 [https://www.youtube.com/user/MariemontCh](https://www.youtube.com/user/MariemontCh)
 
 ## Weekly Schedule
