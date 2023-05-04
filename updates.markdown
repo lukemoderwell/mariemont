@@ -11,6 +11,7 @@ layout: page-no-hero
 
 ## Upcoming Events
 
+
 **June Pickleball Tournament for Kingdom Kids Parents and volunteers! Watch this space.**
 
 **July Kingdom Kids Family Pool Party! Watch this space.**
