@@ -3,7 +3,6 @@ title: John 6:60-71, Words of Eternal Life
 date: 2023-06-07 16:44:00 -04:00
 series: Jesus
 sermon_date: 2023-06-04 11:00:00 -04:00
-sermon_bg: https://www.youtube.com/embed/sVKMNnl_5xg
 speaker: Dave Heidenreich
 bible_text: |-
   The Words of Eternal Life
