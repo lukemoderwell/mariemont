@@ -1,5 +1,5 @@
 ---
-title: I Am the Light of The World
+title: 'John 8:12-30: I Am the Light of The World'
 date: 2023-07-11 14:29:00 -04:00
 series: Jesus
 video_url: https://www.youtube.com/embed/i6Z7FXKtfys
