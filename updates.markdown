@@ -11,13 +11,9 @@ layout: page-no-hero
 
 ## Upcoming Events
 
-**May 7 Flying Pig Bacon Station Outreach!** 
-Church will be outside along the marathon path!  Super fun stuff for our kids to do and a time to engage with our community!
+**June 30 - All Church member meeting between services.
 
-**June Pickleball Tournament for Kingdom Kids Parents and volunteers! Watch this space.**
-
-**July Kingdom Kids Family Pool Party! Watch this space.**
-
+(See below for weekly schedule.)
 
 ## LIVE STREAM our Sunday Worship Services
 
