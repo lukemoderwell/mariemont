@@ -1,6 +1,7 @@
 ---
 title: John Cofskey
 date: 2018-09-24 09:58:00 -04:00
+published: false
 name: John Cofskey
 is_elder: true
 image: "/uploads/John%20and%20Terri.crop.jpg"
