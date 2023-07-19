@@ -2,7 +2,7 @@
 title: Jamie Moore
 date: 2019-08-07 14:01:00 -04:00
 position: Lead Pastor
-name: Jamie Moore
+name: Jamie Moore, Lead Pastor
 is_elder: true
 image: "/uploads/0.jpg"
 ---
