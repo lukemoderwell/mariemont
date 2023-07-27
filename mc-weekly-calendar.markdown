@@ -4,10 +4,10 @@ date: 2023-07-26 13:21:00 -04:00
 layout: page-no-hero
 ---
 
-THIS WEEK AT MARIEMONT CHURCH
+# THIS WEEK AT MARIEMONT CHURCH
   
 
-WEDNESDAY -  July 26
+## WEDNESDAY -  July 26
 Wednesday Morning Worship - Every Wednesday morning from 10:00-11:00 a.m. in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
 
 THURSDAY - July 27
