@@ -1,6 +1,7 @@
 ---
 title: MC Weekly Calendar
 date: 2023-07-26 13:21:00 -04:00
+layout: page
 ---
 
 THIS WEEK AT MARIEMONT CHURCH
