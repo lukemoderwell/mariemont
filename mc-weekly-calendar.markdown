@@ -24,7 +24,8 @@ layout: page-no-hero
 * **Men's Morning Bible Study** - Starting at 6:30 a.m. every Friday in the Emery room. A new study on Ecclesiastes has begun!  (Weekly)
 
 ### SATURDAY - August 5
-* **OPEN THIS SATURDAY!** The Family Shop Thrift Store is open every 2nd and 4th Saturday of each month from 8:30 a.m. to Noon. (Bi-Weekly)
+* **NOT OPEN THIS SATURDAY!** The Family Shop Thrift Store is open every 2nd and 4th Saturday of each month from 8:30 a.m. to Noon. (Bi-Weekly)
+
 
 ### SUNDAY - August 6
 * **Sunday Services at 9:00 and 11:00 a.m.** in the Auditorium on 2nd floor. Jamie Moore will continue our series through the Gospel of John looking at John 8:37-59, “Jesus: Before Abraham Was, I AM.”
