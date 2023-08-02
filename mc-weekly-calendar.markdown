@@ -36,7 +36,7 @@ layout: page-no-hero
 
 * **Next Chapter Youth** (Junior High and High School Grades 6-12).  11:00 a.m.-12:30 p.m. Meets on the 3rd floor for fellowship, teaching, and fun.
 
-* **The Zeke and Beth Swift adult small group.** 11:15 a.m.-12:15 p.m.  Meets in the Library (3rd Floor) and discusses the 9:00 a.m. sermon and other relevant topics.
+* **The Zeke and Beth Swift adult small group.** 11:00 a.m.-12:15 p.m.  Meets in the Library (3rd Floor) and discusses the 9:00 a.m. sermon and other relevant topics.
 
 
 ### MONDAY - August 7
