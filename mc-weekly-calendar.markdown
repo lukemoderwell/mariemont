@@ -28,7 +28,7 @@ layout: page-no-hero
 
 
 ### SUNDAY - August 6
-* **Sunday Services at 9:00 and 11:00 a.m.** in the Auditorium on 2nd floor. Jamie Moore will continue our series through the Gospel of John looking at John 8:37-59, “Jesus: Before Abraham Was, I AM.”
+* **Sunday Services at 9:00 and 11:00 a.m.** in the Auditorium on 2nd floor. Jamie Moore will continue our series through the Gospel of John looking at John 9:1-41, "JESUS: I Was Blind, Now I See John 9:1-41"
 
 * **Kingdom Kids** (Infant - Grade 5) Sunday School at 9:00 and 11:00 a.m. Check in on the 1st floor at 8:45 a.m. for the 9:00-10:30 classes and 10:45 a.m. for the 11:00-12:30 classes.
 
