@@ -10,6 +10,7 @@ layout: page-no-hero
 * **Wednesday Morning Worship** - Every Wednesday morning from 10:00-11:00 a.m. in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
 
 
+
 ### THURSDAY - August 3
 * **Thursday Morning Worship** - Every Thursday morning from 10:00-11:00 a.m. in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly) Child care is now available on Thursday mornings starting at 9:30 a.m.!
 
