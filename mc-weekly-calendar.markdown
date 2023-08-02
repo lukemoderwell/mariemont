@@ -16,7 +16,7 @@ layout: page-no-hero
 
 * **Next Chapter Youth** (Junior High and High School grades 6-12) will gather in the 3rd floor Game Room from 7-9 p.m.  Fun, games, food, and solid teaching on healthy relationships for students grades 6-12. (Weekly)
 
-* **ON SUMMER BREAK** - **The Matt and Paula Ayer** adult small group usually meets every Thursday from 7:00-8:30PM but will take a break for the Summer. Contact Matt at matt@ayerquality.com about joining in the Fall.
+* **ON SUMMER BREAK** - **The Matt and Paula Ayer adult small group** usually meets every Thursday from 7:00-8:30PM but will take a break for the Summer. Contact Matt at matt@ayerquality.com about joining in the Fall.
 
 ### FRIDAY - August 4
 * **Men's Morning Bible Study** - Starting at 6:30 a.m. every Friday in the Emery room. A new study on Ecclesiastes has begun!  (Weekly)
