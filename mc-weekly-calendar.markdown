@@ -38,7 +38,6 @@ layout: page-no-hero
 
 * **The Zeke and Beth Swift adult small group.** 11:15 a.m.-12:15 p.m.  Meets in the Library (3rd Floor) and discusses the 9:00 a.m. sermon and other relevant topics.
 
-* **CITY-WIDE PRAYER CANOPY WORSHIP NIGHT.** 6:00 - 8:00 p.m. In the Mariemont Church Auditorium.
 
 ### MONDAY - August 8
 * **ON SUMMER BREAK** - The Michael and Judy Belanger adult small group meets 6:30-9:00 p.m. weekly at their home at 6909 Cambridge, Cincinnati, OH 45227. Contact Mike Belanger at chefbelanger@hotmail.com or (513) 470-4055 for more information.
