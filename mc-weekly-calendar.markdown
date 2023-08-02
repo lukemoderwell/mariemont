@@ -39,17 +39,17 @@ layout: page-no-hero
 * **The Zeke and Beth Swift adult small group.** 11:15 a.m.-12:15 p.m.  Meets in the Library (3rd Floor) and discusses the 9:00 a.m. sermon and other relevant topics.
 
 
-### MONDAY - August 8
+### MONDAY - August 7
 * **ON SUMMER BREAK** - The Michael and Judy Belanger adult small group meets 6:30-9:00 p.m. weekly at their home at 6909 Cambridge, Cincinnati, OH 45227. Contact Mike Belanger at chefbelanger@hotmail.com or (513) 470-4055 for more information.
 
 * **The Michael and Faith George 20s and 30s small group.** Meets every Monday from 6:30-9:00 p.m. in Deer Park. Call or Text Michael George at 513-287-9748 for more information.
 
-### TUESDAY - August 9
+### TUESDAY - August 8
 * **Tuesday Morning Worship** - Every Tuesday morning from 10:00-11:00 a.m in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. 
 
 * **ON SUMMER BREAK** - The Lissa and Mike Cambron small group usually meets every Tuesday from 7:00-8:30PM in Indian Hill. They're taking a break for the Summer. Contact Mike at mikecambron43@gmail.com for more info.
 
 * **ON SUMMER BREAK** - The Burr and Terry Robinson small group usually meets 2 times a month on Tuesdays from 7:00-9:00 p.m. in Hyde Park. They're taking a break until September 12. Contact Burr and Terry Robinson at burr.robinson@gmail.com for more info.
 
-### WEDNESDAY - August 10
+### WEDNESDAY - August 9
 * **Wednesday Morning Worship** - Every Wednesday morning from 10:00-11:00 a.m. in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
