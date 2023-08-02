@@ -18,10 +18,10 @@ layout: page-no-hero
 
 * **ON SUMMER BREAK** - **The Matt and Paula Ayer adult small group** usually meets every Thursday from 7:00-8:30PM but will take a break for the Summer. Contact Matt at matt@ayerquality.com about joining in the Fall.
 
+* **NO THURSDAY NIGHT HANGOUT THIS WEEK!**  Next Chapter Youth Hangouts are on the last Friday of the month. 
+
 ### FRIDAY - August 4
 * **Men's Morning Bible Study** - Starting at 6:30 a.m. every Friday in the Emery room. A new study on Ecclesiastes has begun!  (Weekly)
-
-* **NO FRIDAY NIGHT HANGOUT THIS WEEK!**  Next Chapter Youth Hangouts are on the last Friday of the month.  
 
 ### SATURDAY - August 5
 * **OPEN THIS SATURDAY!** The Family Shop Thrift Store is open every 2nd and 4th Saturday of each month from 8:30 a.m. to Noon. (Bi-Weekly)
