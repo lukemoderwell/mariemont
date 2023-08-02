@@ -9,12 +9,12 @@ layout: page-no-hero
 ### WEDNESDAY -  August 2
 * **Wednesday Morning Worship** - Every Wednesday morning from 10:00-11:00 a.m. in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
 
+
 ### THURSDAY - August 3
 * **Thursday Morning Worship** - Every Thursday morning from 10:00-11:00 a.m. in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly) Child care is now available on Thursday mornings starting at 9:30 a.m.!
 
-* **Next Chapter Youth Band Practice** - 6:00-7:00 p.m. in the Auditorium.
 
-* **Next Chapter Youth** (Junior High and High School grades 6-12) will gather in the 3rd floor Game Room from 7-9 p.m.  Fun, games, food, and solid teaching on spiritual warfare for students grades 6-12. (Weekly)
+* **Next Chapter Youth** (Junior High and High School grades 6-12) will gather in the 3rd floor Game Room from 7-9 p.m.  Fun, games, food, and solid teaching on healthy relationships for students grades 6-12. (Weekly)
 
 * **ON SUMMER BREAK** - The Matt and Paula Ayer adult small group usually meets every Thursday from 7:00-8:30PM but will take a break for the Summer. Contact Matt at matt@ayerquality.com about joining in the Fall.
 
