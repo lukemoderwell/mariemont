@@ -37,6 +37,7 @@ The study guide for The Gospel on the Ground includes a link to a 50-60 minute v
 
 * Gentle and Lowly by Dane Ortlund
 Facilitated by Marianne Beausejour 
+
 Pastor Dane Ortlund Explores Jesus's Heart to Reveal His Tender Love for Sinners and Suffers Christians know that God loves them, but can easily feel that he is perpetually disappointed and frustrated, maybe even close to giving up on them. As a result, they focus a lot--and rightly so--on what Jesus has done to appease God's wrath for sin. But how does Jesus Christ actually feel about his people amid all their sins and failures? This book draws us to Matthew 11, where Jesus describes himself as "gentle and lowly in heart," longing for his people to find rest in him.
 
 Find Gentle and Lowly by Dane Ortlund on Amazon! 
