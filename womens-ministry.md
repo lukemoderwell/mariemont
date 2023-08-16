@@ -49,7 +49,7 @@ As a result, they focus a lot--and rightly so--on what Jesus has done to appease
 
 Find Gentle and Lowly by Dane Ortlund on Amazon! 
 
-**Childcare during Joy in the Morning for children of preschool age and under is available for $5 per child per week with prior notification to Barb Leonard at [tombarbleonard@gmail.com](tombarbleonard@gmail.com)**
+***Childcare during Joy in the Morning for children of preschool age and under is available for $5 per child per week with prior notification to Barb Leonard at [tombarbleonard@gmail.com](tombarbleonard@gmail.com)***
 
 
 
