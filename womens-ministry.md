@@ -26,7 +26,7 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 **Winter Semester Tuesday, September 12 and goes from 9:15 to 11:15 a.m.  Study Options Include**:
 
-**The Gospel on the Ground by Kristi McLelland
+**The Gospel on the Ground by Kristi McLelland**
 
 Facilitated by Beth Swift
 
