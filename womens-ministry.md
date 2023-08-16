@@ -48,7 +48,7 @@ Contact Paula Ayer at [ayerpaula@gmail.com](ayerpaula@gmail.com) to learn more.
 
 ### Women's Fall Ministry Night
 
-**September 12, 2023 at 6:30 p.m. in the MC Auditorium.  [CLICK HERE TO RSVP](https://mariemontchurch.churchcenter.com/registrations/events/1880644).**
+**September 10, 2023 at 6:30 p.m. in the MC Auditorium.  [CLICK HERE TO RSVP](https://mariemontchurch.churchcenter.com/registrations/events/1880644).**
 
 Kick off the season with us with a night of worship, prayer, connection, and community.  Come encounter Jesus, receive prayer and encouragement, connect with other women from our church, and be refreshed!
 
