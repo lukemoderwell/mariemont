@@ -24,21 +24,41 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 **This study takes place on Tuesday mornings 9:15-11:30am in the Emery Room (Main/2nd Floor).**
 
-**Winter Semester January 17 - May 9 Study Options Include**:
+**Winter Semester Tuesday, September 12 and goes from 9:15 to 11:15 a.m.  Study Options Include**:
 
-* Discovery Study on the book of Matthew led by Liz Baker. No homework required.
+* The Gospel on the Ground by Kristi McLelland
 
-* Book “The Rest of God” by Mark Buchanan. Restoring your soul by restoring Sabbath- led by Jill Schellhause. Homework is to read one chapter a week.
+Facilitated by Beth Swift
 
-Childcare for children of preschool age and under is available for $5 per child per week with prior notification to Barb Leonard at [tombarbleonard@gmail.com](tombarbleonard@gmail.com)
+“The Kingdom of God is on the move.  For the vast majority of his life, Jesus never traveled outside of a one-hundred mile radius from where he was born, but today his name is spoken in every corner of the earth. The Gospel on the Ground is the story of how Jesus's message of hope and reconciliation began to spread from Jerusalem and how it's still spreading like wildfire today.  Join biblical culturalist Kristi McLelland for a study of the early years of the church as told in the book of Acts.  Along the way, you'll learn that the kingdom of God is always on the move, offering purpose and joy to those longing for true fulfillment.  And you'll come to understand the part you are meant to play in the redemptive story God continues to write through your life today.” 
 
-### Evening Joy
 
-**1st & 3rd Mondays, 7:00-8:30 PM in the Emery Room (Main/2nd Floor)**
+The study guide for The Gospel on the Ground includes a link to a 50-60 minute video for home viewing and some follow-up daily reading and discussion questions which will be incorporated in our Tuesday morning group meetings. More information is available  at Lifeway.com.  Please order your study guide for yourself…found on Amazon or at Lifeway.   
+
+* Gentle and Lowly by Dane Ortlund
+Facilitated by Marianne Beausejour 
+Pastor Dane Ortlund Explores Jesus's Heart to Reveal His Tender Love for Sinners and Suffers Christians know that God loves them, but can easily feel that he is perpetually disappointed and frustrated, maybe even close to giving up on them. As a result, they focus a lot--and rightly so--on what Jesus has done to appease God's wrath for sin. But how does Jesus Christ actually feel about his people amid all their sins and failures? This book draws us to Matthew 11, where Jesus describes himself as "gentle and lowly in heart," longing for his people to find rest in him.
+
+Find Gentle and Lowly by Dane Ortlund on Amazon! 
+
+* Childcare during Joy in the Morning for children of preschool age and under is available for $5 per child per week with prior notification to Barb Leonard at [tombarbleonard@gmail.com](tombarbleonard@gmail.com)
+
+### Joy in the Evening
+
+**Joy in the Evening starts Monday, September 18th and meets every 1st & 3rd Monday of each month from 7:00-8:30 PM in the Emery Room (Main/2nd Floor)**
 
 Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
 
-The current study, Friendship with God, by Pastor Jamie Moore, began in September 2022 and continues through May 2023.
+This Fall's study will be:
+Forgiveness: The Freedom to Let Go by June Hunt
+Facilitated by Paula Ayer & Teresa Earhart.
+
+You know that we are called to forgive--but how? 
+What does "letting it go" actually look like?  What if the offender isn't even sorry?
+This study will show you how to foster a heart of forgiveness and how to release rocks of resentment that weigh you down.
+Find out how you can forgive -- and be set free!.
+
+Books are available for purchase at the Women's Fall Ministry Night on September 10.
 
 Contact Paula Ayer at [ayerpaula@gmail.com](ayerpaula@gmail.com) to learn more.
 
@@ -103,7 +123,7 @@ The Family Shop, located on the North corner of the first floor (basement), is o
 Take Them A Meal is an outreach food ministry to MC church members and attenders who are in need of meals on a temporary basis due to difficult life circumstances such as surgery, illness, newborns, bereavement, moving, etc.
 
 Those in need can contact:
-Samantha Treas at Samantha.treas@gmail.com or Lynn Robinson at lcrobbie5@gmail.com.
+Laura Snow at laurasnow3@gmail.com or Lynn Robinson at lcrobbie5@gmail.com.
 
 Scheduling will be set up on the internet through TakeThemAMeal.com. Volunteers are advised of the specific needs and sign up accordingly. Three meals per week for two weeks are provided, but additional meals can be requested.
 
