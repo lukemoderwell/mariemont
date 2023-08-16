@@ -46,7 +46,7 @@ Welcome! Come to the Check-In Desk on the Lower Level. Signs (and children’s v
 
 
 
-**Pick-Up**:  Be sure to keep your parent badge for pick up after the service. To be kind to our teachers and child care helpers, we try to make sure kids are picked up by 10:20 a.m. after the 9:00 Service, and picked up by 12:20 p.m. after the 11:00 service.  Sometimes the Spirit leads and the service is not yet over by those times, but people will understand if you sneak out quietly before it's over.  You can return to the service with your child!
+**Pick-Up**: Kingdom Kids is over as soon as the main service ends. Please pick your kids up at this time with the security sticker. If you would like prayer or if there is something preventing you from coming to the classroom immediately, give your security sticker to a trusted adult and they can help you out! 
 
 **Note**: Sometimes due to circumstances beyond our control, we need to cancel a class on Sunday mornings.  Check with the Connect Desk in the Main Floor Lobby or the Welcome Center on the Lower/1st Floor to find out if your class has been cancelled.
 
@@ -57,17 +57,6 @@ For the families that consider Mariemont Church their home, be ready to engage w
 ##  Beyond Sundays
 Here at Mariemont Church, we deeply value community.  In order for our families to experience deeper relationships between parents, church members, and our children, we create space for engagement outside of Sunday mornings.  Watch this space for news about Kingdom Kids gatherings and events.
 
-### **May 2023**
-
-*** May 7 - Church at the Flying Pig.** Join us for our 10th Annual Bacon Station Extravaganza! Activities for the kids and lots and lots of bacon to hand out to runners! The Church is Leaving the Building!
-
-### **June 2023**
-
-*** June Pickleball Tournament! Watch this space.** Contact Katie Smith at katie@mariemontchurch.org to sign up or receive more information.
-
-### **July 2023**
-
-*** July Kingdom Kids Family Pool Party! Watch this space.** 
 
 **Note**: All details are subject to change (and often do!). If you would like to keep up-to-date on all things Kingdom Kids, contact Katie Smith at 513-205-8539 or katie@mariemontchurch.org and she'll put you on her Kingdom Kids email list. She'd love to hear from you!  
 
