@@ -7,7 +7,7 @@ is_ministry: true
 hero_image: "/uploads/womens-ministry.jpg"
 hasHero: true
 heading: Women's Ministry
-lead_in: Connecting, growing, and equipping the women of MCC.
+lead_in: Connecting, growing, and equipping the women of Mariemont Church.
 layout: page
 ---
 
