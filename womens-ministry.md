@@ -20,6 +20,8 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 ## Bible Study and Fellowship
 
+Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
+
 ### Joy In The Morning
 
 **This study takes place on Tuesday mornings 9:15-11:30am in the Emery Room (Main/2nd Floor).**
@@ -50,7 +52,6 @@ Find Gentle and Lowly by Dane Ortlund on Amazon!
 
 **Joy in the Evening starts Monday, September 18th and meets every 1st & 3rd Monday of each month from 7:00-8:30 PM in the Emery Room (Main/2nd Floor)**
 
-Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
 
 This Fall's study will be:
 **Forgiveness: The Freedom to Let Go by June Hunt**
@@ -58,6 +59,7 @@ Facilitated by Paula Ayer & Teresa Earhart
 
 You know that we are called to forgive--but how? 
 What does "letting it go" actually look like?  What if the offender isn't even sorry?
+
 This study will show you how to foster a heart of forgiveness and how to release rocks of resentment that weigh you down.
 Find out how you can forgive -- and be set free!.
 
