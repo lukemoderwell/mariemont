@@ -59,7 +59,9 @@ Appetizers, dessert and refreshments provided.
 
 ### Annual Women’s Retreat
 
-Dates for the 2024 retreat are February 2-3 at the Jesuit Spiritual Center in Milford, Ohio. The goals of the Women’s Retreat are to provide an opportunity for women to grow in their faith and to connect and build relationships with other women. 
+**Dates for the 2024 retreat are February 2-3 at the Jesuit Spiritual Center in Milford, Ohio.**
+
+The goals of the Women’s Retreat are to provide an opportunity for women to grow in their faith and to connect and build relationships with other women. 
 
 More information about the 2024 Retreat will be posted here, when available.
 Contact: Sarah Moorehead - parkssaO@gmail.com.
