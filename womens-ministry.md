@@ -54,6 +54,23 @@ All are welcome, including friends who need connection and community! Please RSV
 
 Appetizers, dessert and refreshments provided.
 
+### Tapestry of Love School Supply Drive
+**August 27-September 17!  Look for bins in the lobby and the Sunday School area on the first floor.**
+
+Tapestry of Love is a ministry to incarcerated and newly released women.  Often, their children face the start of a school year without the benefit of a mom at home, and the supplies they need for school.  That's where the TOL School Supply Drive comes in.
+
+Here's a list of supplies that are needed:
+- Book bags
+- Pencils and pens
+- Craft supplies like glue and scissors
+- Supply boxes
+- Subject folders and binders
+- Notebooks and notebook paper
+- Calculators
+- Rulers
+- etc!
+
+
 ### Annual Women’s Retreat
 
 **Dates for the 2024 retreat are February 2-3 at the Jesuit Spiritual Center in Milford, Ohio.**
