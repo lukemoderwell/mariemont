@@ -20,7 +20,7 @@ Sharing the goal of having every member grow through participation in Bible stud
 
 ## Bible Study and Fellowship
 
-Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
+Come on a morning or evening and meet with other women for fellowship, discussion, and to grow deeper in your faith.
 
 ### Joy In The Morning
 
