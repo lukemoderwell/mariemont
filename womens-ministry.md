@@ -44,7 +44,7 @@ The current study, Friendship with God, by Pastor Jamie Moore, began in Septembe
 
 Contact Paula Ayer at [ayerpaula@gmail.com](ayerpaula@gmail.com) to learn more.
 
-## Special Events
+## SPECIAL EVENTS
 
 ### Women's Fall Ministry Night
 
