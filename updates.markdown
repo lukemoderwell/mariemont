@@ -52,7 +52,7 @@ layout: page-no-hero
 ### TUESDAY - August 22
 * **Tuesday Morning Worship** - Every Tuesday morning from 10:00-11:00 a.m in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. 
 
-* **ON SUMMER BREAK** - **The Lissa and Mike Cambron small group** usually meets every Tuesday from 7:00-8:30PM at 6050 Redbird Hollow in Indian Hill. They're taking a break for the Summer. Will start again Tuesday, September 17! Contact Mike at mikecambron43@gmail.com for more info.
+* **ON SUMMER BREAK** - **The Lissa and Mike Cambron small group** usually meets every Tuesday from 7:00-8:30PM at 6050 Redbird Hollow in Indian Hill. They're taking a break for the Summer. Will start again Tuesday, September 19! Contact Mike at mikecambron43@gmail.com for more info.
 
 * **ON SUMMER BREAK** - **The Burr and Terry Robinson small group** usually meets 2 times a month on Tuesdays from 7:00-9:00 p.m. in Hyde Park. They're taking a break until September 12. Contact Burr and Terry Robinson at burr.robinson@gmail.com for more info.
 
@@ -96,7 +96,7 @@ layout: page-no-hero
 ### TUESDAY - August 29
 * **Tuesday Morning Worship** - Every Tuesday morning from 10:00-11:00 a.m in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. 
 
-* **ON SUMMER BREAK** - **The Lissa and Mike Cambron small group** usually meets every Tuesday from 7:00-8:30PM at 6050 Redbird Hollow in Indian Hill. They're taking a break for the Summer. Will start again Thursday, September 17! Contact Mike at mikecambron43@gmail.com for more info.
+* **ON SUMMER BREAK** - **The Lissa and Mike Cambron small group** usually meets every Tuesday from 7:00-8:30PM at 6050 Redbird Hollow in Indian Hill. They're taking a break for the Summer. Will start again Thursday, September 19! Contact Mike at mikecambron43@gmail.com for more info.
 
 * **ON SUMMER BREAK** - **The Burr and Terry Robinson small group** usually meets 2 times a month on Tuesdays from 7:00-9:00 p.m. in Hyde Park. They're taking a break until September 12. Contact Burr and Terry Robinson at burr.robinson@gmail.com for more info.
 
