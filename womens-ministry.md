@@ -12,10 +12,9 @@ layout: page
 ---
 
 ![Women's Ministry Logo 2500.png](/uploads/Women's%20Ministry%20Logo%202500.png)
-
 ## A Vision to Encourage and Equip
 
-The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another. 
+The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another.
 
 Sharing the goal of having every member grow through participation in Bible study, Women’s Ministries offers a variety of studies for women in the church and women who may not be members of Mariemont Church. Studies are Bible-based, providing perspectives for applying Christian principles to a woman’s life, and are typically taught by women from our community.
 
@@ -30,7 +29,6 @@ Sharing the goal of having every member grow through participation in Bible stud
 * Discovery Study on the book of Matthew led by Liz Baker. No homework required.
 
 * Book “The Rest of God” by Mark Buchanan. Restoring your soul by restoring Sabbath- led by Jill Schellhause. Homework is to read one chapter a week.
-
 
 Childcare for children of preschool age and under is available for $5 per child per week with prior notification to Barb Leonard at [tombarbleonard@gmail.com](tombarbleonard@gmail.com)
 
@@ -56,16 +54,14 @@ All are welcome, including friends who need connection and community! Please RSV
 
 Appetizers, dessert and refreshments provided.
 
-
 ### Annual Women’s Retreat
 
 **Dates for the 2024 retreat are February 2-3 at the Jesuit Spiritual Center in Milford, Ohio.**
 
-The goals of the Women’s Retreat are to provide an opportunity for women to grow in their faith and to connect and build relationships with other women. 
+The goals of the Women’s Retreat are to provide an opportunity for women to grow in their faith and to connect and build relationships with other women.
 
 More information about the 2024 Retreat will be posted here, when available.
 Contact: Sarah Moorehead - parkssaO@gmail.com.
-
 
 ## Connect and Serve
 
@@ -73,17 +69,17 @@ Everyone is encouraged to utilize their spiritual gifts and serve God in many ca
 
 ### The Family Shop
 
-For over 25 years, the Mariemont Church Women’s Ministry has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations. 
+For over 25 years, the Mariemont Church Women’s Ministry has provided affordable second-hand clothing to those in need; both for sale and then free to missionaries or relief organizations.
 
-Because a popular local chain of resale shops gives The Family Shop donations of clothes and other things, the quality of items is often surprisingly good. 
+Because a popular local chain of resale shops gives The Family Shop donations of clothes and other things, the quality of items is often surprisingly good.
 
 In addition to those in the neighborhood around the church, it's a popular shopping spot for missionaries on furlough or those attending EMI (Equipping Ministries International) workshops.
 
-The Family Shop volunteers use this clothing ministry as a means of reaching people by providing needed clothing and, as opportunities arise, sharing the Gospel message. 
+The Family Shop volunteers use this clothing ministry as a means of reaching people by providing needed clothing and, as opportunities arise, sharing the Gospel message.
 
 The proceeds of the sales are used to support the Women's ministry, support missionary organizations such Navigators and Cru, to outreach to under-served women in the local community (ie. Tapestry of Love Prison Ministries), and also fund projects within Mariemont Church.
 
-The Family Shop, located on the North corner of the first floor (basement), is open the second and fourth Saturdays of each month from 10 a.m. until noon.  You can arrange a personal appointement between 8:30 and 10:00 a.m. by visiting facebook.com/mariemontcommunitychurch 
+The Family Shop, located on the North corner of the first floor (basement), is open the second and fourth Saturdays of each month from 10 a.m. until noon.  You can arrange a personal appointement between 8:30 and 10:00 a.m. by visiting facebook.com/mariemontcommunitychurch
 
 ### Take Them A Meal Food Ministry
 
@@ -98,12 +94,12 @@ Scheduling will be set up on the internet through TakeThemAMeal.com. Volunteers 
 
 Tapestry of Love is a ministry founded by Sheila Luther, with Teresa Earhart as partner. The mission is to encourage incarcerated women and their children by showing them the unconditional love of Jesus. Our prayer is that they will learn that there is restoration and unconditional forgiveness for all who seek Him. Our motivation to serve these women is Jesus Himself. He made it clear that showing love and compassion to the "least of these" is important. "Whenever you do it for the least of these, you do it for me." (Matthew 25:40)
 
-Tapestry of Love connects the incarcerated women to the outside world in several ways including school supply mailings to their children. These children are often a forgotten population when their mothers go to prison and leave them behind in someone else’s care. A first day of school without their mother, or spending a holiday without mom, is incredibly sad. Tapestry of Love connects the incarcerated mother, grandmother, or relative with these children not only through school supply mailings, but also with gift mailings at Christmas.  
+Tapestry of Love connects the incarcerated women to the outside world in several ways including school supply mailings to their children. These children are often a forgotten population when their mothers go to prison and leave them behind in someone else’s care. A first day of school without their mother, or spending a holiday without mom, is incredibly sad. Tapestry of Love connects the incarcerated mother, grandmother, or relative with these children not only through school supply mailings, but also with gift mailings at Christmas.
 
-Caregivers of the children are another focus of our ministry. The Christmas mailings allow us to show love to the inmates' caregivers, supporters, and relatives. Additionally, we help women coming out of prison with clothing and other vital needs to successfully re-enter society. 
+Caregivers of the children are another focus of our ministry. The Christmas mailings allow us to show love to the inmates' caregivers, supporters, and relatives. Additionally, we help women coming out of prison with clothing and other vital needs to successfully re-enter society.
 
 Tapestry of Love invites the whole congregation of Mariemont Church to get personally involved every year at Christmas when we lead a School Supply Drive and Adopt-a-Family event.
 
-For more information or for any questions, contact Sheila at tapestryoflove@mariemontchurch.org or Teresa at ttearhart@gmail.com. If you would like to support our ministry with your donation, send a check to Mariemont Church, 3908 Plainville Rd., 45227; with “Tapestry of Love,” in the memo line. 
+For more information or for any questions, contact Sheila at tapestryoflove@mariemontchurch.org or Teresa at ttearhart@gmail.com. If you would like to support our ministry with your donation, send a check to Mariemont Church, 3908 Plainville Rd., 45227; with “Tapestry of Love,” in the memo line.
 
 Colossians 2:12 “I want you woven into a tapestry of love, in touch with everything there is to know of God.”
