@@ -53,8 +53,8 @@ Find Gentle and Lowly by Dane Ortlund on Amazon!
 Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
 
 This Fall's study will be:
-Forgiveness: The Freedom to Let Go by June Hunt
-Facilitated by Paula Ayer & Teresa Earhart.
+**Forgiveness: The Freedom to Let Go by June Hunt**
+Facilitated by Paula Ayer & Teresa Earhart
 
 You know that we are called to forgive--but how? 
 What does "letting it go" actually look like?  What if the offender isn't even sorry?
