@@ -32,7 +32,9 @@ Come on a morning or evening and meet with other women for fellowship, discussio
 
 Facilitated by Beth Swift
 
-“The Kingdom of God is on the move.  For the vast majority of his life, Jesus never traveled outside of a one-hundred mile radius from where he was born, but today his name is spoken in every corner of the earth. The Gospel on the Ground is the story of how Jesus's message of hope and reconciliation began to spread from Jerusalem and how it's still spreading like wildfire today.  Join biblical culturalist Kristi McLelland for a study of the early years of the church as told in the book of Acts.  Along the way, you'll learn that the kingdom of God is always on the move, offering purpose and joy to those longing for true fulfillment.  And you'll come to understand the part you are meant to play in the redemptive story God continues to write through your life today.” 
+“The Kingdom of God is on the move.  For the vast majority of his life, Jesus never traveled outside of a one-hundred mile radius from where he was born, but today his name is spoken in every corner of the earth. The Gospel on the Ground is the story of how Jesus's message of hope and reconciliation began to spread from Jerusalem and how it's still spreading like wildfire today.  
+
+Join biblical culturalist Kristi McLelland for a study of the early years of the church as told in the book of Acts.  Along the way, you'll learn that the kingdom of God is always on the move, offering purpose and joy to those longing for true fulfillment.  And you'll come to understand the part you are meant to play in the redemptive story God continues to write through your life today.” 
 
 
 The study guide for The Gospel on the Ground includes a link to a 50-60 minute video for home viewing and some follow-up daily reading and discussion questions which will be incorporated in our Tuesday morning group meetings. More information is available  at Lifeway.com.  Please order your study guide for yourself…found on Amazon or at Lifeway.   
