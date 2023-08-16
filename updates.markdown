@@ -103,5 +103,5 @@ layout: page-no-hero
 ### WEDNESDAY - August 30
 * **Wednesday Morning Worship** - Every Wednesday morning from 10:00-11:00 a.m. in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
 
-* **Fall Term Rooted Discipleship Classes** - Every Wednesday evening from 7:00-9:00 p.m. through November 13. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! (Weekly)
+* **Fall Term Rooted Discipleship Classes** - Every Wednesday evening from 7:00-9:00 p.m. through November 15. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! (Weekly)
 
