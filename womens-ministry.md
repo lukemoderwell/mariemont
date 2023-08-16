@@ -44,13 +44,19 @@ The current study, Friendship with God, by Pastor Jamie Moore, began in Septembe
 
 Contact Paula Ayer at [ayerpaula@gmail.com](ayerpaula@gmail.com) to learn more.
 
+## Special Events
+
+### Women's Fall Ministry Night
+
+ 
+
+
 ### Annual Women’s Retreat
 
-The goals of the Women’s Retreat are to provide an opportunity for women to grow in their faith and to connect and build relationships with other women. Retreat dates are typically in early-to-mid February.
-The 2023 Retreat was held on February 3-4 at the Jesuit Spiritual Center in Milford, Ohio. The topic was Practicing Rest in the Lord.
+Dates for the 2024 retreat are February 2-3 at the Jesuit Spiritual Center in Milford, Ohio. The goals of the Women’s Retreat are to provide an opportunity for women to grow in their faith and to connect and build relationships with other women. 
 
-Information about the 2024 Retreat will be posted here, when available.
-Contact: Teresa Earhart -  ttearhart@gmail.com
+More information about the 2024 Retreat will be posted here, when available.
+Contact: Sarah Moorehead - parkssaO@gmail.com.
 
 
 ## Connect and Serve
