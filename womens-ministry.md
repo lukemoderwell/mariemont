@@ -44,6 +44,8 @@ Find Gentle and Lowly by Dane Ortlund on Amazon!
 **Childcare during Joy in the Morning for children of preschool age and under is available for $5 per child per week with prior notification to Barb Leonard at [tombarbleonard@gmail.com](tombarbleonard@gmail.com)**
 
 
+
+
 ### Joy in the Evening
 
 **Joy in the Evening starts Monday, September 18th and meets every 1st & 3rd Monday of each month from 7:00-8:30 PM in the Emery Room (Main/2nd Floor)**
