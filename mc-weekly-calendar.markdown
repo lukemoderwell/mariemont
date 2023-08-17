@@ -78,7 +78,7 @@ layout: page-no-hero
 
 * **Lite Bites. 10:15 - 11:00 a.m.** - A time for a substantial snack, fellowship, and community in the Meeting and Emery Rooms on the Main Floor.  To volunteer to provide in future, visit the Connect Desk!
 
-* **Next Chapter Youth** (Junior High and High School Grades 6-12).  11:00 a.m.-12:30 p.m. Meets on the 3rd floor for fellowship, teaching, and fun.
+* **Next Chapter Youth** (Junior High and High School Grades 6-12).  NO NEXT CHAPTER GATHERING AT 11:00 a.m. this week.  It's SALE DAY!  Usually meets from 11:00 a.m.-12:30 p.m. on the 3rd floor for fellowship, teaching, and fun.
 
 * **The Zeke and Beth Swift adult small group.** 11:00 a.m.-12:15 p.m.  Meets in the Library (3rd Floor) and discusses the 9:00 a.m. sermon and other relevant topics.
 
