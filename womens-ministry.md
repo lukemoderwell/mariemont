@@ -15,8 +15,14 @@ layout: page
 
 ## A Vision to Encourage and Equip
 
-![Women's Ministry Logo 2500.png](/uploads/Women's%20Ministry%20Logo%202500.png)
-{: max-width: 250px; text-align: left; float: left;}
+<img src="/uploads/Women's%20Ministry%20Logo%202500.png" alt="Women's Ministry Logo 2500.png" class="womens-logo" width="250px">
+<style type="text/css" rel="stylesheet">
+   .womens-logo {
+    max-width: 250px;
+    text-align: left;
+    float: left;
+   } 
+</style>
 
 The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another.
 
@@ -134,7 +140,7 @@ The Family Shop volunteers use this clothing ministry as a means of reaching peo
 
 The proceeds of the sales are used to support the Women's ministry, support missionary organizations such Navigators and Cru, to outreach to under-served women in the local community (ie. Tapestry of Love Prison Ministries), and also fund projects within Mariemont Church.
 
-The Family Shop, located on the North corner of the first floor (basement), is open the second and fourth Saturdays of each month from 10 a.m. until noon.  You can arrange a personal appointement between 8:30 and 10:00 a.m. by visiting facebook.com/mariemontcommunitychurch
+The Family Shop, located on the North corner of the first floor (basement), is open the second and fourth Saturdays of each month from 10 a.m. until noon.  You can arrange a personal appointment between 8:30 and 10:00 a.m. by visiting facebook.com/mariemontcommunitychurch
 
 ### Take Them A Meal Food Ministry
 
