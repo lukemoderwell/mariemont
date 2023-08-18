@@ -15,14 +15,7 @@ layout: page
 
 ## A Vision to Encourage and Equip
 
-<img src="/uploads/Women's%20Ministry%20Logo%202500.png" alt="Women's Ministry Logo 2500.png" class="womens-logo" width="250px">
-<style type="text/css" rel="stylesheet">
-   .womens-logo {
-    max-width: 250px;
-    text-align: left;
-    float: left;
-   } 
-</style>
+<img src="/uploads/Women's%20Ministry%20Logo%202500.png" alt="Women's Ministry Logo 2500.png" style="max-width: 250px; text-align: left; float: left;" width="250px">
 
 The vision of the Mariemont Church Women’s Ministry is to encourage women of all ages to grow in their faith and equip them to be beacons of light in their homes, communities and workplaces. This is accomplished by providing opportunities for growth through study, service and warm fellowship with one another.
 
