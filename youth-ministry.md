@@ -8,7 +8,7 @@ hero_image: "/uploads/denis-teaching.jpg"
 hasHero: true
 heading: |-
   Student Ministries:
-  Grades 7 through 12
+  Grades 6 through 12
 lead_in: Mariemont church is committed to building the lives of teenagers in Cincinnati.
   We are a loving group of junior and senior high students with a passion for knowing
   Jesus better and helping our friends to know him too. Our goal is to love and serve
@@ -57,4 +57,4 @@ We have students from the tristate area who attend public, private, and home-sch
 
 ### **Who Can Come?**
 
-Any 7th – 12th grade student no matter where you go to school. You don’t have to attend MC to come, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
+Any 6th – 12th grade student no matter where you go to school. You don’t have to attend MC to come, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
