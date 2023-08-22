@@ -29,7 +29,8 @@ Come on a morning or evening and meet with other women for fellowship, discussio
 
 **This study takes place on Tuesday mornings 9:15-11:15 am in the Emery Room (Main/2nd Floor).**
 
-**Fall Semester starts Tuesday, September 12.  Study Options Include**:
+**Fall Semester starts Tuesday, September 12.  
+Study Options Include**:
 
 **The Gospel on the Ground by Kristi McLelland**
 
