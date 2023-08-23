@@ -75,7 +75,7 @@ layout: page-no-hero
 * **Men's Morning Bible Study** - Starting at 6:30 a.m. every Friday in the Emery room. A new study on Ecclesiastes has begun!  (Weekly)
 
 ### SATURDAY - September 2
-* **OPEN THIS SATURDAY!** The Family Shop Thrift Store is open every 2nd and 4th Saturday of each month from 8:30 a.m. to Noon until the end of August. (Bi-Weekly)
+* **NOT OPEN THIS SATURDAY!** The Family Shop Thrift Store is open every 2nd and 4th Saturday of each month from 8:30 a.m. to Noon until the end of September. (Bi-Weekly)
 
 
 ### SUNDAY - September 3
