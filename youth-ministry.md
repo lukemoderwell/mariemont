@@ -2,7 +2,7 @@
 title: Next Chapter Youth Ministry
 date: 2017-03-19 19:51:00 -04:00
 permalink: "/youth-ministry/"
-position: 13
+position: 16
 is_ministry: true
 hero_image: "/uploads/next-chapter-graphic.jpg"
 hasHero: true

@@ -2,7 +2,7 @@
 title: Serve
 date: 2017-06-11 23:53:00 -04:00
 permalink: "/serve/"
-position: 19
+position: 22
 layout: page-no-hero
 ---
 

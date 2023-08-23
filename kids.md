@@ -2,7 +2,7 @@
 title: Kingdom Kids
 date: 2016-10-18 20:18:00 -04:00
 permalink: "/kids/"
-position: 6
+position: 9
 is_ministry: true
 hero_image: "/uploads/KKids%20-%20cubby%20Cropped.jpg"
 hasHero: true

@@ -2,7 +2,7 @@
 title: Membership
 date: 2017-06-04 17:55:00 -04:00
 permalink: "/membership/"
-position: 18
+position: 21
 hero_image: "/uploads/denis-teaching.jpg"
 hasHero: true
 heading: Membership is a Privilege and Responsibility

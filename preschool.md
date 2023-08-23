@@ -2,7 +2,7 @@
 title: Preschool & Extended Care
 date: 2016-11-13 15:57:00 -05:00
 permalink: "/preschool/"
-position: 14
+position: 17
 hero_image: "/uploads/preschool.jpg"
 hasHero: true
 heading: MCC Preschool

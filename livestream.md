@@ -1,7 +1,7 @@
 ---
 title: Live Stream
 permalink: "/livestream/"
-position: 999
+position: 25
 layout: page-no-hero
 ---
 

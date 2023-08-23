@@ -1,6 +1,7 @@
 ---
 title: MC Weekly Calendar
 date: 2023-07-26 13:21:00 -04:00
+position: 2
 layout: page-no-hero
 ---
 

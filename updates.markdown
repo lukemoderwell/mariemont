@@ -1,6 +1,7 @@
 ---
 title: Events
 date: 2020-03-12 12:09:00 -04:00
+position: 0
 bg_color: "\n"
 hasHero: true
 download:
