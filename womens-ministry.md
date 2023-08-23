@@ -27,9 +27,10 @@ Come on a morning or evening and meet with other women for fellowship, discussio
 
 ### Joy In The Morning
 
-**This study takes place on Tuesday mornings 9:15-11:30am in the Emery Room (Main/2nd Floor).**
+**This study takes place on Tuesday mornings 9:15-11:15 am in the Emery Room (Main/2nd Floor).**
 
-**Fall Semester starts Tuesday, September 12 and goes from 9:15 to 11:15 a.m.  Study Options Include**:
+**Fall Semester starts Tuesday, September 12.  
+Study Options Include**:
 
 **The Gospel on the Ground by Kristi McLelland**
 
@@ -92,7 +93,7 @@ All are welcome, including friends who need connection and community! Please RSV
 Appetizers, dessert and refreshments provided.
 
 ### Tapestry of Love School Supply Drive
-**August 27-September 17!  Look for bins in the lobby and the Sunday School area on the first floor.**
+**August 27-September 17!  Look for bins in the 2nd floor main lobby and the Sunday School area on the first floor.**
 
 Tapestry of Love is a ministry to incarcerated and newly released women.  Often, their children face the start of a school year without the benefit of a mom at home, and the supplies they need for school.  That's where the TOL School Supply Drive comes in.
 
@@ -115,7 +116,7 @@ Here's a list of supplies that are needed:
 The goals of the Women’s Retreat are to provide an opportunity for women to grow in their faith and to connect and build relationships with other women.
 
 More information about the 2024 Retreat will be posted here, when available.
-Contact: Sarah Moorehead - parkssaO@gmail.com.
+Contact: Sarah Moorehead - parkssa0@gmail.com.
 
 ## Connect and Serve
 
