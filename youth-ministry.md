@@ -63,11 +63,11 @@ Any 6th–12th grade student no matter where you go to school. You don’t have 
 
 ### **Service Opportunities (Students)**
 
--Band Member, Singer
--Band Member, Instrument
--Student Leader
--Sound/Visual Tech
+* Band Member, Singer
+* Band Member, Instrument
+* Student Leader
+* Sound/Visual Tech
 
 ### **Adult Volunteer Opportunities**
--Small Group Leader
--Band Leader
+* Small Group Leader
+* Band Leader
