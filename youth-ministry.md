@@ -62,7 +62,6 @@ We have students from the tristate area who attend public, private, and home-sch
 Any 6th–12th grade student no matter where you go to school. You don’t have to attend MC to come, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
 
 ### **Service Opportunities (Students)**
-
 * Band Member, Singer
 * Band Member, Instrument
 * Student Leader
