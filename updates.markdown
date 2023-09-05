@@ -199,12 +199,12 @@ layout: page-no-hero
 ### TUESDAY - October 3
 * **Tuesday Morning Worship** - Every Tuesday morning from 10:00-11:00 a.m in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. 
 
-* **ON SUMMER BREAK** - **The Lissa and Mike Cambron small group** usually meets every Tuesday from 7:00-8:30PM at 6050 Redbird Hollow in Indian Hill. They're taking a break for the Summer. Will start again Thursday, September 19! Contact Mike at mikecambron43@gmail.com for more info.
+* **The Lissa and Mike Cambron small group** usually meets every Tuesday from 7:00-8:30PM at 6050 Redbird Hollow in Indian Hill. Contact Mike at mikecambron43@gmail.com for more info.
 
-* **ON SUMMER BREAK** - **The Burr and Terry Robinson small group** usually meets 2 times a month on Tuesdays from 7:00-9:00 p.m. in Hyde Park. They're taking a break until September 12. Contact Burr and Terry Robinson at burr.robinson@gmail.com for more info.
+* **The Burr and Terry Robinson small group** meets 2 times a month on Tuesdays from 7:00-9:00 p.m. in Hyde Park. Contact Burr and Terry Robinson at burr.robinson@gmail.com for more info.
 
 ### WEDNESDAY - October 4
 * **Wednesday Morning Worship** - Every Wednesday morning from 10:00-11:00 a.m. in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
 
-* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from 7:00-9:00 p.m. through November 15 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! Visit mariemontchurch.org/rooted-discipleship/ for more info and to sign up for session 2 that starts October 11.(Weekly)
+* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from 7:00-9:00 p.m. through October 4 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! Visit mariemontchurch.org/rooted-discipleship/ for more info and to sign up for session 2 by October 4 that starts October 11.(Weekly)
 
