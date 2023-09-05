@@ -17,7 +17,7 @@ layout: page-no-hero
 
 * **Next Chapter Youth** (Junior High and High School grades 6-12) will gather in the 3rd floor Game Room from 7-9 p.m.  Fun, games, food, and solid teaching on healthy relationships for students grades 6-12. (Weekly)
 
-* **ON SUMMER BREAK** - **The Matt and Paula Ayer adult small group** usually meets every Thursday from 7:00-8:30PM but will take a break for the Summer. Contact Matt at matt@ayerquality.com about joining in the Fall. The small group will begin its Fall 2023 season on September 7!
+* **The Matt and Paula Ayer adult small group** meets every Thursday from 7:00-8:30PM. Contact Matt at matt@ayerquality.com about joining in the Fall. The small group Fall session begins tonight!
 
 * **THURSDAY NIGHT HANGOUT IS THIS WEEK!**  Next Chapter Youth Hangouts are on the last Thursday of the month. 
 
