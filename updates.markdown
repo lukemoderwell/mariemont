@@ -187,7 +187,7 @@ layout: page-no-hero
 * **Men's Morning Bible Study** - Starting at **6:30 AM** every Friday in the Emery room. A new study on Ecclesiastes has begun!  (Weekly)
 
 ### SATURDAY - October 7
-
+    
 
 ### SUNDAY - October 8
 * **Sunday Services at **9:00 and 11:00 AM**** in the Auditorium on 2nd floor. Jamie Moore will continue our series through the Gospel of John.
