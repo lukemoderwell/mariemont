@@ -25,7 +25,7 @@ layout: page-no-hero
 ### WEDNESDAY - September 13
 * **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
 
-* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through November 15 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! Visit mariemontchurch.org/rooted-discipleship/ for more info and to sign up for session 2 that starts October 11.(Weekly)
+* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through November 15 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! [CLICK HERE](https://mariemontchurch.org/rooted-discipleship/) for more info and to sign up for session 2 that starts October 11.(Weekly)
 
 ### THURSDAY - September 14
 * **Thursday Morning Worship** - Every Thursday morning from **10:00-11:00 AM** in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
@@ -73,7 +73,7 @@ layout: page-no-hero
 ### WEDNESDAY - September 20
 * **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
 
-* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through October 4 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! Visit mariemontchurch.org/rooted-discipleship/ for more info and to sign up for session 2 by October 4 that starts October 11.(Weekly)
+* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through October 4 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! [CLICK HERE](https://mariemontchurch.org/rooted-discipleship/) for more info and to sign up for session 2 by October 4 that starts October 11.(Weekly)
 
 
 ### THURSDAY - September 21
@@ -122,7 +122,7 @@ layout: page-no-hero
 ### WEDNESDAY - September 27
 * **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
 
-* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through October 4 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! Visit mariemontchurch.org/rooted-discipleship/ for more info and to sign up for session 2 by October 4 that starts October 11.(Weekly)
+* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through October 4 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! [CLICK HERE](https://mariemontchurch.org/rooted-discipleship/) for more info and to sign up for session 2 by October 4 that starts October 11.(Weekly)
 
 ### THURSDAY - September 28
 * **Thursday Morning Worship** - Every Thursday morning from **10:00-11:00 AM** in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
@@ -170,7 +170,7 @@ layout: page-no-hero
 ### WEDNESDAY - October 4
 * **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
 
-* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through October 4 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! **Visit mariemontchurch.org/rooted-discipleship/ for more info and to sign up for session 2 by October 4 that starts October 11**.(Weekly)
+* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through October 4 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! **CLICK HERE[](https://mariemontchurch.org/rooted-discipleship/) for more info and to sign up for session 2 by October 4 that starts October 11**.(Weekly)
 
 ### THURSDAY - October 5
 * **Thursday Morning Worship** - Every Thursday morning from **10:00-11:00 AM** in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
