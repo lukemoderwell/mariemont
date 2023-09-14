@@ -37,7 +37,7 @@ Joy in the Evening Bible Study! At Mariemont Church Emery Room. Come and meet wi
 9:15-11:30 AM in the Emery Room at Mariemont Church
 Joy in the Morning!
 Women's ministry's long-running Tuesday morning gathering. Child care available for $5 per child per session.
-Contact, Barb Leonard, [tombarbleonard@gmail.com.](tombarbleonard@gmail.com)
+Contact, Barb Leonard, tombarbleonard@gmail.com.
 [Click Here](https://mariemontchurch.org/womens-ministry/) for more information about current studies.
 
 **Tuesdays**
