@@ -30,7 +30,7 @@ Below are existing small groups that would love to welcome you.  Just contact th
 
 **Mondays**
 1st & 3rd Mondays Monthly, 7:00-8:30 PM;
-Joy in the Evening Bible Study! At Mariemont Church Emery Room. Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
+Joy in the Evening Women's Ministry Bible Study! At Mariemont Church Emery Room. Come and meet with other women for fellowship and discussion, and to grow deeper in your faith.
 [Click Here](https://mariemontchurch.org/womens-ministry/) for more information on the current study. 
 
 **Tuesdays**
