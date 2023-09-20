@@ -89,6 +89,8 @@ layout: page-no-hero
 
 * **The Zeke and Beth Swift adult small group.** **11:00 AM -12:15 PM**.  Meets in the Library (3rd Floor) and discusses the 9:00 a.m. sermon and other relevant topics.
 
+* **Reception for David and Carleen Heath Hosted by Denis and Marianne Beausejour.** **4:00 PM - 5:30 PM in the Emery Room**.  Get the news from these MC missionaries making a difference in Nigeria.  Plus some good food and fellowship. 
+
 
 ### MONDAY - October 2
 * **The Michael and Judy Belanger adult small group** meets **6:30-9:00 PM** weekly at their home at 6909 Cambridge, Cincinnati, OH 45227. Contact Mike Belanger at chefbelanger@hotmail.com or (513) 470-4055 for more information. 
@@ -104,7 +106,7 @@ layout: page-no-hero
 
 * **The Burr and Terry Robinson small group** meets 2 times a month on Tuesdays from **7:00-9:00 PM** in Hyde Park. Contact Burr and Terry Robinson at burr.robinson@gmail.com for more info.
 
-### WEDNESDAY - October 4
+### WEDNESDAY - October 4 -- Last day to sign up for Session 2 of Rooted Discipleship Classes
 * **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
 
 * **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through October 4 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! **[CLICK HERE](https://mariemontchurch.org/rooted-discipleship/) for more info and to sign up for session 2 by October 4 that starts October 11**.(Weekly)
