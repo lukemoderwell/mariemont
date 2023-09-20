@@ -19,7 +19,7 @@ layout: page-no-hero
 
 
 ### THURSDAY - September 21
-* **Thursday Morning Worship** - Every Thursday morning from **10:00-11:00 PM** in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
+* **Thursday Morning Worship** - Every Thursday morning from **10:00-11:00 AM** in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
 
 
 * **Next Chapter Youth** (Junior High and High School grades 6-12) will gather in the 3rd floor Game Room from **7:00-9:00 PM**.  Fun, games, food, and solid teaching on healthy relationships for students grades 6-12. (Weekly)
