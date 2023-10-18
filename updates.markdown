@@ -12,29 +12,29 @@ layout: page-no-hero
 
 ## THIS WEEK AT MARIEMONT CHURCH
 
-### WEDNESDAY - September 27
+### WEDNESDAY - October 18
 * **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
 
-* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through October 4 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! [CLICK HERE](https://mariemontchurch.org/rooted-discipleship/) for more info and to sign up for session 2 by October 4 that starts October 11.(Weekly)
+* **Fall Term Session 2 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through November 8 for those who are registered. Meet in the auditorium for worship and then break into classes. (Weekly)
 
-### THURSDAY - September 28
+### THURSDAY - October 19
 * **Thursday Morning Worship** - Every Thursday morning from **10:00-11:00 AM** in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
 
 
-* **THURSDAY NIGHT HANGOUT IS THIS WEEK!**  Next Chapter Youth Hangouts for Junior High and High School grades 6-12 are on the last Thursday of the month. Meet in the 3rd floor game room at **7:00 PM**.
+* **Next Chapter Youth**  Youth group for Junior High and High School grades 6-12 meet every week in the 3rd floor game room at **7:00 PM**.
 
 
 * **The Matt and Paula Ayer adult small group** meets every Thursday from **7:00-8:30 PM**. Contact Matt at matt@ayerquality.com about joining.
 
 
-### FRIDAY - September 29
+### FRIDAY - October 20
 * **Men's Morning Bible Study** - Starting at **6:30 AM** every Friday in the Emery room. A new study on Ecclesiastes has begun!  (Weekly)
 
-### SATURDAY - September 30
+### SATURDAY - October 21
 
 
 
-### SUNDAY - October 1
+### SUNDAY - October 22
 * **Sunday Services at 9:00 and 11:00 AM** in the Auditorium on 2nd floor. Jamie Moore will continue our "Jesus" series through the Gospel of John.
 
 * **Kingdom Kids** (Infant - Grade 5) Sunday School at **9:00 and 11:00 AM**. Check in on the 1st floor at **8:45 AM for the 9:00-10:30** classes and **10:45 AM for the 11:00-12:30** classes.
@@ -45,15 +45,13 @@ layout: page-no-hero
 
 * **The Zeke and Beth Swift adult small group.** **11:00 AM -12:15 PM**.  Meets in the Library (3rd Floor) and discusses the 9:00 a.m. sermon and other relevant topics.
 
-* **Reception for David and Carleen Heath Hosted by Denis and Marianne Beausejour.** **4:00 PM - 5:30 PM in the Emery Room**.  Get the news from these MC missionaries making a difference in Nigeria.  Plus some good food and fellowship. 
 
-
-### MONDAY - October 2
+### MONDAY - October 23
 * **The Michael and Judy Belanger adult small group** meets **6:30-9:00 PM** weekly at their home at 6909 Cambridge, Cincinnati, OH 45227. Contact Mike Belanger at chefbelanger@hotmail.com or (513) 470-4055 for more information. 
 
 * **The Michael and Faith George 20s and 30s small group.** Meets every Monday from **6:30-9:00 PM** in Deer Park. Call or text Michael George at 513-287-9748 for more information.
 
-### TUESDAY - October 3
+### TUESDAY - October 24
 * **Tuesday Morning Worship** - Every Tuesday morning from **9:00-10:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. 
 
 * **Joy in the Morning Women's Ministry Bible Study** - Every Tuesday morning from **9:15-11:15 AM** in the Emery Room. Choose from 1 of 3 Books/Bible Studies. [CLICK HERE](https://mariemontchurch.org/womens-ministry/) for specifics.
@@ -62,35 +60,3 @@ layout: page-no-hero
 
 * **The Burr and Terry Robinson small group** meets 2 times a month on Tuesdays from **7:00-9:00 PM** in Hyde Park. Contact Burr and Terry Robinson at burr.robinson@gmail.com for more info.
 
-### WEDNESDAY - October 4 -- Last day to sign up for Session 2 of Rooted Discipleship Classes
-* **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
-
-* **Fall Term Session 1 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through October 4 for those who are registered. Meet in the auditorium for worship and then break into classes. Get rooted in Christ! **[CLICK HERE](https://mariemontchurch.org/rooted-discipleship/) for more info and to sign up for session 2 by October 4 that starts October 11**.(Weekly)
-
-### THURSDAY - October 5
-* **Thursday Morning Worship** - Every Thursday morning from **10:00-11:00 AM** in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
-
-
-* **Next Chapter Youth** (Junior High and High School grades 6-12) will gather in the 3rd floor Game Room from **7-9:00 PM**. Fun, games, food, and solid teaching on healthy relationships for students grades 6-12. (Weekly)
-
-* **The Matt and Paula Ayer adult small group** meets every Thursday from **7:00-8:30 PM**. Contact Matt at matt@ayerquality.com about joining. The small group's Fall session begins tonight!
-
-* **The Steve and Judi Cesler adult small group** meets every other Thursday from **7:00-9:00 PM**. Contact Steve Cesler at Stevecesler@gmail.com or 513-313-3274 for more information on dates. 
-
-
-### FRIDAY - October 6
-* **Men's Morning Bible Study** - Starting at **6:30 AM** every Friday in the Emery room. A new study on Ecclesiastes has begun!  (Weekly)
-
-### SATURDAY - October 7
-    
-
-### SUNDAY - October 8
-* **Sunday Services at **9:00 and 11:00 AM**** in the Auditorium on 2nd floor. Jamie Moore will continue our series through the Gospel of John.
-
-* **Kingdom Kids** (Infant - Grade 5) Sunday School at **9:00 and 11:00 AM** Check in on the 1st floor at 8:45 a.m. for the 9:00-10:30 classes and 10:45 a.m. for the 11:00-12:30 classes.
-
-* **Lite Bites. 10:15 - 11:00 AM** - LITE BITES is a time for a substantial snack, fellowship, and community in the Meeting and Emery Rooms on the Main Floor. Each Sunday an individual or group volunteers to provide for the community. To sign up to provide in future, visit the Connect Desk!
-
-* **Next Chapter Youth** (Junior High and High School Grades 6-12). The group meets from **11:00 AM-12:30 PM** on the 3rd floor for fellowship, teaching, and fun.
-
-* **The Zeke and Beth Swift adult small group.** **11:00 AM -12:15 PM**.  Meets in the Library (3rd Floor) and discusses the 9:00 a.m. sermon and other relevant topics.
