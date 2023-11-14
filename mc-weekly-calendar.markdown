@@ -20,7 +20,6 @@ layout: page-no-hero
 ### WEDNESDAY - November 15
 * **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
 
-* **Fall Term Session 2 Rooted Discipleship Classes** - Every Wednesday evening from **7:00-9:00 PM** through November 8 for those who are registered. Meet in the auditorium for worship and then break into classes. (Weekly)
 
 ### THURSDAY - November 16
 * **Thursday Morning Worship** - Every Thursday morning from **10:00-11:00 AM** in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
@@ -36,8 +35,7 @@ layout: page-no-hero
 * **Men's Morning Bible Study** - Starting at **6:30 AM** every Friday in the Emery room. A new study on Ecclesiastes has begun!  (Weekly)
 
 ### SATURDAY - November 18
-
-
+* **KINGDOM KIDS PARENTS "FOWLING" & POTLUCK DINNER EVENT** - 6:00 - 8:00 PM at at Cincinnati Fowling (pronounced like bowling) Warehouse (adults only!)
 
 ### SUNDAY - November 19
 * **Sunday Services at 9:00 and 11:00 AM** in the Auditorium on 2nd floor. Jamie Moore will continue our "Jesus" series through the Gospel of John.
