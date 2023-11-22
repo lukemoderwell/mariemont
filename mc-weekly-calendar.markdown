@@ -43,7 +43,7 @@ layout: page-no-hero
 
 * **Joy in the Morning Women's Ministry Bible Study** - Every Tuesday morning from **9:15-11:15 AM** in the Emery Room. Choose from 1 of 3 Books/Bible Studies. [CLICK HERE](https://mariemontchurch.org/womens-ministry/) for specifics.
 
-* **The Story of Israel, week 2. 7:00 PM in the MC Auditorium.
+* **The Story of Israel**, week 2. 7:00 PM in the MC Auditorium.
 
 * **The Lissa and Mike Cambron small group** usually meets every Tuesday from **7:00-8:30 PM** at 6050 Redbird Hollow in Indian Hill. Contact Mike at mikecambron43@gmail.com for more info.
 
