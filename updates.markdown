@@ -12,15 +12,10 @@ layout: page-no-hero
 
 ## DATES TO REMEMBER
 
-### NOVEMBER
-
-* **Now through January 4 - Next Chapter Youth is on Winter Break.  No Sunday or Thursday gatherings.
-
-* **Tuesday, November 28 - Night two of **The Israel Story** presented by John Myers, 7:00 PM at Mariemont Church.
 
 ### DECEMBER
 
-* **Saturday, December 2 - MC's Annual Christmas Party on the Porch!  Part of Village of Mariemont's Christmas Tree Lighting and Luminaria event, 5:30-8:30 PM
+* **Now through January 4 - Next Chapter Youth is on Winter Break.  No Sunday or Thursday gatherings.
 
 * **Thursday, December 14 - Next Chapter Youth (Grades 6-12) Christmas Party
 
@@ -29,6 +24,14 @@ layout: page-no-hero
 * **Sunday, December 24 - Christmas Eve Services at 4:00 and 5:00 pm (No Sunday morning services)
 
 * **Monday/Tuesday, December 25-26 - Church Christmas Holiday
+
+### JANUARY
+
+* **Monday, January 1 - Church Staff New Year's Holiday
+
+* **Sunday, January 7 - Online registration opens for February 2-3 Women's Retreat
+
+* **Monday, January 15 - Church Staff Martin Luther King Day Holiday
 
 
 ## THIS WEEK AT MARIEMONT CHURCH
