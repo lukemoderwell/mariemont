@@ -4,7 +4,7 @@ date: 2017-06-29 07:30:00 -04:00
 permalink: "/"
 position: 3
 bg_color: 2571B5
-hero_image: "/uploads/MC%20website%20header%20(1).png"
+hero_image: "/uploads/MC%20Christmas%20Eve%20Website%20header.png"
 hasHero: true
 layout: home
 ---
