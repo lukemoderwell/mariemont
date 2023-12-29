@@ -35,6 +35,7 @@ This study takes place on Tuesday mornings 9:15-11:15 am in the Emery Room (Main
 **Study Options Include**:
 
 **Jesus and Women: In the First Century and Now, a Bible Study by Kristi McLelland**
+
 Facilitated by Beth Swift
 
 Imagine walking the dusty roads of Galilee with Jesus of Nazareth—braving jostling crowds just to touch the edge of His cloak and hear Him say, “Take heart, daughter, your faith has healed you.” 
@@ -46,7 +47,7 @@ Join biblical culturalist Kristi McLelland on those dusty roads as she transport
 Over 7 sessions, examine the historical and cultural climate of first-century Middle Eastern society to not only understand Jesus more deeply but to fuel your worship of Him today. 
 
 Here's a link to the book on amazon.com.
-[Click Here]
+[[Click Here]](https://www.amazon.com/Jesus-Women-Bible-Access-Century/dp/1087773954/?_encoding=UTF8&pd_rd_w=Xr2K4&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=134-8331456-6796405&pd_rd_wg=rN4Bs&pd_rd_r=341b315f-a66b-42e1-8f22-75224b0571a0&ref_=aufs_ap_sc_dsk)
 
 **Practicing the 9 Arts of Spiritual Conversations (A 9 Arts Curriculum)**
 
@@ -70,7 +71,7 @@ Spend quality time with Jesus as you worship Him with your sisters in Christ. Th
 ### Evening JOY
 **This Winter, Evening JOY starts Monday, February 5**
 
- and meets the 1st & 3rd Monday of each month from 7:00-8:30 PM in the Emery Room (Main/2nd Floor). Last night of the study is May 20, 2024.
+Evening JOY meets the 1st & 3rd Monday of each month from 7:00-8:30 PM in the Emery Room (Main/2nd Floor). Last night of the study is May 20, 2024.
 **Joy in the Evening starts Monday, September 18th and meets every 1st & 3rd Monday of each month from 7:00-8:30 PM in the Emery Room (Main/2nd Floor)**
 
 
