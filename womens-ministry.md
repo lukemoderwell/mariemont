@@ -47,7 +47,7 @@ Join biblical culturalist Kristi McLelland on those dusty roads as she transport
 Over 7 sessions, examine the historical and cultural climate of first-century Middle Eastern society to not only understand Jesus more deeply but to fuel your worship of Him today. 
 
 Here's a link to the book on amazon.com.
-[[Click Here]](https://www.amazon.com/Jesus-Women-Bible-Access-Century/dp/1087773954/?_encoding=UTF8&pd_rd_w=Xr2K4&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=134-8331456-6796405&pd_rd_wg=rN4Bs&pd_rd_r=341b315f-a66b-42e1-8f22-75224b0571a0&ref_=aufs_ap_sc_dsk)
+[Click Here](https://www.amazon.com/Jesus-Women-Bible-Access-Century/dp/1087773954/?_encoding=UTF8&pd_rd_w=Xr2K4&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=134-8331456-6796405&pd_rd_wg=rN4Bs&pd_rd_r=341b315f-a66b-42e1-8f22-75224b0571a0&ref_=aufs_ap_sc_dsk)
 
 **Practicing the 9 Arts of Spiritual Conversations (A 9 Arts Curriculum)**
 
@@ -77,17 +77,24 @@ Evening JOY meets the 1st & 3rd Monday of each month from 7:00-8:30 PM in the Em
 
 This Fall's study will be:
 
-**Forgiveness: The Freedom to Let Go by June Hunt**
+**Our Father, A Study of the Lord’s Prayer by Becky Harling**
 
 Facilitated by Paula Ayer & Teresa Earhart
 
-You know that we are called to forgive--but how? 
-What does "letting it go" actually look like?  What if the offender isn't even sorry?
+We are living in a time of increasing fear and depression, a time of disenchantment and disappointment. But there is healing for our souls in the Lord's Prayer. The Lord's Prayer not only teaches deep theology about our relationship with God but also about our relationship with others. 
 
-This study will show you how to foster a heart of forgiveness and how to release rocks of resentment that weigh you down.
-Find out how you can forgive -- and be set free!.
+Christians will come to repeat the Our Father prayer thoughtfully and lovingly. Join Becky Harling in reclaiming the beauty, boldness, and blessing offered to every believer through the Our Father prayer.
 
-Books are available for purchase at the Women's Fall Ministry Night on September 10.
+After immersing herself in the Lord's Prayer, author and Bible teacher Becky Harling found herself more deeply and profoundly in love with Jesus and passionate about following Him. In this 6-week Bible study, Becky shares six life-changing invitations that Jesus offers every believer through this prayer. Jesus warmly invites us:
+
+* to know God as Father
+* to worship
+* to surrender
+* to ask audaciously
+* to find freedom through forgiveness
+* to live victoriously
+
+Here's a [link](https://www.amazon.com/Our-Father-Study-Prayer-6-Week/dp/080242967X/ref=sr_1_1?crid=18ERP48VQXYXY&keywords=our+father%2C+study&qid=1703880003&s=books&sprefix=our+father%2C+study%2Cstripbooks%2C98&sr=1-1) to the book on Amazon.com.
 
 Contact Paula Ayer at [ayerpaula@gmail.com](ayerpaula@gmail.com) to learn more.
 
@@ -107,7 +114,7 @@ Three meals are included plus a private room at the Jesuit Center in Milford. Si
 
 This year's speaker will be Jess Moore. Her topic will be, "Lay It All Down."
 
-Sign up for the event starting January 3, 2024 at this link: https://mariemontchurch.churchcenter.com/registrations/events/2046748
+Sign up for the event starting January 3, 2024 at this [link](https://mariemontchurch.churchcenter.com/registrations/events/2046748).
 
 Contact: Sarah Moorehead - parkssa0@gmail.com.
 
