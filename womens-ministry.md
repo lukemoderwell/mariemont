@@ -35,7 +35,6 @@ This study takes place on Tuesday mornings 9:15-11:15 am in the Emery Room (Main
 **Study Options Include**:
 
 **Jesus and Women: In the First Century and Now, a Bible Study by Kristi McLelland**
-
 Facilitated by Beth Swift
 
 Imagine walking the dusty roads of Galilee with Jesus of Nazareth—braving jostling crowds just to touch the edge of His cloak and hear Him say, “Take heart, daughter, your faith has healed you.” 
