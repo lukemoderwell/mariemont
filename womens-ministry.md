@@ -59,8 +59,8 @@ The 9 Arts Primer is Scripture-based curriculum to equip your small groups--or u
 
 In just ten weeks you can begin to experience the impact of noticing, praying, listening, asking questions, loving, welcoming, facilitating, serving together, and sharing--for deeper connections and life-changing conversations.
 
-Here's a link to purchase the book through 9 Arts:
-https://shop.qplace.com/products/practicing-the-9-arts-of-spiritual-conversations 
+Here's a [link](https://shop.qplace.com/products/practicing-the-9-arts-of-spiritual-conversations) to purchase the book through 9 Arts.
+ 
 
 **Worship in Spirit and Truth**
 Facilitated by Laura Snow
