@@ -63,7 +63,7 @@ In just ten weeks you can begin to experience the impact of noticing, praying, l
 Here's a [link](https://shop.qplace.com/products/practicing-the-9-arts-of-spiritual-conversations) to purchase the book through 9 Arts.
  
 
-**Worship in Spirit and Truth**
+**Worship and Prayer**
 
 Facilitated by Laura Snow
 
