@@ -79,7 +79,6 @@ Evening JOY meets the 1st & 3rd Monday of each month from 7:00-8:30 PM in the Em
 This Fall's study will be:
 
 **Our Father, A Study of the Lord’s Prayer by Becky Harling**
-
 Facilitated by Paula Ayer & Teresa Earhart
 
 We are living in a time of increasing fear and depression, a time of disenchantment and disappointment. But there is healing for our souls in the Lord's Prayer. The Lord's Prayer not only teaches deep theology about our relationship with God but also about our relationship with others. 
