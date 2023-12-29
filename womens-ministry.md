@@ -27,6 +27,7 @@ Come on a morning or evening and meet with other women for fellowship, discussio
 
 ### Joy In The Morning 
 
+
 **Winter Semester begins Tuesday Janaury 16**
 
 This study takes place on Tuesday mornings 9:15-11:15 am in the Emery Room (Main/2nd Floor).
