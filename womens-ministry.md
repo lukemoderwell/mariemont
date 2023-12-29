@@ -31,7 +31,7 @@ Come on a morning or evening and meet with other women for fellowship, discussio
 
 This study takes place on Tuesday mornings 9:15-11:15 am in the Emery Room (Main/2nd Floor).
 
-**Childcare during Joy in the Morning** for children of preschool age and under is available for $90 ($5 per child per week paid in advance). Contact Barb Leonard at  tombarbleonard@gmail.com to sign up.  There will be limited spaces.
+**Childcare during Joy in the Morning** for children of preschool age and under is available for $90 per child ($5 per child per week paid in advance). Contact Barb Leonard at  tombarbleonard@gmail.com to sign up.  There will be limited spaces.
 
 **Study Options Include**:
 
