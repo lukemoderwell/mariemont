@@ -65,6 +65,7 @@ Here's a [link](https://shop.qplace.com/products/practicing-the-9-arts-of-spirit
  
 
 **Worship in Spirit and Truth**
+
 Facilitated by Laura Snow
 
 Spend quality time with Jesus as you worship Him with your sisters in Christ. This time will involve individual prayer as well as opportunities to pray for one another and read the word.  This spirit-led time together will also include musical worship led by Paul Rasmussen. Plan to encounter the Lord as we worship in Spirit and Truth.
