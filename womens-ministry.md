@@ -45,10 +45,7 @@ Those words, once meant to comfort a hurting woman’s soul thousands of years a
 Join biblical culturalist Kristi McLelland on those dusty roads as she transports you back to Jesus’ world, following in the footsteps of the women who came face-to-face with the Living God. Over 7 sessions, examine the historical and cultural climate of first-century Middle Eastern society to not only understand Jesus more deeply but to fuel your worship of Him today. 
 
 Here's a link to the book on amazon.com.
-[Click Here]([https://www.amazon.com/Jesus-Women-Bible-Access-Century/dp/1087773954/?_encoding=UTF8&pd_rd_w=Xr2K4&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=134-8331456-6796405&pd_rd_wg=rN4Bs&pd_rd_r=341b315f-a66b-42e1-8f22-75224b0571a0&ref_=aufs_ap_sc_dsk 
-](https://www.amazon.com/Jesus-Women-Bible-Access-Century/dp/1087773954/?_encoding=UTF8&pd_rd_w=Xr2K4&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=134-8331456-6796405&pd_rd_wg=rN4Bs&pd_rd_r=341b315f-a66b-42e1-8f22-75224b0571a0&ref_=aufs_ap_sc_dsk))
-[https://www.amazon.com/Jesus-Women-Bible-Access-Century/dp/1087773954/?_encoding=UTF8&pd_rd_w=Xr2K4&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=134-8331456-6796405&pd_rd_wg=rN4Bs&pd_rd_r=341b315f-a66b-42e1-8f22-75224b0571a0&ref_=aufs_ap_sc_dsk 
-](https://www.amazon.com/Jesus-Women-Bible-Access-Century/dp/1087773954/?_encoding=UTF8&pd_rd_w=Xr2K4&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=134-8331456-6796405&pd_rd_wg=rN4Bs&pd_rd_r=341b315f-a66b-42e1-8f22-75224b0571a0&ref_=aufs_ap_sc_dsk)
+[Click Here]
 **Practicing the 9 Arts of Spiritual Conversations (A 9 Arts Curriculum)**
 
 Facilitated by Jill Schellhause
