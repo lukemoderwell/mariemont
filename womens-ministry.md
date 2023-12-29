@@ -41,10 +41,13 @@ Imagine walking the dusty roads of Galilee with Jesus of Nazareth—braving jost
 
 Those words, once meant to comfort a hurting woman’s soul thousands of years ago, were also meant for you. 
 
-Join biblical culturalist Kristi McLelland on those dusty roads as she transports you back to Jesus’ world, following in the footsteps of the women who came face-to-face with the Living God. Over 7 sessions, examine the historical and cultural climate of first-century Middle Eastern society to not only understand Jesus more deeply but to fuel your worship of Him today. 
+Join biblical culturalist Kristi McLelland on those dusty roads as she transports you back to Jesus’ world, following in the footsteps of the women who came face-to-face with the Living God. 
+
+Over 7 sessions, examine the historical and cultural climate of first-century Middle Eastern society to not only understand Jesus more deeply but to fuel your worship of Him today. 
 
 Here's a link to the book on amazon.com.
 [Click Here]
+
 **Practicing the 9 Arts of Spiritual Conversations (A 9 Arts Curriculum)**
 
 Facilitated by Jill Schellhause
