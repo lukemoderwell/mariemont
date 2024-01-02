@@ -10,14 +10,14 @@ layout: page-no-hero
 
 ### JANUARY
 
-* **Monday, January 1 - Church Staff New Year's Holiday
+* Monday, January 1 - Church Staff New Year's Holiday
 
-* **Now through January 4 - Next Chapter Youth is on Winter Break.  No Sunday or Thursday gatherings.
+* Now through January 4 - Next Chapter Youth is on Winter Break.  No Sunday or Thursday gatherings.
 
 
-* **Wednesday, January 3 - Online registration opens for February 2-3 Women's Retreat
+* Wednesday, January 3 - Online registration opens for February 2-3 Women's Retreat
 
-* **Wednesday, January 3 - Online registration opens for Rooted Discipleship classes
+* Wednesday, January 3 - Online registration opens for Rooted Discipleship classes
 
 * Sunday, January 7 - Next Chapter Youth begins meeting again
 
