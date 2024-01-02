@@ -75,7 +75,6 @@ Spend quality time with Jesus as you worship Him with your sisters in Christ. Th
 **This Winter, Evening JOY starts Monday, February 5**
 
 Evening JOY meets the 1st & 3rd Monday of each month from 7:00-8:30 PM in the Emery Room (Main/2nd Floor). Last night of the study is May 20, 2024.
-**Joy in the Evening starts Monday, September 18th and meets every 1st & 3rd Monday of each month from 7:00-8:30 PM in the Emery Room (Main/2nd Floor)**
 
 
 This Fall's study will be:
