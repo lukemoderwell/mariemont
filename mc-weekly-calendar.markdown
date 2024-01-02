@@ -27,7 +27,7 @@ layout: page-no-hero
 
 ### FEBRUARY
 
-* FRI/SAT, January 2-3 - Women's Retreat
+* Friday/Saturday, February 2-3 - Women's Retreat
 
 
 ## THIS WEEK AT MARIEMONT CHURCH
@@ -69,7 +69,7 @@ layout: page-no-hero
 
 * **Tuesday Morning Worship** - Every Tuesday morning from **9:00-10:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. 
 
-* ** CANCELED THIS WEEK  Joy in the Morning Women's Ministry Bible Study** - Every Tuesday morning from **9:15-11:15 AM** in the Emery Room. Choose from 1 of 3 Books/Bible Studies. [CLICK HERE](https://mariemontchurch.org/womens-ministry/) for specifics.
+* ** NOT MEETING UNTIL JAN. 16 - Joy in the Morning Women's Ministry Bible Study** - Every Tuesday morning from **9:15-11:15 AM** in the Emery Room. Choose from 1 of 3 Books/Bible Studies. [CLICK HERE](https://mariemontchurch.org/womens-ministry/) for specifics.
 
 * **The Lissa and Mike Cambron small group** usually meets every Tuesday from **7:00-8:30 PM** at 6050 Redbird Hollow in Indian Hill. Contact Mike at mikecambron43@gmail.com for more info.
 
