@@ -116,7 +116,6 @@ After coming to know Jesus in high school, Jess felt led to ministry. After comp
 Jess works with teenagers, young people, men, women, couples, and families. Jess loves to study the word and teach the word to others as well as help others find their gifts and callings from the Lord. She is gifted in the apostolic, prophetic and teaching gifts and loves ministering to other through these. Jess is married to Jamie, lead pastor at Mariemont Church, and they have two wonderful teenagers, Bailey and Caden. In her spare time, Jess loves to read, watch epic movies, workout at the gym, play sports of any kind, hang with the family, and play video games. Jess is particularly amazing at pickleball.
 
 **More info on the retreat**
-
 Join us for this 24 hour retreat to connect with Jesus and other women from Mariemont Church with worship, teaching, prayer, quiet time, and fellowship. It will be a great break from the daily crush of activity ... with some great food and great women. 
 
 Three meals are included plus a private room at the Jesuit Center in Milford. Sign ups begin Wednesday, Janaury 3 and end Friday January 19. 
