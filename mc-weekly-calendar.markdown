@@ -8,19 +8,26 @@ layout: page-no-hero
 ## DATES TO REMEMBER
 
 
-### DECEMBER
-
-* **Now through January 4 - Next Chapter Youth is on Winter Break.  No Sunday or Thursday gatherings.
-
-* **Sunday, December 31 - Sharing Sunday
-
 ### JANUARY
 
 * **Monday, January 1 - Church Staff New Year's Holiday
 
-* **Sunday, January 7 - Online registration opens for February 2-3 Women's Retreat
+* **Now through January 4 - Next Chapter Youth is on Winter Break.  No Sunday or Thursday gatherings.
+
+
+* **Wednesday, January 3 - Online registration opens for February 2-3 Women's Retreat
+
+* **Wednesday, January 3 - Online registration opens for Rooted Discipleship classes
+
+* **Sunday, January 7 - Next Chapter Youth begins meeting again
 
 * **Monday, January 15 - Church Staff Martin Luther King Day Holiday
+
+* **Wednesday, January 24 - Spring 2025 Term of Rooted Discipleship 6-week courses begin.
+
+### FEBRUARY
+
+* **FRI/SAT, January 2-3 - Women's Retreat
 
 
 ## THIS WEEK AT MARIEMONT CHURCH
