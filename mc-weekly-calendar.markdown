@@ -19,15 +19,15 @@ layout: page-no-hero
 
 * **Wednesday, January 3 - Online registration opens for Rooted Discipleship classes
 
-* **Sunday, January 7 - Next Chapter Youth begins meeting again
+* Sunday, January 7 - Next Chapter Youth begins meeting again
 
-* **Monday, January 15 - Church Staff Martin Luther King Day Holiday
+* Monday, January 15 - Church Staff Martin Luther King Day Holiday
 
-* **Wednesday, January 24 - Spring 2025 Term of Rooted Discipleship 6-week courses begin.
+* Wednesday, January 24 - Spring 2025 Term of Rooted Discipleship 6-week courses begin.
 
 ### FEBRUARY
 
-* **FRI/SAT, January 2-3 - Women's Retreat
+* FRI/SAT, January 2-3 - Women's Retreat
 
 
 ## THIS WEEK AT MARIEMONT CHURCH
