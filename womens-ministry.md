@@ -105,15 +105,22 @@ Contact Paula Ayer at [ayerpaula@gmail.com](ayerpaula@gmail.com) to learn more.
 
 **Dates for the 2024 retreat are February 2-3 at the Jesuit Spiritual Center in Milford, Ohio.**
 
-The goals of the Women’s Retreat are to provide an opportunity for women to grow in their faith and to connect and build relationships with other women.
 
-**Lay It All Down**
+**Retreat Theme: Lay It All Down**
 
-Join us for a 24 hour retreat to connect with Jesus and other women from Mariemont Church with worship, teaching, prayer, quiet time, and fellowship. It will be a great break from the daily crush of activity ... with some great food and great women. 
+Are you tired? Do you feel burdened? Do your worries and concerns feel too heavy to carry? Come and be set free! Learn how Jesus wants you to feel free and not weighed down by concerns of this life and how to put into practice being free. We will learn about who Jesus says we are, why this matters to our lives, and how to practically walk out our freedom in Him together. Come and be ministered to by this amazing body of believers and by the Lord! He wants to set you free. Please join us for our annual Women’s Retreat, as Jess Moore teaches on how the Lord wants us to lay it all down and how to do this. 
+
+Biography of Jess Moore
+
+After coming to know Jesus in high school, Jess felt led to ministry. After completing her undergraduate degree at Missouri Valley College and attending on a soccer scholarship, she attended Southwestern Baptist Theological Seminary to get her Master’s degree in counseling and psychology. Jess has practiced counseling since 2004 in various settings and several states and now owns her own private practice where she works to help people find healing and hope. 
+
+Jess works with teenagers, young people, men, women, couples, and families. Jess loves to study the word and teach the word to others as well as help others find their gifts and callings from the Lord. She is gifted in the apostolic, prophetic and teaching gifts and loves ministering to other through these. Jess is married to Jamie, lead pastor at Mariemont Church, and they have two wonderful teenagers, Bailey and Caden. In her spare time, Jess loves to read, watch epic movies, workout at the gym, play sports of any kind, hang with the family, and play video games. Jess is particularly amazing at pickleball.
+
+**More info on the retreat**
+
+Join us for this 24 hour retreat to connect with Jesus and other women from Mariemont Church with worship, teaching, prayer, quiet time, and fellowship. It will be a great break from the daily crush of activity ... with some great food and great women. 
 
 Three meals are included plus a private room at the Jesuit Center in Milford. Sign ups begin Wednesday, Janaury 3 and end Friday January 19. 
-
-This year's speaker will be Jess Moore. Her topic will be, "Lay It All Down."
 
 Sign up for the event starting January 3, 2024 at this [link](https://mariemontchurch.churchcenter.com/registrations/events/2046748).
 
