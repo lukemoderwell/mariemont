@@ -110,8 +110,7 @@ Contact Paula Ayer at [ayerpaula@gmail.com](ayerpaula@gmail.com) to learn more.
 
 Are you tired? Do you feel burdened? Do your worries and concerns feel too heavy to carry? Come and be set free! Learn how Jesus wants you to feel free and not weighed down by concerns of this life and how to put into practice being free. We will learn about who Jesus says we are, why this matters to our lives, and how to practically walk out our freedom in Him together. Come and be ministered to by this amazing body of believers and by the Lord! He wants to set you free. Please join us for our annual Women’s Retreat, as Jess Moore teaches on how the Lord wants us to lay it all down and how to do this. 
 
-Biography of Jess Moore
-
+**Biography of Jess Moore**
 After coming to know Jesus in high school, Jess felt led to ministry. After completing her undergraduate degree at Missouri Valley College and attending on a soccer scholarship, she attended Southwestern Baptist Theological Seminary to get her Master’s degree in counseling and psychology. Jess has practiced counseling since 2004 in various settings and several states and now owns her own private practice where she works to help people find healing and hope. 
 
 Jess works with teenagers, young people, men, women, couples, and families. Jess loves to study the word and teach the word to others as well as help others find their gifts and callings from the Lord. She is gifted in the apostolic, prophetic and teaching gifts and loves ministering to other through these. Jess is married to Jamie, lead pastor at Mariemont Church, and they have two wonderful teenagers, Bailey and Caden. In her spare time, Jess loves to read, watch epic movies, workout at the gym, play sports of any kind, hang with the family, and play video games. Jess is particularly amazing at pickleball.
