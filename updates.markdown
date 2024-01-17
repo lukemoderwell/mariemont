@@ -54,7 +54,7 @@ layout: page-no-hero
 * **Kingdom Kids** (Infant - Grade 3) Sunday School at **9:00 and 11:00 AM**. (Grades 4-5) Sunday School at 11:00 AM.
 Check in on the 1st floor at **8:45 AM for the 9:00-10:30** classes and **10:45 AM for the 11:00-12:30** classes.
 
-* **Next Chapter Youth** (Grades 6-12) Meet at 11:00 AM on the third floor for fellowship and teaching.(https://mariemontchurch.org/youth-ministry/)
+* **Next Chapter Youth** (Grades 6-12) Meet at 11:00 AM on the third floor for fellowship and teaching. [Click Here](https://mariemontchurch.org/youth-ministry/) to learn more.
 
 * **Lite Bites. 10:15 - 11:00 AM** - LITE BITES is a time for a substantial snack, fellowship, and community in the Meeting and Emery Rooms on the Main Floor. Each Sunday an individual or group volunteers to provide for the community. To sign up to provide in future, visit the Connect Desk!
 
