@@ -15,7 +15,7 @@ layout: page-no-hero
 
 ### JANUARY
 
-* Women's Retreat registration continues. Deadline to register is Friday, January 19.
+* Women's Retreat registration continues. Deadline to register is Friday, January 19. [CLICK HERE](https://mariemontchurch.churchcenter.com/registrations/events/2046748) to Register.
 
 * Rooted Discipleship Class registation continues
 
