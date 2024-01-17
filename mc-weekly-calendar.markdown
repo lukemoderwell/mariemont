@@ -10,15 +10,11 @@ layout: page-no-hero
 
 ### JANUARY
 
-* Women's Retreat registration continues
+* Women's Retreat registration continues. Deadline to register is Friday, January 19.
 
 * Rooted Discipleship Class registation continues
 
-* Now through January 14 - Next Chapter Youth is on Winter Break.  No Sunday or Thursday gatherings.
-
-* Sunday, January 14 - Next Chapter Youth begins meeting again
-
-* Monday, January 15 - Church Staff Martin Luther King Day Holiday
+* Thursday, January 18 - Next Chapter Youth begins meeting again
 
 * Wednesday, January 24 - Spring 2025 Term of Rooted Discipleship 6-week courses begin.
 
