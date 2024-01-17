@@ -38,7 +38,7 @@ layout: page-no-hero
 
 * **The Matt and Paula Ayer adult small group** meets every Thursday from **7:00-8:30 PM**. Contact Matt at matt@ayerquality.com about joining.
 
-* **Next Chapter Youth Group** Grades 6-12 Junior High and High School meet every Thursday from **7:00-9:00 PM**. Contact Amanda Fletcher at amanda@mariemontchurch.org or 513-496-3876 to learn more. (https://mariemontchurch.org/youth-ministry/)
+* **Next Chapter Youth Group** Grades 6-12 Junior High and High School meet every Thursday from **7:00-9:00 PM**. Contact Amanda Fletcher at amanda@mariemontchurch.org or 513-496-3876. [Click Here](https://mariemontchurch.org/youth-ministry/) to learn more.
 
 ### FRIDAY - January 19
 * **Men's Morning Bible Study** - Starting at **6:30 AM** every Friday in the Emery room. A new study on Ecclesiastes has begun!  (Weekly)
