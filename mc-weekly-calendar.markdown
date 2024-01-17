@@ -10,7 +10,7 @@ layout: page-no-hero
 
 ### JANUARY
 
-* Women's Retreat registration continues. Deadline to register is Friday, January 19.
+* Women's Retreat registration continues. Deadline to register is Friday, January 19. [CLICK HERE](https://mariemontchurch.churchcenter.com/registrations/events/2046748) to Register.
 
 * Rooted Discipleship Class registation continues
 
@@ -33,7 +33,7 @@ layout: page-no-hero
 
 * **The Matt and Paula Ayer adult small group** meets every Thursday from **7:00-8:30 PM**. Contact Matt at matt@ayerquality.com about joining.
 
-* **Next Chapter Youth Group** Grades 6-12 Junior High and High School meet every Thursday from **7:00-9:00 PM**. Contact Amanda Fletcher at amanda@mariemontchurch.org or 513-496-3876 to learn more. (https://mariemontchurch.org/youth-ministry/)
+* **Next Chapter Youth Group** Grades 6-12 Junior High and High School meet every Thursday from **7:00-9:00 PM**. Contact Amanda Fletcher at amanda@mariemontchurch.org or 513-496-3876. [Click Here](https://mariemontchurch.org/youth-ministry/) to learn more.
 
 ### FRIDAY - January 19
 * **Men's Morning Bible Study** - Starting at **6:30 AM** every Friday in the Emery room. A new study on Ecclesiastes has begun!  (Weekly)
@@ -49,7 +49,7 @@ layout: page-no-hero
 * **Kingdom Kids** (Infant - Grade 3) Sunday School at **9:00 and 11:00 AM**. (Grades 4-5) Sunday School at 11:00 AM.
 Check in on the 1st floor at **8:45 AM for the 9:00-10:30** classes and **10:45 AM for the 11:00-12:30** classes.
 
-* **Next Chapter Youth** (Grades 6-12) Meet at 11:00 AM on the third floor for fellowship and teaching.(https://mariemontchurch.org/youth-ministry/)
+* **Next Chapter Youth** (Grades 6-12) Meet at 11:00 AM on the third floor for fellowship and teaching. [Click Here](https://mariemontchurch.org/youth-ministry/) to learn more.
 
 * **Lite Bites. 10:15 - 11:00 AM** - LITE BITES is a time for a substantial snack, fellowship, and community in the Meeting and Emery Rooms on the Main Floor. Each Sunday an individual or group volunteers to provide for the community. To sign up to provide in future, visit the Connect Desk!
 
@@ -75,6 +75,3 @@ Check in on the 1st floor at **8:45 AM for the 9:00-10:30** classes and **10:45 
 ### WEDNESDAY - January 24
 
 * **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
-
-
-
