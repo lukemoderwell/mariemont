@@ -37,7 +37,7 @@ layout: page-no-hero
 
 ### SATURDAY - February 3
 
-* **Women's Retreat continues!
+* **Women's Retreat** continues!
 
 (No events)
 
