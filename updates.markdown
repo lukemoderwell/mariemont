@@ -40,6 +40,7 @@ layout: page-no-hero
 * **Women's Retreat** continues!
 
 
+
 ### SUNDAY - February 4
 
 * **Sunday Services at 9:00 and 11:00 AM** in the Auditorium on 2nd floor. John Treas (elder) continues the Jesus series studying the Book of John.
