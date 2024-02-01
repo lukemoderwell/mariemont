@@ -33,7 +33,7 @@ layout: page-no-hero
 ### FRIDAY - February 2
 * **Men's Morning Bible Study** - Starting at **6:30 AM** every Friday in the Emery room. A new study on Jeremiah is in progress!  (Weekly)
 
-* **Women's Retreat Begins at 6:15 PM!
+* **Women's Retreat** Begins at 6:15 PM!
 
 ### SATURDAY - February 3
 
