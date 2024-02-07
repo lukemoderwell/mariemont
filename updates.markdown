@@ -13,37 +13,40 @@ layout: page-no-hero
 ## DATES TO REMEMBER
 
 
-
 ### FEBRUARY
 
-* Friday/Saturday, February 2-3 - Women's Retreat
+* Wednesday, February 14 - Ash Wednesday Special Service from 12:00 to 1:00 PM
 
-* Monday, February 5 - New women's Evening Joy Bible Study Begins at 7 PM in the Emery Room.
+* Sunday, February 18 at 12:30 PM - Lunch with Silas Khadka, MC-supported missionary and head of Child Hope International -  Special Nepali food will be served after the 11:00 Service.
+
 
 ## THIS WEEK AT MARIEMONT CHURCH
 
 
-### THURSDAY - February 1
+### WEDNESDAY - February 7
+
+* **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
+
+* **Rooted Discipleship Classes** - Every Wednesday evening from 7:00 to 9:00 PM. 
+
+### THURSDAY - February 8
 * **Thursday Morning Worship** - Every Thursday morning from **10:00-11:00 AM** in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
 
 * **The Matt and Paula Ayer adult small group** meets every Thursday from **7:00-8:30 PM**. Contact Matt at matt@ayerquality.com about joining.
 
-* **Next Chapter Youth Group** Grades 6-12 Junior High and High School meet every Thursday from **7:00-9:00 PM**. Contact Amanda Fletcher at amanda@mariemontchurch.org or 513-496-3876. [Click Here](https://mariemontchurch.org/youth-ministry/) to learn more.
+* **Next Chapter Youth Group** Grades 6-12 Junior High and High School meet every Thursday from **7:00-9:00 PM**. Contact Jen Redlinger at jenredlinger@gmail.com.[Click Here] (https://mariemontchurch.org/youth-ministry/)) to learn more.
 
-### FRIDAY - February 2
-* **Men's Morning Bible Study** - Starting at **6:30 AM** every Friday in the Emery room. A new study on Jeremiah is in progress!  (Weekly)
+### FRIDAY - February 9
+* **Men's Morning Bible Study** - Starting at **6:30 AM** every Friday in the Emery room. A new study on Jeremiah is in progress! Join any time.(Weekly)
 
-* **Women's Retreat** Begins at 6:15 PM!
-
-### SATURDAY - February 3
-
-* **Women's Retreat** continues!
+### SATURDAY - February 10
 
 
 
-### SUNDAY - February 4
 
-* **Sunday Services at 9:00 and 11:00 AM** in the Auditorium on 2nd floor. John Treas (elder) continues the Jesus series studying the Book of John.
+### SUNDAY - February 11
+
+* **Sunday Services at 9:00 and 11:00 AM** in the Auditorium on 2nd floor. Jamie Moore begins the The Passion Narrative as we lead up to Easter.
 
 * **Kingdom Kids** (Infant - Grade 3) Sunday School at **9:00 and 11:00 AM**. (Grades 4-5) Sunday School at 11:00 AM.
 Check in on the 1st floor at **8:45 AM for the 9:00-10:30** classes and **10:45 AM for the 11:00-12:30** classes.
@@ -55,13 +58,13 @@ Check in on the 1st floor at **8:45 AM for the 9:00-10:30** classes and **10:45 
 * **The Zeke and Beth Swift adult small group.** **11:00 AM -12:15 PM**.  Meets in the Library (3rd Floor) and discusses the 9:00 a.m. sermon and other relevant topics.
 
 
-### MONDAY - February 5
+### MONDAY - February 12
 
 * **The Michael and Judy Belanger adult small group** meets **6:30-9:00 PM** weekly at their home at 6909 Cambridge, Cincinnati, OH 45227. Contact Mike Belanger at chefbelanger@hotmail.com or (513) 470-4055 for more information. 
 
 * **The Michael and Faith George 20s and 30s small group.** Meets every Monday from **6:30-9:00 PM** in Deer Park. Call or text Michael George at 513-287-9748 for more information.
 
-### TUESDAY - February 6
+### TUESDAY - February 13
 
 * **Tuesday Morning Worship** - Every Tuesday morning from **9:00-10:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. 
 
@@ -71,9 +74,9 @@ Check in on the 1st floor at **8:45 AM for the 9:00-10:30** classes and **10:45 
 
 * **The Burr and Terry Robinson small group** meets 2 times a month on Tuesdays from **7:00-9:00 PM** in Hyde Park. Contact Burr and Terry Robinson at burr.robinson@gmail.com for more info.
 
-### WEDNESDAY - February 7
+### WEDNESDAY - February 13
 
-* **Wednesday Morning Worship** - Every Wednesday morning from **10:00-11:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. (Weekly)
+* **12:00 to 1:00 PM - Special Ash Wednesday Service at noon Replaces Wednesday Morning Worship** - Come to a special Ash Wednesday service to kick off the lenten season. We will experience a sacred time with Abba where we'll take time to reflect on our brokenness, sin and frailty as human beings. There will be an opportunity to confess, receive prayer, and take communion.
 
 
 
