@@ -46,5 +46,4 @@ Contact Michael Cambron at mcambron@Bartlett1898.com for more information.
 
 **Current open Men’s small groups:**
 
-Friday Morning Men’s Study: 6:30 a.m. Beginning a new study on *The Return of Jesus*.
-Join any time!
+Friday Morning Men’s Study: 6:30 a.m. The latest study is the book of Jeremiah. Join any time!
