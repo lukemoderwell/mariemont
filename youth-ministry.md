@@ -33,21 +33,21 @@ Next Chapter offers space for honest conversation around some of life’s bigges
 
 
 
+
 **Thursdays at 7:00-9:00 pm!**
 * In the 3RD floor Youth Room
 
 
 
-**Last Thursday Night Next Chapter Hangouts at 7:00 pm!**
-* In the 3RD floor Youth Room
-* Last Thursday of the month
 
 
 ### What We Believe About Students
 
-Did you know that the first youth pastor in the Christian church may have been Jesus. What a lot of people don’t know about Jesus’ original 12 disciples, is that it’s quite possible 11 of the 12 of them were teenagers, or at least younger than 20 based on the absence of paying the temple tax mentioned in Matthew 17. The fact that they were following a Rabbi and Jesus’ reference to them as “little ones” or little children” in Matthew 11, Luke 10, and John 13 support that they were youth.
+Did you know that the first youth pastor in the Christian church may have been Jesus? What a lot of people don’t know about Jesus’ original 12 disciples, is that it’s quite possible 11 of the 12 of them were teenagers, or at least younger than 20 based on the absence of paying the temple tax mentioned in Matthew 17. 
 
-The main point we draw from this is that there is no junior Holy Spirit. The Father is happy to use anyone who makes themselves available for Kingdom works; so when we look at our students, we see Disciples of Jesus with gifting, power, authority, and purpose as disciples of Jesus.
+The fact that they were following a Rabbi and Jesus’ reference to them as “little ones” or little children” in Matthew 11, Luke 10, and John 13 support that they were youth.
+
+The main point we draw from this is that there is no "junior Holy Spirit." The Father is happy to use anyone who makes themselves available for Kingdom works; so when we look at our students, we see Disciples of Jesus with gifting, power, authority, and purpose as disciples of Jesus.
 
 ### **What are our meetings like?**
 
@@ -59,13 +59,14 @@ We have students from the tristate area who attend public, private, and home-sch
 
 ### **Who Can Come?**
 
-Any 6th–12th grade student no matter where you go to school. You don’t have to attend MC to come, in fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
+Any 6th–12th grade student no matter where you go to school. You don’t have to attend MC to come. In fact, you don’t have to believe in God. This is a safe place to come and explore your faith no matter where you are on your journey. We encourage our students to bring their friends from all walks of life.
 
 ### **Service Opportunities (Students)**
 * Band Member, Singer
 * Band Member, Instrument
 * Student Leader
 * Sound/Visual Tech
+
 
 ### **Adult Volunteer Opportunities**
 * Small Group Leader
