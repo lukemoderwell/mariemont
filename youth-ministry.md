@@ -9,7 +9,7 @@ hasHero: true
 heading: |-
   Student Ministries:
   Grades 6 through 12
-lead_in: Mariemont church is committed to building the lives of teenagers in Cincinnati.
+lead_in: Mariemont Church is committed to building the lives of teenagers in Cincinnati.
   We are a loving group of junior and senior high students with a passion for knowing
   Jesus better and helping our friends to know him too. Our goal is to love and serve
   God all the time.
