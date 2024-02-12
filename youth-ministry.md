@@ -4,7 +4,7 @@ date: 2017-03-19 19:51:00 -04:00
 permalink: "/youth-ministry/"
 position: 16
 is_ministry: true
-hero_image: "/uploads/Youth%20Website%20Graphic.png"
+hero_image: "/uploads/Youth%20Website%20Graphic%20(1).png"
 hasHero: true
 heading: |-
   Student Ministries:
