@@ -21,16 +21,18 @@ layout: page-no-hero
  
 * Sunday, March 31 - Easter Sunday and Baptism Sunday!
 
+
 ### APRIL
 
 * Sunday, April 7 - [Connect Class at 9:00 AM](https://mariemontchurch.churchcenter.com/registrations/events/2230885)
+
+* Sunday, April 7 - Women's Ministry Prayer and Intercession Night
 
 
 ### MAY
 
 * Sunday, May 19 - [Connect Class at 9:00 AM](https://mariemontchurch.churchcenter.com/registrations/events/2232023)
 
-* Sunday, April 7 - Women's Ministry Prayer and Intercession Night
 
 ## THIS WEEK AT MARIEMONT CHURCH
 
