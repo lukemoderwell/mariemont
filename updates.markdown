@@ -28,7 +28,7 @@ layout: page-no-hero
 
 * Sunday, April 7 - [Connect Class at 9:00 AM](https://mariemontchurch.churchcenter.com/registrations/events/2230885)
 
-* Sunday, April 7 - Women's Ministry Prayer and Intercession Night
+* Sunday, April 7 - Women's Ministry Calming the Chaos: A Night of Prayer 7-8:30 PM
 
 
 ### MAY
