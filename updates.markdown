@@ -17,13 +17,10 @@ layout: page-no-hero
 
 ### MARCH
 
+* Monday, March 25 - Good Friday, March 29 - Stations of the Cross Encounter 10 AM to 4 PM Daily
 
-* Wednesday, March 20 - Rooted Discipleship Classes begin
+* Wednesday, March 27 - Rooted Discipleship Classes continue
 
-* Friday, March 22 - Game Night!
-
-* Friday, March 22 - NEW Men's Morning Bible Study begins!
- 
 * Sunday, March 31 - Easter Sunday and Baptism Sunday!
 
 
