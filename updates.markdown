@@ -15,25 +15,29 @@ layout: page-no-hero
 
 
 
-### MARCH
-
-* Monday, March 25 - Good Friday, March 29 - Stations of the Cross Encounter 10 AM to 4 PM Daily
-
-* Wednesday, March 27 - Rooted Discipleship Classes continue
-
-* Sunday, March 31 - Easter Sunday and Baptism Sunday!
-
-
 ### APRIL
 
-* Sunday, April 7 - [Connect Class at 9:00 AM](https://mariemontchurch.churchcenter.com/registrations/events/2230885)
+* Sunday, April 7 - Sunday, April 7 - Connect Class for new attenders (Class is full)
 
-* Sunday, April 7 - Women's Ministry Calming the Chaos: A Night of Prayer 7-8:30 PM
+* Sunday, April 7 - Sign-ups to volunteer for Flying Pig Bacon Station Begin
+
+* Tuesday, April 8 - SOLAR ECLIPSE DAY!
+
+* Sunday, April 14 - Call of Love Ministries at morning services
+
+* Sunday, April 14 - Women's Ministry Calming the Chaos: A Night of Prayer 7-8:30 PM
+
+* Sunday, April 14 - Women's Ministry CALMING THE STORM: A NIGHT OF PRAYER, 7:00-8:30 PM
+
 
 
 ### MAY
 
+* Sunday, May 5 - FLYING PIG MARATHON BACON STATION OUTREACH instead of services.  
+
 * Sunday, May 19 - [Connect Class at 9:00 AM](https://mariemontchurch.churchcenter.com/registrations/events/2232023)
+
+* Monday, May 27 - Memorial Day Holiday
 
 
 ## THIS WEEK AT MARIEMONT CHURCH
