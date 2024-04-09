@@ -10,10 +10,10 @@ heading: What's Happening at MCC
 layout: page-no-hero
 ---
 
+## SIGN UP FOR THE FLYING PIG OUTREACH EVENT.  [**CLICK HERE!**](https://www.signupgenius.com/go/10C0944AAAF23A7FDCF8-48595883-flying#/)
+
+
 ## DATES TO REMEMBER
-
-
-
 
 ### APRIL
 
@@ -25,9 +25,7 @@ layout: page-no-hero
 
 * Sunday, April 14 - Call of Love Ministries at morning services
 
-* Sunday, April 14 - Women's Ministry Calming the Chaos: A Night of Prayer 7-8:30 PM
-
-* Sunday, April 14 - Women's Ministry CALMING THE STORM: A NIGHT OF PRAYER, 7:00-8:30 PM
+* Sunday, April 14 - Women's Ministry Calming the CHAOS: A Night of Prayer 7-8:30 PM
 
 * Sunday, April 28 - Women's Ministry Sisterhood Social
 
