@@ -10,7 +10,8 @@ heading: What's Happening at MCC
 layout: page-no-hero
 ---
 
-## SIGN UP FOR THE FLYING PIG OUTREACH EVENT.  [**CLICK HERE!**](https://www.signupgenius.com/go/10C0944AAAF23A7FDCF8-48595883-flying#/)
+## SIGN UP FOR THE FLYING PIG OUTREACH EVENT on Sunday, May 5.
+  [**CLICK HERE!**](https://www.signupgenius.com/go/10C0944AAAF23A7FDCF8-48595883-flying#/)
 
 
 ## DATES TO REMEMBER
