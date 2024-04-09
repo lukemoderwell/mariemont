@@ -29,6 +29,8 @@ layout: page-no-hero
 
 * Sunday, April 14 - Women's Ministry CALMING THE STORM: A NIGHT OF PRAYER, 7:00-8:30 PM
 
+* Sunday, April 28 - Women's Ministry Sisterhood Social
+
 
 
 ### MAY
