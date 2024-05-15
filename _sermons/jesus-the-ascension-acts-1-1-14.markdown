@@ -1,5 +1,5 @@
 ---
-title: 'Jesus: The Ascension Acts 1:1-14'
+title: 'Jesus: The Ascension, Acts 1:1-14'
 date: 2024-05-15 09:30:00 -04:00
 series: Jesus
 sermon_date: 2024-05-12 09:00:00 -04:00
