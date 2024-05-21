@@ -37,36 +37,33 @@ layout: page-no-hero
 ## THIS WEEK AT MARIEMONT CHURCH
 
 
-### WEDNESDAY, MAY 1
+### WEDNESDAY, MAY 22
 
 * **Wednesday Morning Worship** - Every Wednesday morning from **9:00-10:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. 
 
 
-* **ALL CHURCH WORSHIP SERVICE** - Marking the end of the Rooted Discipleship Spring Sessions with testimony and great worship music. **7:00-9:00 PM** in the auditorium. 
-
-
-### THURSDAY - MAY 2
+### THURSDAY - MAY 23
 
 * **Thursday Morning Worship** - Every Thursday morning from **10:00-11:00 AM** in the auditorium. An intimate encounter with Abba. Come for a while or stay the whole time. (Weekly)
 
 * **The Matt and Paula Ayer adult small group** meets every Thursday from **7:00-8:30 PM**. Contact Matt at matt@ayerquality.com about joining.
 
-* **Next Chapter Youth Group** This week meet at 5:30 PM for Pizza then a field trip to special event.
+* **Next Chapter Youth Group** Junior High and High School students meet every Thursday from **7:00-9:00 PM**. Contact Jen Redlinger at jenredlinger@gmail.com.[Click Here] (https://mariemontchurch.org/youth-ministry/)) to learn more.
 
-Grades 6-12 Junior High and High School meet every Thursday from **7:00-9:00 PM**. Contact Jen Redlinger at jenredlinger@gmail.com.[Click Here] (https://mariemontchurch.org/youth-ministry/)) to learn more.
-
-### FRIDAY - MAY 3
+### FRIDAY - MAY 24
 
 * **Men's Morning Bible Study** - Starting at **6:30 AM** every Friday in the Emery room. A new study on Jeremiah is in progress! Join any time.(Weekly)
 
-### SATURDAY - MAY 4
-
-* **Men's Ministry meets to pre-bake bacon for Sunday's Flying Pig Marathon Bacon Station Outreach
+### SATURDAY - MAY 25
 
 
 ### SUNDAY, MAY 5
 
-* **ALL SERVICES AND SUNDAY SCHOOL CANCELLED.  MEET US AT THE BACON STATION FOR THE FLYING PIG MARATHON FROM 9-11 A.M.  CORNER OF PLAINVILLE AND MURRAY BY THE TENNIS COURTS. 
+* **9:00 and 11:00 Services in the Auditorium.**
+
+* **Kingdom Kids (infant through 5th grade)** Check in downstairs on the 1st floor at 9:00 or 11:00 a.m. for Sunday School.   
+
+* **Next Chapter Youth Group (Junior High and High School).** Check in upstairs on the 3rd floor at 11:00 a.m. for food, fun, and fellowship.
 
 * **The Zeke and Beth Swift adult small group.** **11:00 AM -12:15 PM**.  Meets in the Library (3rd Floor) and discusses the 9:00 a.m. sermon and other relevant topics.
 
