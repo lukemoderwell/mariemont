@@ -32,6 +32,8 @@ layout: page-no-hero
 
 ### JULY
 
+* Thursday, July 4 - July 4th Staff Holiday
+
 * Wednesday - Friday, July 10-12 - Red River Gorge Youth Camp Out!
 
 
