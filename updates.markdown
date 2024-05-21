@@ -61,6 +61,8 @@ layout: page-no-hero
 
 * **9:00 and 11:00 Services in the Auditorium.**
 
+* **Lite Bites** Between services (10:30-11:00) Meet in the Emery Room on the South Side of the church for a healthy snack and some fellowship.
+
 * **Kingdom Kids (infant through 5th grade)** Check in downstairs on the 1st floor at 9:00 or 11:00 a.m. for Sunday School.   
 
 * **Next Chapter Youth Group (Junior High and High School).** Check in upstairs on the 3rd floor at 11:00 a.m. for food, fun, and fellowship.
