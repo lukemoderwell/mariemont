@@ -82,7 +82,7 @@ layout: page-no-hero
 
 ### TUESDAY, MAY 7
 
-* ** Tuesday Morning Worship** - Every Tuesday morning from **9:00-10:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. 
+* **Tuesday Morning Worship** - Every Tuesday morning from **9:00-10:00 AM** in the auditorium. An intimate time with Abba. Come for a while or stay the whole time. 
 
 
 ### WEDNESDAY, MAY 8
