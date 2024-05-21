@@ -20,6 +20,16 @@ layout: page-no-hero
 
 * Sunday, June 9 - Kingdom Kids Move Up Day!
 
+* Thursday, June 13 - Volunteer Appreciation Dinner! (Note date change!)
+
+* Saturday, June 15 - Next Chapter Youth King’s Island Day!
+
+* Sunday, June 23 - Congregational Meeting
+
+### JULY
+
+* Wednesday - Friday, July 10-12 - Red River Gorge Youth Camp Out!
+
 
 ## THIS WEEK AT MARIEMONT CHURCH
 
