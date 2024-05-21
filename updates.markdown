@@ -14,11 +14,11 @@ layout: page-no-hero
 
 ### MAY
 
-* Sunday, May 5 - FLYING PIG MARATHON BACON STATION OUTREACH instead of services.  
-
-* Sunday, May 19 - [Connect Class at 9:00 AM](https://mariemontchurch.churchcenter.com/registrations/events/2232023)
-
 * Monday, May 27 - Memorial Day Holiday
+
+### JUNE
+
+* Sunday, June 9 - Kingdom Kids Move Up Day!
 
 
 ## THIS WEEK AT MARIEMONT CHURCH
