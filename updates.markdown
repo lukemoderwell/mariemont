@@ -18,7 +18,9 @@ layout: page-no-hero
 
 ### JUNE
 
-* Sunday, June 9 - Kingdom Kids Move Up Day!
+* Saturday, June 8 - Kingdom Kids Move Up Day!
+
+* Saturday, June 8- EMI's Creating Connection Class
 
 * Thursday, June 13 - Volunteer Appreciation Dinner! (Note date change!)
 
