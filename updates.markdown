@@ -16,6 +16,7 @@ layout: page-no-hero
 
 * Monday, May 27 - Memorial Day Holiday
 
+
 ### JUNE
 
 * Saturday, June 8 - Kingdom Kids Move Up Day!
