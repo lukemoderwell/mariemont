@@ -29,7 +29,7 @@ layout: page-no-hero
 
 * Sunday, June 23 - Congregational Meeting
 
-* Saturday, June 8 (Date Changed!) - Kingdom Kids Move Up Day!
+* Sunday, June 23 (Date Changed!) - Kingdom Kids Move Up Day!
 
 ### JULY
 
