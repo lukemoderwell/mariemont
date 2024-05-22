@@ -21,15 +21,15 @@ layout: page-no-hero
 
 ### JUNE
 
-* Saturday, June 8 - Kingdom Kids Move Up Day!
+* Friday, June 7 (Date Changed!) - Next Chapter Youth King’s Island Day!
 
 * Saturday, June 8- EMI's Creating Connection Class
 
 * Thursday, June 13 - Volunteer Appreciation Dinner! (Note date change!)
 
-* Saturday, June 15 - Next Chapter Youth King’s Island Day!
-
 * Sunday, June 23 - Congregational Meeting
+
+* Saturday, June 8 (Date Changed!) - Kingdom Kids Move Up Day!
 
 ### JULY
 
