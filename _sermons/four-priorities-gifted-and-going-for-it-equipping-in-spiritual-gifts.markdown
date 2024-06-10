@@ -1,0 +1,10 @@
+---
+title: 'FOUR PRIORITIES: Gifted and Going for It! - Equipping in Spiritual Gifts'
+date: 2024-06-10 09:22:00 -04:00
+series: Four Priorities
+sermon_date: 2024-06-09 11:00:00 -04:00
+speaker: Jamie Moore
+video_url: https://www.youtube.com/embed/LbBflG6dfdQ?si=PA5RV6unv_UEh_nx
+thumbnail_image: "/uploads/4%20Priorities%20Series%20Header.png"
+---
+
