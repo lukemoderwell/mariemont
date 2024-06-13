@@ -9,7 +9,7 @@ hasHero: true
 hero_cta_text: Kids Registration 2021
 hasDownload: false
 heading: Kingdom Kids!
-lead_in: " Jesus loves your kids, and He wants them to experience it!\n"
+lead_in: "\n"
 layout: page
 ---
 
