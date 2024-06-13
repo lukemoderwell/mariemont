@@ -14,7 +14,7 @@ layout: page
 ---
 
 ![Kingdom Kids Logo (300 × 300 px).png](/uploads/Kingdom%20Kids%20Logo%20(300%20%C3%97%20300%20px).png)
-## Welcome to Kingdom Kids!
+## A Place Where Kids Experience Jesus!
 
 Kingdom Kids is a place where our kids (infants through grade 5) are given the opportunity to encounter and know Jesus so they can be empowered by the Spirit to bring the Kingdom of God to those around them.
 
