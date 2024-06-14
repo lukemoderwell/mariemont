@@ -9,7 +9,6 @@ hasHero: true
 hero_cta_text: Kids Registration 2021
 hasDownload: false
 heading: Kingdom Kids!
-lead_in: "\n"
 layout: page
 ---
 
